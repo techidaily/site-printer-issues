@@ -1,6 +1,6 @@
-# TechiDaily
+# Printer Issues Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://printer-issues.techidaily.com](https://printer-issues.techidaily.com)
 
 ## Publish
 
