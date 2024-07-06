@@ -1,0 +1,71 @@
+---
+title: Canon MP620 Printer Driver Unavailable on Windows 10
+date: 2024-06-28T07:06:53.192Z
+updated: 2024-06-29T07:06:53.192Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - PrinterIssues
+description: This Article Describes Canon MP620 Printer Driver Unavailable on Windows 10
+excerpt: This Article Describes Canon MP620 Printer Driver Unavailable on Windows 10
+keywords: Canon MP620 Print Drivers,Windows 10 Printer Driver Canon MP620,Canon MP620 Troubleshooting,Printer Driver Compatibility Windows 10,MP620 Printer Not Detected Windows,Windows 10 Canon MP620 Driver Update,Canon MP620 Printer Issues Windows 10
+thumbnail: https://thmb.techidaily.com/fd52a4ddb4c67fef5b4a68a7a51c8e47e5f13f4d158884cb761f8f838fb72e26.jpeg
+---
+
+## Canon MP620 Printer Driver Unavailable on Windows 10
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/11/canon-pixma-mo620.jpg)  If you want to update the printer driver for your Cannon MP620, but only find that Windows tells you “   **The best driver software for your device is already installed** .”, you’re not alone.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/11/the-best-driver-software-for-your-device-is-already-installed-2.jpg)
+
+This notification basically means that Windows 10 fail to find your Canon MP620 driver from its database, so it is time you did it yourself: 1) Go to [**support website**](https://www.usa.canon.com/internet/portal/us/home/support) of Canon. Enter the model name of your printer and then click **Go**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/11/name-of-the-printer.jpg)
+
+ 2) In the support website, drag down a little bit to 1) locate the**Driver & Downloads** button, 2) choose your operating system and 3) click the**Drivers** button.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/11/pixma-mp620-driver-download-600x375.jpg) Canon has not yet released the printer driver for Windows 10 operating system, so we download the one for**Windows 8.1**instead. 3) Right-click the setup file and click **Properties**. ![](https://images.drivereasy.com/wp-content/uploads/2016/11/properties-setup.jpg) 4) Go to**Compatibility**tab, then check the box for **Run this program in compatibility for:**and select **Windows 8**from the drop-down menu. Click**Apply**and**OK**to save.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-this-program-in-compatibility-for-compatibility-mode.jpg)
+
+5) Now install the setup as you install other setup files. After the installation, restart your computer and your printer for the changes to take effect. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e761c841d8e.png) 3) Click the**Update**button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e7622d68cb0.jpg)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://printer-issues.techidaily.com/streamline-win10-printer-functionality/"><u>Streamline WIN10 Printer Functionality</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-the-printing-glitch-error-0x00000709-resolved/"><u>Fixed the Printing Glitch - Error 0X00000709 Resolved</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/five-easy-ways-to-make-your-canon-printer-start-printing-again-in-windows-11/"><u>Five Easy Ways to Make Your Canon Printer Start Printing Again in Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-set-up-and-install-a-canon-printer-with-photos/"><u>How to Set Up and Install a Canon Printer with Photos</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-epsons-lack-of-print-feature/"><u>Overcoming Epson's Lack of Print Feature</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-error-messages-in-epson-units/"><u>Fixing Error Messages in Epson Units</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/brisk-intervention-in-stuck-printer-queue/"><u>Brisk Intervention in Stuck Printer Queue</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-inkjet-puzzled-printing/"><u>Resolving Inkjet: Puzzled Printing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-snippetsnapper-a-close-look-at-micro-recorders-for-2024/"><u>[New] SnippetSnapper  A Close Look at Micro-Recorders for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleashing-humor-kinemaster-for-memes/"><u>Unleashing Humor  KineMaster for Memes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Realme Narzo N55? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-realme-12plus-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Realme 12+ 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/transform-your-yt-prompts-with-green-savvy/"><u>Transform Your YT Prompts with Green Savvy</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-exploring-the-top-rated-ios-video-capture-apps/"><u>[New] 2024 Approved  Exploring the Top-Rated iOS Video Capture Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-inspirational-article-leaderboard-maker/"><u>In 2024, Inspirational Article Leaderboard Maker</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-4-effective-ways-to-snip-screens-on-chromebook/"><u>[New] 2024 Approved  4 Effective Ways to Snip Screens On Chromebook</u></a></li>
+</ul></div>

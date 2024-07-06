@@ -1,0 +1,143 @@
+---
+title: Reinstated Default Printer on WinError (0X00000709)
+date: 2024-06-28T07:08:22.589Z
+updated: 2024-06-29T07:08:22.589Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - PrinterIssues
+description: This Article Describes Reinstated Default Printer on WinError (0X00000709)
+excerpt: This Article Describes Reinstated Default Printer on WinError (0X00000709)
+keywords: WinError 0X00000709 Printer Fix,Reinstate Default Windows Print Spooler,Resolve WinError 0X00000709 on PC,Fix Common Printer Errors in Windows,Troubleshoot WinError 0X00000709 for Default Printer,How To Reinstate Default Print Spooler on Windows,WinError 0X00000709
+thumbnail: https://thmb.techidaily.com/3df80ed0f3ba1234db4e3fe9b6b618140f5c8ecbd00a02e86f21f161aa5eef49.jpg
+---
+
+## Reinstated Default Printer on WinError (0X00000709)
+
+ If you get this message   **Operation could not be completed(error 0x00000709). Double-click the printer name and make sure that the printer is connected to the network**  when you fail to set your printer as the default one, you’re not alone.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/08/0x00000709-error-with-printer-setup.jpg)
+
+ Many Windows users are reporting this problem as well. But no worries, it’s possible to fix. Here are 2 methods for you to try.
+
+## Fix 1: Fix registry glitches automatically
+
+ The Error 0x00000709 message is often caused by faulty Windows Registry settings. To see if this is the cause for you, run a system scan to detect broken system files with **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  .
+
+**[Fortect](https://tools.techidaily.com/drivereasy/download/)**  is a professional Windows repair tool that can scan your system’s overall status, diagnose your system configuration, identify faulty system files, and repair them automatically. It gives you entirely fresh system components with just one click, so you don’t have to reinstall Windows and all your programs, and you don’t lose any personal data or settings.
+
+ Here’s how to use Restoro to check for broken system components in just one click:
+
+ 1) [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
+
+ 2) Open Fortect and run a free scan of your PC status. This may take a few minutes.
+
+ 3) You can review a summary of the issues detected after the scan is finished.
+
+ If there’s any problem, you can click Start Repair to start the repair process. You’d need to buy the pro version (which comes with a 60-day Money-Back Guarantee) to unlock this feature.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
+
+ The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
+ Email: **<support@fortect.com>**
+
+## Fix 2: Modify your registry key
+
+**IMPORTANT:** Modifying the registry in your computer could cause irrecoverable errors if the modification is done incorrectly, therefore, you need to **[back up](https://tools.techidaily.com/drivereasy/download/)**  your registry first.
+
+ The following screenshots are shown on Windows 7, but the fixes apply to Windows 10 and Windows 8 as well.
+
+ 1) Click the **Start** button, then type **regedit** and press **Enter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/08/regedit-in-start-panel.png)
+
+ If **User Account Control** comes up, please choose **Yes** at the prompt.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57bbbed40caf2.jpg)
+
+ 2) Follow the path   **HKEY\_CURRENT\_USER\\Software\\Microsoft\\WindowsNT\\CurrentVersion\\Windows** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/08/registry-details.jpg)
+
+ 3) Double-click **Device** . Type in your printer name. (The screenshot here is an example only.)
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/08/edit-sting.png)
+
+ Click **OK** to save the change.
+
+**Note** : If you encounter this sort of error “ **Cannot edit Device: Error writing the value’s new contents** “, please follow the steps below to set the permission of the key.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/08/error-cannot-edit-device-error-writing-the-values-new-content.png)
+
+ a) Right-click the **Windows** key on the left side of the panel and then click **Permissions…** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/08/permission-in-windows-registry.png)
+
+ b) Tick the box **Allow** for **Full Control** and **Read** , then click **Apply** and click **OK** to save the change.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/08/permissions-for-windows.png)
+
+ 4) Right-click **UserSelectDefault** and click **Rename**  to rename it as your printer name.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/08/rename-userselectdefault.png)
+
+ There you go! You should be able to set up your default printer now!
+
+ After setting up your printer, you will need to update your printer driver for it to work more smoothly. If you don’t have the time, patience, or computer skills to update the printer driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+**Driver Easy** will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks:
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/Scan-now-2.jpg)
+
+ 3) Click the **Update** button next to the printer driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
+
+ Or click _**Update All**_  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/10/update-hp-printer-driver-1.jpg)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://printer-issues.techidaily.com/resolving-incompatible-printer-drivers-for-hp-d1360-in-windows/"><u>Resolving Incompatible Printer Drivers for HP D1360 in Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-printer-woes-time-to-act/"><u>Windows 11 Printer Woes? Time to Act</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/error-win-os-no-printer-driver-found/"><u>[ERROR] Win OS - No Printer Driver Found</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/repairing-unresponsive-printers/"><u>Repairing Unresponsive Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-xp-vs-mp620-printer-compatibility-questions/"><u>Windows XP vs MP620 Printer Compatibility Questions?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/avoiding-epson-error-codes-halt/"><u>Avoiding Epson Error Codes Halt</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reactivating-scanner-link-to-computer-post-update/"><u>Reactivating Scanner Link to Computer Post-Update</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enabling-access-to-remote-brother-print-device/"><u>Enabling Access to Remote Brother Print Device</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/remedying-non-communicating-hp-inkjets/"><u>Remedying Non-Communicating HP Inkjets</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-connect-and-configure-hp-wireless-printer/"><u>How to Connect & Configure HP Wireless Printer</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-bizarre-battles-unconventional-gaming-challenges-on-tiktok/"><u>[Updated] In 2024, Bizarre Battles  Unconventional Gaming Challenges on TikTok</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-max-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone XS Max Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-create-stunning-intros-10-website-recommendations/"><u>New 2024 Approved Create Stunning Intros 10 Website Recommendations</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-9-essential-apps-for-pulling-youtube-videos-android/"><u>[New] 9 Essential Apps for Pulling YouTube Videos (Android)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-13-pro-max-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 13 Pro Max with iTunes | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/utting-edge-pc-techniques-for-stellar-youtube-video-production-for-2024/"><u>[New] Cutting-Edge PC Techniques for Stellar YouTube Video Production for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/access-all-areas-steps-for-securing-facebook-live-files/"><u>Access All Areas  Steps for Securing Facebook Live Files</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-reversing-live-action-on-twitch-a-comprehensive-guide/"><u>[New] Reversing Live Action on Twitch  A Comprehensive Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-discover-the-best-10-audio-capturing-software-on-spotify/"><u>[Updated] 2024 Approved  Discover the Best 10 Audio Capturing Software on Spotify</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-custom-thumbnail-for-twitter-videos/"><u>[New] 2024 Approved  Custom Thumbnail for Twitter Videos</u></a></li>
+</ul></div>
