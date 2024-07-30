@@ -1,7 +1,7 @@
 ---
 title: Fixed Intermittent Printing on HP DeskJet 305Dn
-date: 2024-07-10T16:48:12.874Z
-updated: 2024-07-11T16:48:12.874Z
+date: 2024-07-29T00:29:58.843Z
+updated: 2024-07-30T00:29:58.843Z
 tags:
   - win11
   - win10
@@ -16,6 +16,9 @@ thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4
 
 ## Fixed Intermittent Printing on HP DeskJet 305Dn
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59daec675e6cd.png)
 
 **Printer not printing** is a common issue for HP printer users. This issue can result from various reasons, from connectivity issues to faulty configurations or drivers. If you are struggling to find a good fix, you can give the methods as follows a try. They can help you fix your HP printer won’t print problem.
@@ -27,12 +30,18 @@ thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4
 5. **[Check printer status](#e)**
 6. [**Repair corrupted system files**](#RE)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 1: Perform basic troubleshooting
 
  You can do some troubleshooting at first when you find your HP printer stops working. You should check the status of the**connection** between your printer and your computer. Make sure your devices are**properly connected** with each other, and the**network** or the**cable** you use to connect these devices is normal.
 
  You can also try restarting your HP printer.**Turn** it**off** completely and**unplug the power cord** , leave it for a couple of minutes, and then**plug** the cord**back** and**power on** the printer. See if your printer can print as normally as before.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 2: Update or reinstall the printer driver
 
  In many cases, the printer won’t print issue comes from faulty drivers. You may need to update or reinstall the printer driver to fix your HP printer, not the printing issue.
@@ -45,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
@@ -61,10 +73,20 @@ thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4
  If you want to set your HP printer as default, please follow the steps below.
 
 1. Press the Window logo key and R key on your keyboard at the same time to open the Run dialog. In this dialog, type “control” and hit Enter. This will open the Control Panel.  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb867beb0b.png)
 2. In Control Panel select**Devices and Printers** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 3. In the**Printers** section, right-click on your HP printer and then select**Set as default printer** . Click on**Yes** if prompted.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5476a01d.png)
 4. There is now a tick below the icon of your HP printer. That means it is now set as the default printer.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5fe2a9b6.png)
@@ -78,6 +100,9 @@ thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4
 2. Right-click on your HP printer in the**Printers** section and select**See what’s printing** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e955d3a5d.png)
 3. Open the**Printer** menu and then select**Open As Administrator** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea27610b0.png)
 4. Open**Printer** menu again. This time select**Cancel All Documents** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea70940b1.png)
@@ -85,12 +110,18 @@ thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987eaa0030f9.png)
 6. You have canceled all print jobs of your printer. Now check and see if it can run normally.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 5: Check printer status
 
  If you have tried the methods above and your HP printer still cannot print, you may need to check if there are hardware issues on your printer.
 
  You need to ensure your HP printer has**enough** **paper, ink, or toner** , and it is**not stuck in a paper jam** . Also, check the status of your printer cartridge and try replacing it with a new one if it is not good enough. In some cases, your HP printer stops printing after you replace its parts. If this happens you should**install the original ones back** and see if the problem is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 6: Repair system files
 
  Your **HP won’t print**  problem is probably being caused by other issues related to your OS. The steps above may resolve it, but if they don’t, you should run a Windows repair to repair possible system file problems.
@@ -150,3 +181,57 @@ Check your computer to see if your printer works properly.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://printer-issues.techidaily.com/network-guide-reconnect-missing-print-devices-windows-xp-7-10/"><u>[Network Guide] Reconnect Missing Print Devices Windows-XP-7-10</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-dark-art-of-night-photography-best-practices-revealed/"><u>[New] 2024 Approved  The Dark Art of Night Photography  Best Practices Revealed</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-how-to-download-vimeo-video-to-mp3/"><u>[New] How to Download Vimeo Video to MP3</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-how-to-perfectly-log-off-video-conferencing-on-devices-for-2024/"><u>[New] How to Perfectly Log-Off Video Conferencing on Devices for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-unbeatable-11-audio-devices-reviewed-here/"><u>[New] In 2024, Unbeatable 11 Audio Devices Reviewed Here</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revolutionize-sessions-with-pro-zoom-conversion-hacks/"><u>[New] Revolutionize Sessions with Pro-Zoom Conversion Hacks</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-discoresponders-handbook-react-and-converse-for-2024/"><u>[New] The DiscoResponder's Handbook  React and Converse for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-guide-to-converting-youtube-to-avi-videos/"><u>[New] The Ultimate Guide to Converting YouTube to AVI Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-boost-your-post-with-three-video-border-methods-for-2024/"><u>[Updated] Boost Your Post with Three Video Border Methods for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-for-beginners-leveraging-facebook-data-with-ease/"><u>[Updated] For Beginners  Leveraging Facebook Data with Ease</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlock-youtubes-best-viewing-experience-with-ratios/"><u>[Updated] Unlock YouTube's Best Viewing Experience with Ratios</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/warning-spooler-error-affects-print-output/"><u>[WARNING] Spooler Error Affects Print Output</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-realme-note-50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creative-directors-best-writing/"><u>Creative Directors' Best Writing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/edit-like-a-pro-title-and-description-tips-for-igtv-success-for-2024/"><u>Edit Like a Pro  Title & Description Tips for IGTV Success for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-the-best-iphone-vr-games-today/"><u>Explore the Best iPhone VR Games Today</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-printing-queue-error-messages-on-windows-11/"><u>Fix Printing Queue Error Messages on Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-14-pro-max-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone 14 Pro Max Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-realme-v30t-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Realme V30T?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-instagram-slowdowns-top-6-fixes-for-android-and-ios/"><u>How to Resolve Instagram Slowdowns: Top 6 Fixes for Android & iOS</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-building-a-vimeo-portfolio-from-the-ground-up/"><u>In 2024, Building a Vimeo Portfolio From the Ground Up</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-f14-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy F14 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pinnacle-zooctorial-template-repositories/"><u>In 2024, Pinnacle Zooctorial Template Repositories</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/installation-failure-canon-pixma-mp620-driver-missing-in-win10/"><u>Installation Failure: Canon Pixma MP620 Driver Missing in WIN10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/instant-resolution-for-caught-in-printer-jobs/"><u>Instant Resolution for Caught-In Printer Jobs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/instantly-free-up-print-queue/"><u>Instantly Free Up Print Queue</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/methods-to-reactivate-non-responsive-hp-devices/"><u>Methods to Reactivate Non-Responsive HP Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/nozzle-clog-in-hp-printer-cleared-successfully/"><u>Nozzle Clog in HP Printer Cleared Successfully</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/perfect-print-all-pages-now-available/"><u>Perfect Print: All Pages Now Available</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-error-post-update-fix/"><u>Printer Error Post-Update Fix</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-reboot-no-more-error-after-windows-10-patch/"><u>Printer Reboot, No More Error After Windows 10 Patch</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-fixes-for-canon-printer-non-operational-in-windows-10/"><u>Quick Fixes for Canon Printer Non-Operational in Windows 10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reactivation-of-online-scan-achieved-on-win11/"><u>Reactivation of Online Scan Achieved on Win11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revive-non-responsive-printer-in-windows-nt-environment/"><u>Revive Non-Responsive Printer in Windows NT Environment</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revived-post-windows-update-printer-workflow/"><u>Revived Post Windows Update Printer Workflow</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-non-responsive-printers/"><u>Reviving Non-Responsive Printers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/score-big-with-these-8-low-cost-3d-video-apps-for-pcmac/"><u>Score Big with These 8 Low-Cost 3D Video Apps for PC/Mac</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-infinix-note-30-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Infinix Note 30 Pro</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solve-your-windows-11-printer-problems/"><u>Solve Your Windows 11 Printer Problems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solving-non-responsive-printer-issues-on-nt-os/"><u>Solving Non-Responsive Printer Issues on NT OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/stepwise-canon-printer-seamless-wireless-hookup/"><u>Stepwise Canon Printer: Seamless Wireless Hookup</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/stepwise-process-for-connecting-your-canon-printer/"><u>Stepwise Process for Connecting Your Canon Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574001783-technical-mishap-printer-setup-misstep/"><u>Technical Mishap: Printer Setup Misstep</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/the-ultimate-guide-to-installing-and-configuring-hp-printers/"><u>The Ultimate Guide to Installing and Configuring HP Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/trouble-with-printer-driver-setup-for-hp-deskjet-d1360-on-pcs/"><u>Trouble with Printer Driver Setup for HP Deskjet D1360 on PCs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-non-starting-spooler-on-your-pc-windows/"><u>Troubleshooting Non-Starting Spooler on Your PC (Windows)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unavailable-domain-services-prevents-printer-access/"><u>Unavailable Domain Services Prevents Printer Access</u></a></li>
+</ul></div>

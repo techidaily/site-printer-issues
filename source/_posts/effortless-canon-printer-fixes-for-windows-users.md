@@ -1,7 +1,7 @@
 ---
 title: Effortless Canon Printer Fixes for Windows Users
-date: 2024-07-10T16:41:11.399Z
-updated: 2024-07-11T16:41:11.399Z
+date: 2024-07-29T00:27:02.476Z
+updated: 2024-07-30T00:27:02.476Z
 tags:
   - win11
   - win10
@@ -22,6 +22,9 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
 
  Besides, with regular use of Fortect, your PC will be protected against file loss, malware, hardware failures, and several other bugs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How does Fortect work
 
  1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
@@ -30,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
 
  3) Click **Start Repair** to start the repair process and wait for Fortect to fix the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair-1200x742.png)
 
 If your problem persists, try the fixes below.
@@ -75,6 +81,9 @@ If your printer is still not working properly, proceed to the next fix.
 
  3) Tick**Turn off Windows Defender Firewall** for both public and private networks. Then click**OK** to confirm the changes.  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![turn off windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/turn-off-windows-defender-firewall-1.png)
 
 **To configure firewall settings in other security software:**
@@ -89,6 +98,9 @@ You can disable the firewall in software by clicking the link below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 3: Update your printer driver
 
  After connecting your Canon printer to Windows, to ensure it works properly, you need to install a proper driver. But if your printer driver is faulted or outdated, issues like printer not printing will arise. So if you can’t remember when was the last time you updated your printer driver, do it now as it may fix your issue right away.
@@ -138,20 +150,33 @@ Here’s how you can update your drivers with Driver Easy:
 
  2) Type **control** in the field and press**Enter** to open the Control Panel.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
  3) Select **Small icons** from the drop-down menu next to **View by** . Then, click **Devices and Printers** .  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![set Canon printer as the default printer](https://images.drivereasy.com/wp-content/uploads/2021/01/in-the-control-panel.png)
 
  4) Right-click your Canon printer and select**Set as default printer** from the list.  
   
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![set Canon printer as the default printer](https://images.drivereasy.com/wp-content/uploads/2021/01/set-as-default-printer.png)
 
 Now perform printing tasks to check if it works.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 5: Delete print jobs from the print queue
 
  If the printer does not start printing, it could be that a canceled or failed print job may exist in the print queue. In this case, you need to delete print jobs from the print queue. Here’s how:
@@ -172,6 +197,9 @@ Now perform printing tasks to check if it works.
 
  2) Type**services.msc** in the field and press**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/services-msc.png)
 
  3) In the Services window, scroll down to the**Print Spooler** . Right-click it and select**Stop** .
@@ -186,6 +214,11 @@ Now perform printing tasks to check if it works.
 
  5) Open the**PRINTERS** folder.  
   
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![open the printers folder](https://images.drivereasy.com/wp-content/uploads/2021/01/printers-folder.png)
 
 6) Delete any files in this folder.
@@ -222,3 +255,53 @@ Now perform printing tasks to check if it works.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://printer-issues.techidaily.com/network-guide-reconnect-missing-print-devices-windows-xp-7-10/"><u>[Network Guide] Reconnect Missing Print Devices Windows-XP-7-10</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-mastering-mobile-and-dslr-shooting-igtv-with-perfection/"><u>[New] 2024 Approved  Mastering Mobile & DSLR  Shooting IGTV with Perfection</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-maximizing-your-channels-earning-potential-through-trailers/"><u>[New] 2024 Approved  Maximizing Your Channel's Earning Potential Through Trailers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-simple-steps-to-make-ipad-screen-captures-a-breeze/"><u>[New] In 2024, Simple Steps to Make iPad Screen Captures a Breeze</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimizing-video-quality-youtube-to-mpeg-conversion-strategies/"><u>[New] Optimizing Video Quality  YouTube to MPEG Conversion Strategies</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-lenovo-streamlined-screen-recording-guide/"><u>[Updated] 2024 Approved  Lenovo Streamlined Screen Recording Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-best-budget-cameras-for-creating-quality-vlogs-for-2024/"><u>[Updated] Best Budget Cameras for Creating Quality Vlogs for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-screenshot-to-ringtone-your-guide-to-tiktok-song-selection/"><u>[Updated] From Screenshot to Ringtone  Your Guide to TikTok Song Selection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-zero-to-hero-youtube-setup-growth-and-profit-strategies-for-2024/"><u>[Updated] From Zero to Hero  YouTube Setup, Growth & Profit Strategies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-garner-over-a-thousand-viewers-swiftly-for-2024/"><u>[Updated] Garner Over a Thousand Viewers Swiftly for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-step-by-step-guide-to-mastering-slug-line-crafting/"><u>[Updated] In 2024, Step-by-Step Guide to Mastering Slug Line Crafting</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pioneering-stories-on-youtube-2023-edition/"><u>[Updated] Pioneering Stories on YouTube, 2023 Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-best-live-stream-tools-xsplit-or-obs/"><u>2024 Approved  Best Live Stream Tools  XSplit or OBS?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/compatible-utilities-hp-officejet-pro-8600-printer-software/"><u>Compatible Utilities: HP Officejet Pro 8600 Printer Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enabled-hp-all-in-one-printer-active-now/"><u>Enabled: HP All-in-One Printer Active Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-to-resolve-windows-error-0xc00000f-efficiently/"><u>Expert Tips to Resolve Windows Error 0Xc00000f Efficiently</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-printing-queue-error-messages-on-windows-11/"><u>Fix Printing Queue Error Messages on Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-sony-xperia-1-v-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Sony Xperia 1 V Face Lock?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guide-integrating-hp-officejet-pro-8720-into-pc/"><u>Guide: Integrating HP Officejet Pro 8720 Into PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-do-i-sim-unlock-my-iphone-14-pro-by-drfone-ios/"><u>How Do I SIM Unlock My iPhone 14 Pro?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-oppo-find-x7-lock-screen-password-by-drfone-android/"><u>How to Reset your Oppo Find X7 Lock Screen Password</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-gionee-f3-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Gionee F3 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-samsung-galaxy-m14-4g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Samsung Galaxy M14 4G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-infinix-hot-30i-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-magic-6-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor Magic 6 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-speedy-photographers-guide-to-google-collage-crafting/"><u>In 2024, The Speedy Photographer's Guide to Google Collage Crafting</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/instant-resolution-for-caught-in-printer-jobs/"><u>Instant Resolution for Caught-In Printer Jobs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/instantly-free-up-print-queue/"><u>Instantly Free Up Print Queue</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/integrating-hp-instant-ink-into-your-networked-devices/"><u>Integrating HP Instant Ink Into Your Networked Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/methods-to-reactivate-non-responsive-hp-devices/"><u>Methods to Reactivate Non-Responsive HP Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/nozzle-clog-in-hp-printer-cleared-successfully/"><u>Nozzle Clog in HP Printer Cleared Successfully</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/perfect-print-all-pages-now-available/"><u>Perfect Print: All Pages Now Available</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-error-post-update-fix/"><u>Printer Error Post-Update Fix</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-fixes-for-canon-printer-non-operational-in-windows-10/"><u>Quick Fixes for Canon Printer Non-Operational in Windows 10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reactivation-of-online-scan-achieved-on-win11/"><u>Reactivation of Online Scan Achieved on Win11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-perfect-document-output/"><u>Restoring Perfect Document Output</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revive-non-responsive-printer-in-windows-nt-environment/"><u>Revive Non-Responsive Printer in Windows NT Environment</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revived-post-windows-update-printer-workflow/"><u>Revived Post Windows Update Printer Workflow</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-non-responsive-printers/"><u>Reviving Non-Responsive Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solutions-for-halted-hp-print-operations/"><u>Solutions for Halted HP Print Operations</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solve-your-windows-11-printer-problems/"><u>Solve Your Windows 11 Printer Problems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/stepwise-process-for-connecting-your-canon-printer/"><u>Stepwise Process for Connecting Your Canon Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574001783-technical-mishap-printer-setup-misstep/"><u>Technical Mishap: Printer Setup Misstep</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-non-starting-spooler-on-your-pc-windows/"><u>Troubleshooting Non-Starting Spooler on Your PC (Windows)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unavailable-domain-services-prevents-printer-access/"><u>Unavailable Domain Services Prevents Printer Access</u></a></li>
+</ul></div>

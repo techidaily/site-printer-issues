@@ -1,7 +1,7 @@
 ---
 title: Turn Your Non-Printing Canon Into a Reliable Device with Tips
-date: 2024-07-10T16:50:56.612Z
-updated: 2024-07-11T16:50:56.612Z
+date: 2024-07-29T00:31:05.044Z
+updated: 2024-07-30T00:31:05.044Z
 tags:
   - win11
   - win10
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
 
  3) Click **Start Repair** to start the repair process and wait for Fortect to fix the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair-1200x742.png)
 
 If your problem persists, try the fixes below.
@@ -40,6 +43,9 @@ If your problem persists, try the fixes below.
 4. **[Set Canon as the default printer](#fix4)**
 5. **[Delete print jobs from the print queue](#fix5)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 1: Check the connection status
 
  Difficulty printing from your PC can occur for various reasons. The most common reason is because the connection between the computer and the machine is lost. So before heading into the more complicated fixes, you need to take some basic troubleshooting steps to resolve the issue.
@@ -59,6 +65,13 @@ If your printer is still not working properly, proceed to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ## Fix 2: Temporarily disable the firewall
 
  Firewall software helps block threats from outside your network, but some settings or configurations can block communication with your printer and may reject the connection needed for your machine to work properly. To resolve this, disable the firewall from your computer and try to print again.
@@ -95,12 +108,18 @@ You can disable the firewall in software by clicking the link below.
 
  There are mainly two ways you can update your printer driver:[manually](#option1) and [automatically](#option2) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### Option 1: Manually update your printer driver
 
  Canon’s website is available to download Canon product drivers. You can go to their website to find and download the driver you need. Below, you’ll find out how to download and install the driver from the official website.
 
  Since Canon has several official websites like [Canon UK](https://www.canon.co.uk/) ,[Canon USA](https://www.usa.canon.com/) ,[Canon Europe](https://www.canon-europe.com/) , etc., they may not share the same model. So you can use the browser to search for the specific driver directly. Or you can go to the Support Center, enter the model of your device in the search field, and follow the instructions to download and install the driver.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ### Option 2: Automatically update your printer driver (recommended)
 
  If you don’t have the time, patience or computer skills to update drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -113,6 +132,9 @@ Here’s how you can update your drivers with Driver Easy:
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and **detect any problem drivers** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![update drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -128,6 +150,9 @@ Here’s how you can update your drivers with Driver Easy:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 4: Set Canon as the default printer
 
  When you’re trying to print something, your computer will automatically assign these printing tasks to the default printer unless you choose another one on purpose. So your printer will not be working if you neither set it as a default option to print nor select it as the dedicated printer.
@@ -138,10 +163,17 @@ Here’s how you can update your drivers with Driver Easy:
 
  2) Type **control** in the field and press**Enter** to open the Control Panel.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
  3) Select **Small icons** from the drop-down menu next to **View by** . Then, click **Devices and Printers** .  
   
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![set Canon printer as the default printer](https://images.drivereasy.com/wp-content/uploads/2021/01/in-the-control-panel.png)
 
  4) Right-click your Canon printer and select**Set as default printer** from the list.  
@@ -152,6 +184,9 @@ Now perform printing tasks to check if it works.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 5: Delete print jobs from the print queue
 
  If the printer does not start printing, it could be that a canceled or failed print job may exist in the print queue. In this case, you need to delete print jobs from the print queue. Here’s how:
@@ -222,3 +257,46 @@ Now perform printing tasks to check if it works.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-unveiling-hottest-fifa-football-content-on-youtube/"><u>[New] 2024 Approved  Unveiling Hottest FIFA Football Content on YouTube</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-visualizing-tweet-reactions-a-complete-twitch-tale-for-23/"><u>[New] 2024 Approved  Visualizing Tweet Reactions - A Complete Twitch-Tale for '23</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cultivate-creativity-youtubes-top-inspirational-videos-for-2024/"><u>[New] Cultivate Creativity  YouTube's Top Inspirational Videos for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-navigate-video-rotations-seamlessly-via-vlc-for-2024/"><u>[Updated] Navigate Video Rotations Seamlessly via VLC for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-professionals-palette-prowess-color-command-secrets-for-2024/"><u>[Updated] Professionals' Palette Prowess - Color Command Secrets for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-what-lurks-behind-the-curtain-of-missing-video-suggestions-in-2024/"><u>[Updated] What Lurks Behind the Curtain of Missing Video Suggestions, In 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-jesters-junction-laughter-without-price-tags/"><u>2024 Approved  Jester’s Junction  Laughter Without Price Tags</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-slow-motion-music-methods-keeping-rhythmic-patterns-consistent-in-volume-and-hertz/"><u>2024 Approved Slow-Motion Music Methods Keeping Rhythmic Patterns Consistent in Volume and Hertz</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/2024s-guide-to-perfectly-pairing-hp-printer-with-laptops/"><u>2024'S Guide to Perfectly Pairing HP Printer with Laptops</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/accelerated-release-of-print-queued-tasks/"><u>Accelerated Release of Print Queued Tasks</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574085655-canon-printer-is-offline-heres-how-to-fix-it/"><u>Canon Printer Is Offline? Here’s How to Fix It!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ceased-non-printer-error-on-hp-laserjet-pro-m637/"><u>Ceased Non-Printer Error on HP LaserJet Pro M637</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/celebrating-clear-documentation-with-every-page/"><u>Celebrating Clear Documentation with Every Page</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-wireless-printing-issue-with-hp-envy-5680v5/"><u>Fixed Wireless Printing Issue with HP Envy 5680V5</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guide-to-overcoming-silent-hp-network-printers/"><u>Guide to Overcoming Silent HP Network Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-reestablish-link-with-your-canon-printer/"><u>How to Reestablish Link With Your Canon Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-revive-unresponsive-canon-printer/"><u>How to Revive Unresponsive Canon Printer?</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-mini-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 mini to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-honor-x9a-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Honor X9a to Roku | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-elevating-your-cinematic-expedition-through-border-techniques/"><u>In 2024, Elevating Your Cinematic Expedition Through Border Techniques</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/installation-tips-for-seamlessly-connecting-your-hp-officejet-4500i/"><u>Installation Tips for Seamlessly Connecting Your HP Officejet 4500I</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mended-printer-not-responding/"><u>Mended Printer Not Responding</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/non-responsive-printer-halted-what-to-do/"><u>Non-Responsive Printer Halted, What to Do?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-drive-issue-cant-connect-on-pc/"><u>Printer Drive Issue: Can't Connect on PC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printing-anomaly-linked-to-unknown-pc/"><u>Printing Anomaly Linked to Unknown PC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reclaiming-online-status-for-your-printer/"><u>Reclaiming Online Status for Your Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-intermittent-printer-spooler-halt-in-win-117/"><u>Resolving Intermittent Printer Spooler Halt in Win 11/7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-non-responsive-hp-printers/"><u>Resolving Non-Responsive HP Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revive-windows-9598-print-jobs-that-wont-respond/"><u>Revive Windows 95/98 Print Jobs That Won't Respond</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/second-pc-same-printer-issue-resolved/"><u>Second PC, Same Printer Issue? Resolved</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/sphere-of-imaging-who-takes-the-crown-in-2024/"><u>Sphere of Imaging  Who Takes the Crown, In 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-enhance-text-via-snip-tool-features/"><u>Step-by-Step: Enhance Text via Snip Tool Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamline-photos-via-iphone-size-adjustment-for-2024/"><u>Streamline Photos via iPhone Size Adjustment for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/streamline-prints-new-dell-v305-windows-enhancements/"><u>Streamline Prints: New Dell V305 WIndows Enhancements</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/syncing-devices-to-share-printer-settings/"><u>Syncing Devices to Share Printer Settings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ultimate-list-of-win-11-hd-webcam-recording-kits-for-2024/"><u>Ultimate List of Win 11 HD Webcam Recording Kits for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/usb-printer-fails-to-respond-post-suspend-win7/"><u>USB Printer Fails to Respond Post Suspend, Win7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-pcs-no-printer-icon-heres-what-to-do/"><u>Windows PCs, No Printer Icon? Here's What to Do</u></a></li>
+</ul></div>

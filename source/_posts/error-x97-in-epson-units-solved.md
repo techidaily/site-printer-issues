@@ -1,7 +1,7 @@
 ---
 title: Error X97 in Epson Units - Solved
-date: 2024-07-10T16:44:26.133Z
-updated: 2024-07-11T16:44:26.133Z
+date: 2024-07-29T00:28:26.172Z
+updated: 2024-07-30T00:28:26.172Z
 tags:
   - win11
   - win10
@@ -16,6 +16,9 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 
 ## Error X97 in Epson Units - Solved
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/printer-161063_1280-1024x757.png)
 
  Keep getting the Error Code 0x97 while using your Epson printer? This is so annoying and you’re certainly not the only one who faces it. Many Epson users are reporting it. But the good news is that you can fix it. Here are 4 solutions to try.
@@ -32,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 3. **[Run the Windows printer troubleshooter](#c)**
 4. **[Update your printer driver](#d)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ### Fix 1: Reboot your printer
 
  A simple reboot can address many common printer issues. Try restarting your printer to see if that also works for you. Here is how:
@@ -88,6 +94,9 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 
 **3)**  Click **Use a printer** .
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-844.png)
 
 **4)**  Click **Next** .
@@ -104,14 +113,23 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 
 **2)**  Select **Troubleshooting settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-847.png)
 
 **3)** Click **Printer,**  and then click **Run the troubleshooter** .
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-849.png)
 
  Wait for the troubleshooting process to be complete, then reopen your printer to check if this fixed your issue. If not, read on and check the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4: Update your printer driver
 
  This problem may occur if you’re using the wrong Epson driver or it’s out of date. It’s essential to keep your printer driver up-to-date at all times.
@@ -148,6 +166,10 @@ OR
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-229.png)
 
  You can do it for free if you like. But it’s partly manual.
@@ -182,3 +204,41 @@ OR
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-expert-advice-on-logging-google-voice-chats/"><u>[New] 2024 Approved  Expert Advice on Logging Google Voice Chats</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-guides-to-unearthing-elite-cinematography/"><u>[Updated] Guides to Unearthing Elite Cinematography</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-youtube-frames-top-5-cost-free-techniques/"><u>[Updated] Mastering YouTube Frames  Top 5 Cost-Free Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-superior-mics-for-video-blogging-professionals/"><u>[Updated] Superior Mics for Video Blogging Professionals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-art-of-night-sky-captures-on-iphone/"><u>2024 Approved  Unveiling the Art of Night Sky Captures on iPhone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ad-ds-maintenance-causing-print-errors/"><u>AD DS Maintenance Causing Print Errors</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/address-printer-driver-bugs-in-win10/"><u>Address Printer Driver Bugs in Win10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/bridge-the-gap-reactivate-offline-canon-printer/"><u>Bridge the Gap: Reactivate Offline Canon Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/brother-cdw-air-glide-instructions-quickly/"><u>Brother CDW Air-Glide Instructions Quickly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/cracking-code-0x00000709-to-fix-default-printer-setup/"><u>Cracking Code 0X00000709 to Fix Default Printer Setup</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eliminating-ghost-print-job-errors/"><u>Eliminating Ghost Print Job Errors</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-printer-offline-solved/"><u>Epson Printer Offline [Solved]</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-for-non-operational-post-upgrade-printer/"><u>Fix for Non-Operational Post-Upgrade Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-your-canon-printers-non-print-problem-with-these-top-five-tricks-in-windows-11/"><u>Fix Your Canon Printer's Non-Print Problem with These Top Five Tricks in Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-offline-windows-hp-print-link/"><u>Fixing Offline Windows-HP Print Link</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/gelato-gurus-guide-step-by-step-to-sweet-screen-recording/"><u>Gelato Guru's Guide  Step-by-Step to Sweet Screen Recording</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-15-pro-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 15 Pro Lock Screen</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-honor-x50-gt-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Honor X50 GT to iPod | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-nokia-c300-easily-by-drfone-android/"><u>How To Unlock a Nokia C300 Easily?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-officejet-pro-8600-printer-software-for-windows/"><u>HP OfficeJet Pro 8600 Printer Software for Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/in-depth-installing-and-tweaking-your-hp-printer-on-windows/"><u>In-Depth: Installing and Tweaking Your HP Printer on Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mended-error-code-b200/"><u>Mended Error Code: B200</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mysterious-print-job-by-secondary-computer/"><u>Mysterious Print Job by Secondary Computer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/non-responsive-usb-printers-in-win7-after-hibernate/"><u>Non Responsive USB Printers in Win7 After Hibernate</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-setup-successful/"><u>Printer Setup: Successful</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reigniting-your-silent-printer/"><u>Reigniting Your Silent Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-windows-7-printer-unresponsive/"><u>Resolved: Windows 7 Printer Unresponsive</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-connected-status-to-siblings-print-device/"><u>Restoring Connected Status to Sibling's Print Device</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/steering-clear-obstacles-onboard-brother-printer-again/"><u>Steering Clear Obstacles: Onboard Brother Printer Again</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/swift-remedy-for-queued-printer-issue/"><u>Swift Remedy for Queued Printer Issue</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/technical-mishap-printer-setup-misstep/"><u>Technical Mishap: Printer Setup Misstep!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/wireless-printer-setup-for-efficient-home-office-with-hp/"><u>Wireless Printer Setup for Efficient Home Office with HP</u></a></li>
+</ul></div>

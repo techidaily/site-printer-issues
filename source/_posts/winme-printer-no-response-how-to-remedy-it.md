@@ -1,7 +1,7 @@
 ---
 title: WinME Printer No Response - How to Remedy It
-date: 2024-07-10T16:45:49.221Z
-updated: 2024-07-11T16:45:49.221Z
+date: 2024-07-29T00:29:00.021Z
+updated: 2024-07-30T00:29:00.021Z
 tags:
   - win11
   - win10
@@ -38,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
  Additionally, you can also try**restarting** all devices related to printing jobs. They include your**printer, computer, and WiFi router** (if your printer use wireless connection). You should shut them down completely, leave them for a while, and then power them on again. After that you can print something to see if this fixes the problem.  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ## 2) Run printer troubleshooter
 
  Windows system has a built-in printer troubleshooter that can diagnose your printer issues. You can run this tool as a way to help you fix the printer not responding error.
@@ -46,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595469f21cf8b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595469d0b5f8f.png)
 
 **b)**  If you are using**Windows 10** , click on**Printer** and then on**Run the troubleshooter** .
@@ -66,10 +72,16 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
 **a)**  Press**Win + R** keys, and then type “_**services.msc**_ ” and hit**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5954710e527f5.png)
 
 **b)**  Scroll down to find**Print Spooler** . Double click on it to open this service.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595471a35b437.png)
 
 **c)**  Click on**Stop** button under**Service status** and then on**Start** . (If the Service status is**Stopped** , then directly hit the**Start** button.) After that, hit**OK** .
@@ -78,12 +90,18 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
 **d)**  You have just restarted Print Spooler service. Now try your printer and see if the not responding error is gone.  
   
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4) Configure to correct port
 
  In order for your printer to run normally, you need to configure your printer to correct printer port. You can follow the steps below to check and change the port of your printer.
 
 **a)**  Press**Win + R** keys, and enter “_**control**_ “.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595476501c3bd.png)
 
 **b)**  Click on**Devices and Printers** .
@@ -92,6 +110,9 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
 **c)**  In**Printers** section, right click on your printer and then select**Printer properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595477595478e.png)
 
 **d)**  Select**Change properties**  on**General** tab.
@@ -108,6 +129,9 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
 **g)**  You may need to repeat step**e** and**f**  until you can confirm you have applied the right change.  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5) Check printer driver
 
  Sometimes Printer not responding error can be caused by driver issues. To fix the problem, you need to update your driver if it is outdated, or reinstall the driver if it is problematic.
@@ -120,6 +144,9 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
 **a)** Open the program and hit**Scan Now** . Wait for a few seconds.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59536d887738b.png)
 
 **b)** Click on**Update** button next to your printing device. Driver Easy will download the latest credible driver for you. Then you can install the driver on your own.
@@ -128,6 +155,9 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
 **c)**  If you want Driver Easy to complete the installation for you, you can use its **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . It will do the whole update process **automatically** . Also, you can update**all** drivers by hitting**Update All** button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59549fa515490.png)
 
  In fact, Driver Easy Pro also contains**powerful features** , such as driver backup and restore. They can help you deal with various driver issues. And they are all very**easy to use** . Plus, you can enjoy**experienced technical support** if you go Pro. It is a**convenient** tool that can**keep your computer healthy** .  
@@ -154,3 +184,49 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-avoiding-ambiguity-clear-dating-of-digital-pics/"><u>[New] 2024 Approved  Avoiding Ambiguity  Clear Dating of Digital Pics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-turn-off-chatter-secrets-for-muting-users-on-gomeet/"><u>[New] In 2024, Turn Off Chatter  Secrets for Muting Users on GoMeet</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-serene-gaming-selection-quietest-phone-apps-for-2024/"><u>[New] Serene Gaming Selection  Quietest Phone Apps for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-whats-winning-in-the-world-of-2023-tweets-for-2024/"><u>[New] What's Winning in the World of 2023 Tweets for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/system-failure-spooler-issue-on-workstation/"><u>[SYSTEM FAILURE] Spooler Issue on Workstation</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/technical-issue-printer-drivers-failing-on-w7-10-need-solution/"><u>[Technical Issue] Printer Drivers Failing on W7-10, Need Solution</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-8-best-free-video-editing-software-for-youtube-for-2024/"><u>[Updated] 8 Best Free Video Editing Software for YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-silliness-set-to-sound-10-hilarious-hits/"><u>[Updated] Silliness Set to Sound  10 Hilarious Hits</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unlocking-creative-potential-installing-windows-movie-maker-on-w11-for-2024/"><u>[Updated] Unlocking Creative Potential  Installing Windows Movie Maker on W11 for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-direct-stream-from-fb-to-whatsapp-group-chat/"><u>2024 Approved  Direct Stream From FB to WhatsApp Group Chat</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-packaging-perfection-strategies-for-stunning-first-touches/"><u>2024 Approved  Packaging Perfection  Strategies for Stunning First Touches</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-swift-recording-pro-with-voice-commentary-feature/"><u>2024 Approved  Swift Recording Pro with Voice Commentary Feature</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/address-ink-level-sensor-failures-in-w11/"><u>Address Ink Level Sensor Failures in W11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/blank-pages-be-gone-hp-printer-now-fully-functional/"><u>Blank Pages Be Gone: HP Printer Now Fully Functional</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/elevate-mf4770n-integration-on-windows-platforms/"><u>Elevate MF4770n Integration on Windows Platforms</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-blank-page-error-in-your-homes-epson-printer/"><u>Fix Blank Page Error in Your Home's Epson Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-hp-printer-disconnect-issue/"><u>Fixing HP Printer Disconnect Issue</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-print-problems-canon-printer-guide-in-windows-10/"><u>Fixing Print Problems: Canon Printer Guide in Windows 10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/from-sheetless-anxiety-to-confident-printing/"><u>From Sheetless Anxiety to Confident Printing</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, All You Need To Know About Mega Greninja For Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Honor Magic 5 Lite? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mf4770n-drivers-windows-11-8-7-upgrade-guide/"><u>MF4770n Drivers - Windows 11, 8, 7 Upgrade Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-text-to-speech-online/"><u>New In 2024, Text To Speech | Online</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/paper-path-perfection-error-0x0-cooked-in-windows-fix/"><u>Paper Path Perfection - Error 0X0 Cooked in Windows Fix</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/post-update-printer-stands-silent-no-more/"><u>Post-Update, Printer Stands Silent No More</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/proactive-measures-immediate-resolution-of-pcl-xl-problems/"><u>Proactive Measures: Immediate Resolution of PCL XL Problems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/process-for-adding-connecting-8720-printer-model-to-pc/"><u>Process for Adding: Connecting 8720 Printer Model to PC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-guide-halting-repeated-print-job-errors-windows/"><u>Quick Guide: Halting Repeated Print Job Errors (Windows)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-streamline-of-hindered-printer-jobs/"><u>Quick Streamline of Hindered Printer Jobs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reestablish-printer-with-ease-and-speed/"><u>Reestablish Printer with Ease & Speed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/rekindling-printers-connection-magic/"><u>Rekindling Printer's Connection Magic</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolve-lan-configuration-for-w11-printers/"><u>Resolve LAN Configuration for W11 Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-network-print-problems/"><u>Resolving Network Print Problems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-printer-halt-after-update-successfully/"><u>Resolving Printer Halt After Update Successfully</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solution-to-hp-inkjet-non-operational-on-win11/"><u>Solution to HP Inkjet Non-Operational on Win11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/successfully-repairing-epson-printer-issues/"><u>Successfully Repairing Epson Printer Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/techniques-to-disable-networked-printers-in-windows/"><u>Techniques to Disable Networked Printers in Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unclog-print-issues-resolving-brother-printer-errors-win1011/"><u>Unclog Print Issues: Resolving Brother Printer Errors, Win10/11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574163521-windows-11-printer-woes-time-to-act/"><u>Windows 11 Printer Woes? Time to Act!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/zeroing-out-error-0x00000709-for-printer-settings/"><u>Zeroing Out Error 0X00000709 for Printer Settings</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Printing Experience with Canon, Windows 10 Tips
-date: 2024-07-10T16:51:47.105Z
-updated: 2024-07-11T16:51:47.105Z
+date: 2024-07-29T00:31:25.925Z
+updated: 2024-07-30T00:31:25.925Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
  Besides, with regular use of Fortect, your PC will be protected against file loss, malware, hardware failures, and several other bugs.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### How does Fortect work
 
  1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
@@ -59,6 +63,9 @@ If your printer is still not working properly, proceed to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 2: Temporarily disable the firewall
 
  Firewall software helps block threats from outside your network, but some settings or configurations can block communication with your printer and may reject the connection needed for your machine to work properly. To resolve this, disable the firewall from your computer and try to print again.
@@ -67,6 +74,9 @@ If your printer is still not working properly, proceed to the next fix.
 
  1) In the Search bar, type**windows defender firewall** . Then click**Windows Defender Firewall** from the results.  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/windows-defender-firewall.png)
 
  2) On the left side of the window, click**Turn Windows Defender Firewall on or off** .  
@@ -75,6 +85,9 @@ If your printer is still not working properly, proceed to the next fix.
 
  3) Tick**Turn off Windows Defender Firewall** for both public and private networks. Then click**OK** to confirm the changes.  
   
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turn off windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/turn-off-windows-defender-firewall-1.png)
 
 **To configure firewall settings in other security software:**
@@ -95,12 +108,18 @@ You can disable the firewall in software by clicking the link below.
 
  There are mainly two ways you can update your printer driver:[manually](#option1) and [automatically](#option2) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Option 1: Manually update your printer driver
 
  Canon’s website is available to download Canon product drivers. You can go to their website to find and download the driver you need. Below, you’ll find out how to download and install the driver from the official website.
 
  Since Canon has several official websites like [Canon UK](https://www.canon.co.uk/) ,[Canon USA](https://www.usa.canon.com/) ,[Canon Europe](https://www.canon-europe.com/) , etc., they may not share the same model. So you can use the browser to search for the specific driver directly. Or you can go to the Support Center, enter the model of your device in the search field, and follow the instructions to download and install the driver.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 2: Automatically update your printer driver (recommended)
 
  If you don’t have the time, patience or computer skills to update drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -128,6 +147,9 @@ Here’s how you can update your drivers with Driver Easy:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 4: Set Canon as the default printer
 
  When you’re trying to print something, your computer will automatically assign these printing tasks to the default printer unless you choose another one on purpose. So your printer will not be working if you neither set it as a default option to print nor select it as the dedicated printer.
@@ -138,6 +160,9 @@ Here’s how you can update your drivers with Driver Easy:
 
  2) Type **control** in the field and press**Enter** to open the Control Panel.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
  3) Select **Small icons** from the drop-down menu next to **View by** . Then, click **Devices and Printers** .  
@@ -152,6 +177,9 @@ Now perform printing tasks to check if it works.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 5: Delete print jobs from the print queue
 
  If the printer does not start printing, it could be that a canceled or failed print job may exist in the print queue. In this case, you need to delete print jobs from the print queue. Here’s how:
@@ -172,6 +200,9 @@ Now perform printing tasks to check if it works.
 
  2) Type**services.msc** in the field and press**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/services-msc.png)
 
  3) In the Services window, scroll down to the**Print Spooler** . Right-click it and select**Stop** .
@@ -222,3 +253,42 @@ Now perform printing tasks to check if it works.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-essential-guide-for-capturing-console-playbacks-for-2024/"><u>[New] Essential Guide for Capturing Console Playbacks for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-how-to-use-zoom-breakout-rooms/"><u>[New] In 2024, How to Use Zoom Breakout Rooms</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-ultimate-compendium-ios-gif-apps-reviewed-for-2024/"><u>[New] The Ultimate Compendium  IOS GIF Apps Reviewed for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-setup-unable-to-locate-hp-driver-winxo/"><u>[Printer Setup] Unable to Locate HP Driver WINXO</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-unable-to-install-printeroperation-could-not-be-completed/"><u>[Solved] Unable to Install Printer.Operation Could Not Be Completed</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-unleash-the-full-potential-of-your-hdr-images-with-lightroom/"><u>[Updated] 2024 Approved  Unleash the Full Potential of Your HDR Images with Lightroom</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-depth-tips-to-revolutionize-youtube-summary-writing/"><u>[Updated] In-Depth Tips to Revolutionize YouTube Summary Writing</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ad-ds-maintenance-causing-print-errors/"><u>AD DS Maintenance Causing Print Errors</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/avoiding-epson-error-codes-halt/"><u>Avoiding Epson Error Codes Halt</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/brother-cdw-air-glide-instructions-quickly/"><u>Brother CDW Air-Glide Instructions Quickly</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-you-play-mp4-on-redmi-note-13-pro-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can you play MP4 on Redmi Note 13 Pro 5G?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/cultivate-a-thriving-igtv-community-5-key-increase-strategies-for-2024/"><u>Cultivate a Thriving IGTV Community  5 Key Increase Strategies for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/drive-performance-upgrade-dell-inkjet-aio-on-windows-7/"><u>Drive Performance: Upgrade Dell Inkjet AIO on WIndows 7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-printer-offline-solved/"><u>Epson Printer Offline [Solved]</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fast-forward-stalled-printer-jobs/"><u>Fast-Forward Stalled Printer Jobs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-a78-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-vivo-v29e-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Vivo V29e to New Phone | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-lava-yuva-2-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP on Lava Yuva 2 Pro?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-how-to-record-with-nvidia-screen-recorder/"><u>In 2024, How to Record with NVIDIA Screen Recorder</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-simplifying-visual-sharing-in-ms-teams-with-snap-camera/"><u>In 2024, Simplifying Visual Sharing in MS Teams with Snap Camera</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/in-depth-installing-and-tweaking-your-hp-printer-on-windows/"><u>In-Depth: Installing and Tweaking Your HP Printer on Windows</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/laughlines-prime-websites-for-giggling-tones-for-2024/"><u>LaughLines  Prime Websites for Giggling Tones for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-more-ghost-printouts-hp-printer-armored-against-errors/"><u>No More Ghost Printouts: HP Printer Armored Against Errors</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reclaiming-ravaged-recordings-a-sample-method/"><u>Reclaiming Ravaged Recordings: A Sample Method</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-white-paper-output-on-hp-printer/"><u>Resolving White Paper Output on HP Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-connected-status-to-siblings-print-device/"><u>Restoring Connected Status to Sibling's Print Device</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-internet-connectivity-to-printers/"><u>Restoring Internet Connectivity to Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-scanner-activation-for-win10-users/"><u>Restoring Scanner Activation for Win10 Users</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/seamless-installation-wizard-officejet-pro-8600-windows-printer-suite/"><u>Seamless Installation Wizard: Officejet Pro 8600 Windows Printer Suite</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-scan-to-computer-is-no-longer-activated-on-windows-10/"><u>Solved: Scan to Computer Is No Longer Activated on Windows 10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/step-by-step-obtaining-no-cost-photo-frames/"><u>Step-by-Step  Obtaining No-Cost Photo Frames</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/streamlined-device-management-officejet-pro-8600-drivers-pc-friendly/"><u>Streamlined Device Management: Officejet Pro 8600 Drivers, PC-Friendly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/systematic-mf4770n-software-enhancement-windows-wise/"><u>Systematic MF4770n Software Enhancement Windows-Wise</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unable-to-access-printer-driver-in-windows/"><u>Unable to Access Printer Driver in Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win7-inkjet-fix-successful/"><u>Win7 Inkjet Fix Successful</u></a></li>
+</ul></div>

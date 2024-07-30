@@ -1,7 +1,7 @@
 ---
 title: Stop and Fix Spooler Error in Win 7 Printers
-date: 2024-07-10T16:40:41.351Z
-updated: 2024-07-11T16:40:41.351Z
+date: 2024-07-29T00:26:46.986Z
+updated: 2024-07-30T00:26:46.986Z
 tags:
   - win11
   - win10
@@ -16,14 +16,23 @@ thumbnail: https://thmb.techidaily.com/97d52aeba0c3812671b16d9ad71aaf02069e7e610
 
 ## Stop and Fix Spooler Error in Win 7 Printers
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/1-24.jpg)
 
  If you’re on Windows 7 or 10, and you’re seeing this error saying your**print spooler isn’t running** , you’re not alone. Many Windows users are reporting it. But the good news is you can fix it. This article gives you 5 solutions to try.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What’s the print spooler?
 
  The print spooler is a Windows service that manages all the print jobs you send to your printer. If the service isn’t running, your printer won’t work.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## How do I fix print spooler keeps stopping?
 
  Here are 5 solutions you can try to fix this problem. You may not have to try them all; just work your way down the list until you find the one that works.**Note:** The screens shown below are from Windows 10, but all the fixes also apply to Windows 7 too.
@@ -48,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/97d52aeba0c3812671b16d9ad71aaf02069e7e610
 
 4) Check to see if your printer works.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Check if the Print Spooler service is set to Automatic
 
  If the print spooler service isn’t set to automatic, it won’t turn on when Windows starts, and your printer won’t work until you manually start the service.
@@ -80,6 +92,9 @@ To set it to auto:
 
 2) Type**services.msc** and press**Enter** to open the**Services** window:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a50a818f88a.png)
 
  3) Right-click **Print Spooler** , then click **Properties** .
@@ -92,6 +107,9 @@ To set it to auto:
 
  5) Check to see if your printer works.  
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 4: Delete your print spooler files
 
  If your pending print jobs are not few, they can cause your print spooler to stop. Deleting your print spooler files to clear pending print jobs sometimes resolve the problem.
@@ -104,6 +122,9 @@ To set it to auto:
 
 3) Click **Print Spooler** , then **Stop** .
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a5269d7216e.jpg)
 
  4) Click**—** to minimize the Services window:
@@ -114,12 +135,23 @@ To set it to auto:
 
  6) Go to **C:\\Windows\\System32\\spool\\PRINTERS** :
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/PRINTERS.jpg)
 
  If you’re prompted about permission, click **Continue** .
 
  7)**Delete all the files** in PRINTERS folder.You should then see **This folder is empty** :
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/empty.jpg)
 
 8) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run box.
@@ -134,14 +166,23 @@ To set it to auto:
 
  11) Right-click on your printer and click **Remove device** :
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/REMOVE.jpg)
 
  12) Click**Services** icon in your taskbar to return to Services window:
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/SETTINGS-WINDOW.jpg)
 
  13) Click on**Print Spooler** then**Start** .
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a538386c9a4.jpg)
 
  14)Click the **Devices and Printers icon**  in your taskbar to return to the Devices and Printers window:
@@ -150,10 +191,16 @@ To set it to auto:
 
  15) **Right-click on the blank area** and click **Add a printer**  , then follow the on-screen instructions to re-add your printer:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a542a63d1d0.png)
 
 16) Check to see if your printer works.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ### Method 5: Update your printer driver
 
  This error may also be caused by an old or incorrect printer driver. You can update your printer driver manually or, if you’re not confident playing around with drivers, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .
@@ -196,3 +243,42 @@ Or click **Update All**  to automatically download and install the correct versi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-aspect-ratio-guide-to-enhanced-facebook-viewing/"><u>[New] 2024 Approved  Aspect Ratio Guide to Enhanced Facebook Viewing</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/system-error-unable-to-install-mp620-drivers-in-win10/"><u>[System Error] Unable to Install MP620 Drivers in WIN10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-nikon-d500-at-a-glance-the-frontiers-of-4k-hd/"><u>[Updated] Nikon D500 at a Glance  The Frontiers of 4K HD</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-privacy-preserving-recordings-methods-to-shield-sensitive-data/"><u>[Updated] Privacy-Preserving Recordings  Methods to Shield Sensitive Data</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-progopro-tips-for-cinematic-results/"><u>2024 Approved  ProGoPro Tips for Cinematic Results</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bypass-costs-and-watch-governments-election-coverage-online/"><u>Bypass Costs and Watch Government's Election Coverage Online</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/code-b200-debugged-successfully/"><u>Code B200 Debugged Successfully</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/complete-printing-solution-unveiled/"><u>Complete Printing Solution Unveiled</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/cure-non-engagement-in-older-windows-versions-printers/"><u>Cure Non-Engagement in Older Windows Versions' Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/curing-toner-depletion-crisis/"><u>Curing Toner Depletion Crisis</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/disabling-scanner-error-cleared-in-win11/"><u>Disabling Scanner Error Cleared in Win11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhance-document-transfer-with-printer-driver-fixes-on-win10/"><u>Enhance Document Transfer with Printer Driver Fixes on Win10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhance-printer-efficiency-quickly/"><u>Enhance Printer Efficiency Quickly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhanced-performance-officejet-pro-8600-driver-for-windows/"><u>Enhanced Performance: Officejet Pro 8600 Driver for Windows</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/expert-techniques-for-simple-iphone-screenshot-processes/"><u>Expert Techniques for Simple IPhone Screenshot Processes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/from-silence-to-service-restoring-online-status-in-printer/"><u>From Silence to Service: Restoring Online Status in Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guiding-you-to-a-hassle-free-canon-print-connection/"><u>Guiding You to a Hassle-Free Canon Print Connection</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-iphone-6s-plus-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your iPhone 6s Plus without Security Questions?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-oppo-k11x-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Oppo K11x Is Unlocked</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/maximize-printer-potential-with-hp-inkjet-updates/"><u>Maximize Printer Potential with HP Inkjet Updates</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/optimize-printing-on-laptops-with-improved-hp-printer-links/"><u>Optimize Printing on Laptops with Improved HP Printer Links</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcome-paper-feeder-malfunction/"><u>Overcome Paper Feeder Malfunction</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-fix-for-languishing-printer-jobs/"><u>Quick Fix for Languishing Printer Jobs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oppo-k11-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Oppo K11 5G</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolve-non-responsive-printer-in-windows-11/"><u>Resolve Non-Responsive Printer in Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-printer-connected-successfully/"><u>Resolved: PRINTER Connected Successfully</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-iphone-x-issues-preventing-spotify-app-from-crashing-upon-lock/"><u>Resolving iPhone X Issues: Preventing Spotify App From Crashing Upon Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/securing-fortnites-elite-status-the-ps5-approach/"><u>Securing Fortnite's Elite Status: The PS5 Approach</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/setting-up-your-hp-laserjet-remote-connection/"><u>Setting Up Your HP LaserJet Remote Connection</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/streamlining-laser-troubleshooting/"><u>Streamlining Laser Troubleshooting</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/upgrade-and-secure-printer-communication-in-win10/"><u>Upgrade and Secure Printer Communication in Win10</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-13t-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of 13T on Windows?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Nubia Z50S Pro? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-xp-vs-mp620-printer-compatibility-questions/"><u>Windows XP vs MP620 Printer Compatibility Questions?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/your-guide-to-youtube-stardom-6-effortless-steps-for-exposure/"><u>Your Guide to YouTube Stardom  6 Effortless Steps for Exposure</u></a></li>
+</ul></div>

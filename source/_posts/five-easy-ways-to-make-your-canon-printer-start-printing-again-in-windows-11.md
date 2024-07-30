@@ -1,7 +1,7 @@
 ---
 title: Five Easy Ways to Make Your Canon Printer Start Printing Again in Windows 11
-date: 2024-07-10T16:44:28.142Z
-updated: 2024-07-11T16:44:28.142Z
+date: 2024-07-29T00:28:26.981Z
+updated: 2024-07-30T00:28:26.981Z
 tags:
   - win11
   - win10
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 
  3) Click **Start Repair** to start the repair process and wait for Fortect to fix the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair-1200x742.png)
 
 If your problem persists, try the fixes below.
@@ -59,6 +62,9 @@ If your printer is still not working properly, proceed to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 2: Temporarily disable the firewall
 
  Firewall software helps block threats from outside your network, but some settings or configurations can block communication with your printer and may reject the connection needed for your machine to work properly. To resolve this, disable the firewall from your computer and try to print again.
@@ -67,14 +73,23 @@ If your printer is still not working properly, proceed to the next fix.
 
  1) In the Search bar, type**windows defender firewall** . Then click**Windows Defender Firewall** from the results.  
   
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/windows-defender-firewall.png)
 
  2) On the left side of the window, click**Turn Windows Defender Firewall on or off** .  
   
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![disable Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/turn-Windows-Defender-Firewall-on-or-off.png)
 
  3) Tick**Turn off Windows Defender Firewall** for both public and private networks. Then click**OK** to confirm the changes.  
   
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turn off windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/turn-off-windows-defender-firewall-1.png)
 
 **To configure firewall settings in other security software:**
@@ -113,6 +128,10 @@ Here’s how you can update your drivers with Driver Easy:
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and **detect any problem drivers** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![update drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -128,6 +147,9 @@ Here’s how you can update your drivers with Driver Easy:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 4: Set Canon as the default printer
 
  When you’re trying to print something, your computer will automatically assign these printing tasks to the default printer unless you choose another one on purpose. So your printer will not be working if you neither set it as a default option to print nor select it as the dedicated printer.
@@ -176,16 +198,26 @@ Now perform printing tasks to check if it works.
 
  3) In the Services window, scroll down to the**Print Spooler** . Right-click it and select**Stop** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![stop the Print Spooler](https://images.drivereasy.com/wp-content/uploads/2021/01/stop-the-printing-service.png)
 
  Note: Do not close the Services window, simply minimize it as you’ll go back to it later.
 
  4) After the print spooler service has stopped, press the**Windows logo key** and**R** at the same time to open the Run box. Then type**spool** in the field and press**Enter** .  
   
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/spool-in-the-run-box.png)
 
  5) Open the**PRINTERS** folder.  
   
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![open the printers folder](https://images.drivereasy.com/wp-content/uploads/2021/01/printers-folder.png)
 
 6) Delete any files in this folder.
@@ -222,3 +254,50 @@ Now perform printing tasks to check if it works.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://printer-issues.techidaily.com/fix-windows-7-devices-not-recognizing-post-sleep-usb-printers/"><u>[Fix] Windows 7 Devices Not Recognizing Post Sleep USB Printers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-elevating-your-instagram-highlights-with-exquisite-photography/"><u>[New] Elevating Your Instagram Highlights with Exquisite Photography</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-elevate-persuasion-through-30-powerful-video-themes/"><u>[New] In 2024, Elevate Persuasion Through 30 Powerful Video Themes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-enhancing-profile-clips-for-impact/"><u>[New] In 2024, Enhancing Profile Clips for Impact</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-individual-to-institutional-growth-in-youtube-space/"><u>[New] In 2024, From Individual to Institutional Growth in YouTube Space</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-transforming-your-video-with-strategic-vimeo-end-screens-for-2024/"><u>[New] Transforming Your Video with Strategic Vimeo End Screens for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/os-troubleshoot-unseen-network-printer-on-windows-pcs/"><u>[OS Troubleshoot] Unseen Network Printer on Windows PCs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-enhance-your-livestream-going-beyond-obs/"><u>[Updated] 2024 Approved  Enhance Your Livestream  Going Beyond OBS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-seamless-path-integrating-your-social-photos-into-device-storage/"><u>[Updated] 2024 Approved  The Seamless Path  Integrating Your Social Photos Into Device Storage</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-anime-soundtracks-setting-the-mood-for-viral-shorts/"><u>2024 Approved  Anime Soundtracks  Setting the Mood for Viral Shorts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlining-remote-work-merging-skype-and-zoom-together/"><u>2024 Approved  Streamlining Remote Work  Merging Skype and Zoom Together</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-personalizing-your-android-device-sound-system/"><u>2024 Approved  The Ultimate Guide to Personalizing Your Android Device Sound System</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/a-compre-market-leaders-guide-to-the-most-effective-fb-video-ad-approaches-for-2024/"><u>A Compre Market Leader's Guide to the Most Effective FB Video Ad Approaches for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/accelerate-stuck-printer-operations/"><u>Accelerate Stuck Printer Operations</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/addressing-error-xf09-on-epson-devices/"><u>Addressing Error #XF09 on Epson Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/b200-issue-eliminated/"><u>B200 Issue Eliminated</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/brisk-print-processes-revealed/"><u>Brisk Print Processes Revealed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/clearing-up-printer-conflicts-in-windows/"><u>Clearing Up Printer Conflicts in Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/efficient-operation-windows-compatible-driver-for-officejet-pro-8600/"><u>Efficient Operation: Windows Compatible Driver for Officejet Pro 8600</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/effortlessly-connect-canon-printer-online/"><u>Effortlessly Connect Canon Printer Online</u></a></li>
+<li><a href="https://facebook.techidaily.com/enforcing-teenager-friendly-security-protocols-on-fb/"><u>Enforcing Teenager-Friendly Security Protocols on FB</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-glitch-resolution-0x97/"><u>Epson Glitch Resolution: 0X97</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-clear-print-head-conflict-on-win-1011/"><u>How To Clear Print Head Conflict on Win 10/11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/ideal-pairings-prime-mac-software-for-video-snatching-for-2024/"><u>Ideal Pairings  Prime Mac Software for Video Snatching for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-actionable-solutions-for-converting-xml-ssa-ttml-etc-to-srt/"><u>In 2024, Actionable Solutions for Converting XML, SSA, TTML, Etc., To SRT</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-nokia-g22-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Nokia G22 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-efficiently-generating-clear-and-concise-images-thumbnails/"><u>In 2024, Efficiently Generating Clear and Concise Images  Thumbnails</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/keep-your-v305-printing-fresh-with-windows-updates/"><u>Keep Your V305 Printing Fresh with WIndows Updates</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/my-canon-printer-is-playing-hard-to-respond/"><u>My Canon Printer Is Playing Hard To Respond</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printers-unforeseen-setup-snag-found/"><u>Printer's Unforeseen Setup Snag Found</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printers-wont-print-all-pages-2024-fix/"><u>Printers Won't Print All Pages [2024 Fix]</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-fixes-for-silent-hp-printers/"><u>Quick Fixes for Silent HP Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-fixes-top-5-methods-to-resolve-canon-printer-print-issue-in-windows-11/"><u>Quick Fixes: Top 5 Methods to Resolve Canon Printer Print Issue in Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolve-printer-driver-crashes-on-windows-11/"><u>Resolve Printer Driver Crashes on Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/seeking-solutions-for-print-device-driver-failure-in-windows-os/"><u>Seeking Solutions for Print Device Driver Failure in Windows OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solutions-for-non-responsive-print-devices/"><u>Solutions for Non-Responsive Print Devices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/superior-download-manager-best-youtube-downloader-apps/"><u>Superior Download Manager  Best YouTube Downloader Apps</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/trouble-printing-on-windows-11-lets-fix-it/"><u>Trouble Printing on Windows 11? Let's Fix It</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-hp-errors/"><u>Troubleshooting HP Errors</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-unresponsive-hp-devices/"><u>Troubleshooting Unresponsive HP Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unraveling-printer-malfunction-mystery/"><u>Unraveling Printer Malfunction Mystery</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/updating-drives-with-mf4770n-for-windows-1087/"><u>Updating Drives with MF4770n for Windows 10/8/7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win-10-upgrade-print-says-no/"><u>Win 10 Upgrade - Print Says No</u></a></li>
+</ul></div>

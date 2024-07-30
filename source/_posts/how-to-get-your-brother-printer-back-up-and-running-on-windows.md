@@ -1,7 +1,7 @@
 ---
 title: How to Get Your Brother Printer Back Up & Running on Windows
-date: 2024-07-10T16:42:45.196Z
-updated: 2024-07-11T16:42:45.196Z
+date: 2024-07-29T00:27:44.972Z
+updated: 2024-07-30T00:27:44.972Z
 tags:
   - win11
   - win10
@@ -43,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 
  It’s necessary for you to do some basic checks before heading into the more complicated fixes. First off, make sure the connection status between the printer and computer is in the normal state.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### If you’re using a USB printer
 
  If you connect the printer to your computer via a USB cable, simply re-plug it and also try another USB port on your computer in case the one you previously used is broken.
@@ -55,15 +58,24 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 2 – Set your Brother printer as the default device
 
  Your computer tends to use the default printer every time you print. Therefore, you should set your Brother printer as the default device to undertake all the print jobs. Here’s how:
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Type**control** in the field and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/2-1-2.jpg)
 2. Select**Small icons** from the drop-down menu next to**View by** . Then, click**Devices and Printers** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/2-2-2.jpg)
 3. Right-click your**Brother printer** and click**Set as default printer** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/2-4.jpg)
 
  Now do some prints to test if this method helps. If yes, then congrats! If not, there’re more fixes to try.
@@ -77,16 +89,25 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 1. On your keyboard, press the**Windows logo** key and**R** at the same time to open the Run box. Type**services.msc** and click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/3-1.jpg)
 2. Right-click**Print Spooler** . If it isn’t running,**Start** this service; if it’s already started, click**Restart** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/3-2.jpg)
 3. After the Print Spooler service is restarted, right-click**Print Spooler** again and click**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/3-3-2.jpg)
 4. Set the**Startup type** to**Automatic** . Then, click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/3-4.jpg)
 
  Now see if your Brother printer returns to normal and acts the way it should. If the same problem occurs, the culprit may be your printer driver, and please check out Fix 4.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 4 – Update your printer driver
 
  A range of printer-related problems is caused by a wrong or out-of-date printer driver. So if you’re troubled by the non-working Brother printer, be sure to update its driver and see if the problem gets resolved. There’re two options for you:**[manually](#option1)** or**[automatically](#option2)** .
@@ -128,12 +149,26 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 1. Click the**Start** button. Then, type**services** in theWindows search box and click**Services** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/4-1-4.jpg)
 2. Right-click**Print Spooler** and click**Stop** . Then, minimize the Services window.  
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/4-2-2.jpg)
 3. On your keyboard, press the**Windows logo key** and**E** at the same time to open the File Explorer.
 4. Copy the address_**%windir%\\System32\\spool\\PRINTERS**_ and paste it to the address bar. Then, press**Enter** on your keyboard.  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/4-3-3.jpg)
 5. Delete all the files in that folder.
 6. Re-open the Services window. Then, click**Print Spooler** and click**Start** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/4-5-1.jpg)
 
  After you finish the steps above, restart your PC for the changes to take effect. Then, test if your Brother printer works as intended. If not, try the next fix.
@@ -148,8 +183,15 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -158,12 +200,19 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 7 – Print from other programs
 
  Sometimes, the Brother printer not printing issue only happens with certain programs. You can test the printer by**printing from another program** . If it works well, the problem lies in the application you run and you should contact its vendor or developer for further assistance. But if the problem remains, please proceed to the last fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 8 – Factory reset your Brother printer
 
  If none of the methods above works for you, a factory reset should be your last resort. Please note that this action will remove all the printer settings and archives.
@@ -196,3 +245,46 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-become-a-kinemaster-wizard-essentials-techniques-and-10-top-online-contenders/"><u>[New] Become a KineMaster Wizard  Essentials, Techniques & 10 Top Online Contenders</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-discovering-the-stars-that-sparkle-in-your-domains-social-space/"><u>[New] Discovering the Stars that Sparkle in Your Domain's Social Space</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-filters-to-elevate-submerged-photography/"><u>[New] Prime Filters to Elevate Submerged Photography</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-secure-and-seamless-file-sharing-with-20-preferred-no-fee-services/"><u>[New] Secure & Seamless File Sharing with 20 Preferred No-Fee Services</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamline-your-view-adding-captions-on-windows-media-player/"><u>[New] Streamline Your View  Adding Captions on Windows Media Player</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-essential-tech-for-effective-pc-image-capture-the-5-best-for-2024/"><u>[Updated] Essential Tech for Effective PC Image Capture, The 5 Best for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-pro-level-playback-advanced-techniques-for-capturing-minecraft-games-on-mac-for-2024/"><u>[Updated] Pro-Level Playback  Advanced Techniques for Capturing Minecraft Games on Mac for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-xiaomi-14-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/active-directory-unavailable-print-error-noted/"><u>Active Directory Unavailable, Print Error Noted</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/avoiding-printer-isolation-brothers-network-recovery-plan/"><u>Avoiding Printer Isolation: Brother's Network Recovery Plan</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/become-a-vr-trailblazer-with-your-mobile-device-for-2024/"><u>Become a VR Trailblazer with Your Mobile Device for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/boosting-mf4770n-integration-with-win-1087/"><u>Boosting MF4770n Integration with Win 10/8/7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/bridge-the-gap-reactivate-and-recover-from-printer-disconnect/"><u>Bridge the Gap: Reactivate and Recover From Printer Disconnect</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/conquer-non-printing-on-canon-uncover-5-easy-methods-for-windows-11-enthusiasts/"><u>Conquer Non-Printing on Canon - Uncover 5 Easy Methods for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/correct-windows-11-printer-connection-fails/"><u>Correct Windows 11 Printer Connection Fails</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/decode-facebooks-algorithm-change-and-protect-your-reach/"><u>Decode Facebook’s Algorithm Change & Protect Your Reach</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/decoding-pcl-xl-hurdles-quickly-and-smoothly/"><u>Decoding PCL XL Hurdles Quickly and Smoothly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/disconnect-printer-reconnect-windows-easily/"><u>Disconnect Printer, Reconnect Windows Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-quick-ways-to-adjust-your-computers-sound-output-in-windows-11/"><u>Discover Quick Ways to Adjust Your Computer's Sound Output in Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/endless-white-printouts-deciphering-the-epson-mishap/"><u>Endless White Printouts: Deciphering the Epson Mishap</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/error-elimination-windows-printer-setback-0x00000709/"><u>Error Elimination: Windows Printer Setback (0X00000709)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/from-frustration-to-functionality-blank-page-cured/"><u>From Frustration to Functionality: Blank Page Cured</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-delete-inactive-printers-in-windows-easy-way/"><u>How To Delete Inactive Printers in Windows Easy Way</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-nokia-c110-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Nokia C110 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-12-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, iPhone 12 Pro Max Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/navigating-through-windows-setup-for-your-new-hp-device/"><u>Navigating Through Windows Setup for Your New HP Device</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/optimized-installation-process-hp-officejet-pro-8600-windows-driver/"><u>Optimized Installation Process: HP OfficeJet Pro 8600 Windows Driver</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-printer-disconnection-challenges/"><u>Overcoming Printer Disconnection Challenges</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-pen-pad-glitches/"><u>Overcoming Windows Pen-Pad Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/protect-your-pc-identifying-the-7-most-suspicious-windows-processes/"><u>Protect Your PC: Identifying the 7 Most Suspicious Windows Processes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pulse-picking-playlists-hot-tracks-for-viral-youtube-shorts-for-2024/"><u>Pulse-Picking Playlists  Hot Tracks for Viral YouTube Shorts for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reduce-latency-in-printing-routine/"><u>Reduce Latency in Printing Routine</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-scanner-issue-on-windows-11/"><u>Resolving Scanner Issue on Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/seamless-printing-setup-for-hp-and-laptops-immediate-solutions/"><u>Seamless Printing Setup for HP & Laptops - Immediate Solutions</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/stellar-data-recovery-windows/"><u>Stellar Data Recovery(ステラ・データリカバリ): Windows用無料プログラムで、簡単に安全なデータ修復が可能</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unused-printer-new-machine-alert/"><u>Unused Printer: New Machine Alert</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win11-rev-fixes-resurrected-non-printing-printer/"><u>Win11 Rev Fixes: Resurrected Non-Printing Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win7-offline-printer-back-online/"><u>Win7 Offline Printer Back Online</u></a></li>
+</ul></div>

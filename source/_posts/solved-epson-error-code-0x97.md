@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Epson Error Code 0X97"
-date: 2024-07-10T16:49:01.507Z
-updated: 2024-07-11T16:49:01.507Z
+date: 2024-07-29T00:30:18.719Z
+updated: 2024-07-30T00:30:18.719Z
 tags:
   - win11
   - win10
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 3. **[Run the Windows printer troubleshooter](#c)**
 4. **[Update your printer driver](#d)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ### Fix 1: Reboot your printer
 
  A simple reboot can address many common printer issues. Try restarting your printer to see if that also works for you. Here is how:
@@ -48,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 
 **6)** Release power button, then check your printer to see if you still get the error message.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Check your ink cartridges
 
  This problem might occur when your cartridges are clogged or disconnected from your printer. So, you should check your cartridges.
@@ -66,6 +72,9 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 
  Make sure your cartridges all work properly, and then reopen your printer to test your issue. If your problem still exists, check the fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Run the Windows printer troubleshooter
 
  Another quick fix to error code 0x97 is running the Windows printer troubleshooter. Here is how to do it:
@@ -92,6 +101,9 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 
 **4)**  Click **Next** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-845.png)
 
  Wait for your computer to automatically detect your printer issue, and then follow the on-screen instructions to fix it. If no printer issue is identified, try [**fix 4**](#d) , below.
@@ -100,10 +112,17 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 
 **1)**  On your keyboard, press the **Windows logo** key and type **troubleshooting** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-846.png)
 
 **2)**  Select **Troubleshooting settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-847.png)
 
 **3)** Click **Printer,**  and then click **Run the troubleshooter** .
@@ -112,6 +131,9 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 
  Wait for the troubleshooting process to be complete, then reopen your printer to check if this fixed your issue. If not, read on and check the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4: Update your printer driver
 
  This problem may occur if you’re using the wrong Epson driver or it’s out of date. It’s essential to keep your printer driver up-to-date at all times.
@@ -182,3 +204,45 @@ OR
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-easy-path-from-spotify-to-youtube-discover-the-best-playlist-tools/"><u>[New] Easy Path From Spotify to YouTube  Discover the Best Playlist Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-virtual-worlds-with-samsung-gear-vr-games/"><u>[New] Exploring Virtual Worlds with Samsung Gear VR Games</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-boosting-your-youtube-presence-key-tips-for-popularity-for-2024/"><u>[Updated] Boosting Your YouTube Presence  Key Tips for Popularity for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-prime-nintendo-switch-fighting-game-guide-max-156/"><u>[Updated] Prime Nintendo Switch Fighting Game Guide (Max 156)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-bring-back-faded-watch-icon-artwork/"><u>2024 Approved  Bring Back Faded Watch Icon Artwork</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/another-computer-is-using-the-printer-solved/"><u>Another Computer Is Using the Printer [Solved]</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719573890689-canon-printer-woes-here-are-your-five-easy-fixes-in-windows-11/"><u>Canon Printer Woes? Here Are Your Five Easy Fixes in Windows 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/chorus-collective-recordings-downloads-and-evaluation-for-2024/"><u>Chorus Collective  Recordings, Downloads & Evaluation for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/finding-the-right-hp-d1360-print-drivers-in-windows-ecosystems/"><u>Finding the Right HP D1360 Print Drivers in Windows Ecosystems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixation-on-pcl-xl-a-handy-manual/"><u>Fixation on PCL XL: A Handy Manual</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-the-printing-glitch-error-0x00000709-resolved/"><u>Fixed the Printing Glitch - Error 0X00000709 Resolved</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-blank-page-syndrome-in-print-devices/"><u>Fixing Blank Page Syndrome in Print Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gopro-face-by-face-guide-to-selectivity/"><u>Gopro Face-By-Face Guide to Selectivity</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-react-printer-disconnects-during-print-job/"><u>How To React: Printer Disconnects During Print Job</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-c51-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme C51 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-set-up-a-wireless-printer-with-hp-color-life-series/"><u>How To: Set Up a Wireless Printer with HP Color Life Series</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-g310-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-x-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone X Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mastering-printer-fault-resolutions/"><u>Mastering Printer Fault Resolutions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mfc-9330-installation-made-simple/"><u>MFC-9330 Installation Made Simple</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/not-all-colors-printing-as-expected/"><u>Not All Colors Printing as Expected</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-no-response-issues-with-hp-printers/"><u>Overcoming No Response Issues with HP Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-post-update-printer-glitches/"><u>Overcoming Post-Update Printer Glitches</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574064539-post-update-printer-problem-resolved-and-happy-again/"><u>Post-Update Printer Problem: Resolved and Happy Again</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/precision-in-pages-a-success-story-for-printers/"><u>Precision in Pages: A Success Story for Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-default-error-code-0x00000709-resolved/"><u>Printer Default Error Code 0X00000709 Resolved</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-fault-ad-services-out-of-service/"><u>Printer Fault: AD Services Out of Service</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574178084-printer-woes-in-windows-11-help-needed/"><u>Printer Woes in Windows 11 - Help Needed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printers-now-consistently-full-page-output/"><u>Printers Now Consistently Full-Page Output</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printing-dilemma-config-issue-detected/"><u>Printing Dilemma: Config Issue Detected</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/recommendations-for-reactivating-hp-print-headless-systems/"><u>Recommendations for Reactivating HP Print Headless Systems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reignite-your-brother-printers-print-function-on-windows-1011/"><u>Reignite Your Brother Printer's Print Function on Windows 10/11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-issue-code-b200/"><u>Resolved Issue Code B200</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-inactive-hp-printing-units/"><u>Reviving Inactive HP Printing Units</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/select-selections-exciting-cardboard-friendly-virtual-reality-titles/"><u>Select Selections  Exciting Cardboard-Friendly Virtual Reality Titles</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tackled-ink-cartridge-error/"><u>Tackled Ink Cartridge Error</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unplugging-and-removing-a-secondary-printer-from-os/"><u>Unplugging and Removing a Secondary Printer From OS</u></a></li>
+</ul></div>
