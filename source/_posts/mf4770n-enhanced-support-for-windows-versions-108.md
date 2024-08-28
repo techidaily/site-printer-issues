@@ -1,7 +1,7 @@
 ---
 title: MF4770n Enhanced Support for WIndows Versions 10/8
-date: 2024-07-10T17:14:23.206Z
-updated: 2024-07-11T17:14:23.206Z
+date: 2024-08-27T02:19:10.502Z
+updated: 2024-08-28T02:19:10.502Z
 tags:
   - win11
   - win10
@@ -39,6 +39,9 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ### **Option 2: Update your Canon MF4770n driver manually**
 
  Canon keeps updating drivers. To get them, you need to go to Canon’s official website, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
@@ -47,8 +50,17 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 1. Go to **[Canon’s official website](https://www.usa.canon.com/internet/portal/us/home)**  , type **Canon MF4770n** in the box, and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03f1a0cf44c.png)
 2. Under **imageCLASS MF4770n** , click**Drivers & Downloads** .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03db4a0d862.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 3. Scroll down the new page to the bottom and a list of printer drivers compatible with your operating system will be listed (**Windows 10** ,**x64** in my case). Click**the first result** to make sure you download the latest driver release. Then click**DOWNLOAD** .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03db3044199.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 4. Double-click on the downloaded file and follow the on-screen instructions to finish the installation.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 5. Restart your computer for the changes to take effect even if you’re not asked to.
 6. Skip this step if you can scan over a network/with a USB connection in your Windows system. But if you fail to do in either of them, you might need to go back to the download page to download & install a patch for it. Follow the prompts to so that the patch can solve the issue for you.
 
@@ -77,3 +89,47 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://printer-issues.techidaily.com/drivers-canon-mp620-not-found-on-11th-edition-windows/"><u>[Drivers] Canon MP620 Not Found on 11Th Edition Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-usb-printers-unresponsive-in-win7-hibernate/"><u>[Fixed] USB Printers Unresponsive in Win7 Hibernate</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-the-easy-guide-to-youtube-to-avi-conversion-technology/"><u>[New] 2024 Approved  The Easy Guide to YouTube-to-AVI Conversion Technology</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-free-guide-to-premium-mp4-screen-recorders-for-2024/"><u>[New] Free Guide to Premium MP4 Screen Recorders for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfect-your-mobile-photos-the-best-no-cost-slo-mo-camera-apps-guide/"><u>[New] Perfect Your Mobile Photos  The Best No-Cost Slo-Mo Camera Apps Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-film-like-a-pro-with-macbook-webcam-tutorial/"><u>[Updated] 2024 Approved  Film Like a Pro with MacBook Webcam Tutorial</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtubes-mini-millionaire-how-a-kid-earned-big-bucks-daily/"><u>[Updated] YouTube's Mini Millionaire  How a Kid Earned Big Bucks Daily</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-intimate-filmmaking-approaches/"><u>2024 Approved  Expert Tips for Intimate Filmmaking Approaches</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-from-iphone-8-plus-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock from iPhone 8 Plus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-crucial-strategies-to-salvage-a-frozen-windows-service-panel/"><u>7 Crucial Strategies to Salvage a Frozen Windows Service Panel</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/accelerate-queued-print-processes/"><u>Accelerate Queued Print Processes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ad-ds-service-down-unable-to-print/"><u>AD DS Service Down: Unable To Print</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/black-and-white-only-mode-engaged-by-printer/"><u>Black & White Only Mode Engaged by Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/cannot-find-hp-printer-drivers-on-win1110/"><u>Cannot Find HP Printer Drivers on Win11/10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/conquerors-of-the-past-the-prime-7-battle-simulations-for-2024/"><u>Conquerors of the Past  The Prime 7 Battle Simulations for 2024</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-huawei-p60-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Huawei P60 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eliminate-persistent-failures-of-the-print-spooler-service/"><u>Eliminate Persistent Failures of the Print Spooler Service</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enabling-wi-fi-directly-for-canon-printers/"><u>Enabling Wi-Fi Directly for Canon Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/error-b200-now-solved/"><u>Error B200 Now Solved</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-scanned-device-connection-issue-on-win10/"><u>Fixing Scanned Device Connection Issue on Win10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-transfer-playlists-between-music-services-for-2024/"><u>How to Transfer Playlists Between Music Services for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Lava Blaze 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-laserjet-stopped-printing-fixed-now/"><u>HP LaserJet Stopped Printing - Fixed Now</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-14-pro-the-right-way-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock On iPod and Apple iPhone 14 Pro The Right Way</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-frugal-filmmakers-choice-best-cameras-at-low-costs/"><u>In 2024, The Frugal Filmmaker's Choice  Best Cameras at Low Costs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/instantpause-live-image-save-tips-for-2024/"><u>InstantPause  Live Image Save Tips for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-the-world-of-filmmaking-best-cameras-for-novices/"><u>Navigating the World of Filmmaking  Best Cameras for Novices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/paper-predicament-overcome-printer-setup-fix-for-windows-0x00000709/"><u>Paper Predicament Overcome: Printer Setup Fix for Windows (0X00000709)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-setup-no-complications-found/"><u>Print Setup: No Complications Found</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-woes-ended-new-windows-solved-issue/"><u>Printer Woes Ended: New Windows Solved Issue</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-woes-in-windows-11-help-needed/"><u>Printer Woes in Windows 11 - Help Needed!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/setting-up-canon-printer-with-ease-on-wi-fi/"><u>Setting Up Canon Printer with Ease on Wi-Fi</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamline-your-soundtrack-exchanging-playlists-seamlessly-for-2024/"><u>Streamline Your Soundtrack  Exchanging Playlists Seamlessly for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/streamlined-connection-solutions-joining-your-laptop-and-hp-printer/"><u>Streamlined Connection Solutions: Joining Your Laptop and HP Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unable-to-print-colored-images/"><u>Unable to Print Colored Images</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unexpected-print-glitch-detected/"><u>Unexpected Print Glitch Detected</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unforeseen-print-malfunction-noted/"><u>Unforeseen Print Malfunction Noted</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-scanner-now-functional/"><u>Windows 11: Scanner Now Functional</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/zeroing-in-on-the-cause-of-hp-printers-white-sheets/"><u>Zeroing In on the Cause of HP Printer’s White Sheets</u></a></li>
+</ul></div>

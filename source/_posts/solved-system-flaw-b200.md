@@ -1,7 +1,7 @@
 ---
 title: "Solved: System Flaw B200"
-date: 2024-07-10T17:20:53.132Z
-updated: 2024-07-11T17:20:53.132Z
+date: 2024-08-27T02:16:31.727Z
+updated: 2024-08-28T02:16:31.727Z
 tags:
   - win11
   - win10
@@ -75,6 +75,9 @@ There are two ways you can update your printer driver:
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](mailto:support@drivereasy.com) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### Fix 2: Check your ink cartridges
 
  Printer errors sometimes appear because the ink cartridge is not properly installed or it’s damaged. So, you should check if your cartridges are working fine. Here is what you should check:
@@ -87,6 +90,13 @@ There are two ways you can update your printer driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/toner-581905_1920-1024x768.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 #### Check the ink levels on your printer
 
  Check the ink levels on your Canon printer and replace your cartridges if necessary.
@@ -99,10 +109,16 @@ There are two ways you can update your printer driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/cartridges-828195_1920-1-1024x981.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Make sure your cartridges all work properly, then reinstall it.
 
  Now, reopen your Canon printer. If your problem still exists, try the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Clean the printhead
 
  The Error B200 is most likely to occur when the printhead is clogged. Follow the instructions below to clean the printhead:
@@ -146,3 +162,59 @@ The printhead is very delicate. Please proceed with caution.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://printer-issues.techidaily.com/compatibility-issue-canon-pixma-mp620-and-win10-not-linked/"><u>[Compatibility Issue] Canon Pixma MP620 & WIN10 Not Linked</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/network-fix-windows-810-printer-missing-issue/"><u>[Network Fix] Windows 8/10 Printer Missing Issue</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-gaming-streams-best-recording-programs/"><u>[New] 2024 Approved  Gaming Streams  Best Recording Programs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-augmenting-realities-for-better-outcomes/"><u>[New] Augmenting Realities for Better Outcomes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-change-your-virtual-rooms-palette-with-google-meet-for-2024/"><u>[New] Change Your Virtual Room's Palette with Google Meet for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-instagram-share-of-todays-thought-provoking-talk/"><u>[Updated] 2024 Approved  Instagram Share of Today's Thought-Provoking Talk</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-capture-clearness-without-a-tripod-tool/"><u>[Updated] Capture Clearness Without a Tripod Tool</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-premium-mac-capture-software-substitutes-for-bandicam/"><u>[Updated] In 2024, Premium Mac Capture Software Substitutes for Bandicam</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-isprings-screen-recording-explored/"><u>2024 Approved  ISpring's Screen Recording Explored</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/a-visual-process-guide-on-setting-up-your-canon-printer/"><u>A Visual Process Guide on Setting up Your Canon Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/accelerated-release-of-print-queued-tasks/"><u>Accelerated Release of Print Queued Tasks</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ceased-non-printer-error-on-hp-laserjet-pro-m637/"><u>Ceased Non-Printer Error on HP LaserJet Pro M637</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/crafting-video-narratives-with-chiseled-chapters-on-vimeo/"><u>Crafting Video Narratives with Chiseled Chapters on Vimeo</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/design-wizards-perfect-templates-for-gaming-channel-logos-for-2024/"><u>Design Wizards  Perfect Templates for Gaming Channel Logos for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-affordable-tech-marvels-with-our-comprehensive-oneplus-nord-n100-assessment/"><u>Discovering Affordable Tech Marvels with Our Comprehensive OnePlus Nord N100 Assessment</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-essential-hp-software-updates-and-assistance-programs/"><u>Download Essential HP Software Updates & Assistance Programs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/easy-route-reconnecting-print-devices/"><u>Easy Route: Reconnecting Print Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-print-troubleshoot-0x97/"><u>Epson Print Troubleshoot: 0X97</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/error-eradicated-printer-for-epson-works/"><u>Error Eradicated: Printer for Epson Works</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/explore-8-leading-youtube-growth-strategies/"><u>Explore 8 Leading Youtube Growth Strategies</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-wireless-printing-issue-with-hp-envy-5680v5/"><u>Fixed Wireless Printing Issue with HP Envy 5680V5</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guide-to-overcoming-silent-hp-network-printers/"><u>Guide to Overcoming Silent HP Network Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-reestablish-link-with-your-canon-printer/"><u>How to Reestablish Link With Your Canon Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-revive-unresponsive-canon-printer/"><u>How to Revive Unresponsive Canon Printer?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-set-up-and-install-a-canon-printer-with-photos/"><u>How to Set Up and Install a Canon Printer with Photos</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/improve-print-quality-fixing-win10-drivers/"><u>Improve Print Quality: Fixing WIN10 Drivers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-realme-narzo-n55-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Realme Narzo N55 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/inside-ppros-full-screen-vista-your-handbook-for-2024/"><u>Inside PPro's Full-Screen Vista  Your Handbook for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/installation-tips-for-seamlessly-connecting-your-hp-officejet-4500i/"><u>Installation Tips for Seamlessly Connecting Your HP Officejet 4500I</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/latest-software-for-hp-officejet-4630-installation/"><u>Latest Software for HP Officejet 4630 Installation</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mastering-the-art-of-fixing-printer-problems-after-win-10/"><u>Mastering the Art of Fixing Printer Problems After Win 10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mended-printer-not-responding/"><u>Mended Printer Not Responding</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/non-responsive-printer-halted-what-to-do/"><u>Non-Responsive Printer Halted, What to Do?</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/pioneering-photography-rescue-technology-from-stellar-the-first-of-its-kind-in-the-industry/"><u>Pioneering Photography Rescue Technology From Stellar: The First of Its Kind in the Industry</u></a></li>
+<li><a href="https://driver-error.techidaily.com/preventative-measures-for-stable-nvidia-codes/"><u>Preventative Measures for Stable Nvidia Codes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-drive-issue-cant-connect-on-pc/"><u>Printer Drive Issue: Can't Connect on PC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printing-anomaly-linked-to-unknown-pc/"><u>Printing Anomaly Linked to Unknown PC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reconnected-print-spooler-in-win7/"><u>Reconnected Print Spooler in Win7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-frequent-spooler-halt-issues-on-pcs-running-windows/"><u>Resolving Frequent Spooler Halt Issues on PCs Running Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-intermittent-printer-spooler-halt-in-win-117/"><u>Resolving Intermittent Printer Spooler Halt in Win 11/7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reversing-printer-freezes/"><u>Reversing Printer Freezes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revive-windows-9598-print-jobs-that-wont-respond/"><u>Revive Windows 95/98 Print Jobs That Won't Respond</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/second-pc-same-printer-issue-resolved/"><u>Second PC, Same Printer Issue? Resolved</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solving-error-epson-fault-code/"><u>Solving Error: Epson Fault Code</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/speed-up-unresolved-printer-queue-issue/"><u>Speed Up Unresolved Printer Queue Issue</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/swift-repair-for-xerox-error-alert-0x1/"><u>Swift Repair for Xerox Error Alert 0X1</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-switcheroo-rearranging-yt-lists-in-a-minute-for-2024/"><u>Swift Switcheroo  Rearranging YT Lists in a Minute for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-in-depth-analysis-of-cutting-edge-electronics/"><u>Tom's Tech Reviews: In-Depth Analysis of Cutting-Edge Electronics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-5-easy-android-image-fixes/"><u>Top 5 Easy Android Image Fixes</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-free-avi-video-combiner-top-10-options-to-join-avi-files/"><u>Updated Free AVI Video Combiner Top 10 Options to Join AVI Files</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/usb-printer-fails-to-respond-post-suspend-win7/"><u>USB Printer Fails to Respond Post Suspend, Win7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/winnt2000-reactivate-sluggish-printer-response/"><u>WinNT/2000: Reactivate Sluggish Printer Response</u></a></li>
+</ul></div>
