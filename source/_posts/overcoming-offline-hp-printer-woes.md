@@ -1,7 +1,7 @@
 ---
 title: Overcoming Offline HP Printer Woes
-date: 2024-08-08T01:10:37.772Z
-updated: 2024-08-09T01:10:37.772Z
+date: 2024-09-04T06:17:51.830Z
+updated: 2024-09-05T06:17:51.830Z
 tags:
   - win11
   - win10
@@ -32,46 +32,26 @@ This post helps you with your HP Printer showing Offline status on Windows 10 an
 
 5) Click**Printer**tab. Then click **Pause Printing**and**Use Printer Offline** to remove the check marks in front of them.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59116adeabdce.png)
 
 6) See if your printer goes offline again.   **Step 3: Reset Printer**1) Turn on your printer first if it is off. 2) With your printer on, disconnect the power cord from the printer. 3) Unplug the power cord from the wall outlet. 4) Wait for at least 1 minute. Restart your PC. 5) Plug the power cord back onto the wall. 6) Then reconnect the power cord to your printer. 7) Press the power button to turn on your printer if it is not on. 8) Make sure that the printer is connected to the computer or the network. 9) See if you can print now. If the Offline status remains, you need to follow the steps below.   **Step 4: Update Printer Firmware**HP regularly releases new printer firmware versions for its inkjet and LaserJet series. The newer version of firmware allows your printer to work more smoothly and fix minor issues. To update the firmware for your printer: 1) You can update directly from the printer. To do so, you need to check your printer manual for more detailed information since the workarounds differ on different printers. 2) If updating via the printer is not working for you, there is always an alternative. You can update your printer firmware from the HP website. 2.1) Make sure that your printer is connected to your PC. 2.2) Go to HP support, then navigate to**Software and Drivers**tab. Type in the model of your printer and hit**Enter**.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59117525811c5.png)
 
 2.3) Select your operating system first. Then scroll down a little bit to locate category**Firmware**. Hit**Download**button to get it downloaded.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59117685a92e9.png)
 
 2.4) When the download finishes, just follow the on-screen instructions to get the update installed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591177c2c8bfa.jpg)
 
  **Step 5: Update Printer Driver**1) On your keyboard, click**Windows** key, then choose**Control Panel**. In Control Panel window, choose to View by**Large icons**and then choose**Devices and Printer**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591168191af0d.jpg)
 
 2) Right click your default printer, then choose**Remove device**.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5911795ec9d1b.png)
 
 3) Go to**HP support –** **Software and Drivers**. Then type in the model of your printer and hit**Enter**.
@@ -167,3 +147,10 @@ If at the end, you are not satisfied with the service or the product, just ask f
 <li><a href="https://facebook-clips.techidaily.com/unveiling-the-powerhouse-techniques-in-facebooks-360-streaming/"><u>Unveiling the Powerhouse Techniques in Facebook's 360 Streaming</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Why does the pokemon go battle league not available On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

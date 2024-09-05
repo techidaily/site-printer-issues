@@ -1,7 +1,7 @@
 ---
 title: "Hardware Setup: Successful Driver Installation for HP D1360?"
-date: 2024-08-08T01:09:35.820Z
-updated: 2024-08-09T01:09:35.820Z
+date: 2024-09-04T06:17:50.626Z
+updated: 2024-09-05T06:17:50.626Z
 tags:
   - win11
   - win10
@@ -98,5 +98,8 @@ thumbnail: https://thmb.techidaily.com/c0270bb78c702f180d69e641fb9f373f4cd07e8ef
 </ul></div>
 
 <!-- affiliate ads begin -->
-
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Printers Not Responding Post Wake From Sleep, W7
-date: 2024-08-08T01:08:08.562Z
-updated: 2024-08-09T01:08:08.562Z
+date: 2024-09-04T06:17:49.098Z
+updated: 2024-09-05T06:17:49.098Z
 tags:
   - win11
   - win10
@@ -24,16 +24,10 @@ If printer drivers are outdated or missing, the printer won’t work properly. Y
   
  1\. In Device Manager, expand category “Print queues”. Under this category, right click on your printer device and select   **Update Driver Software…**
   
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_5732f97719a2a.png)
   
 2\. Click **Search automatically for updated driver software**  . Then Windows will update the driver automatically.  
   
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57318a2bd0396.png)
 
 If Windows doesn’t update the driver successfully, you can go to your printer manufacturer’s website to check and download the latest drivers manually. To download the right drivers, you are required to know your printer’s model number and the specific operating system (Windows 32-bit or Windows 64-bit).
@@ -48,23 +42,14 @@ If your printer drivers are up-to-date and the problem persists, the program mig
   
 1\. In Device Manager, expand category “Universal Serial Bus controllers” and Double-click on the**USB Root Hub**device.  
   
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_5732ffa8e7d2c.png)
 
 2\. Click the**Power Management**tab.(if there’s more than one USB Root Hub device, repeat these steps for each one.)  
   
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_5732fd294c22d.png)
 
 3\. Turn off the**Allow the computer to turn off this device to save power**option, and click**OK**when you’re done.  
   
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_5732fd3b93f59.png)
   
  Try solutions above, and your USB printer should work again.
@@ -124,3 +109,10 @@ If your printer drivers are up-to-date and the problem persists, the program mig
 <li><a href="https://printer-issues.techidaily.com/windows-11-scanner-no-longer-offline/"><u>Windows 11: Scanner No Longer Offline</u></a></li>
 <li><a href="https://printer-issues.techidaily.com/windows-update-the-silent-printer/"><u>Windows Update: The Silent Printer</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

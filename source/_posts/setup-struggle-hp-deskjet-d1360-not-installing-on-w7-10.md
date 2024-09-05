@@ -1,7 +1,7 @@
 ---
 title: "[Setup Struggle] HP Deskjet D1360 Not Installing on W7-10"
-date: 2024-08-08T01:09:09.270Z
-updated: 2024-08-09T01:09:09.270Z
+date: 2024-09-04T06:17:50.172Z
+updated: 2024-09-05T06:17:50.172Z
 tags:
   - win11
   - win10
@@ -124,5 +124,8 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

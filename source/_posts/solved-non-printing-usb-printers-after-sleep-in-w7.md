@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Non-Printing USB Printers After Sleep in W7"
-date: 2024-08-08T01:10:03.451Z
-updated: 2024-08-09T01:10:03.451Z
+date: 2024-09-04T06:17:51.138Z
+updated: 2024-09-05T06:17:51.138Z
 tags:
   - win11
   - win10
@@ -24,16 +24,10 @@ If printer drivers are outdated or missing, the printer won’t work properly. Y
   
  1\. In Device Manager, expand category “Print queues”. Under this category, right click on your printer device and select   **Update Driver Software…**
   
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_5732f97719a2a.png)
   
 2\. Click **Search automatically for updated driver software**  . Then Windows will update the driver automatically.  
   
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57318a2bd0396.png)
 
 If Windows doesn’t update the driver successfully, you can go to your printer manufacturer’s website to check and download the latest drivers manually. To download the right drivers, you are required to know your printer’s model number and the specific operating system (Windows 32-bit or Windows 64-bit).
@@ -48,24 +42,14 @@ If your printer drivers are up-to-date and the problem persists, the program mig
   
 1\. In Device Manager, expand category “Universal Serial Bus controllers” and Double-click on the**USB Root Hub**device.  
   
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_5732ffa8e7d2c.png)
 
 2\. Click the**Power Management**tab.(if there’s more than one USB Root Hub device, repeat these steps for each one.)  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_5732fd294c22d.png)
 
 3\. Turn off the**Allow the computer to turn off this device to save power**option, and click**OK**when you’re done.  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_5732fd3b93f59.png)
   
  Try solutions above, and your USB printer should work again.
@@ -135,3 +119,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 <li><a href="https://printer-issues.techidaily.com/1719574163521-windows-11-printer-woes-time-to-act/"><u>Windows 11 Printer Woes? Time to Act!</u></a></li>
 <li><a href="https://printer-issues.techidaily.com/zeroing-out-error-0x00000709-for-printer-settings/"><u>Zeroing Out Error 0X00000709 for Printer Settings</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

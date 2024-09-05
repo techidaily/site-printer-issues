@@ -1,7 +1,7 @@
 ---
 title: Streamlining Document Output on Windows/HP
-date: 2024-08-08T01:10:51.869Z
-updated: 2024-08-09T01:10:51.869Z
+date: 2024-09-04T06:17:52.086Z
+updated: 2024-09-05T06:17:52.086Z
 tags:
   - win11
   - win10
@@ -28,23 +28,14 @@ This post helps you with your HP Printer showing Offline status on Windows 10 an
 
 4) Now, right click the icon for your default printer and select**See what’s printing**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5911699b1677c.jpg)
 
 5) Click**Printer**tab. Then click **Pause Printing**and**Use Printer Offline** to remove the check marks in front of them.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59116adeabdce.png)
 
 6) See if your printer goes offline again.   **Step 3: Reset Printer**1) Turn on your printer first if it is off. 2) With your printer on, disconnect the power cord from the printer. 3) Unplug the power cord from the wall outlet. 4) Wait for at least 1 minute. Restart your PC. 5) Plug the power cord back onto the wall. 6) Then reconnect the power cord to your printer. 7) Press the power button to turn on your printer if it is not on. 8) Make sure that the printer is connected to the computer or the network. 9) See if you can print now. If the Offline status remains, you need to follow the steps below.   **Step 4: Update Printer Firmware**HP regularly releases new printer firmware versions for its inkjet and LaserJet series. The newer version of firmware allows your printer to work more smoothly and fix minor issues. To update the firmware for your printer: 1) You can update directly from the printer. To do so, you need to check your printer manual for more detailed information since the workarounds differ on different printers. 2) If updating via the printer is not working for you, there is always an alternative. You can update your printer firmware from the HP website. 2.1) Make sure that your printer is connected to your PC. 2.2) Go to HP support, then navigate to**Software and Drivers**tab. Type in the model of your printer and hit**Enter**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59117525811c5.png)
 
 2.3) Select your operating system first. Then scroll down a little bit to locate category**Firmware**. Hit**Download**button to get it downloaded.
@@ -57,10 +48,6 @@ This post helps you with your HP Printer showing Offline status on Windows 10 an
 
  **Step 5: Update Printer Driver**1) On your keyboard, click**Windows** key, then choose**Control Panel**. In Control Panel window, choose to View by**Large icons**and then choose**Devices and Printer**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591168191af0d.jpg)
 
 2) Right click your default printer, then choose**Remove device**.
@@ -69,20 +56,8 @@ This post helps you with your HP Printer showing Offline status on Windows 10 an
 
 3) Go to**HP support –** **Software and Drivers**. Then type in the model of your printer and hit**Enter**.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59117a6551ccd.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 4) Choose your**operating system**, then scroll down a little bit to the**Driver-Product Installation Software**category. Then hit the**Download**button to get the driver downloaded. ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59117ab57d171.jpg) 5) Then follow the instructions to get your printer driver updated! As an alternative, you can always have a try at [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/), with its free version being equally capable with the pro version, which is an automatic driver updater that helps you detect and download needed device drivers for your devices. The work-arounds are very easy. Just hit the**Scan Now**button, and then the**Update**button, and you are getting your HP printer driver updated! ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59082bf6a612b.jpg)
 
  If you choose the [**pro version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/) , not only will you have full access to all the amazing features and functions in Driver Easy, you will also receive help from our skilled and experienced technicians with your driver problems.
@@ -155,3 +130,10 @@ If at the end, you are not satisfied with the service or the product, just ask f
 <li><a href="https://printer-issues.techidaily.com/unlocking-hp-printer-connectivity-issues/"><u>Unlocking HP Printer Connectivity Issues</u></a></li>
 <li><a href="https://printer-issues.techidaily.com/windows-printer-spooler-stopped-functioning/"><u>Windows Printer Spooler: Stopped Functioning</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

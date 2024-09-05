@@ -1,7 +1,7 @@
 ---
 title: "[Update Needed] Drivers Not Installing: HP Deskjet D1360 on Windows"
-date: 2024-08-08T01:10:59.668Z
-updated: 2024-08-09T01:10:59.668Z
+date: 2024-09-04T06:17:52.231Z
+updated: 2024-09-05T06:17:52.231Z
 tags:
   - win11
   - win10
@@ -105,5 +105,8 @@ thumbnail: https://thmb.techidaily.com/c8dbce1c74281f36fde9f94890a2f512f0b16b026
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
