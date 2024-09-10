@@ -1,7 +1,7 @@
 ---
 title: Reconnecting Brothers Print to End Offline Status Woes
-date: 2024-09-04T06:17:52.906Z
-updated: 2024-09-05T06:17:52.906Z
+date: 2024-09-09T01:24:01.419Z
+updated: 2024-09-10T01:24:01.419Z
 tags:
   - win11
   - win10
@@ -50,6 +50,12 @@ Here is how to solve the Brother Printer Offline problem:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593fb95ba1bf4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **d)** Your printer is now set as Default Printer.
 
 ## 2) Unpause the printer and set its using online
@@ -62,10 +68,28 @@ Here is how to solve the Brother Printer Offline problem:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59409bcecf2e7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **c)** On the window popping up, click on**Printer** , and then select**Open As Administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940dc98227ab.png)
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **d)** Click on**Printer** again. If you see**Pause Printing** and**Use Printer Offline** are**ticked** ,**untick** these items.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940dd8b9c925.png)
@@ -73,16 +97,10 @@ Here is how to solve the Brother Printer Offline problem:
 **e)** Close the window and see if your printer is back online.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3) Cancel all printer jobs
 
@@ -95,20 +113,62 @@ Here is how to solve the Brother Printer Offline problem:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a25f033a4.png)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **c)**  Hit**Yes** to confirm your action.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a2b245ae5.png)
+
+**d)**  Close the window and see if your printer gets back to normal.
+
+## 4) Update printer firmware
+
+ Sometimes you need to update the firmware of your Brother printer in order to resolve some issues of your device.
+
+ **a)**  Go to [**Brother official software download website**](http://support.brother.com/g/b/productsearch.aspx?c=us&lang=en&content=dl) . Search the product you are using.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a9fc856af.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**b)** On the Downloads page of your printing device, select the**operating system version** you are using and hit**Search** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940ab56a7718.jpg)
+
+**c)**  Scroll down to find**Firmware** section, and select**Firmware Update Tool** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940aba39e231.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**d)** Hit**Agree to the EULA and Download** button at the bottom.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940ac4287cda.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**e)** After the download is completed, open the file and follow its instruction to update the firmware of your printer.
 
 <!-- affiliate ads begin -->
 <span id="1982570">
@@ -122,54 +182,6 @@ Here is how to solve the Brother Printer Offline problem:
 </span>
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-**d)**  Close the window and see if your printer gets back to normal.
-
-## 4) Update printer firmware
-
- Sometimes you need to update the firmware of your Brother printer in order to resolve some issues of your device.
-
- **a)**  Go to [**Brother official software download website**](http://support.brother.com/g/b/productsearch.aspx?c=us&lang=en&content=dl) . Search the product you are using.
-
-![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a9fc856af.png)
-
-**b)** On the Downloads page of your printing device, select the**operating system version** you are using and hit**Search** .
-
-![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940ab56a7718.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-**c)**  Scroll down to find**Firmware** section, and select**Firmware Update Tool** .
-
-![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940aba39e231.png)
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-**d)** Hit**Agree to the EULA and Download** button at the bottom.
-
-![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940ac4287cda.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-**e)** After the download is completed, open the file and follow its instruction to update the firmware of your printer.
-
 ## 5) Update printer driver
 
  Outdated printer driver can cause many issues. You need to ensure the driver of your printer is the latest so your printer can function normally.
@@ -188,20 +200,32 @@ Here is how to solve the Brother Printer Offline problem:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940b2412d1a1.png)
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **e)** Open the file you have downloaded and follow the instruction to install the latest driver and software for your printer.
 
 **\*** In fact, having your drivers updated is one of the most**useful** ways to tackle computer issues. But as you can see updating drivers manually is a little bit**tricky** . If you want a**far less troublesome** method to update drivers, we recommend you to use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It can**quickly** scan out the problematic drivers and download the**latest** and**credible** version of drivers for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940b663b0cc3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  And its **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  is a much more powerful driver management tool. You can update all of your drivers**quickly** and**automatically** with just a few clicks. Plus, you can use this tool to**easily** finish**advanced driver manipulations** such as**driver backup and restore** or**reinstallation** . This is the tool that can**greatly improve your computer performance** and**considerably save your time and energy** .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6) Check your printer
 
  You also need to ensure your printer is**powered on** or**waken from sleep mode** when you see it is offline. In the meantime, check the**LCD screen** of your printer and see if it displays any**error message** that you can troubleshoot.

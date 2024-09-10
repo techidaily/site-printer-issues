@@ -1,7 +1,7 @@
 ---
 title: Win11 HP Paper Jam Resolved
-date: 2024-08-15T03:12:12.154Z
-updated: 2024-08-16T03:12:12.154Z
+date: 2024-09-09T01:24:01.769Z
+updated: 2024-09-10T01:24:01.769Z
 tags:
   - win11
   - win10
@@ -30,18 +30,42 @@ This post helps you with your HP Printer showing Offline status on Windows 10 an
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5911699b1677c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5) Click**Printer**tab. Then click **Pause Printing**and**Use Printer Offline** to remove the check marks in front of them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59116adeabdce.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6) See if your printer goes offline again.   **Step 3: Reset Printer**1) Turn on your printer first if it is off. 2) With your printer on, disconnect the power cord from the printer. 3) Unplug the power cord from the wall outlet. 4) Wait for at least 1 minute. Restart your PC. 5) Plug the power cord back onto the wall. 6) Then reconnect the power cord to your printer. 7) Press the power button to turn on your printer if it is not on. 8) Make sure that the printer is connected to the computer or the network. 9) See if you can print now. If the Offline status remains, you need to follow the steps below.   **Step 4: Update Printer Firmware**HP regularly releases new printer firmware versions for its inkjet and LaserJet series. The newer version of firmware allows your printer to work more smoothly and fix minor issues. To update the firmware for your printer: 1) You can update directly from the printer. To do so, you need to check your printer manual for more detailed information since the workarounds differ on different printers. 2) If updating via the printer is not working for you, there is always an alternative. You can update your printer firmware from the HP website. 2.1) Make sure that your printer is connected to your PC. 2.2) Go to HP support, then navigate to**Software and Drivers**tab. Type in the model of your printer and hit**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59117525811c5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2.3) Select your operating system first. Then scroll down a little bit to locate category**Firmware**. Hit**Download**button to get it downloaded.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59117685a92e9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2.4) When the download finishes, just follow the on-screen instructions to get the update installed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591177c2c8bfa.jpg)
@@ -54,10 +78,22 @@ This post helps you with your HP Printer showing Offline status on Windows 10 an
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5911795ec9d1b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3) Go to**HP support –** **Software and Drivers**. Then type in the model of your printer and hit**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59117a6551ccd.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4) Choose your**operating system**, then scroll down a little bit to the**Driver-Product Installation Software**category. Then hit the**Download**button to get the driver downloaded. ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59117ab57d171.jpg) 5) Then follow the instructions to get your printer driver updated! As an alternative, you can always have a try at [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/), with its free version being equally capable with the pro version, which is an automatic driver updater that helps you detect and download needed device drivers for your devices. The work-arounds are very easy. Just hit the**Scan Now**button, and then the**Update**button, and you are getting your HP printer driver updated! ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59082bf6a612b.jpg)
 
  If you choose the [**pro version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/) , not only will you have full access to all the amazing features and functions in Driver Easy, you will also receive help from our skilled and experienced technicians with your driver problems.
@@ -133,7 +169,3 @@ If at the end, you are not satisfied with the service or the product, just ask f
 <li><a href="https://printer-issues.techidaily.com/unblock-print-queue-on-windows-10/"><u>Unblock Print Queue on Windows 10</u></a></li>
 <li><a href="https://printer-issues.techidaily.com/windows-11-printer-nightmares-solutions-here/"><u>Windows 11 Printer Nightmares? Solutions Here</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->

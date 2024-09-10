@@ -1,7 +1,7 @@
 ---
 title: Syncing Up HP Printer with PC Settings
-date: 2024-08-15T03:13:04.370Z
-updated: 2024-08-16T03:13:04.370Z
+date: 2024-09-09T01:24:02.666Z
+updated: 2024-09-10T01:24:02.666Z
 tags:
   - win11
   - win10
@@ -22,6 +22,12 @@ This post helps you with your HP Printer showing Offline status on Windows 10 an
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591168191af0d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3) Right click the printer you have and choose**Set as default printer**. Make sure that there is a**green check mark**next to the printer after this.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591169489fe37.jpg)
@@ -30,6 +36,12 @@ This post helps you with your HP Printer showing Offline status on Windows 10 an
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5911699b1677c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5) Click**Printer**tab. Then click **Pause Printing**and**Use Printer Offline** to remove the check marks in front of them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59116adeabdce.png)
@@ -38,6 +50,12 @@ This post helps you with your HP Printer showing Offline status on Windows 10 an
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59117525811c5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2.3) Select your operating system first. Then scroll down a little bit to locate category**Firmware**. Hit**Download**button to get it downloaded.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59117685a92e9.png)
@@ -50,14 +68,32 @@ This post helps you with your HP Printer showing Offline status on Windows 10 an
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591168191af0d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2) Right click your default printer, then choose**Remove device**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5911795ec9d1b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3) Go to**HP support –** **Software and Drivers**. Then type in the model of your printer and hit**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59117a6551ccd.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4) Choose your**operating system**, then scroll down a little bit to the**Driver-Product Installation Software**category. Then hit the**Download**button to get the driver downloaded. ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59117ab57d171.jpg) 5) Then follow the instructions to get your printer driver updated! As an alternative, you can always have a try at [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/), with its free version being equally capable with the pro version, which is an automatic driver updater that helps you detect and download needed device drivers for your devices. The work-arounds are very easy. Just hit the**Scan Now**button, and then the**Update**button, and you are getting your HP printer driver updated! ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59082bf6a612b.jpg)
 
  If you choose the [**pro version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/) , not only will you have full access to all the amazing features and functions in Driver Easy, you will also receive help from our skilled and experienced technicians with your driver problems.
@@ -145,7 +181,3 @@ If at the end, you are not satisfied with the service or the product, just ask f
 <li><a href="https://printer-issues.techidaily.com/windows-missing-hp-print-drivers-unfound/"><u>Windows Missing: HP Print Drivers Unfound</u></a></li>
 <li><a href="https://printer-issues.techidaily.com/winerror-resolved-setting-primary-printer-0x00000709/"><u>WinError Resolved - Setting Primary Printer (0X00000709)</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

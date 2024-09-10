@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Non-Printing USB Printers After Sleep in W7"
-date: 2024-09-04T06:17:51.138Z
-updated: 2024-09-05T06:17:51.138Z
+date: 2024-09-09T01:23:59.761Z
+updated: 2024-09-10T01:23:59.761Z
 tags:
   - win11
   - win10
@@ -14,6 +14,12 @@ keywords: Solved,Non-Printing USB Printers,Sleep,W7,USB Ports,Troubleshooting,Fi
 thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e53299073754d2c1fe5d922072f.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Solved] Non-Printing USB Printers After Sleep in W7
 
 After you set Windows 7 to go to sleep and then wake it up, if you found that your USB printer doesn’t work properly any more, you can refer solutions here to fix the problem. Outdated drivers or power management can be the cause of this problem.
@@ -26,10 +32,28 @@ If printer drivers are outdated or missing, the printer won’t work properly. Y
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_5732f97719a2a.png)
   
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2\. Click **Search automatically for updated driver software**  . Then Windows will update the driver automatically.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57318a2bd0396.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 If Windows doesn’t update the driver successfully, you can go to your printer manufacturer’s website to check and download the latest drivers manually. To download the right drivers, you are required to know your printer’s model number and the specific operating system (Windows 32-bit or Windows 64-bit).
   
 **Alternatively**, you can use [Driver Easy](https://tools.techidaily.com/drivereasy/download/) to help update the drivers. Driver Easy is a driver update tool which will detect all outdated and missing drivers in your computer, and find new drivers for you. You can use it to update drivers for your USB printer.  
@@ -44,14 +68,38 @@ If your printer drivers are up-to-date and the problem persists, the program mig
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_5732ffa8e7d2c.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2\. Click the**Power Management**tab.(if there’s more than one USB Root Hub device, repeat these steps for each one.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_5732fd294c22d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3\. Turn off the**Allow the computer to turn off this device to save power**option, and click**OK**when you’re done.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_5732fd3b93f59.png)
   
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Try solutions above, and your USB printer should work again.
 
 <ins class="adsbygoogle"
@@ -119,10 +167,3 @@ If your printer drivers are up-to-date and the problem persists, the program mig
 <li><a href="https://printer-issues.techidaily.com/1719574163521-windows-11-printer-woes-time-to-act/"><u>Windows 11 Printer Woes? Time to Act!</u></a></li>
 <li><a href="https://printer-issues.techidaily.com/zeroing-out-error-0x00000709-for-printer-settings/"><u>Zeroing Out Error 0X00000709 for Printer Settings</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

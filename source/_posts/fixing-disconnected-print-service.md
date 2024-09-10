@@ -1,7 +1,7 @@
 ---
 title: Fixing Disconnected Print Service
-date: 2024-08-15T03:12:38.363Z
-updated: 2024-08-16T03:12:38.363Z
+date: 2024-09-09T01:24:02.216Z
+updated: 2024-09-10T01:24:02.216Z
 tags:
   - win11
   - win10
@@ -20,28 +20,64 @@ It can be annoying if you get error message “**Communication Not Available**�
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5787091f3a17e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  **Solution 1: Turn off your printer and reboot your computer. Turn on the printer again.**This solution may be a trick to solve your printer issue. **Solution 2：Stop and Start the windows print spooler**Follow these steps: 1\. Press**Win+R**(Windows key and R key) at the same time. A Run dialog will appear. 2\. Copy and paste **services.msc**in the run boxand click**OK**button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57870f53c80aa.png)
 
 3\. Find**Sprint Spooler**from the Name list. Double-click on it to open the Properties dialog box. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57870fec6b0f3.png) 4\. In “General” tab, click**Stop**button and**OK**button to disable the service. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57872f814c0fd.png) 5\. O pen the Properties dialog box again. Click**Start** button and**OK** button to enable the service.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57873022e85af.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Solution 3: Uninstall Printer and Update the Driver again** The corrupted driver can be the cause of the problem. To resolve the problem, try updating the printer driver. Before that, uninstall the printer first. Follow these steps to uninstall the printer. 1\. Disconnect your printer.2\. Press **Win+R** (Windows key and R key) at the same time. A Run dialog will appear.  3\. Copy and paste **devmgmt.msc** in the run box and click **OK** button. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578734d0d14eb.png) 4.Locate your printer in the device list. Usually, it is listed under category**Print queues**. Right-click on the device name and select**Uninstall**on the context menu. （Note:if the printer has a Fax, uninstall the Fax before uninstalling the printer.） Following screen shot is only for your reference. Different printer will show different name here.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57873f81affcd.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5\. Restart your PC for the change to take effect. Connect the printer, and go to the printer manufacturer’s website to download the latest driver. Before you get started, please ensure that you know the printer model and the specific operating system. If you have difficulty with downloading drivers manually, you can use [Driver Easy](https://tools.techidaily.com/drivereasy/download/) to help you. Driver Easy can detect all problem drivers in your computer and give you list of new drivers. With Driver Easy, you can update the printer driver in several minutes. If you connect your printer to PC through USB port, you can also perform steps below.  1\. Open [Device Manager](https://tools.techidaily.com/drivereasy/download/) . 2\. Expand the Universal Serial Bus controllers branch.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57874242885bd.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3\. Double-click the USB Root Hub device, and click the **Power Management**  tab. (If there’s more than one USB Root Hub device, repeat these steps for each one.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57874266903a0.png) 4\. Turn off the **Allow the computer to turn off this device to save power** option, and click **OK**  button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578742ca2725e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5\. Reboot the computer.
 
 <ins class="adsbygoogle"
@@ -110,7 +146,3 @@ It can be annoying if you get error message “**Communication Not Available**�
 <li><a href="https://printer-issues.techidaily.com/winnt2000-reactivate-sluggish-printer-response/"><u>WinNT/2000: Reactivate Sluggish Printer Response</u></a></li>
 <li><a href="https://printer-issues.techidaily.com/winprint-woes-successfully-fixing-error-0x00000709/"><u>WinPrint Woes: Successfully Fixing Error 0X00000709</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->

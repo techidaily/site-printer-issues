@@ -1,7 +1,7 @@
 ---
 title: Healed Printer Communication Link
-date: 2024-09-04T06:17:49.683Z
-updated: 2024-09-05T06:17:49.683Z
+date: 2024-09-09T01:23:58.315Z
+updated: 2024-09-10T01:23:58.315Z
 tags:
   - win11
   - win10
@@ -24,24 +24,66 @@ It can be annoying if you get error message “**Communication Not Available**�
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57870f53c80aa.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3\. Find**Sprint Spooler**from the Name list. Double-click on it to open the Properties dialog box. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57870fec6b0f3.png) 4\. In “General” tab, click**Stop**button and**OK**button to disable the service. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57872f814c0fd.png) 5\. O pen the Properties dialog box again. Click**Start** button and**OK** button to enable the service.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57873022e85af.png)
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Solution 3: Uninstall Printer and Update the Driver again** The corrupted driver can be the cause of the problem. To resolve the problem, try updating the printer driver. Before that, uninstall the printer first. Follow these steps to uninstall the printer. 1\. Disconnect your printer.2\. Press **Win+R** (Windows key and R key) at the same time. A Run dialog will appear.  3\. Copy and paste **devmgmt.msc** in the run box and click **OK** button. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578734d0d14eb.png) 4.Locate your printer in the device list. Usually, it is listed under category**Print queues**. Right-click on the device name and select**Uninstall**on the context menu. （Note:if the printer has a Fax, uninstall the Fax before uninstalling the printer.） Following screen shot is only for your reference. Different printer will show different name here.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57873f81affcd.png)
 
 5\. Restart your PC for the change to take effect. Connect the printer, and go to the printer manufacturer’s website to download the latest driver. Before you get started, please ensure that you know the printer model and the specific operating system. If you have difficulty with downloading drivers manually, you can use [Driver Easy](https://tools.techidaily.com/drivereasy/download/) to help you. Driver Easy can detect all problem drivers in your computer and give you list of new drivers. With Driver Easy, you can update the printer driver in several minutes. If you connect your printer to PC through USB port, you can also perform steps below.  1\. Open [Device Manager](https://tools.techidaily.com/drivereasy/download/) . 2\. Expand the Universal Serial Bus controllers branch.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57874242885bd.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3\. Double-click the USB Root Hub device, and click the **Power Management**  tab. (If there’s more than one USB Root Hub device, repeat these steps for each one.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57874266903a0.png) 4\. Turn off the **Allow the computer to turn off this device to save power** option, and click **OK**  button.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578742ca2725e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5\. Reboot the computer.
 
 <ins class="adsbygoogle"
@@ -104,10 +146,3 @@ It can be annoying if you get error message “**Communication Not Available**�
 <li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-artist-wondershare-virbo-glossary/"><u>Updated What Is an AI Artist? | Wondershare Virbo Glossary</u></a></li>
 <li><a href="https://printer-issues.techidaily.com/win9598-printer-non-engagement-a-fix-guide/"><u>Win95/98 Printer Non-Engagement: A Fix Guide</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

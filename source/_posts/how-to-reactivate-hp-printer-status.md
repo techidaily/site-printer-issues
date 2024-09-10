@@ -1,7 +1,7 @@
 ---
 title: How to Reactivate HP Printer Status
-date: 2024-09-04T06:17:48.767Z
-updated: 2024-09-05T06:17:48.767Z
+date: 2024-09-09T01:23:57.412Z
+updated: 2024-09-10T01:23:57.412Z
 tags:
   - win11
   - win10
@@ -14,10 +14,22 @@ keywords: Reactivating HP Printer,HP Printer Status Reset,Fix Inactive HP Printe
 thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde0166f66e5a57d5c818d2809aa.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Reactivate HP Printer Status
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59113ae0e52f4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 This post helps you with your HP Printer showing Offline status on Windows 10 and Windows 7\. If you see Printer Status Offline, then your printer does not print, since Offline indicates that your PC is not able to communicate with the printer. In some cases, it is unexpected. To get your printer working normally again, please follow the instructions here. You can totally do this by yourself. **[Step 1: Check Connection Problems](#a)** [**Step 2: Set Default Printer**](#b) [**Step 3: Reset Printer**](#c) [**Step 4: Update Printer Firmware**](#d) [**Step 5: Update Printer Driver**](#e)   **Step 1: Check Connection Problems** 1)**DO NOT connect to a guest or host network**. Please make sure that your printer is **NOT**connected to a guest or host network as they might have additional security features, such as preventing printers from connecting and thus printing. 2)**Switch from wireless to a USB or Ethernet connection**. In some case, the culprit is the wireless connection. To make sure that the problem is not caused by your printer, check your printer manual to see how to switch the printer to a USB or Ethernet connection. 3)**Try your printer on another computer**. If you have a second PC, try installing the printer driver and then try connecting the printer using the same type of connection. If the Offline status remains, then it is the printer that is the culprit. You may need to call HP support for more assistance. If the Offline status is gone, then the issue is with your first PC. **Step 2: Set Default Printer**1) Restart your HP printer. 2) On your keyboard, click**Windows** key, then choose**Control Panel**. In Control Panel window, choose to View by**Large icons**and then choose**Devices and Printer**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591168191af0d.jpg)
@@ -26,6 +38,12 @@ This post helps you with your HP Printer showing Offline status on Windows 10 an
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591169489fe37.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4) Now, right click the icon for your default printer and select**See what’s printing**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5911699b1677c.jpg)
@@ -42,10 +60,22 @@ This post helps you with your HP Printer showing Offline status on Windows 10 an
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59117685a92e9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2.4) When the download finishes, just follow the on-screen instructions to get the update installed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591177c2c8bfa.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  **Step 5: Update Printer Driver**1) On your keyboard, click**Windows** key, then choose**Control Panel**. In Control Panel window, choose to View by**Large icons**and then choose**Devices and Printer**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591168191af0d.jpg)
@@ -54,6 +84,18 @@ This post helps you with your HP Printer showing Offline status on Windows 10 an
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5911795ec9d1b.png)
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3) Go to**HP support –** **Software and Drivers**. Then type in the model of your printer and hit**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59117a6551ccd.png)
@@ -147,10 +189,3 @@ If at the end, you are not satisfied with the service or the product, just ask f
 <li><a href="https://printer-issues.techidaily.com/upgrade-to-top-tier-mf4770n-drivers-for-windows-11w8w7/"><u>Upgrade to Top-Tier MF4770n Drivers for Windows 11/W8/W7</u></a></li>
 <li><a href="https://printer-issues.techidaily.com/windows-11-quick-fix-for-scanner-errors/"><u>Windows 11: Quick Fix for Scanner Errors</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Restart HP Printer for Online Status
-date: 2024-09-04T06:17:51.055Z
-updated: 2024-09-05T06:17:51.055Z
+date: 2024-09-09T01:23:59.687Z
+updated: 2024-09-10T01:23:59.687Z
 tags:
   - win11
   - win10
@@ -14,6 +14,12 @@ keywords: HP Printer Troubleshooting,Restart HP Printer,HP Print Status Online,C
 thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f38856a330aa448f0606df3e468d.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Restart HP Printer for Online Status
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59113ae0e52f4.png)
@@ -22,6 +28,12 @@ This post helps you with your HP Printer showing Offline status on Windows 10 an
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591168191af0d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3) Right click the printer you have and choose**Set as default printer**. Make sure that there is a**green check mark**next to the printer after this.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591169489fe37.jpg)
@@ -30,6 +42,12 @@ This post helps you with your HP Printer showing Offline status on Windows 10 an
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5911699b1677c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5) Click**Printer**tab. Then click **Pause Printing**and**Use Printer Offline** to remove the check marks in front of them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59116adeabdce.png)
@@ -42,10 +60,28 @@ This post helps you with your HP Printer showing Offline status on Windows 10 an
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59117685a92e9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2.4) When the download finishes, just follow the on-screen instructions to get the update installed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591177c2c8bfa.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  **Step 5: Update Printer Driver**1) On your keyboard, click**Windows** key, then choose**Control Panel**. In Control Panel window, choose to View by**Large icons**and then choose**Devices and Printer**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591168191af0d.jpg)
@@ -54,6 +90,12 @@ This post helps you with your HP Printer showing Offline status on Windows 10 an
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5911795ec9d1b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3) Go to**HP support –** **Software and Drivers**. Then type in the model of your printer and hit**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59117a6551ccd.png)
@@ -133,10 +175,3 @@ If at the end, you are not satisfied with the service or the product, just ask f
 <li><a href="https://printer-issues.techidaily.com/winerror-0x00000709-default-printer-restored/"><u>WinError 0X00000709: Default Printer Restored</u></a></li>
 <li><a href="https://printer-issues.techidaily.com/winning-strategies-for-installing-hp-printer-software/"><u>Winning Strategies for Installing HP Printer Software</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
