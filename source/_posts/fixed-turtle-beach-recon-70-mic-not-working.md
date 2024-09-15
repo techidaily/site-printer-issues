@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Turtle Beach Recon 70 Mic Not Working"
-date: 2024-09-09T01:23:56.626Z
-updated: 2024-09-10T01:23:56.626Z
+date: 2024-09-09T16:38:03.163Z
+updated: 2024-09-15T03:12:12.657Z
 tags:
   - win11
   - win10
@@ -37,48 +37,18 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Select **Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)**  Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
@@ -87,28 +57,10 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **7)** Right click**Headset Microphone** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
@@ -133,27 +85,28 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All** .)  
 
  Once you’ve updated the driver for your Turtle Beach headset, restart your computer. Then log in again and see if the microphone is working.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Troubleshoot hardware issues
 
@@ -174,8 +127,6 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,50 +136,20 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/driver-search-problem-windows-10-cant-find-mp620-printer-driver/"><u>[Driver Search] Problem: Windows 10 Can't Find MP620 Printer Driver</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-a-beginners-guide-to-vimeo-caption-addition/"><u>[New] 2024 Approved  A Beginner's Guide to Vimeo Caption Addition</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-essential-mobile-privacy-the-best-7-adblocker-apps-for-android/"><u>[New] Essential Mobile Privacy  The Best 7 AdBlocker Apps for Android</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-master-fades-with-ease-4-methods-unveiled/"><u>[Updated] Master Fades with Ease  4 Methods Unveiled</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlock-ultimate-performance-with-best-video-controller-add-ons/"><u>[Updated] Unlock Ultimate Performance with Best Video Controller Add-Ons</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/5-best-hd-hunting-cameras-reviewed/"><u>5 Best HD Hunting Cameras Reviewed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/another-computer-is-using-the-printer-solved/"><u>Another Computer Is Using the Printer [Solved]</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/cannot-load-printer-driver-not-detected-by-win/"><u>Cannot Load Printer: Driver Not Detected by Win</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/correct-wireless-connectivity-issues-for-w11-printers/"><u>Correct Wireless Connectivity Issues for W11 Printers</u></a></li>
-<li><a href="https://facebook.techidaily.com/digital-identity-on-instanfts/"><u>Digital Identity on InstaNFTs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/easily-set-up-brothers-9330w-fan/"><u>Easily Set Up Brother's 9330W Fan</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722848067306-enhance-your-viewing-experience-with-cutting-edge-hitachi-4k-tvs-and-inbuilt-roku-technology/"><u>Enhance Your Viewing Experience with Cutting-Edge Hitachi 4K TVs and Inbuilt Roku Technology</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/excessive-blank-sheets-on-new-epson-multifunction-product/"><u>Excessive Blank Sheets on New Epson Multifunction Product</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/finding-the-right-hp-d1360-print-drivers-in-windows-ecosystems/"><u>Finding the Right HP D1360 Print Drivers in Windows Ecosystems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574049626-fix-print-job-stuck-in-queue-quickly/"><u>Fix 'Print Job Stuck in Queue' Quickly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-epson-no-more-blank-documents/"><u>Fixed [Epson]: No More Blank Documents</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-13-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone 13 mini? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-force-windows-11-to-notify-you-when-someone-accesses-your-camera/"><u>How to Force Windows 11 to Notify You When Someone Accesses Your Camera</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-scan-and-print-unit-fixed-no-more-delays/"><u>HP Scan & Print Unit Fixed - No More Delays</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-a2-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi A2 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-making-everyday-moments-memorable-on-youtube/"><u>In 2024, Making Everyday Moments Memorable on YouTube</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-master-your-stream-best-cameras-to-capture-every-moment-on-twitch/"><u>In 2024, Master Your Stream  Best Cameras to Capture Every Moment on Twitch</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Lava Storm 5G? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instantly-resolve-disconnected-print-issue/"><u>Instantly Resolve Disconnected Print Issue</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mastering-printer-fault-resolutions/"><u>Mastering Printer Fault Resolutions</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mastering-quick-fixes-for-pcl-xl-errors/"><u>Mastering Quick Fixes for PCL XL Errors</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mf4770n-updates-for-streamlined-windows-functionality/"><u>MF4770n Updates for Streamlined Windows Functionality</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/no-errors-in-connecting-printer-to-pc/"><u>No Errors in Connecting Printer to PC</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-post-update-printer-glitches/"><u>Overcoming Post-Update Printer Glitches</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printers-silence-speaks-louder-than-no-response/"><u>Printer's Silence Speaks Louder Than No Response</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printers-now-consistently-full-page-output/"><u>Printers Now Consistently Full-Page Output</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-dispatch-of-print-queue-jobs/"><u>Quick Dispatch of Print Queue Jobs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reclaiming-internet-connectivity-for-brother-printer/"><u>Reclaiming Internet Connectivity for Brother Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reignite-printing-with-simple-tips-for-canon-windows/"><u>Reignite Printing with Simple Tips for Canon, Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resetting-failed-printer-defaults-error-code-0x00000709-overcome/"><u>Resetting Failed Printer Defaults: Error Code 0X00000709 Overcome</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-hp-printer-connectivity-issues/"><u>Resolving HP Printer Connectivity Issues</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reviving-inactive-hp-printing-units/"><u>Reviving Inactive HP Printing Units</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revolutionizing-printer-laptop-connection-new-techniques-explored/"><u>Revolutionizing Printer-Laptop Connection: New Techniques Explored</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-system-flaw-b200/"><u>Solved: System Flaw B200</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/the-end-of-the-road-for-printer-errors-with-windows-update/"><u>The End of the Road for Printer Errors with Windows Update</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-reality-of-youtubes-fast-subscribe-technique/"><u>The Reality of YouTube's Fast Subscribe Technique</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-stuck-rust-code-advanced-debugging-techniques/"><u>Troubleshooting Stuck Rust Code : Advanced Debugging Techniques</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unjamming-print-heads-a-practical-approach/"><u>Unjamming Print Heads: A Practical Approach</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unplugging-and-removing-a-secondary-printer-from-os/"><u>Unplugging and Removing a Secondary Printer From OS</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win-removal-guide-for-external-devices/"><u>Win Removal Guide for External Devices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win10-printer-setup-guide-hp-connection-fixes/"><u>Win10 Printer Setup Guide - HP Connection Fixes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-reviewing-ingenuity-moto-z2s-intelligent-evolution-for-2024/"><u>[New] Reviewing Ingenuity Moto Z2's Intelligent Evolution for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-content-maker-to-cash-magnet-youtubes-guide-to-ad-revenue/"><u>[Updated] 2024 Approved From Content Maker to Cash Magnet Youtube's Guide to Ad Revenue</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigate-to-success-the-insiders-guide-to-adding-times/"><u>[Updated] Navigate to Success The Insider's Guide to Adding Times</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-pro-level-snapshot-techniques-maximizing-zoomed-photo-and-video-experience/"><u>2024 Approved Pro-Level Snapshot Techniques Maximizing Zoomed Photo and Video Experience</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-s17e-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo S17e</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/brother-9330cdw-fan-and-software-guide/"><u>Brother 9330CDW Fan & Software Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/bypassing-paper-jam-alerts/"><u>Bypassing Paper Jam Alerts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-change-voice-on-instagram-story-and-reels-for-2024/"><u>How to Change Voice on Instagram Story and Reels for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-officejet-status-online-on-windows-11/"><u>HP OfficeJet Status: Online on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hp-wireless-keyboard-not-working-solved/"><u>HP Wireless Keyboard Not Working [Solved]</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-oppo-find-x6-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Oppo Find X6 Phone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mf4770n-usb-drive-software-upgrade-for-windows/"><u>MF4770n USB Drive Software Upgrade for Windows</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/satirical-snapshots-create-memes-with-kapwing-for-2024/"><u>Satirical Snapshots Create Memes with Kapwing for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ultimate-compatibility-pack-officejet-pro-8600-windows-edition/"><u>Ultimate Compatibility Pack: Officejet Pro 8600, Windows Edition</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-xp-vs-mp620-printer-compatibility-questions/"><u>Windows XP vs MP620 Printer Compatibility Questions?</u></a></li>
 </ul></div>
+

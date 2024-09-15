@@ -1,7 +1,7 @@
 ---
 title: Rapid Unjamming of Print Workqueue
-date: 2024-09-09T01:23:57.767Z
-updated: 2024-09-10T01:23:57.767Z
+date: 2024-09-12T00:58:47.823Z
+updated: 2024-09-15T01:23:53.731Z
 tags:
   - win11
   - win10
@@ -28,12 +28,6 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
    3. [Create a Bat file for permanent use](#f3)
 * **Fix 2 –[Reinstall your printer driver](#m2)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Clear the print queue
 
  There are three options for you to clear the print queue. You don’t have to try them all; just take your pick.
@@ -44,43 +38,13 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 2. In the Run window, type**services.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/services-run-box.jpg)
 3. Scroll down to**Print Spooler** .
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Right-click**Print Spooler** and select**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/stop-the-service.jpg)
 5. Navigate to**C:\\Windows\\System32\\spool\\PRINTERS** and delete all files in the folder. (Do NOT delete the folder itself.)  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/delete.jpg)
 6. In the Services window, right-click**Print Spooler** and select**Start** .  
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/start-service.jpg)
 7. Go back to the**Print Job** queue. All print jobs should have been removed now and you can start printing again normally.
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Have trouble deleting the files?**
   
@@ -115,12 +79,6 @@ This will clear all of your print jobs stuck in a queue.
  **net start spooler**  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/note.jpg)
 3. Then click**File** \>**Save as…**  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    * Change the file type to**All files**  
    * Name your file whatever you want, but add a**.bat** suffix.  
    * Make sure the Encoding type is**ANSI** .  
@@ -128,12 +86,6 @@ This will clear all of your print jobs stuck in a queue.
    ![](https://images.drivereasy.com/wp-content/uploads/2020/01/batch-file.jpg)
 4. Double-click the batch file to clear the print queue anytime you want.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Reinstall the printer driver
 
  If your print jobs still get stuck in a queue, the main cause is a wrong or outdated printer driver. So you should update your printer driver to see if it fixes your problem.
@@ -186,8 +138,6 @@ Feel free to drop us a comment if you have any questions or suggestions.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,48 +145,30 @@ Feel free to drop us a comment if you have any questions or suggestions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/os-compatibility-unable-to-connect-to-hp-print-service-on-windows/"><u>[OS Compatibility] - Unable to Connect to HP Print Service on Windows</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-sprinkle-life-into-your-videos-free-text-tricks/"><u>2024 Approved  Sprinkle Life Into Your Videos  Free Text Tricks</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-transforming-movs-to-mp4mkv-on-pc/"><u>2024 Approved  Transforming MOVs to MP4/MKV on PC</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-transforming-video-makeup-through-color-alignment/"><u>2024 Approved  Transforming Video Makeup Through Color Alignment</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/accelerate-clearing-print-job-queue/"><u>Accelerate Clearing Print Job Queue</u></a></li>
-<li><a href="https://facebook.techidaily.com/avoiding-pitfalls-humorous-interactions-on-facebook/"><u>Avoiding Pitfalls: Humorous Interactions on Facebook</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-realme-v30-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Realme V30 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/charting-the-course-of-monetization-for-creator-economy-on-youtubeshorts/"><u>Charting the Course of Monetization for Creator Economy on YouTubeshorts</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/correct-installation-of-upgraded-printer-drivers/"><u>Correct Installation of Upgraded Printer Drivers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-devices-exhibiting-continuous-sheet-outputs/"><u>Epson Devices Exhibiting Continuous Sheet Outputs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-printer-error-continuous-sheet-replacement/"><u>Epson Printer Error: Continuous Sheet Replacement</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-phantom-errors-in-epson-printer/"><u>Fixed Phantom Errors in Epson Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-hp-print-misstep-code-oxc4eb827f/"><u>Fixing HP Print Misstep: Code OXC4EB827F</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-add-fonts-to-after-effects-for-2024/"><u>How to Add Fonts to After Effects for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-get-an-offline-printer-running-on-vistaxp/"><u>How to Get an Offline Printer Running on Vista/XP</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-oppo-f25-pro-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo F25 Pro 5G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-worklift-printer-setup-and-use/"><u>HP WorkLift Printer Setup and Use</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/immediate-action-on-queued-print-processes/"><u>Immediate Action on Queued Print Processes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/immediate-plug-in-for-print-devices/"><u>Immediate Plug-In for Print Devices</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-phantom-3-confrontation-illusionist-4-enters/"><u>In 2024, Phantom 3 Confrontation  Illusionist 4 Enters</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Samsung Galaxy A05s? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/missing-printer-device-windows-710-troubleshooting-steps/"><u>Missing Printer Device? Windows 7/10 Troubleshooting Steps</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/navigating-non-printing-issues-brother-printer-windows-edition/"><u>Navigating Non-Printing Issues: Brother Printer, Windows Edition</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-inkless-printer-issues/"><u>Overcoming Inkless Printer Issues</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/post-update-nozzle-necessity-neglected/"><u>Post-Update, Nozzle Necessity Neglected</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-unlisted-solutions-for-windows-xp-11/"><u>Printer Unlisted: Solutions for Windows XP-11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/procedure-connecting-hp-officejet-to-windows-device/"><u>Procedure: Connecting HP Officejet to Windows Device</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-non-authentic-printer-use-case/"><u>Resolved: Non-Authentic Printer Use Case</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solving-the-mystery-of-epson-error-0x97/"><u>Solving the Mystery of Epson Error 0X97</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/speeding-up-prints-simplest-fixes/"><u>Speeding Up Prints: Simplest Fixes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/techniques-to-fix-silent-hp-multi-fax-printers/"><u>Techniques to Fix Silent HP Multi-Fax Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/the-end-of-win-10-printer-disruptions-success-story/"><u>The End of Win 10 Printer Disruptions - Success Story</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-ultimate-check-comparing-bandicams-performance-to-competitors/"><u>The Ultimate Check  Comparing Bandicam's Performance to Competitors</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-guide-flawlessly-handle-pcl-xl-mistakes/"><u>Troubleshooting Guide: Flawlessly Handle PCL XL Mistakes</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-s18-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S18 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win7win10-stop-wasted-time-on-persistent-spooler-errors/"><u>Win7/Win10: Stop Wasted Time on Persistent Spooler Errors</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/zeroing-in-on-epson-error-code-x97/"><u>Zeroing In on Epson Error Code X97</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-subtitle-transformation-made-simple-top-10-lists/"><u>[New] Expert Subtitle Transformation Made Simple - Top 10 Lists</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/boost-your-output-v305-aio-driver-enhancement-in-win7/"><u>Boost Your Output: V305 AIO Driver Enhancement in Win7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/boosting-drive-efficiency-mf4770n-and-windows-systems/"><u>Boosting Drive Efficiency: MF4770n & Windows Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/eliminate-your-ac1st16dll-not-found-issues-with-these-fixes/"><u>Eliminate Your ac1st16.dll Not Found Issues With These Fixes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/error-b200-eliminated/"><u>Error B200 Eliminated</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-honor-x50iplus-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Honor X50i+</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-logitech-g230-mic-solved/"><u>How to Repair Your Logitech G230 Mic - Solved</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-samsung-galaxy-a23-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Samsung Galaxy A23 5G PC | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-apple-iphone-14-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On Apple iPhone 14? Heres the Best Fixes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-motorola-defy-2-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Motorola Defy 2 Phones with/without a PC</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-11-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your iPhone 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcome-print-spooler-failure/"><u>Overcome Print Spooler Failure</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/purging-unnecessary-printers-in-os/"><u>Purging Unnecessary Printers in OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-guide-your-canon-printer-wont-print/"><u>Troubleshooting Guide: Your Canon Printer Won't Print</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-guide-to-ebook-drm-removal-how-to-unlock-pdf-epub-and-mobi-formats/"><u>Ultimate Guide to Ebook DRM Removal - How to Unlock PDF, EPUB, and MOBI Formats</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-troubleshoot-non-functional-printer/"><u>Windows 11: Troubleshoot Non-Functional Printer</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

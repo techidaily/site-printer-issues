@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Watch Dogs: Legion Experience – Solutions for Higher FPS and Less Latency"
-date: 2024-09-09T01:23:56.610Z
-updated: 2024-09-10T01:23:56.610Z
+date: 2024-09-12T02:41:22.053Z
+updated: 2024-09-14T16:29:34.964Z
 tags:
   - win11
   - win10
@@ -53,11 +53,12 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 3: Configure your DNS settings
 
  When you use your ISP’s (Internet Service Provider) default DNS server, some possible issues like crowded cache could cause the server connection failure. What you can do is switching to a public DNS server to solve the problem. We’ll use the Google DNS server as an example. Here’s how:
@@ -65,29 +66,34 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
@@ -95,20 +101,8 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Update your network driver
 
  If your network driver is outdated or faulty, it could be responsible for the code leaf server connection issue. You may want to update your network adapter driver to make sure it’s functioning properly.
@@ -123,42 +117,12 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Switch to another server
 
  We know the error code leaf is a server connectivity issue, and the problem is more likely with the server-side. One last thing that players can do is to switch to a low ping server. The option of choosing a server is hidden, and here’s how to bring it to the front:
@@ -185,8 +149,6 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,43 +158,16 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-and-uploading-lengthy-video-masterpieces-on-youtube/"><u>[New] 2024 Approved  Crafting & Uploading Lengthy Video Masterpieces on YouTube</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-does-youtube-offer-frequent-payments-to-you/"><u>[New] Does YouTube Offer Frequent Payments to You?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-master-your-headlines-with-our-guide/"><u>[New] Master Your Headlines with Our Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-masterful-collage-techniques-for-instagram-excellence/"><u>[New] Masterful Collage Techniques for Instagram Excellence</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-maximize-your-youtube-shorts-earnings/"><u>[Updated] 2024 Approved  How to Maximize Your YouTube Shorts Earnings</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-revamped-tiktok-visuals-the-ultimate-guide-for-background-swapping/"><u>[Updated] 2024 Approved  Revamped TikTok Visuals  The Ultimate Guide for Background Swapping</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-undercover-echo-enthusiasts-6-hidden-voice-capture-apps/"><u>[Updated] 2024 Approved  Undercover Echo Enthusiasts  6 Hidden Voice Capture Apps</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-powerpoint-mastery-integrating-external-video-urls-for-2024/"><u>[Updated] PowerPoint Mastery  Integrating External Video URLs for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-through-gopros-burst-recording-options/"><u>2024 Approved  Navigating Through GoPro's Burst Recording Options</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-art-of-visual-storytelling-for-online-platforms/"><u>2024 Approved  The Art of Visual Storytelling for Online Platforms</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719573890689-canon-printer-woes-here-are-your-five-easy-fixes-in-windows-11/"><u>Canon Printer Woes? Here Are Your Five Easy Fixes in Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ceased-epson-standby-error/"><u>Ceased Epson Standby Error</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/connect-printer-with-a-click-no-delay/"><u>Connect Printer with a Click, No Delay</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixation-on-pcl-xl-a-handy-manual/"><u>Fixation on PCL XL: A Handy Manual</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-canons-error-b200/"><u>Fixed Canon's Error: B200</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-the-printing-glitch-error-0x00000709-resolved/"><u>Fixed the Printing Glitch - Error 0X00000709 Resolved</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-blank-page-syndrome-in-print-devices/"><u>Fixing Blank Page Syndrome in Print Devices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-react-printer-disconnects-during-print-job/"><u>How To React: Printer Disconnects During Print Job</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-infinix-smart-8-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Infinix Smart 8 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-set-up-a-wireless-printer-with-hp-color-life-series/"><u>How To: Set Up a Wireless Printer with HP Color Life Series</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mfc-9330-installation-made-simple/"><u>MFC-9330 Installation Made Simple</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/not-all-colors-printing-as-expected/"><u>Not All Colors Printing as Expected</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-no-response-issues-with-hp-printers/"><u>Overcoming No Response Issues with HP Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574064539-post-update-printer-problem-resolved-and-happy-again/"><u>Post-Update Printer Problem: Resolved and Happy Again</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/precision-in-pages-a-success-story-for-printers/"><u>Precision in Pages: A Success Story for Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-default-error-code-0x00000709-resolved/"><u>Printer Default Error Code 0X00000709 Resolved</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-fault-ad-services-out-of-service/"><u>Printer Fault: AD Services Out of Service</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574178084-printer-woes-in-windows-11-help-needed/"><u>Printer Woes in Windows 11 - Help Needed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printing-dilemma-config-issue-detected/"><u>Printing Dilemma: Config Issue Detected</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/quick-tips-eradicate-online-ads-from-your-feed-for-2024/"><u>Quick Tips  Eradicate Online Ads From Your Feed for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/recommendations-for-reactivating-hp-print-headless-systems/"><u>Recommendations for Reactivating HP Print Headless Systems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reignite-your-brother-printers-print-function-on-windows-1011/"><u>Reignite Your Brother Printer's Print Function on Windows 10/11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-motorola-moto-g04-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Motorola Moto G04 Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-issue-code-b200/"><u>Resolved Issue Code B200</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tackled-ink-cartridge-error/"><u>Tackled Ink Cartridge Error</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-essential-guide-to-distinguishing-between-public-ai-private-ai-and-personal-ai/"><u>The Essential Guide to Distinguishing Between Public AI, Private AI, and Personal AI</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-offline-hp-xp-paper-issue/"><u>Troubleshooting Offline HP XP Paper Issue</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-paper-trail-issue-error-0x00000709-solution-found/"><u>Windows Paper Trail Issue - Error 0X00000709 Solution Found</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-online-add-on-social-media-story-vault/"><u>[New] In 2024, Online Add-On Social Media Story Vault</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/complete-printing-solution-unveiled/"><u>Complete Printing Solution Unveiled</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhance-document-transfer-with-printer-driver-fixes-on-win10/"><u>Enhance Document Transfer with Printer Driver Fixes on Win10</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/expert-tips-for-hiring-best-film-makers/"><u>Expert Tips for Hiring Best Film Makers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guiding-you-to-a-hassle-free-canon-print-connection/"><u>Guiding You to a Hassle-Free Canon Print Connection</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-v27-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo V27 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-honor-play-40c-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Honor Play 40C Phone? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/league-of-legends-woes-master-swift-troubleshooting-techniques-now/"><u>League of Legends Woes? Master Swift Troubleshooting Techniques Now!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcome-paper-feeder-malfunction/"><u>Overcome Paper Feeder Malfunction</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-apple-iphone-12-and-browser-drfone-by-drfone-virtual-ios/"><u>Prevent Cross-Site Tracking on Apple iPhone 12 and Browser | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolve-non-responsive-printer-in-windows-11/"><u>Resolve Non-Responsive Printer in Windows 11</u></a></li>
 </ul></div>
+

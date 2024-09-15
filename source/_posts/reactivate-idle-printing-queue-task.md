@@ -1,7 +1,7 @@
 ---
 title: Reactivate Idle Printing Queue Task
-date: 2024-09-09T01:24:00.593Z
-updated: 2024-09-10T01:24:00.593Z
+date: 2024-09-07T23:58:55.669Z
+updated: 2024-09-15T04:31:46.555Z
 tags:
   - win11
   - win10
@@ -14,12 +14,6 @@ keywords: Reactivate IDLE Printer Queue,Idle Printing Queue Management,Resume Id
 thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a6d296c6daba235eb751bb08.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Reactivate Idle Printing Queue Task
 
  Have you ever run into a situation like this: you sent a job to the printer, but it just refused to print? Your print job fails and gets stuck in a queue. However you try to delete or cancel your print job, it just won’t go away!
@@ -34,18 +28,6 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
    3. [Create a Bat file for permanent use](#f3)
 * **Fix 2 –[Reinstall your printer driver](#m2)**
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Clear the print queue
 
  There are three options for you to clear the print queue. You don’t have to try them all; just take your pick.
@@ -56,29 +38,11 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 2. In the Run window, type**services.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/services-run-box.jpg)
 3. Scroll down to**Print Spooler** .
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Right-click**Print Spooler** and select**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/stop-the-service.jpg)
 5. Navigate to**C:\\Windows\\System32\\spool\\PRINTERS** and delete all files in the folder. (Do NOT delete the folder itself.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/delete.jpg)
 6. In the Services window, right-click**Print Spooler** and select**Start** .  
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/start-service.jpg)
 7. Go back to the**Print Job** queue. All print jobs should have been removed now and you can start printing again normally.
 
@@ -95,12 +59,6 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 1. Type**cmd** in the search box and Run it as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/command-prompt-admin.jpg)
 2. In the Command Prompt window, enter the following commands separately:
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 net stop spooler
 
@@ -128,12 +86,6 @@ This will clear all of your print jobs stuck in a queue.
    ![](https://images.drivereasy.com/wp-content/uploads/2020/01/batch-file.jpg)
 4. Double-click the batch file to clear the print queue anytime you want.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Reinstall the printer driver
 
  If your print jobs still get stuck in a queue, the main cause is a wrong or outdated printer driver. So you should update your printer driver to see if it fixes your problem.
@@ -168,12 +120,6 @@ This will clear all of your print jobs stuck in a queue.
 **OR** click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-1.jpg)
 4. Restart your computer for the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Try printing again. Your printer should be working properly now.
 
 ---
@@ -192,8 +138,6 @@ Feel free to drop us a comment if you have any questions or suggestions.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,60 +145,27 @@ Feel free to drop us a comment if you have any questions or suggestions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/hardware-hp-printer-unresponsive-in-winxo/"><u>[Hardware] HP Printer Unresponsive in WINXO</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-best-practices-for-youtube-outro-design/"><u>[New] 2024 Approved  Best Practices for YouTube Outro Design</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-best-channel-discoveries-in-asmr-for-2024/"><u>[New] Best Channel Discoveries in ASMR for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-best-budget-friendly-video-stock-sites-for-2024/"><u>[Updated] Best Budget-Friendly Video Stock Sites for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-social-media-power-up-grouping-multiple-photos-and-vids-for-instagram/"><u>[Updated] Social Media Power-Up  Grouping Multiple Photos & Vids for Instagram</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-strategies-for-effective-360-video-broadcasts-on-fb-for-2024/"><u>[Updated] Strategies for Effective 360 Video Broadcasts on FB for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/3-top-ranked-fixes-for-integrated-hp-and-laptop-operation/"><u>3 Top-Ranked Fixes for Integrated HP and Laptop Operation</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/addressing-the-blank-pages-from-your-epson-printer/"><u>Addressing the Blank Pages From Your Epson Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/boost-print-speed-and-quality-download-hp-officejet-firmware/"><u>Boost Print Speed & Quality - Download HP Officejet Firmware</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/corrected-code-b200/"><u>Corrected Code B200</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/decoding-laser-printer-errors/"><u>Decoding Laser Printer Errors</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ease-into-plc-error-resolution/"><u>Ease Into PLC Error Resolution</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-installation-windows-ie-management-drivers/"><u>Efficient Installation: Windows IE Management Drivers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enabling-duplex-printing-on-your-hp-printer-setup/"><u>Enabling Duplex Printing on Your HP Printer Setup</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhance-efficiency-printer-software-update-for-dell-and-win7/"><u>Enhance Efficiency: Printer Software Update for Dell & Win7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhance-printing-quick-fixes-for-canon-windows-10-compatibility/"><u>Enhance Printing: Quick Fixes for Canon, Windows 10 Compatibility</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-fixing-the-nspr4dll-file-not-detected-mistake/"><u>Expert Tips for Fixing the Nspr4.dll File Not Detected Mistake</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-epson-out-of-service/"><u>Fixed Epson Out Of Service</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/halted-outputs-ceased-on-epson-model/"><u>Halted Outputs Ceased on Epson Model</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>How Can I Use a Fake GPS Without Mock Location On Apple iPhone SE (2022)? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-vivo-y100mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo Y100Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574168670-how-to-fix-a-printer-that-wont-print/"><u>How to Fix a Printer That Won’t Print</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-nord-3-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus Nord 3 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-driver-windows-1011-error/"><u>HP Printer Driver - Windows 10/11 Error</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-engaging-essentials-leading-ig-filters/"><u>In 2024, Engaging Essentials  Leading IG Filters</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-100-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor 100 Devices | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-9-apple-iphone-13-pro-max-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 9 Apple iPhone 13 Pro Max Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/installation-tips-mfc-9330cdw-driver/"><u>Installation Tips: MFC-9330CDW Driver</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/making-offline-brother-printer-a-priority-again/"><u>Making Offline Brother Printer a Priority Again</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/navigating-through-toner-trouble/"><u>Navigating Through Toner Trouble</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/new-mf4770n-software-package-for-windows-users/"><u>New MF4770n Software Package for Windows Users</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-issue-communications-unavailable/"><u>Print Issue: Communications Unavailable</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-fixed-after-new-windows-version-patch/"><u>Printer Fixed After New Windows Version Patch</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-hijacked-multiple-sessions-spotted/"><u>Printer Hijacked? Multiple Sessions Spotted</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-misstep-unanticipated-setup-fiasco/"><u>Printer Misstep: Unanticipated Setup Fiasco</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-spooling-failure-in-windows-10/"><u>Printer Spooling Failure in Windows 10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printers-no-more-missing-pages-heres-why/"><u>Printers: No More Missing Pages, Here's Why</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/realign-printer-settings-in-win10-environment/"><u>Realign Printer Settings in Win10 Environment</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/recovering-windows-hp-printer-status/"><u>Recovering Windows HP Printer Status</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-printer-spits-out-unprinted-sheets/"><u>Resolved: Printer Spits Out Unprinted Sheets</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-canon-printer-issues-on-windows-10/"><u>Resolving Canon Printer Issues on Windows 10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/scanner-reactivation-achieved-in-windows-11/"><u>Scanner Reactivation Achieved in Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-printer-stopped-working-after-windows-11-update/"><u>SOLVED: Printer Stopped Working After Windows 11 Update</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/speedy-printer-solutions-unveiled/"><u>Speedy Printer Solutions Unveiled</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tackling-non-responsive-printer-errors-in-nt-systems/"><u>Tackling Non-Responsive Printer Errors in NT Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-note-taking-game-with-chatgpt-pro-hacks-and-insights/"><u>Transform Your Note-Taking Game with ChatGPT: Pro Hacks and Insights</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-non-operational-usb-printers-in-sleep-mode-w7/"><u>Troubleshooting Non-Operational USB Printers in Sleep Mode, W7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unexpected-printer-config-issue-alert/"><u>Unexpected Printer Config Issue Alert</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/visual-installation-guide-for-a-new-canon-printer/"><u>Visual Installation Guide for a New Canon Printer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-mastering-slow-motion-a-guide-to-photo-editing-tools/"><u>[New] 2024 Approved Mastering Slow-Motion A Guide to Photo Editing Tools</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-youtube-sub4sub-does-it-really-work/"><u>[New] 2024 Approved YouTube Sub4Sub Does It Really Work?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-zippyzoom-echoframe-capture/"><u>[New] In 2024, ZippyZoom EchoFrame Capture</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-video-entrance-with-these-tools/"><u>[Updated] In 2024, Elevate Your Video Entrance with These Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-meizu-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Meizu</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-tecno-pop-8-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-11-techniques-for-perfecting-hue-balance/"><u>In 2024, Top 11 Techniques for Perfecting Hue Balance</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-disconnected-state-in-your-inkjet-printer/"><u>Overcoming Disconnected State in Your Inkjet Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/post-sleep-printer-issues-in-windows-7-usb-devices/"><u>Post-Sleep Printer Issues in Windows 7 USB Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-every-single-printer-page-solution/"><u>Print Every Single Printer Page [Solution]</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-not-responding-steps-for-windows-11/"><u>Printer Not Responding: Steps for Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-tips-for-swift-printers/"><u>Quick Tips for Swift Printers</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

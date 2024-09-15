@@ -1,7 +1,7 @@
 ---
 title: Resolving Scanner Issue on Windows 11
-date: 2024-09-09T01:23:57.848Z
-updated: 2024-09-10T01:23:57.848Z
+date: 2024-09-07T23:04:37.796Z
+updated: 2024-09-14T18:28:25.037Z
 tags:
   - win11
   - win10
@@ -14,12 +14,6 @@ keywords: Windows 11 Scanner Error,Troubleshoot Win11 Scanner Problems,Fix Windo
 thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0bb65c23b15603692f6dffac9.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Resolving Scanner Issue on Windows 11
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ed5f1a83a3.png)
@@ -28,24 +22,12 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
 
 Read on. 🙂
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. [**Check the connection of your Printer**](#m1)
 2. [**Reinstall your printer driver**](#m2)
 3. [**Get rid of ‘Scan to computer is no longer activated’ error**](#m3)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Check the connection of your Printer
 
  Once the error pops up on your Windows 10, and you cannot print the files with your printer, please check the connection between your printer and computer first.
@@ -88,28 +70,10 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5976a910cca49.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Get rid of ‘Scan to computer is no longer activated’ error
 
  If you can use you printer properly, however, the error message Scan to computer is not activated keeps poping-up every 2-5 minutes, it would annoys you deeply. Follow the steps below to get rid of it:  
@@ -118,19 +82,27 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee238c2f07.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Find**scanToPCActivationApp** under**Processes** tab. Then right-click on it to choose**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee29de8213.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Find**scanToPCActivationApp** under**Startup** tab. Then right-click on it to choose**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee2dfcd442.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 That’s all there is to it.
 
@@ -145,8 +117,6 @@ That’s all there is to it.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,51 +124,22 @@ That’s all there is to it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/network-problem-unable-to-install-hp-d1360-printer-driver-in-various-oses/"><u>[Network Problem] Unable to Install HP D1360 Printer Driver in Various OSes</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-high-end-gamers-guide-to-switch-recordings/"><u>[New] 2024 Approved  High-End Gamers' Guide to Switch Recordings</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-streamline-events-with-obs-crafting-a-time-based-feature/"><u>[New] Streamline Events with OBS  Crafting a Time-Based Feature</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-visionary-selection-best-10-audio-plugins-for-spotify/"><u>[New] Visionary Selection  Best 10 Audio Plugins for Spotify</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-no-print-after-win7-device-suspend/"><u>[Solved] No Print After Win7 Device Suspend</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-luts-on-the-house-your-dji-devices-get-a-perk-up/"><u>[Updated] LUTs on the House - Your DJI Devices Get a Perk Up</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-starter-mic-solutions-for-youtube-starters-for-2024/"><u>[Updated] Starter Mic Solutions for YouTube Starters for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-top-10plus-best-online-screen-capture-platforms/"><u>2024 Approved  Top 10+ Best Online Screen Capture Platforms</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-realme-gt-neo-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/addressed-printer-no-start-error/"><u>Addressed Printer No Start Error</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/banishing-the-whiteout-from-our-print-sources/"><u>Banishing the Whiteout From Our Print Sources</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-printer-installation-made-simple-image-driven/"><u>Canon Printer Installation Made Simple (Image-Driven)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574151519-canon-printer-is-offline-heres-how-to-fix-it/"><u>Canon Printer Is Offline? Here's How to Fix It</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-printer-unresponsive-seek-help-fast/"><u>Canon Printer: Unresponsive, Seek Help Fast</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/colors-not-filling-in-prints/"><u>Colors Not Filling In Prints</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/dell-inkjet-aio-updater-for-win7/"><u>Dell Inkjet AIO Updater for Win7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-killers-e2500-1gb-lan-drivers-for-enhanced-wireless-performance/"><u>Download Killer's E2500 1GB LAN Drivers for Enhanced Wireless Performance</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-install-canon-scanners-windows-drivers-download-free/"><u>Effortless Install: Canon Scanners Windows Drivers Download Free</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/effortless-solution-to-pcl-xl-problems/"><u>Effortless Solution to PCL XL Problems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ended-canons-code-b200-misstep/"><u>Ended Canon's Code B200 Misstep</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-all-pages-print-glitch/"><u>Fix All-Pages Print Glitch</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014523205-fix-fortnite-voice-communication-issues-fast-expert-solutions/"><u>Fix Fortnite Voice Communication Issues Fast - Expert Solutions</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-hp-printer-offline-in-win7-home/"><u>Fixed HP Printer Offline in Win7 Home</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guide-to-setting-up-hp-laserjet-compact-connectivity/"><u>Guide to Setting Up HP LaserJet Compact Connectivity</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-arrange-an-apple-remote-inspection-for-your-troublesome-iphone/"><u>How to Arrange an Apple Remote Inspection for Your Troublesome iPhone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-discovering-the-power-of-fraps-in-video-capture/"><u>In 2024, Discovering the Power of Fraps in Video Capture</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Nokia 150 (2023) | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instant-connectivity-between-laptops-and-hp-discover-the-best-fixes/"><u>Instant Connectivity Between Laptops & HP - Discover the Best Fixes</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-hp-officejet-4500-driver-downloads-updated/"><u>Latest HP OfficeJet 4500 Driver Downloads - Updated</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcame-hp-printers-spooler-error/"><u>Overcame HP Printer's Spooler Error</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/post-hibernate-usb-print-issues-on-windows-7-devices/"><u>Post-Hibernate USB Print Issues on Windows 7 Devices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/preventing-disruptions-from-windows-710s-printer-service/"><u>Preventing Disruptions From Windows 7/10'S Printer Service</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-fix-new-os-upgrade-mishap/"><u>Printer Fix: New OS Upgrade Mishap</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolve-print-hang-up-swiftly/"><u>Resolve Print Hang-Up Swiftly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolve-print-spooler-problems-in-win10/"><u>Resolve Print Spooler Problems in WIN10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-printer-no-connection-detected/"><u>Resolved: PRINTER No Connection Detected</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/set-up-your-mfc-9330cdw-brother-fan/"><u>Set Up Your MFC-9330CDW Brother Fan</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/steps-to-stop-intermittent-print-job-failures-windows/"><u>Steps to Stop Intermittent Print Job Failures (Windows)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamlining-print-issues-5-simple-solutions-for-non-printing-canon-devices-in-windows-11/"><u>Streamlining Print Issues: 5 Simple Solutions for Non-Printing Canon Devices in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-hardware-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify missing your hardware drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/zeroing-in-on-printer-default-error-0x00000709-victory/"><u>Zeroing In on Printer Default Error 0X00000709 Victory</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-depth-samsung-picture-editor-features-and-proscons/"><u>[New] In-Depth Samsung Picture Editor Features and Pros/Cons</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-printer-not-connected-quickly-and-easily/"><u>[Solved] Printer Not Connected | Quickly & Easily</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/code-b200-rectified/"><u>Code B200 Rectified</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/cookiebot-enabled-site-management-enhance-your-websites-user-experience/"><u>Cookiebot-Enabled Site Management: Enhance Your Website's User Experience</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/dismantling-hp-printer-fault-0xoxc4eb827f/"><u>Dismantling HP Printer Fault 0xOXC4EB827F</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-overcome-inactive-airdrop-on-multiple-apple-devices-for-2024/"><u>How to Overcome Inactive AirDrop on Multiple Apple Devices for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/leverage-cookiebot-technology-for-tailored-content-delivery-and-improved-seo-ranking/"><u>Leverage Cookiebot Technology for Tailored Content Delivery & Improved SEO Ranking</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-world-creation-in-writing-through-chatgpt-techniques/"><u>Mastering World Creation in Writing Through ChatGPT Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/must-have-educational-electronics-the-top-9-tools-for-todays-learners/"><u>Must-Have Educational Electronics: The Top 9 Tools for Today's Learners</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-brother-printer-printing-obstructions-in-windows/"><u>Overcoming Brother Printer Printing Obstructions in Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-printer-fixes-five-steps-to-ensure-your-canon-works-in-windows-11/"><u>Quick Printer Fixes: Five Steps to Ensure Your Canon Works in Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-software-conflicts-in-printing-hardware/"><u>Resolving Software Conflicts in Printing Hardware</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solve-paper-jamming-in-w11-laser-printers/"><u>Solve Paper Jamming in W11 Laser Printers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successful-saving-of-visuals-and-layouts/"><u>Successful Saving of Visuals & Layouts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-havit-5-laptop-chiller-stay-cool-while-gaming/"><u>Ultimate Guide to the HAVIT 5 Laptop Chiller: Stay Cool While Gaming</u></a></li>
 </ul></div>
+

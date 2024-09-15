@@ -1,7 +1,7 @@
 ---
 title: Swiftly Displace Queued Print Operations
-date: 2024-09-09T01:23:58.887Z
-updated: 2024-09-10T01:23:58.887Z
+date: 2024-09-08T20:20:47.400Z
+updated: 2024-09-15T00:19:42.123Z
 tags:
   - win11
   - win10
@@ -38,35 +38,11 @@ thumbnail: https://thmb.techidaily.com/d08434487f817b4e37cfe7558cadbd43386d2a121
 2. In the Run window, type**services.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/services-run-box.jpg)
 3. Scroll down to**Print Spooler** .
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Right-click**Print Spooler** and select**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/stop-the-service.jpg)
 5. Navigate to**C:\\Windows\\System32\\spool\\PRINTERS** and delete all files in the folder. (Do NOT delete the folder itself.)  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/delete.jpg)
 6. In the Services window, right-click**Print Spooler** and select**Start** .  
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/start-service.jpg)
 7. Go back to the**Print Job** queue. All print jobs should have been removed now and you can start printing again normally.
 
@@ -103,12 +79,6 @@ This will clear all of your print jobs stuck in a queue.
  **net start spooler**  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/note.jpg)
 3. Then click**File** \>**Save as…**  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    * Change the file type to**All files**  
    * Name your file whatever you want, but add a**.bat** suffix.  
    * Make sure the Encoding type is**ANSI** .  
@@ -134,12 +104,6 @@ This will clear all of your print jobs stuck in a queue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/kisspng-pixel-illustration-printer-5a983b8a6f6aa4.5830009615199261544564.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Option 2: Automatic printer driver update (Recommended)
 
  If you don’t have the time, patience, or computer skills to update your audio driver manually, you can**do it automatically** with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct driver for your device.
@@ -152,22 +116,10 @@ This will clear all of your print jobs stuck in a queue.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now-1.png)
 3. Click the Update button next to your sound card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **OR** click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-1.jpg)
 4. Restart your computer for the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Try printing again. Your printer should be working properly now.
 
 ---
@@ -186,8 +138,6 @@ Feel free to drop us a comment if you have any questions or suggestions.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,55 +145,30 @@ Feel free to drop us a comment if you have any questions or suggestions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-amplifying-impact-youtube-visibility-techniques/"><u>[New] 2024 Approved  Amplifying Impact  YouTube Visibility Techniques</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-efficient-methods-for-recording-minecraft-sessions/"><u>[New] Efficient Methods for Recording Minecraft Sessions</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/asterful-seo-approaches-for-soaring-in-youtube-video-popularity-for-2024/"><u>[New] Masterful SEO Approaches for Soaring in YouTube Video Popularity for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-unleashing-your-viewing-experience-screen-recording-solutions/"><u>[New] Unleashing Your Viewing Experience  Screen Recording Solutions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-follow-the-leaders-youtubes-elite-music-bands/"><u>[Updated] 2024 Approved  Follow the Leaders  YouTube's Elite Music Bands</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-illustrator-tutorial-bringing-text-to-life/"><u>[Updated] Illustrator Tutorial  Bringing Text to Life</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/accelerate-release-for-queued-printer-work/"><u>Accelerate Release for Queued Printer Work</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/beating-the-market-top-file-managers/"><u>Beating the Market  Top File Managers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-infinix-note-30-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Infinix Note 30.</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/break-free-from-stuck-print-queue/"><u>Break Free From Stuck Print Queue</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/breathe-life-into-your-printer-overcoming-offline-issues/"><u>Breathe Life Into Your Printer: Overcoming Offline Issues</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-pixma-mp620-driver-windows-11-refuses-to-connect/"><u>Canon Pixma MP620 Driver: Windows 11 Refuses to Connect</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/color-prints-failing-to-appear/"><u>Color Prints Failing to Appear</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/connect-and-print-with-hp-deskjet-2630-remote/"><u>Connect & Print with HP DeskJet 2630 Remote</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Infinix Smart 7 HD? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-latest-updates-for-canoscan-lide-220-scanner-software/"><u>Download and Latest Updates for CanoScan LiDE 220 Scanner Software</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/endless-white-refills-in-epson-printing-issue/"><u>Endless White Refills in Epson Printing Issue</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/expeditiously-address-printer-job-stall/"><u>Expeditiously Address Printer Job Stall</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/from-unboxed-to-printed-the-complete-win-hp-printer-guidebook/"><u>From Unboxed to Printed: The Complete Win HP Printer Guidebook</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/getting-your-w7s-offline-hp-print-running/"><u>Getting Your W7's Offline HP Print Running</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guidelines-to-cure-printer-blank-screens/"><u>Guidelines to Cure Printer Blank Screens</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-fix-the-printer-not-printing-issue/"><u>How to Fix the Printer Not Printing Issue</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ideal-tech-gear-our-top-18-webcam-recording-innovations-reviewed/"><u>Ideal Tech Gear  Our Top 18 Webcam Recording Innovations Reviewed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/identified-non-owner-print-job-intervention/"><u>Identified Non-Owner Print Job Intervention</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gazegraphic-reviews-synopsis/"><u>In 2024, GazeGraphic Reviews Synopsis</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-edits-navigating-photoshops-eraser-function/"><u>In 2024, Seamless Edits  Navigating Photoshop’s Eraser Function</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instruction-adding-officejet-pro-8720-to-computer-setup/"><u>Instruction: Adding OfficeJet Pro 8720 to Computer Setup</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/integrating-hp-3d-imaging-printer-easily/"><u>Integrating HP 3D Imaging Printer Easily</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-7-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone 7 in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/offline-printer-issue-resolved-in-win7/"><u>Offline Printer Issue Resolved in Win7</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/optimizing-your-project-b-roll-utilization-tips/"><u>Optimizing Your Project  B-Roll Utilization Tips</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/post-update-printer-problem-resolved-and-happy-again/"><u>Post-Update Printer Problem: Resolved and Happy Again!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-service-recovered-on-windows-7-desktop/"><u>Print Service Recovered on Windows 7 Desktop</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-unresponsive-due-to-missing-os-driver/"><u>Printer Unresponsive Due to Missing OS Driver</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-steps-to-revive-asus-camera/"><u>Quick Steps to Revive ASUS Camera</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reconnect-scanner-troubleshooting-win10/"><u>Reconnect Scanner: Troubleshooting Win10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-communication-breakdown-with-print-server/"><u>Resolved: Communication Breakdown with Print Server</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revive-offline-canon-printer-immediately/"><u>Revive Offline Canon Printer Immediately</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-blueprint-to-thriving-in-spotify-ads/"><u>The Ultimate Blueprint to Thriving in Spotify Ads</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/top-5-tecno-pop-7-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Tecno Pop 7 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshoot-non-printing-issues-five-tactics-to-get-your-canon-running-in-windows-11/"><u>Troubleshoot Non-Printing Issues: Five Tactics to Get Your Canon Running in Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooted-epson-printer-malfunction/"><u>Troubleshooted Epson Printer Malfunction</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-a-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>Updated 2024 Approved A Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win11-scanner-reactivated-without-fuss/"><u>Win11: Scanner Reactivated Without Fuss</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/network-problem-hp-printer-driver-issues-across-windows-versions/"><u>[Network Problem] HP Printer Driver Issues Across Windows Versions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-from-basic-to-creative-zooming-into-video-filters-step-by-step/"><u>[Updated] From Basic to Creative Zooming Into Video Filters Step-by-Step</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-ultimate-pcmobile-mkv-viewer/"><u>[Updated] In 2024, Ultimate PC/Mobile MKV Viewer</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-step-by-step-full-ps4-game-recording-in-obs-studio-for-2024/"><u>[Updated] Step-by-Step Full PS4 Game Recording in OBS Studio for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-digital-media-expert-advice-for-macs-dvd-creation/"><u>2024 Approved Transforming Digital Media Expert Advice for Mac's DVD Creation</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/addressing-brother-printer-no-print-errors-windows-style/"><u>Addressing Brother Printer No-Print Errors, Windows Style</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-guide-transferring-your-dvd-collection-from-discs-to-pc-or-mac-hard-drive/"><u>Effortless Guide: Transferring Your DVD Collection From Discs to PC or Mac Hard Drive</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-powerdirector-unveiled-in-depth-review-and-users-handbook/"><u>In 2024, PowerDirector Unveiled In-Depth Review & User's Handbook</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-k11xfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo K11xFRP Lock</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/lighten-your-load-fast-prints-guide/"><u>Lighten Your Load: Fast Prints Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reconnecting-scanner-to-windows-10-post-update/"><u>Reconnecting Scanner to Windows 10 Post-Update</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-pcs-scanner-functionality-in-win10/"><u>Restoring PC's Scanner Functionality in Win10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/streamlining-print-devices-from-win-1011/"><u>Streamlining Print Devices From Win 10/11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/supercharge-dells-v305-inkjets-with-new-windows-driver/"><u>Supercharge Dell's V305 Inkjets with New Windows Driver</u></a></li>
+<li><a href="https://extra-information.techidaily.com/trilltones-techniques-how-to-cut-and-download-tamil-songs/"><u>TrillTones Techniques How to Cut and Download Tamil Songs</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

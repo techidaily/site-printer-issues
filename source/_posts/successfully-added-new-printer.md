@@ -1,7 +1,7 @@
 ---
 title: Successfully Added New Printer
-date: 2024-09-09T01:23:57.950Z
-updated: 2024-09-10T01:23:57.950Z
+date: 2024-09-12T04:34:13.085Z
+updated: 2024-09-14T19:19:47.255Z
 tags:
   - win11
   - win10
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6
 
  “**Unable to install Printer.Operation could not be completed** ” could occur during installing printer or using the printer, especially after a Windows upgrade or reinstall. The problem can be caused by several issues. If you run into this problem, just try the **three**  solutions below and the problem should resolve.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution**1: Start the Print Spooler service**
 
  The problem can occur if the print spooler service is stopped. So make sure the service is started. If it’s stopped, start it. To check and start the service, follow these steps:
@@ -40,40 +34,16 @@ thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57870fec6b0f3.png)
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) If the “Service status” is Stopped, click the **Start** button. And make sure the “Startup type” has been set as**Automatic** . After that, click the **OK** button to save the change.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5797242d45d94.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) Reboot your PC for the change to take effect.
 
 This should fix the problem. If not, proceed to solution 2.
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Solution 2: Update the printer driver**
 
  A faulty, corrupt or missing printer driver can caused “Unable to install Printer.Operation could not be completed” error. To resolve the issue, you can update the printer driver.
@@ -90,24 +60,12 @@ This should fix the problem. If not, proceed to solution 2.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6276881dc81.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update** button next to the printer driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627664eb496.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) After updating the driver, check to see if the problem is resolved.
 
 ---
@@ -128,12 +86,6 @@ To delete the printer keys, here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5797354018fd8.png)
   
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  **C:\\Windows\\System32\\Spool\\Drivers\\w32x86**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57973526811ea.png)
@@ -154,30 +106,12 @@ To delete the printer keys, here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57972ed64a5f9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 For   **64-bit** operating system:
 
  **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Print\\Environments\\Windows x64\\Drivers\\Version-x**  (Note x will be a different number in different PC. In my case, itis version-3.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57972e8c6def5.png)
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57972f5298c63.png)
 
  5) Select this folder and you will see all printer registry entries in right pane. Right-click on the entry and select**Delete** from the context menu. Delete all registry entries here.
@@ -198,8 +132,6 @@ For   **64-bit** operating system:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,51 +139,27 @@ For   **64-bit** operating system:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/fixation-local-network-printer-spooler-stuck/"><u>[FIXATION] Local Network Printer Spooler Stuck</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-boosting-sales-the-top-20-words-and-phrases-in-marketing/"><u>[New] Boosting Sales  The Top 20 Words and Phrases in Marketing</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-discover-the-best-4k-capture-software-for-live-recording-for-2024/"><u>[New] Discover the Best 4K Capture Software for Live Recording for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-discover-the-top-10-text-tricks-in-filmmaking/"><u>[New] In 2024, Discover the Top 10 Text Tricks in Filmmaking</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/update-required-mp620-not-recognized-by-windows/"><u>[Update Required] MP620 Not Recognized by Windows</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-masterclass-on-premiere-pro-fullscreen-mode-finesse/"><u>[Updated] Masterclass on Premiere Pro  Fullscreen Mode Finesse</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/acancel-free-setup-for-wi-fi-connected-printers/"><u>Acancel-Free Setup for Wi-Fi Connected Printers</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/augustos-mysql-expertise-showcased-in-stellar-repair-video/"><u>Augusto's MySql Expertise Showcased in Stellar Repair Video</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/beginners-guide-to-setting-up-a-canon-printer-with-images/"><u>Beginner's Guide to Setting up a Canon Printer (with Images)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/changing-frozen-moments-into-sequential-movies-for-2024/"><u>Changing Frozen Moments Into Sequential Movies for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/code-b200-resolution-achieved/"><u>Code B200 Resolution Achieved</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/conquering-the-blank-page-battlefield-for-printers/"><u>Conquering the Blank Page Battlefield for Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-photo-printer-endless-white-paper-output/"><u>Epson Photo Printer: Endless White Paper Output</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/get-your-mfc-9330-cdw-up-and-running/"><u>Get Your MFC-9330 CDW Up and Running</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guide-joining-officejet-8720-to-home-computers/"><u>Guide: Joining OfficeJet 8720 to Home Computers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-offline-status-on-windows-107-solved/"><u>HP Printer Offline Status on Windows 10/7 [Solved]</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-infinix-hot-40i-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Infinix Hot 40i via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-srt-tweaks-elevating-your-computing/"><u>In 2024, Optimal SRT Tweaks  Elevating Your Computing</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/navigating-through-hp-printer-setup-wizards-in-windows/"><u>Navigating Through HP Printer Setup Wizards in Windows</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-leading-7-solutions-to-swiftly-extract-voices-from-recordings/"><u>New In 2024, Leading 7 Solutions to Swiftly Extract Voices From Recordings</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/no-more-white-pages-a-printers-triumph-story/"><u>No More White Pages: A Printer's Triumph Story</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/offline-printer-status-solved-win7-hp-troubleshooting-guide/"><u>Offline Printer Status Solved: Win7 HP Troubleshooting Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/perfecting-pace-and-flow-in-film-using-kinemaster/"><u>Perfecting Pace and Flow in Film Using Kinemaster</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-not-responding-to-color-requests/"><u>Printer Not Responding to Color Requests</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-stops-printing-post-win11-installation/"><u>Printer Stops Printing Post Win11 Installation</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-incompatible-printer-drivers-for-hp-d1360-in-windows/"><u>Resolving Incompatible Printer Drivers for HP D1360 in Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-no-response-from-networked-printer/"><u>Resolving No Response From Networked Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restored-printer-link-to-spooler/"><u>Restored PRINTER Link to Spooler</u></a></li>
-<li><a href="https://windows11.techidaily.com/resurrecting-lost-wi-fi-link-windows-edition/"><u>Resurrecting Lost Wi-Fi Link: Windows Edition</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/scrutinizing-hero5s-performance-throughout-day-for-2024/"><u>Scrutinizing Hero5's Performance Throughout Day for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/stop-your-wastelanded-printer-on-windows-11/"><u>Stop Your Wastelanded Printer on Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/swiftly-reunite-disconnected-printer/"><u>Swiftly Reunite Disconnected Printer</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/uncover-the-leading-podcast-apps-for-android-users/"><u>Uncover the Leading Podcast Apps for Android Users</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-rhythm-rulers-the-ultimate-list-of-hit-identification-tools-revised/"><u>Updated 2024 Approved Rhythm Rulers The Ultimate List of Hit Identification Tools, Revised</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/upgrade-dell-aio-printer-software-in-windows-7/"><u>Upgrade: Dell AIO Printer Software in WIndows 7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/usb-printer-error-unresponsive-on-win7-restart/"><u>USB Printer Error: Unresponsive on Win7 Restart</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/whiteout-printing-issue-plaguing-my-epson-model/"><u>Whiteout Printing Issue Plaguing My Epson Model</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/why-my-printer-skips-colors/"><u>Why My Printer Skips Colors?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win-117-fix-for-non-responsive-printer-spooler/"><u>Win 11/7 Fix for Non-Responsive Printer Spooler</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-wide-applications-mf4770n-firmware-update/"><u>Windows-Wide Applications: MF4770n Firmware Update</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/winnt-reactivate-sluggish-uncooperative-printer/"><u>WinNT: Reactivate Sluggish, Uncooperative Printer</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhance-and-clean-up-youtube-footage-borderless-tutorial/"><u>[New] 2024 Approved Enhance and Clean Up YouTube Footage Borderless Tutorial</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-vidcap-quality-check-top-choices-for-capturing-action/"><u>[New] 2024 Approved VidCap Quality Check Top Choices for Capturing Action</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-long-winded-to-concise-the-art-of-youtube-trimming/"><u>[Updated] In 2024, From Long-Winded to Concise The Art of YouTube Trimming</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/black-and-white-only-mode-engaged-by-printer/"><u>Black & White Only Mode Engaged by Printer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/email-safelisting-best-practices-for-enhanced-online-security-and-visibility/"><u>Email Safelisting Best Practices for Enhanced Online Security and Visibility</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/get-your-brother-printer-back-to-life-fixing-non-print-on-windows/"><u>Get Your Brother Printer Back to Life: Fixing Non-Print on Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-capturing-your-favorite-tunes-from-pandora-on-pcs-with-windows-10-or-11/"><u>Guide: Capturing Your Favorite Tunes From Pandora on PCs with Windows 10 or 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-vivo-y100-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Vivo Y100 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-problems-in-adding-printer/"><u>No Problems in Adding Printer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-obs-screen-issue-solutions-for-a-crisp-clear-video-output/"><u>Overcoming OBS Screen Issue - Solutions for a Crisp, Clear Video Output</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/streamlined-connection-solutions-joining-your-laptop-and-hp-printer/"><u>Streamlined Connection Solutions: Joining Your Laptop and HP Printer</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/remier-software-selection-for-youtube-intros-for-2024/"><u>The Premier Software Selection for YouTube Intros for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unblocked-scanner-operation-in-windows-11-os/"><u>Unblocked Scanner Operation in Windows 11 OS</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

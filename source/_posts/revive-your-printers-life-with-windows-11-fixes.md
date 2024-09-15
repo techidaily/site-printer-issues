@@ -1,7 +1,7 @@
 ---
 title: Revive Your Printer's Life with Windows 11 Fixes
-date: 2024-09-09T01:23:59.719Z
-updated: 2024-09-10T01:23:59.719Z
+date: 2024-09-13T17:51:51.149Z
+updated: 2024-09-15T01:34:37.007Z
 tags:
   - win11
   - win10
@@ -27,12 +27,6 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 3. [Run printer troubleshooter](#f3)
 4. [Repair system file](#f4)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1: Check for Windows Update
 
  Microsoft has released [KB5006746](https://support.microsoft.com/en-us/topic/october-21-2021-kb5006746-os-build-22000-282-preview-03190705-0960-4ba4-9ee8-af40bef057d3) to fix printer issues. If you just upgraded to Windows 11 and encountered printer issues, you can check if there’s an available Windows update.
@@ -57,12 +51,6 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/update-hp-printer-driver.jpg)
@@ -72,12 +60,6 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 
  Restart your computer for the changes to take effect, and your printer should be working properly.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Run printer troubleshooter
 
  Windows has an internal feature to examine and fix its own issue. Why not run its printer troubleshooter to fix your printer issue.
@@ -86,14 +68,15 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 2. Go to**System** and click**Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/win11-settings-troubleshooter.jpg)
 3. Choose**Other troubleshoot** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/win11-other-troubleshooter.jpg)
 4. Find the**Printer** section and click**Run** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Repair system file
 
@@ -114,28 +97,10 @@ Here’s how to use Fortect to repair system files on your PC:
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 5. Restart your computer for the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Check your computer to see if the driver crash issue is fixed.
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -149,6 +114,13 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
@@ -156,11 +128,12 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 4) Restart your computer for the changes to take effect.
@@ -177,8 +150,6 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,55 +157,19 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/solved-usb-printers-not-working-after-sleep-in-windows-7/"><u>[Solved] USB Printers Not Working After Sleep in Windows 7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/update-required-pixma-mp620-drivers-missing-windows-10/"><u>[Update Required] Pixma MP620 Drivers Missing Windows 10</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-craft-standout-names-for-your-youtube-channel-for-2024/"><u>[Updated] How to Craft Standout Names for Your YouTube Channel for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-save-while-you-teach-hosting-low-cost-seminars-via-youtube/"><u>[Updated] Save While You Teach  Hosting Low-Cost Seminars via YouTube</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-prioritizing-quality-the-best-skype-recorders-listed/"><u>2024 Approved  Prioritizing Quality  The Best Skype Recorders Listed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-simplifying-complexity-essential-gs-tutorials-kinemaster/"><u>2024 Approved  Simplifying Complexity  Essential GS Tutorials (KineMaster)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-art-of-instagram-video-clipping-and-trimming/"><u>2024 Approved  The Art of Instagram Video Clipping and Trimming</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-htc-u23-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On HTC U23 Pro without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/accelerate-printer-output-immediately/"><u>Accelerate Printer Output Immediately</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/bringing-your-disconnected-hp-printer-online-in-w8/"><u>Bringing Your Disconnected HP Printer Online in W8</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brother-cdw-duo-fan-setup-instructions/"><u>Brother CDW Duo Fan Setup Instructions</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brother-wireless-mfc-9330cdw-instructions/"><u>Brother Wireless MFC-9330CDW Instructions</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y100i-power-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y100i Power 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/diagnosing-ink-and-paper-feed-issues-in-hp/"><u>Diagnosing Ink and Paper Feed Issues in HP</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/end-repeated-print-job-failures-guide-for-windows-107-users/"><u>End Repeated Print Job Failures: Guide for Windows 10/7 Users</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhance-your-printing-experience-with-canon-windows-10-tips/"><u>Enhance Your Printing Experience with Canon, Windows 10 Tips</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-printer-offline-no-more-windows-7/"><u>Epson Printer Offline No More, Windows 7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-printer-driver-issues-on-windows-10/"><u>Fix Printer Driver Issues on Windows 10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-non-operational-printer-service-spooler-issues/"><u>Fixing Non-Operational Printer Service (Spooler) Issues</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-online-offline-print-status-anomaly/"><u>Fixing Online-Offline Print Status Anomaly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hack-your-way-through-pcl-xl-troubles/"><u>Hack Your Way Through PCL XL Troubles</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-prevent-print-service-interruptions-on-w7w10w11/"><u>How to Prevent Print Service Interruptions on W7/W10/W11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-edge-40-pro-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Edge 40 Pro?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/immediate-action-on-queued-printer-work/"><u>Immediate Action on Queued Printer Work</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-selective-cinematic-forecast-collection/"><u>In 2024, Selective Cinematic Forecast Collection</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mastering-fixes-for-epson-error-0x97/"><u>Mastering Fixes for Epson Error 0X97</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mended-paper-jamming-concern/"><u>Mended Paper Jamming Concern</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/monochrome-output-despite-color-settings/"><u>Monochrome Output Despite Color Settings</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/navigating-pcl-xl-complications-swiftly/"><u>Navigating PCL XL Complications Swiftly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/navigating-the-setup-of-hp-envy-printers/"><u>Navigating the Setup of HP Envy Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/officejet-pro-8600-printer-support-package-windows-based/"><u>Officejet Pro 8600 Printer Support Package, Windows-Based</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-like-a-pro-3-upgrades-to-link-your-printer-and-laptop-seamlessly/"><u>Print Like a Pro: 3 Upgrades to Link Your Printer & Laptop Seamlessly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-issue-not-showing-up-in-win-810/"><u>Printer Issue: Not Showing Up in Win 8/10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-puzzle-mysterious-setup-error/"><u>Printer Puzzle: Mysterious Setup Error</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-guide-hook-up-your-hp-officejet-pro-duo/"><u>Quick Guide: Hook Up Your HP Officejet Pro Duo</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-link-functional-print-device/"><u>Quick Link: Functional Print Device</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restoring-efficient-data-flow-for-printers/"><u>Restoring Efficient Data Flow for Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reversed-printing-mishaps-hp-printer-now-solid-and-sure/"><u>Reversed Printing Mishaps: HP Printer Now Solid and Sure</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revived-networked-printer-access/"><u>Revived Networked Printer Access</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamlining-mf4770n-functions-on-w11w8w7-os/"><u>Streamlining MF4770n Functions on W11/W8/W7 OS</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/swift-solutions-to-printer-delays/"><u>Swift Solutions to Printer Delays</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-art-of-holding-attention-6-video-classifications/"><u>The Art of Holding Attention  6 Video Classifications</u></a></li>
-<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/turbocharge-printer-operations/"><u>Turbocharge Printer Operations</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-ultimate-flashy-game-collection-quick-and-lightweight/"><u>[New] In 2024, Ultimate Flashy Game Collection - Quick and Lightweight</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-breaking-barriers-youtube-marketing-mastery/"><u>[Updated] 2024 Approved Breaking Barriers YouTube Marketing Mastery</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-maximizing-your-sound-the-best-microphones-for-podcasting/"><u>[Updated] Maximizing Your Sound The Best Microphones for Podcasting</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/efficient-fix-disconnected-printer-back-online/"><u>Efficient Fix: Disconnected Printer Back Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-viewing-experience-linking-disney-plus-to-chromecast-in-minutes/"><u>Enhance Your Viewing Experience: Linking Disney Plus to Chromecast in Minutes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-w11-scanner-output-issues/"><u>Fix W11 Scanner Output Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/immediate-fixes-for-lags-in-printing/"><u>Immediate Fixes for Lags in Printing</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/installing-mf4770n-support-software-windows-xp-7/"><u>Installing MF4770n Support Software Windows XP-7</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solutions-to-restore-text-input-functionality-when-cursor-goes-white-on-windows-pc/"><u>Solutions to Restore Text Input Functionality When Cursor Goes White on Windows PC</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-final-cut-pro-vs-lumafusion-a-comprehensive-guide-to-choosing-the-best-video-editor-for-2024/"><u>Updated Final Cut Pro vs LumaFusion A Comprehensive Guide to Choosing the Best Video Editor for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win711-hp-printer-network-recovery-tips/"><u>Win7/11 HP Printer Network Recovery Tips</u></a></li>
 </ul></div>
+

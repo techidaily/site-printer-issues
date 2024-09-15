@@ -1,7 +1,7 @@
 ---
 title: "Printer Setup Error: Only Blank Sheets From Epson"
-date: 2024-09-09T01:23:57.705Z
-updated: 2024-09-10T01:23:57.705Z
+date: 2024-09-09T18:51:18.458Z
+updated: 2024-09-14T20:01:19.629Z
 tags:
   - win11
   - win10
@@ -14,12 +14,6 @@ keywords: Epson Printer Setup Error Troubleshooting,Epson Blank Sheet Output Iss
 thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf8ab3a2d0b2277eb6b26d486.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Printer Setup Error: Only Blank Sheets From Epson
 
  You’ll feel so weird when your Epson printer suddenly prints blanks. You might say: It had been working great since you got it. Don’t worry, it can be easy to fix.
@@ -67,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 
 **Note** : This Printhead Cleaning Cycles cannot be used too often. Allow your printer to rest for at least 6 hours after one cycle (recommended by Epson), then go through a cleaning cycle again. Doing this program repeatedly will make your clog worse and use a lot of ink.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your printer driver
 
  Epson printer needs drivers to work properly. If the driver is outdated or wrong, it may cause problems. There are two ways to get the correct driver: manually and automatically.
@@ -77,12 +78,6 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/ep-1024x507.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.  
 
 #### Option 2–Automatically
@@ -98,6 +93,19 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/%E6%96%B0.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -105,11 +113,12 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/epson.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you encounter problems while using Driver Easy, please send an email to [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
 ### Fix 4: Install Fortect
@@ -122,28 +131,10 @@ Here’s how to use it:
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -157,8 +148,6 @@ Here’s how to use it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,56 +155,17 @@ Here’s how to use it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/error-local-printer-service-unavailable-on-pc/"><u>[ERROR] Local Printer Service Unavailable on PC</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cut-cost-unlock-creativity-step-by-step-guide-to-professional-green-screen-effects-from-top-4-channels/"><u>[New] 2024 Approved  Cut Cost, Unlock Creativity  Step-by-Step Guide to Professional Green Screen Effects From Top 4 Channels</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-revenue-calculation-for-every-clicked-video/"><u>[New] Revenue Calculation for Every Clicked Video</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/os-mismatch-unable-to-load-printer-driver/"><u>[OS MISMATCH] Unable to Load Printer Driver</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-sleephibernate-glitch-with-usb-printers-w7/"><u>[Resolved] Sleep/Hibernate Glitch with USB Printers, W7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/technical-glitch-canon-pixma-mp620-drivers-on-win11-unseen/"><u>[Technical Glitch] Canon Pixma MP620 Drivers on Win11 Unseen</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-gamings-finest-top-12-tycoon-games-ensuring-hours-of-fun/"><u>[Updated] Gaming's Finest - Top 12 Tycoon Games Ensuring Hours of Fun</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-seeking-the-perfect-samsung-gear-360-replacement-our-list-of-2023s-best-cameras-for-2024/"><u>[Updated] Seeking the Perfect Samsung Gear 360 Replacement  Our List of 2023'S Best Cameras for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/addressing-epsons-error-x97/"><u>Addressing Epson's Error X97</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/breaking-the-code-on-non-printing-printers/"><u>Breaking the Code on Non-Printing Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/dealing-with-dormant-printers/"><u>Dealing with Dormant Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/defeating-paper-jams-fixing-spooler-issues-win-1011/"><u>Defeating Paper Jams: Fixing Spooler Issues (Win 10/11)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/dismantle-disconnection-get-your-printer-printing-again/"><u>Dismantle Disconnection: Get Your Printer Printing Again</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/efficiently-manage-hp-officejet-4630-updates/"><u>Efficiently Manage HP Officejet 4630 Updates</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enabling-brother-inkjet-without-faults/"><u>Enabling Brother Inkjet Without Faults</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-canons-error-b200/"><u>Fixed Canon's Error: B200</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/halftone-problem-with-color-prints/"><u>Halftone Problem with Color Prints</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-honor-magic-v2-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Honor Magic V2 Phones with/without a PC</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hasten-reconnecting-print-queued-jobs/"><u>Hasten Reconnecting Print Queued Jobs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/improve-network-settings-for-w11-printers/"><u>Improve Network Settings for W11 Printers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-10-best-camera-apps-for-iphone-x88-plus7-7-plus-free-and-paid/"><u>In 2024, 10 Best Camera Apps for iPhone X/8/8 Plus/7/ 7 Plus - Free & Paid</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-iphone-xs-max-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On iPhone XS Max? Find the Best Solution Here</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-motorola-moto-g24-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Motorola Moto G24 to iPod | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y100-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y100 5GFRP Lock</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-srt-editing-a-comprehensive-mac-guide/"><u>In 2024, Mastering SRT Editing  A Comprehensive Mac Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/my-print-sentry-refuses-responses/"><u>My Print Sentry Refuses Responses</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/new-methods-quickly-connect-hp-to-laptops/"><u>New Methods: Quickly Connect HP to Laptops</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-gtx-760-drivers-update-easily/"><u>Nvidia GTX 760 Drivers Update Easily</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcome-brother-printer-print-failures-on-windows-systems/"><u>Overcome Brother Printer Print Failures on Windows Systems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-brother-printers-offline-hurdle/"><u>Overcoming Brother Printer's Offline Hurdle</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-device-driver-not-compatible-with-multiple-windows-systems-for-hp-d1360/"><u>Print Device Driver Not Compatible with Multiple Windows Systems for HP D1360</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-service-restored-in-win7/"><u>Print Service Restored in Win7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printers-color-rejection/"><u>Printer's Color Rejection</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printing-all-documents-no-gaps-updates/"><u>Printing All Documents, No Gaps Updates</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-steps-to-setup-canon-printer-in-pictures/"><u>Quick Steps to Setup - Canon Printer in Pictures</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/rejuvenate-your-mf4770n-experience-for-win11-8-7/"><u>Rejuvenate Your MF4770n Experience for Win11, 8, 7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solve-canon-print-failure-on-windows-10-effectively/"><u>Solve Canon Print Failure on Windows 10 Effectively</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solve-inkjet-driver-errors-on-w11/"><u>Solve Inkjet Driver Errors on W11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/spooler-error-printer-not-initializing-in-windows/"><u>Spooler Error: Printer Not Initializing in Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/step-by-step-canon-printer-wi-fi-installation/"><u>Step-by-Step Canon Printer Wi-Fi Installation</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-the-erratic-behavior-of-print-spooler-windows/"><u>Troubleshooting the Erratic Behavior of Print Spooler (Windows)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unblocking-offline-status-hp-printer-on-dos-systems/"><u>Unblocking Offline Status: HP Printer on DOS Systems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unveiling-the-hidden-cause-of-blank-printouts/"><u>Unveiling the Hidden Cause of Blank Printouts</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-strategy-for-fusing-audio-with-video-content-updated-for-2024/"><u>Updated The Ultimate Strategy for Fusing Audio with Video Content (Updated ) for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win32-officejet-pro-8600-printer-installation-file/"><u>Win32 Officejet Pro 8600 Printer Installation File</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-xp-non-responsive-printer-issue-resolved/"><u>Windows XP: Non-Responsive Printer Issue Resolved</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-5-outstanding-mkv-tools-for-macos-users/"><u>[New] 5 Outstanding MKV Tools for macOS Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-fix-coffee-stain-distortions-on-iphones-in-a-flash-for-free/"><u>[Updated] In 2024, Fix Coffee Stain Distortions on iPhones in a Flash, for Free</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-issue-mp620-driver-not-detected/"><u>[Windows Issue] MP620 Driver Not Detected</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-watching-social-media-videos-on-appletv/"><u>2024 Approved Watching Social Media Videos on AppleTV</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-samsung-galaxy-a14-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Samsung Galaxy A14 5G</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/end-of-the-line-for-non-printed-pages/"><u>End of the Line for Non-Printed Pages</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-best-funny-fictional-frequencies/"><u>In 2024, The Best Funny Fictional Frequencies</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-compatibility-windows-11-and-canons-mp620/"><u>Printer Compatibility: Windows 11 and Canon's MP620</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-new-age-analyst-gpt-3s-impact-on-data-management/"><u>The New Age Analyst: GPT-3's Impact on Data Management</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-solutions-for-the-dark-screen-error-on-persona-5-strikers/"><u>Troubleshooting and Solutions for the Dark Screen Error on Persona 5 Strikers</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Epson Error Code 0X97
-date: 2024-09-09T01:23:57.618Z
-updated: 2024-09-10T01:23:57.618Z
+date: 2024-09-09T21:00:35.646Z
+updated: 2024-09-15T00:15:15.949Z
 tags:
   - win11
   - win10
@@ -32,12 +32,6 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 3. **[Run the Windows printer troubleshooter](#c)**
 4. **[Update your printer driver](#d)**
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Reboot your printer
 
  A simple reboot can address many common printer issues. Try restarting your printer to see if that also works for you. Here is how:
@@ -72,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 
  Make sure your cartridges all work properly, and then reopen your printer to test your issue. If your problem still exists, check the fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Run the Windows printer troubleshooter
 
  Another quick fix to error code 0x97 is running the Windows printer troubleshooter. Here is how to do it:
@@ -88,12 +89,6 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-842.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)**  Select **Troubleshooting** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-843.png)
@@ -102,22 +97,10 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-844.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)**  Click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-845.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Wait for your computer to automatically detect your printer issue, and then follow the on-screen instructions to fix it. If no printer issue is identified, try [**fix 4**](#d) , below.
 
 #### If you’re on Windows 10…
@@ -126,34 +109,30 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-846.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)**  Select **Troubleshooting settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-847.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click **Printer,**  and then click **Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-849.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Wait for the troubleshooting process to be complete, then reopen your printer to check if this fixed your issue. If not, read on and check the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your printer driver
 
  This problem may occur if you’re using the wrong Epson driver or it’s out of date. It’s essential to keep your printer driver up-to-date at all times.
@@ -193,17 +172,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-229.png)
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can do it for free if you like. But it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](mailto:support@drivereasy.com) .
@@ -224,8 +198,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -233,53 +205,16 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/error-alert-canon-pixma-mp620-not-detected-by-win10/"><u>[Error Alert] Canon Pixma MP620 Not Detected by WIN10</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/arnings-escalation-leveraging-your-youtube-channel-on-mobile-devices-for-2024/"><u>[New] Earnings Escalation  Leveraging Your YouTube Channel on Mobile Devices for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-solo-journey-through-the-world-of-3d-printing-in-3dr/"><u>[New] Solo Journey Through the World of 3D Printing in '3DR'</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-facebook-live-cutting-edge-strategies-audiences/"><u>[Updated] In 2024, Facebook Live  Cutting-Edge Strategies Audiences</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-quick-and-simple-methods-integrating-clownfish-sounds-into-pc-speech/"><u>[Updated] In 2024, Quick & Simple Methods  Integrating Clownfish Sounds Into PC Speech</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-stream-quality-which-is-superior-obs-or-fraps-in-2024/"><u>[Updated] Stream Quality  Which Is Superior, OBS or Fraps, In 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-swift-technique-coding-images-for-youtube-channel-thumbnails/"><u>2024 Approved  Swift Technique  Coding Images for YouTube Channel Thumbnails</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/clearing-up-communication-errors-with-printers/"><u>Clearing Up Communication Errors with Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/color-prints-failing-to-appear/"><u>Color Prints Failing to Appear</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/connectivity-tutorial-setting-up-an-hp-photosmart-x529i/"><u>Connectivity Tutorial: Setting Up an HP PhotoSmart X529i</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/directions-assembling-hp-print-with-your-pc/"><u>Directions: Assembling HP Print with Your PC</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhance-device-performance-with-latest-win1187-drivers/"><u>Enhance Device Performance with Latest Win11/8/7 Drivers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-printer-error-now-working/"><u>Epson Printer Error, Now Working</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/expert-trail-removal-made-easy-discover-the-power-of-stellar-file-eraser-5-windows-edition-and-auto-scheduling/"><u>Expert Trail Removal Made Easy: Discover the Power of Stellar File Eraser 5 Windows Edition & Auto-Scheduling</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/finding-canon-mp620-drivers-challenge-for-win10-users/"><u>Finding Canon MP620 Drivers - Challenge for WIN10 Users</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-the-problem-only-empty-prints-from-your-epson-device/"><u>Fix the Problem: Only Empty Prints From Your Epson Device</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-epsons-error-x97/"><u>Fixing Epson's Error X97</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/foreign-processors-print-job-revealed/"><u>Foreign Processor's Print Job Revealed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guidelines-for-resolving-brother-printer-online-issues/"><u>Guidelines for Resolving Brother Printer Online Issues</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-offline-now-functioning/"><u>HP Printer Offline, Now Functioning</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-direct-methods-for-documenting-virtual-meetings/"><u>In 2024, Direct Methods for Documenting Virtual Meetings</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/integrating-hp-3d-imaging-printer-easily/"><u>Integrating HP 3D Imaging Printer Easily</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/intuitive-software-package-hp-officejet-pro-8600-for-pc-systems/"><u>Intuitive Software Package: HP OfficeJet Pro 8600 for PC Systems</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/mastering-ps4-captures-with-obs-studio-your-complete-guide-for-2024/"><u>Mastering PS4 Captures with OBS Studio - Your Complete Guide for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/navigate-non-prints-on-canon-easily-discover-these-simple-steps-for-window-11-users/"><u>Navigate Non-Prints on Canon Easily: Discover These Simple Steps for Window 11 Users</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-printer-paper-jams-and-errors/"><u>Overcoming Printer Paper Jams and Errors</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-printer-unresponsiveness-in-windows-millennium-edition/"><u>Overcoming Printer Unresponsiveness in Windows Millennium Edition</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/preventative-measures-against-spooler-shutdowns-win/"><u>Preventative Measures Against Spooler Shutdowns (Win)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-service-recovered-on-windows-7-desktop/"><u>Print Service Recovered on Windows 7 Desktop</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-optimization-made-simple/"><u>Printer Optimization Made Simple</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/professional-setup-guide-win32-officejet-pro-8600-driver-installation/"><u>Professional Setup Guide: Win32 Officejet Pro 8600 Driver Installation</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-tutorial-setting-up-your-canon-printing-device/"><u>Quick Tutorial: Setting Up Your Canon Printing Device</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reignite-printer-output-5-effective-steps-for-non-printing-canon-on-windows-11/"><u>Reignite Printer Output: 5 Effective Steps for Non-Printing Canon on Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/repairing-phantom-error-messages-on-printers/"><u>Repairing Phantom Error Messages on Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-communication-breakdown-with-print-server/"><u>Resolved: Communication Breakdown with Print Server</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restore-printer-connection-swiftly/"><u>Restore Printer Connection Swiftly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restore-scanner-link-to-computer-post-windows-update/"><u>Restore Scanner Link to Computer Post-Windows Update</u></a></li>
-<li><a href="https://win11.techidaily.com/stabilizing-win-os-cease-df-glitching-issues/"><u>Stabilizing Win OS: Cease DF Glitching Issues</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unraveling-printer-default-problem-error-0x00000709-fixed/"><u>Unraveling Printer Default Problem - Error 0X00000709 Fixed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/upgraded-os-resolved-printer-disruption/"><u>Upgraded OS, Resolved Printer Disruption</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-7-printer-status-now-functional/"><u>Windows 7 Printer Status: Now Functional</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-paper-mishap-error-code-0x00000709-solved/"><u>Windows Paper Mishap - Error Code 0X00000709 Solved</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-direct-compare-obs-and-twitch-studio-benefits/"><u>[New] Direct Compare OBS and Twitch Studio Benefits</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-connected-successfully/"><u>[PRINT] Connected Successfully</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-inhabit-your-island-minimalistic-mc-house-plans-explained/"><u>[Updated] In 2024, Inhabit Your Island Minimalistic MC House Plans Explained</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mastering-ios-screenshots-and-recordings-for-2024/"><u>[Updated] Mastering iOS Screenshots & Recordings for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/color-saturation-dropped-in-prints/"><u>Color Saturation Dropped in Prints</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-connect-and-configure-hp-wireless-printer/"><u>How to Connect & Configure HP Wireless Printer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-alternatives-to-googles-ar-interactive-graphics/"><u>In 2024, Alternatives to Google's AR Interactive Graphics</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/successful-connection-of-print-device/"><u>Successful Connection of Print Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-strategies-to-overcome-iphone-remote-playback-problems/"><u>Top Strategies to Overcome iPhone Remote Playback Problems</u></a></li>
 </ul></div>
+

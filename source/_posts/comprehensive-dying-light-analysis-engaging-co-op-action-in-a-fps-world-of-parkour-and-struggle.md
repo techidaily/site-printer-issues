@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Dying Light Analysis: Engaging Co-Op Action in a FPS World of Parkour and Struggle"
-date: 2024-09-09T01:23:56.117Z
-updated: 2024-09-10T01:23:56.117Z
+date: 2024-09-08T17:38:31.279Z
+updated: 2024-09-14T22:11:42.208Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Dying Light Analysis: Engaging Co-Op Action in a FPS World of Parkour and Struggle"
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 
 ![Amazon Luna](https://www.lifewire.com/thmb/D9MecP2109T2iYhabM0CPBRirFA=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_Hero_Square-cced3e5a3d3e4d24af1b85a59c76932d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Jeremy Laukkonen
 
  What We Like
@@ -46,22 +40,10 @@ Lifewire / Jeremy Laukkonen
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Amazon Luna
 
 ![Amazon Luna](https://www.lifewire.com/thmb/NT3lnZ3hOwaGUbS2tHARE7zRT1Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_Hero_Square-cced3e5a3d3e4d24af1b85a59c76932d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Jeremy Laukkonen
 
 [View On Amazon](https://www.amazon.com/luna/landing-page?tag=lifewire-onsite-prod-20&ascsubtag=5119523%7Cnc95ba131dcd04d8fadef0bfb2a313e6816%7C)
@@ -103,18 +85,6 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/jNDwaMGOVuF5UIISPsmdb5uQdGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_04-985a4419a93945d2879b09d61fafae5a.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Jeremy Laukkonen
 
  In addition to the offset analog sticks, the Luna controller also features a fairly standard array of buttons. A somewhat mushy directional pad sits below the left analog stick, and four familiar face buttons sit above the right stick. The triggers are fairly shallow but feel responsive, and shoulder buttons are easily accessed without moving your fingers off the triggers. In addition to the standard array, the Luna controller also includes a microphone button to access Alexa.
@@ -128,11 +98,18 @@ Lifewire / Jeremy Laukkonen
  Overall, the Luna controller has quickly become one of my favorite alternatives to the Xbox One or Xbox Series X/S controller; the only real issues being the mushy d-pad and the texture of the analog sticks. I ended up snapping on some performance thumb grips, which worked great.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Setup Process: Quick and easy
 
  Luna is just about as easy to use as a gaming service can be. To use Luna, there’s zero setup involved. If you’re playing on Windows, macOS, iOS, or Android, you can just connect a compatible controller, navigate to the Luna website, and start playing. The Fire TV app is similarly easy to get up and running.
@@ -141,24 +118,12 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/6427gP-MSnqe4st8hfuI-7yxlos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_03-f12a92bc606e43caa77b445a2fdcf1c1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Jeremy Laukkonen
 
  If you do opt to link your controller to your Amazon account when you buy it, and you already own other Amazon devices like[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) that are connected to your Wi-Fi connection, then you can take advantage of Amazon’s Wi-Fi simple setup that shaves some time off the setup process. Otherwise, you just use the Luna controller app on your Android or iPhone to hook the controller up to Wi-Fi.
 
  After the initial setup process, your Luna controller is ready to go regardless of platform. Power on the controller, launch the Luna app or website, and everything automatically connects without any additional work or input.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Performance: Impressive game streaming, but no 4K
 
  I tested Luna with the optional Wi-Fi Luna controller and a wired Xbox Series X/S controller on my Windows laptop and with the Luna controller on my Fire TV Cube,[M1 MacBook](https://www.lifewire.com/macbook-air-13-inch-m1-2020-review-5092793) , Pixel 3 phone, and Fire TV Edition Insignia television. Each of these devices was connected to a 1GB cable internet connection from Mediacom via my Eero mesh 5GHz Wi-Fi network.
@@ -192,11 +157,12 @@ Lifewire / Jeremy Laukkonen
 ![Amazon Luna](https://www.lifewire.com/thmb/NBB1N6qtwbtdjrUgwr1YaBaTuBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_02-37837bf860d244d3ab11ff01f37c609c-db472e204ada4ccca88e7510eacfae34.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Lifewire / Jeremy Laukkonen
 
  For some reason, the fighting category is populated by titles like the rogue-like shooter Everspace and the co-op brawler River City Girls. No actual fighting games, though. The horror category was empty until Amazon scored Resident Evil 7 Gold Edition and also saddled gorefest pixel art platformer Valfaris with the horror tag.
@@ -233,6 +199,13 @@ Lifewire / Jeremy Laukkonen
 * [Sony DualSense Wireless Controller](https://www.lifewire.com/sony-dualsense-wireless-controller-review-feel-the-quality-5101639)
 * [Xbox One Elite Controller](https://www.lifewire.com/xbox-one-elite-controller-review-4770957)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Luna
@@ -248,14 +221,11 @@ Lifewire / Jeremy Laukkonen
 * Ports  USB-C, 3.5mm audio (controller)
 * Peripherals  Luna controller (Wi-Fi, Bluetooth) is optional
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -266,42 +236,19 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/error-win-os-no-printer-driver-found/"><u>[ERROR] Win OS - No Printer Driver Found</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-freely-accessible-cutting-edge-video-editor-tools/"><u>[New] 2024 Approved  Freely Accessible Cutting Edge Video Editor Tools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-from-live-to-recorded-a-skilled-approach-to-skype-chat-documentation-for-2024/"><u>[New] From Live to Recorded  A Skilled Approach to Skype Chat Documentation for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-leading-techniques-for-effective-webp-to-jpeg-change/"><u>[New] Leading Techniques for Effective WebP to JPEG Change</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-assemble-creative-gifs-for-online-sharing/"><u>[Updated] Assemble Creative GIFs for Online Sharing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigate-the-future-of-meetings-a-win11-and-zoom-guide/"><u>[Updated] Navigate the Future of Meetings  A Win11 and Zoom Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-secrets-of-the-social-elite-6-actionable-tips-for-growing-instagram-followers-for-2024/"><u>[Updated] Secrets of the Social Elite  6 Actionable Tips for Growing Instagram Followers for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-from-fb-videos-to-mp3-the-easy-transformation-path/"><u>2024 Approved  From Fb Videos to MP3 - The Easy Transformation Path</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-mastering-fb-story-sharing-a-four-step-guide/"><u>2024 Approved  Mastering FB Story Sharing  A Four-Step Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/clearing-out-hp-printers-error-code-oxc4eb827f/"><u>Clearing Out HP Printer's Error Code OXC4EB827F</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/compatibility-and-performance-boost-officejet-pro-8600-windows-version/"><u>Compatibility & Performance Boost: Officejet Pro 8600, Windows Version</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/cure-xp-printer-slowness-and-unresponsiveness-woes/"><u>Cure XP Printer Slowness & Unresponsiveness Woes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-fix-hp-printer-not-responding/"><u>How to Fix HP Printer Not Responding</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-fix-pcl-xl-error-easily/"><u>How to Fix PCL XL Error Easily</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-oneplus-nord-ce-3-5g-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of OnePlus Nord CE 3 5G using Video Repair Utility on Mac?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-print-driver-missing-in-windows-1110/"><u>HP Print Driver Missing in Windows 11/10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printing-revolution-install-new-inkjet-drivers-and-updates/"><u>HP Printing Revolution: Install New Inkjet Drivers and Updates</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-apple-iphone-xr-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>In 2024, Change Location on Yik Yak For your Apple iPhone XR to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/market-breakthrough-strategy-box-by-box-for-2024/"><u>Market Breakthrough  Strategy Box by Box for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mend-winxp-print-issues-non-responsive-error-solved/"><u>Mend WinXP Print Issues: Non-Responsive Error Solved</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mix-memes-with-a-smile/"><u>Mix Memes with a Smile</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-how-to-stream-on-twitch-the-ultimate-guide/"><u>New In 2024, How to Stream on Twitch The Ultimate Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-driver-missing-from-pc-os/"><u>Printer Driver Missing From PC OS</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quickprint-queue-clearance-guide/"><u>Quickprint Queue Clearance Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reactivating-pcs-scanner-connection-on-win10/"><u>Reactivating PC's Scanner Connection on Win10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/remedying-error-canon-print-misfires/"><u>Remedying Error: Canon Print Misfires</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-hp-printers-oxc4eb827f-error/"><u>Resolving HP Printer's OXC4EB827F Error</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restore-inkjet-connectivity-for-windows-vistaxp-users/"><u>Restore Inkjet Connectivity for Windows Vista/XP Users</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/securely-link-disconnected-printer-quickly/"><u>Securely Link Disconnected Printer Quickly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/smooth-start-initiating-your-hp-printer-for-windows-users/"><u>Smooth Start: Initiating Your HP Printer for Windows Users</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solutions-for-non-functional-printers/"><u>Solutions for Non-Functional Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/stay-current-with-the-latest-driver-release-for-hp-4630/"><u>Stay Current with the Latest Driver Release for HP 4630</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamline-device-interaction-with-mf4770n-upgrade-in-windows-1187/"><u>Streamline Device Interaction with MF4770n Upgrade in Windows 11/8/7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tune-up-update-dell-aio-printer-tools-on-win7-platform/"><u>Tune-Up: Update Dell AIO Printer Tools on Win7 Platform</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-energy-kits-for-hero5-official-and-alternative-products/"><u>Ultimate Energy Kits for Hero5 - Official & Alternative Products</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unknown-computer-known-printer-case-closed/"><u>Unknown Computer, Known Printer - Case Closed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-7-usb-printer-not-printing-after-sleep/"><u>Windows 7: USB Printer Not Printing After Sleep</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-searches-but-not-finding-canon-mp620-printer-driver/"><u>Windows Searches but Not Finding: Canon MP620 Printer Driver</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-go-pro-capturing-ps4-games-in-hd-via-obs-studio-tutorial/"><u>[New] In 2024, Go Pro Capturing PS4 Games in HD via OBS Studio Tutorial</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-stream-your-podcast-with-one-move-only/"><u>[New] Stream Your Podcast with One Move Only</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-the-stick-reviving-your-mouses-menu-action/"><u>Breaking the Stick: Reviving Your Mouse's Menu Action</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/breathe-life-into-images-step-by-step-text-editing-guide-for-2024/"><u>Breathe Life Into Images Step-by-Step Text Editing Guide for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-peripheral-component-interconnect-drivers-compatible-with-windows-versions-win11-to-win7/"><u>Download Updated Peripheral Component Interconnect Drivers Compatible with Windows Versions (Win11 to Win7)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/guide-overcoming-blue-screen-errors-caused-by-bugcodeusbdriver-in-windows-11/"><u>Guide: Overcoming Blue Screen Errors Caused by BUGCODE_USB_Driver in Windows 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/inside-the-tech-what-is-virtual-reality-gear-for-2024/"><u>Inside the Tech What Is Virtual Reality Gear for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/iphone-photo-burst-how-to-take-burst-images-for-2024/"><u>IPhone Photo Burst How to Take Burst Images for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/lg-monitor-drivers-troubleshooting-and-solutions-for-windows-10781/"><u>LG Monitor Drivers: Troubleshooting and Solutions for Windows 10/7/8.1</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mending-all-in-one-printer-problems/"><u>Mending All-in-One Printer Problems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-issue-due-to-current-domain-services-outage/"><u>Print Issue Due to Current Domain Services Outage</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printers-not-responding-post-wake-from-sleep-w7/"><u>Printers Not Responding Post Wake From Sleep, W7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/rapid-unjamming-of-print-workqueue/"><u>Rapid Unjamming of Print Workqueue</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unlocking-hp-printer-connectivity-issues/"><u>Unlocking HP Printer Connectivity Issues</u></a></li>
 </ul></div>
+

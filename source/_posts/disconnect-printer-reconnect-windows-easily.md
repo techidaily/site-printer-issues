@@ -1,7 +1,7 @@
 ---
 title: Disconnect Printer, Reconnect Windows Easily
-date: 2024-09-09T01:23:56.895Z
-updated: 2024-09-10T01:23:56.895Z
+date: 2024-09-09T04:44:12.044Z
+updated: 2024-09-14T17:28:13.850Z
 tags:
   - win11
   - win10
@@ -14,56 +14,20 @@ keywords: Disconnect Printer Instructions,Windows Print Connection Guide,Quick P
 thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8a951965b47ae1bc4c0fa3c6.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Disconnect Printer, Reconnect Windows Easily
 
 You just purchased a new printer and would like to replace the old one at home. You think you have removed the printer and its driver, but when you reboot your computer, you can still see the printer’s icon, the only difference is that the icon all grayed out. In this case, it becomes impossible for you to uninstall or remove it again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/printer-grey-out.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Luckily, this is an easy problem to solve. Follow the steps below to fix the problem by yourself. 1) Click the**Start**button and type**cmd.exe** in the search box. Then right-click **c** **md** and click**Run as administrator**. ![](https://images.drivereasy.com/wp-content/uploads/2016/08/run-ad-administrator.jpg) 2) Type in the command**print /s /t2**and hit**Enter**key on your keyboard. ![](https://images.drivereasy.com/wp-content/uploads/2016/08/printui-s-t2.png) 3) Then you will be lead to this page. Try remove your printer driver now by selecting it and click the**Remove**button. Please remember to press**OK**to save the change. ![](https://images.drivereasy.com/wp-content/uploads/2016/08/remove-printer.jpg) 4) Then go to**Devices and Printers**panel by following this path: **Control Panel> Hardware and Sound> Devices and Printers**. Locate the printer that you would like to remove and right click it to choose**Remove device**.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/remove-device.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) If the above steps don’t work, press the   **Windows key ![](https://images.drivereasy.com/wp-content/uploads/2016/08/windows-key.png)** and**R**at the same time to invoke a Run command. Type**services.msc** and press **Enter**. ![](https://images.drivereasy.com/wp-content/uploads/2016/08/services-msc-in-run.png) 6) Locate**PrinterSpooler**service. Right-click it and select **Properties**. ![](https://images.drivereasy.com/wp-content/uploads/2016/08/printerspooler-service.jpg) 7) Then select **Stop**service. Click**OK**to exit. ![](https://images.drivereasy.com/wp-content/uploads/2016/08/stop-printer-service.png) 8) Follow the path **My Computer\\C:\\Windows\\System32\\spool\\Printers**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/printer-folder-600x281.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If prompted for permission to go to this folder, click**Continue**or**Yes**to continue the procedure.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b4334888efa.png)
@@ -88,8 +52,6 @@ That’s all you need to do!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,63 +59,23 @@ That’s all you need to do!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/diagnostic-unable-to-start-local-spooler-service/"><u>[DIAGNOSTIC] Unable to Start Local Spooler Service</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/issue-cant-print-spooler-disabled/"><u>[ISSUE] Can't Print - Spooler Disabled</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-enhancing-audio-visual-elements-in-tiktok-via-zoom-for-2024/"><u>[New] Enhancing Audio-Visual Elements in TikTok via Zoom for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-connectivity-restored/"><u>[PRINT] Connectivity Restored</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-problem-missing-driver-in-os/"><u>[PRINTER PROBLEM] Missing Driver in OS</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-sonic-sweepstakes-top-tunes-for-viral-youtube-short-videos/"><u>[Updated] In 2024, Sonic Sweepstakes  Top Tunes for Viral YouTube Short Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-essential-ytp2024-joining-and-earning-on-youtube/"><u>[Updated] The Essential YTP2024  Joining and Earning on YouTube</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unmatched-mac-streaming-discover-the-1-5-tools/"><u>[Updated] Unmatched Mac Streaming  Discover the #1-5 Tools</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-best-webcams-for-podcast/"><u>2024 Approved  Best Webcams for Podcast</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/adaptive-content-delivery-the-role-of-cookiebot/"><u>Adaptive Content Delivery: The Role of Cookiebot</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/boost-windows-10s-canon-printer-operation-success-rate/"><u>Boost Windows 10'S Canon Printer Operation Success Rate</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/decoding-and-fixing-epson-error-0x97/"><u>Decoding & Fixing Epson Error 0X97</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/demystifying-shared-links-in-chatgpt-a-comprehensive-guide/"><u>Demystifying Shared Links in ChatGPT - A Comprehensive Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/elite-digital-image-grabbers-for-2024/"><u>Elite Digital Image Grabbers for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/error-resolution-b200/"><u>Error Resolution: B200</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/foreign-system-flagged-for-misused-printer/"><u>Foreign System Flagged for Misused Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guiding-through-printer-malfunction-fixes/"><u>Guiding Through Printer Malfunction Fixes</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-motorola-edge-40-pro-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Motorola Edge 40 Pro Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-apple-iphone-x-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>How to Fix Apple iPhone X Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-a78-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo A78 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-setup-error-cant-find-driver-on-windows-os/"><u>HP Printer Setup Error: Can't Find Driver on Windows OS</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ideal-ringtone-hunt-prime-downloads/"><u>Ideal Ringtone Hunt  Prime Downloads</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-honor-magic-6-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Honor Magic 6 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-animated-wonders-a-curated-top-15-in-stop-motion/"><u>In 2024, Animated Wonders  A Curated Top 15 in Stop Motion</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-essential-iospc-video-changers-the-ultimate-list/"><u>In 2024, Essential iOS/PC Video Changers  The Ultimate List</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/inability-to-print-in-full-colors/"><u>Inability to Print in Full Colors</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/intruder-in-network-print-spotlighted/"><u>Intruder in Network Print Spotlighted</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oneplus-nord-3-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On OnePlus Nord 3 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/mac-video-editing-made-easy-download-splice-now/"><u>Mac Video Editing Made Easy Download Splice Now</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/maximizing-multi-display-with-ms-edges-pip/"><u>Maximizing Multi-Display with MS Edge's PIP</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mf4770n-drivers-enhance-windows-11-8-7-integration/"><u>MF4770n Drivers - Enhance Windows 11, 8, 7 Integration</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/navigating-the-truth-in-your-photos-an-instagram-selfie-audit/"><u>Navigating the Truth in Your Photos  An Instagram Selfie Audit</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/never-again-the-end-of-blank-printouts/"><u>Never Again: The End of Blank Printouts</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/no-more-lost-pages-thanks-to-new-fixes/"><u>No More Lost Pages, Thanks to New Fixes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overhauling-epsons-error-0x97/"><u>Overhauling Epson's Error 0X97</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/precision-tactics-to-overcome-non-printing-brother-printer-in-oses/"><u>Precision Tactics to Overcome Non-Printing Brother Printer in OSes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-error-driver-not-located-by-win/"><u>Printer Error: Driver Not Located by Win</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restarting-network-drivers-fixes-hp-printer/"><u>Restarting Network Drivers Fixes HP Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reviving-sibling-print-device-from-online-standby-mode/"><u>Reviving Sibling Print Device From Online Standby Mode</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722095219679-shield-up-dont-surrenderflee-googles-bard-app/"><u>Shield Up, Don't Surrender—Flee Google's Bard App</u></a></li>
-<li><a href="https://windows11.techidaily.com/simplifying-app-installations-in-windows-11-using-winstall/"><u>Simplifying App Installations in Windows 11 Using Winstall</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/sleeper-mode-dilemma-usb-printers-not-awakening-in-w7/"><u>Sleeper Mode Dilemma: USB Printers Not Awakening in W7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/steps-to-fix-hp-printer-network-errors/"><u>Steps to Fix HP Printer Network Errors</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/steps-to-reconnect-offline-brother-printer/"><u>Steps to Reconnect Offline Brother Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/stop-and-fix-spooler-error-in-win-7-printers/"><u>Stop and Fix Spooler Error in Win 7 Printers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-comprehensive-guide-to-legally-sharing-music-on-instagram/"><u>The Comprehensive Guide to Legally Sharing Music on Instagram</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-ultimate-tonal-transformation-for-android-users/"><u>The Ultimate Tonal Transformation for Android Users</u></a></li>
-<li><a href="https://extra-information.techidaily.com/thorough-reconnaissance-the-full-review-for-bublcams-panoramic-masterpiece/"><u>Thorough Reconnaissance  The Full Review for Bublcam's Panoramic Masterpiece</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unblock-print-queue-on-windows-10/"><u>Unblock Print Queue on Windows 10</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win11-officejet-paper-jams-step-by-step-solution/"><u>Win11 OfficeJet Paper Jams: Step-by-Step Solution</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-11-printer-nightmares-solutions-here/"><u>Windows 11 Printer Nightmares? Solutions Here</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-scan-back-to-operational-state/"><u>Windows Scan: Back to Operational State</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/15-simple-steps-to-convert-youtube-to-mpeg-effortlessly-for-2024/"><u>15 Simple Steps to Convert YouTube to MPEG Effortlessly for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comment-enregistrer-parfaitement-lecran-sur-un-pc-avec-windows-les-meilleures-outils-de-capture-du-marche/"><u>Comment Enregistrer Parfaitement L’Écran Sur Un PC Avec Windows: Les Meilleures Outils De Capture Du Marché</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-adventures-playing-text-rpg-with-chatgpt/"><u>Crafting Adventures: Playing Text-RPG with ChatGPT</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/effortless-canon-printer-fixes-for-windows-users/"><u>Effortless Canon Printer Fixes for Windows Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/essential-tips-for-the-steam-switch-pro-controller/"><u>Essential Tips for the Steam Switch Pro Controller</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-fcp-transition-hacks-3-pro-tips-for-seamless-video-editing/"><u>New FCP Transition Hacks 3 Pro Tips for Seamless Video Editing</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-perfection-achieved-say-goodbye-to-ghosts/"><u>Print Perfection Achieved: Say Goodbye to Ghosts</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-connected-in-minutes-no-problems/"><u>Printer Connected in Minutes, No Problems</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

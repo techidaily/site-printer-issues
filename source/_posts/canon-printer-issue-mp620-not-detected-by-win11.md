@@ -1,7 +1,7 @@
 ---
 title: "Canon Printer Issue: MP620 Not Detected by Win11"
-date: 2024-09-09T01:23:59.056Z
-updated: 2024-09-10T01:23:59.056Z
+date: 2024-09-10T19:25:41.757Z
+updated: 2024-09-14T16:52:23.136Z
 tags:
   - win11
   - win10
@@ -14,69 +14,31 @@ keywords: Canon Printer Detection Issues,Win11 and Printers Not Detected,MP620 P
 thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e37202540f48c021987012cc7b2e2e.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Canon Printer Issue: MP620 Not Detected by Win11
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/canon-pixma-mo620.jpg)  If you want to update the printer driver for your Cannon MP620, but only find that Windows tells you “   **The best driver software for your device is already installed** .”, you’re not alone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/the-best-driver-software-for-your-device-is-already-installed-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 This notification basically means that Windows 10 fail to find your Canon MP620 driver from its database, so it is time you did it yourself: 1) Go to [**support website**](https://www.usa.canon.com/internet/portal/us/home/support) of Canon. Enter the model name of your printer and then click **Go**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/name-of-the-printer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In the support website, drag down a little bit to 1) locate the**Driver & Downloads** button, 2) choose your operating system and 3) click the**Drivers** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/pixma-mp620-driver-download-600x375.jpg) Canon has not yet released the printer driver for Windows 10 operating system, so we download the one for**Windows 8.1**instead. 3) Right-click the setup file and click **Properties**. ![](https://images.drivereasy.com/wp-content/uploads/2016/11/properties-setup.jpg) 4) Go to**Compatibility**tab, then check the box for **Run this program in compatibility for:**and select **Windows 8**from the drop-down menu. Click**Apply**and**OK**to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-this-program-in-compatibility-for-compatibility-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) Now install the setup as you install other setup files. After the installation, restart your computer and your printer for the changes to take effect. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e761c841d8e.png) 3) Click the**Update**button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e7622d68cb0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -85,46 +47,27 @@ This notification basically means that Windows 10 fail to find your Canon MP620 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-strategic-game-plays-with-top-casters/"><u>[New] 2024 Approved  Strategic Game Plays with Top Casters</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-techniques-for-uploading-original-posts-again/"><u>[Updated] 2024 Approved  Techniques for Uploading Original Posts Again</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-auditory-interpretation-accessible-at-no-expense/"><u>[Updated] Auditory Interpretation  Accessible at No Expense</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/all-page-printer-issues-resolved/"><u>All-Page Printer Issues Resolved</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-13-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 13 activation lock with a professional tool</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/corrected-standby-mode-glitch/"><u>Corrected Standby Mode Glitch</u></a></li>
-<li><a href="https://video-capture.techidaily.com/cutting-edge-techniques-for-professional-obs-edits/"><u>Cutting-Edge Techniques for Professional OBS Edits</u></a></li>
-<li><a href="https://fox-access.techidaily.com/cutting-edge-uhd-capture-the-15-leaders/"><u>Cutting-Edge UHD Capture – The 15 Leaders</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/demystifying-error-x97-on-epson-printers/"><u>Demystifying Error X97 on Epson Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/duplicate-device-printing-discovered-and-tackled/"><u>Duplicate Device Printing Discovered & Tackled</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhance-printer-velocity-now/"><u>Enhance Printer Velocity Now!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-fix-a-printer-that-wont-print/"><u>How to Fix a Printer That Won't Print</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-install-a-new-canon-printer-step-by-step/"><u>How To Install a New Canon Printer (Step-by-Step)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-react-when-your-printer-disconnects/"><u>How to React When Your Printer Disconnects</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-samsung-galaxy-a05-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Samsung Galaxy A05 Data? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/immediate-actions-for-a-disconnected-printer/"><u>Immediate Actions for a Disconnected Printer</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-samsung-galaxy-a23-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Samsung Galaxy A23 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-swinging-sparrow-suites/"><u>In 2024, Swinging Sparrow Suites</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/leading-wireless-mouse-innovations-the-best-picks-to-upgrade-your-pc/"><u>Leading Wireless Mouse Innovations: The Best Picks to Upgrade Your PC</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-the-solution-to-unstuck-yourself-from-far-cry-ergy-screen-deadlock/"><u>Mastering the Solution to Unstuck Yourself From Far Cry Ergy Screen Deadlock</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/maximize-mf4770n-in-windows-1087-systems/"><u>Maximize MF4770n in WIndows 10/8/7 Systems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/navigate-and-rectify-brother-printer-not-print-issue-on-windows-10/"><u>Navigate and Rectify Brother Printer Not Print Issue on Windows 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/openais-linguistic-titans-understanding-gpt-14/"><u>OpenAI’s Linguistic Titans: Understanding GPT-1–4</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-not-showing-up-a-guide-for-windows-users/"><u>Printer Not Showing Up: A Guide for Windows Users</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-problem-due-to-domain-service-outage/"><u>Printer Problem Due to Domain Service Outage</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/repaired-error-in-epsons-print-function/"><u>Repaired: Error in Epson's Print Function</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revolutionizing-reports-with-paper-less-prints/"><u>Revolutionizing Reports with Paper-Less Prints</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/saving-photo-printouts-from-failures/"><u>Saving Photo Printouts From Failures</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/steps-to-unlink-external-hardware-from-windows-os/"><u>Steps to Unlink External Hardware From Windows OS</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tips-and-tricks-connecting-your-canon-instantly/"><u>Tips & Tricks: Connecting Your Canon Instantly</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-10-for-mac-gif-capturing-expert-reviews-for-2024/"><u>Top 10 for Mac GIF Capturing  Expert Reviews for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transformative-photography-with-tools/"><u>Transformative Photography with Tools</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unblocking-printer-service-on-windows-10-11-7/"><u>Unblocking Printer Service on Windows 10, 11, 7</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/understanding-key-differences-in-panoramic-and-vr-cinematography-for-2024/"><u>Understanding Key Differences in Panoramic and VR Cinematography for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/vinyl-virtuoso-access-to-premium-dj-video-samples-for-2024/"><u>Vinyl Virtuoso  Access to Premium DJ Video Samples for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-vid-wizards-guide-to-glitter-and-glamour-creating-your-chanel/"><u>[Updated] In 2024, Vid-Wizards Guide to Glitter and Glamour Creating Your Chanel</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-mg3022-driver-update-guide-get-the-newest-software-now/"><u>Canon MG3022 Driver Update Guide - Get the Newest Software Now!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/cure-xp-printer-slowness-and-unresponsiveness-woes/"><u>Cure XP Printer Slowness & Unresponsiveness Woes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/flawless-visual-shifts-for-filmmakers-for-2024/"><u>Flawless Visual Shifts for Filmmakers for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-fix-hp-printer-not-responding/"><u>How to Fix HP Printer Not Responding</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-honor-x9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-v30-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Realme V30 Phone without PIN</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-honor-magic-6-lite-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Honor Magic 6 Lite Phones</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restore-inkjet-connectivity-for-windows-vistaxp-users/"><u>Restore Inkjet Connectivity for Windows Vista/XP Users</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/smooth-start-initiating-your-hp-printer-for-windows-users/"><u>Smooth Start: Initiating Your HP Printer for Windows Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-when-your-voice-chat-keeps-showing-a-content-warning/"><u>Step-by-Step Solution: When Your Voice Chat Keeps Showing a Content Warning</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/unleash-the-virtuoso-in-you-tiktok-videos-made-worthy-by-themed-designs/"><u>Unleash the Virtuoso in You TikTok Videos Made Worthy by Themed Designs</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
