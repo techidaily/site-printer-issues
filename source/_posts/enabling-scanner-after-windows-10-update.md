@@ -1,7 +1,7 @@
 ---
 title: Enabling Scanner After Windows 10 Update
-date: 2024-09-09T01:24:02.085Z
-updated: 2024-09-10T01:24:02.085Z
+date: 2024-09-17T16:45:58.786Z
+updated: 2024-09-19T21:48:52.060Z
 tags:
   - win11
   - win10
@@ -14,38 +14,14 @@ keywords: Windows 10 Scanner Activation Post Update,Enable Scanning Tool in Wind
 thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4fb035ab41968a0873cebbd66.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enabling Scanner After Windows 10 Update
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ed5f1a83a3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Printer plays an important role in many user’s work. Once it gets into error, that would be really irksome.**Scan to computer is no longer activated** is the common one of printer issues. The detailed message shows as:**The network connection to the printer has been lost.** In this guide, we will be showing you how to fix it to get your printer work properly and how to get rid of this error message on Windows 10.
 
 Read on. 🙂
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. [**Check the connection of your Printer**](#m1)
@@ -74,12 +50,6 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf305cb04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) On the open window, find and expand the**Print queues** catalog. Then right-click on your printer software to choose**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf9b29be7.jpg)
@@ -104,6 +74,13 @@ You need to do these steps:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3: Get rid of ‘Scan to computer is no longer activated’ error
 
  If you can use you printer properly, however, the error message Scan to computer is not activated keeps poping-up every 2-5 minutes, it would annoys you deeply. Follow the steps below to get rid of it:  
@@ -117,33 +94,16 @@ You need to do these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee29de8213.png)
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Find**scanToPCActivationApp** under**Startup** tab. Then right-click on it to choose**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee2dfcd442.png)
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 That’s all there is to it.
 
  If you have any questions, please feel free to leave your comment below to let us know, thanks.
@@ -157,8 +117,6 @@ That’s all there is to it.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,61 +124,22 @@ That’s all there is to it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/network-guide-reconnect-missing-print-devices-windows-xp-7-10/"><u>[Network Guide] Reconnect Missing Print Devices Windows-XP-7-10</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-keeping-track-of-your-google-voice-conversations/"><u>[New] 2024 Approved  Keeping Track of Your Google Voice Conversations</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-slide-swivel-and-shift-a-step-by-step-manual-to-flipping-images-on-instagram-sites/"><u>[New] 2024 Approved  Slide, Swivel and Shift  A Step-by-Step Manual to Flipping Images on Instagram Sites</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-boost-your-content-access-free-vocal-sfx/"><u>[New] Boost Your Content  Access Free Vocal SFX!</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-maximize-style-with-premium-border-options-for-ig-posts-for-2024/"><u>[New] Maximize Style with Premium Border Options for IG Posts for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-screenshots-made-simple-free-for-2024/"><u>[New] Screenshots Made Simple - Free for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-enhancing-your-facebook-cover-leading-websites-for-professionals/"><u>[Updated] 2024 Approved  Enhancing Your Facebook Cover  Leading Websites for Professionals</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-expert-strategies-to-master-the-instagram-query-tag/"><u>[Updated] 2024 Approved  Expert Strategies to Master the Instagram Query Tag</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-collect-free-image-resources-via-top-4-online-stock-hubs-for-2024/"><u>[Updated] Collect Free Image Resources Via Top 4 Online Stock Hubs for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-exploring-how-youtube-picks-most-engaging-comments/"><u>[Updated] In 2024, Exploring How YouTube Picks Most Engaging Comments</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/warning-spooler-error-affects-print-output/"><u>[WARNING] Spooler Error Affects Print Output</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-cutting-edge-channels-to-watch-in-a-post-tiktok-world/"><u>2024 Approved  Cutting Edge Channels to Watch in a Post-TikTok World</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-optimal-cameras-for-puppet-film-projects/"><u>2024 Approved  Optimal Cameras for Puppet Film Projects</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341676604-adherence-to-prescribed-medications-such-as-antibiotics-and-anti-inflammatory-eye-drops-is-essential-to-prevent-complications/"><u>Adherence to Prescribed Medications, Such as Antibiotics and Anti-Inflammatory Eye Drops, Is Essential to Prevent Complications.</u></a></li>
-<li><a href="https://article-helps.techidaily.com/brush-up-your-skills-and-inspire-creativity-top-10-freeware-for-mac-for-2024/"><u>Brush Up Your Skills & Inspire Creativity - Top 10 Freeware for Mac for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/compatible-utilities-hp-officejet-pro-8600-printer-software/"><u>Compatible Utilities: HP Officejet Pro 8600 Printer Software</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/convenient-canon-printer-wireless-integration/"><u>Convenient Canon Printer Wireless Integration</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enabled-hp-all-in-one-printer-active-now/"><u>Enabled: HP All-in-One Printer Active Now</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/eradicating-printers-from-windows-system/"><u>Eradicating Printers From Windows System</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/factory-reset-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-printing-queue-error-messages-on-windows-11/"><u>Fix Printing Queue Error Messages on Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guide-integrating-hp-officejet-pro-8720-into-pc/"><u>Guide: Integrating HP Officejet Pro 8720 Into PC</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-strategies-for-swift-and-smooth-media-navigation/"><u>In 2024, Expert Strategies for Swift and Smooth Media Navigation</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-xs-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone XS</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-for-audio-editors-using-garageband/"><u>In 2024, The Ultimate Guide for Audio Editors Using GarageBand</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/installation-blueprint-hp-officejet-pro-in-personal-computer/"><u>Installation Blueprint: HP OfficeJet Pro in Personal Computer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instant-resolution-for-caught-in-printer-jobs/"><u>Instant Resolution for Caught-In Printer Jobs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instantly-free-up-print-queue/"><u>Instantly Free Up Print Queue</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/integrating-hp-instant-ink-into-your-networked-devices/"><u>Integrating HP Instant Ink Into Your Networked Devices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/methods-to-reactivate-non-responsive-hp-devices/"><u>Methods to Reactivate Non-Responsive HP Devices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/nozzle-clog-in-hp-printer-cleared-successfully/"><u>Nozzle Clog in HP Printer Cleared Successfully</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/perfect-print-all-pages-now-available/"><u>Perfect Print: All Pages Now Available</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-error-post-update-fix/"><u>Printer Error Post-Update Fix</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-fixes-for-canon-printer-non-operational-in-windows-10/"><u>Quick Fixes for Canon Printer Non-Operational in Windows 10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reactivation-of-online-scan-achieved-on-win11/"><u>Reactivation of Online Scan Achieved on Win11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restoring-perfect-document-output/"><u>Restoring Perfect Document Output</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revive-non-responsive-printer-in-windows-nt-environment/"><u>Revive Non-Responsive Printer in Windows NT Environment</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revived-post-windows-update-printer-workflow/"><u>Revived Post Windows Update Printer Workflow</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reviving-non-responsive-printers/"><u>Reviving Non-Responsive Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solutions-for-halted-hp-print-operations/"><u>Solutions for Halted HP Print Operations</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solve-your-windows-11-printer-problems/"><u>Solve Your Windows 11 Printer Problems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solving-non-responsive-printer-issues-on-nt-os/"><u>Solving Non-Responsive Printer Issues on NT OS</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-interest-everyones-free-with-our-youtube-banner-samples-in-2024/"><u>Spark Interest - Everyone's Free With Our YouTube Banner Samples, In 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/stepwise-canon-printer-seamless-wireless-hookup/"><u>Stepwise Canon Printer: Seamless Wireless Hookup</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/stepwise-process-for-connecting-your-canon-printer/"><u>Stepwise Process for Connecting Your Canon Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574001783-technical-mishap-printer-setup-misstep/"><u>Technical Mishap: Printer Setup Misstep</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-leading-small-form-factor-pcs-for-gamers/"><u>The Leading Small Form Factor PCs for Gamers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/the-ultimate-guide-to-installing-and-configuring-hp-printers/"><u>The Ultimate Guide to Installing and Configuring HP Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/trouble-with-printer-driver-setup-for-hp-deskjet-d1360-on-pcs/"><u>Trouble with Printer Driver Setup for HP Deskjet D1360 on PCs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-non-starting-spooler-on-your-pc-windows/"><u>Troubleshooting Non-Starting Spooler on Your PC (Windows)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unavailable-domain-services-prevents-printer-access/"><u>Unavailable Domain Services Prevents Printer Access</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-leveraging-s2t-technology-in-professional-decks/"><u>[New] In 2024, Leveraging S2T Technology in Professional Decks</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-mastery-of-storing-snaps-on-devices-post-snapchat-use-for-2024/"><u>[New] Mastery of Storing Snaps on Devices Post-Snapchat Use for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-strategies-for-igtv-on-facebook-integration-for-2024/"><u>[New] Strategies for IGTV on Facebook Integration for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-windows-11-game-recording-5-methods-for-2024/"><u>[New] Windows 11 Game Recording [5 Methods] for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-explore-the-top-15-scientific-channels-to-grow-wisdom/"><u>[Updated] Explore the Top 15 Scientific Channels to Grow Wisdom</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-shift-twitter-video-preview-panel/"><u>[Updated] In 2024, Shift Twitter Video Preview Panel</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-navigating-the-spectrum-in-hands-on-recognition-technology/"><u>[Updated] Navigating the Spectrum in Hands-On Recognition Technology</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-tips-how-to-reinstall-a-lost-print-job/"><u>[Windows Tips] How to Reinstall a Lost Print Job</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/bring-to-life-enable-your-silent-canon-print-spooler/"><u>Bring To Life: Enable Your Silent Canon Print Spooler</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chucklebox-build-memes-free-of-charge-for-2024/"><u>ChuckleBox Build Memes Free of Charge for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-printer-error-due-to-active-directory-halt/"><u>Fixed: Printer Error Due to Active Directory Halt</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-guide-resolving-pcl-xl-glitches/"><u>Quick Guide: Resolving PCL XL Glitches</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/swift-jolt-to-halted-print-queues/"><u>Swift Jolt to Halted Print Queues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/techniques-for-resolving-non-responsive-hp-scanners/"><u>Techniques for Resolving Non-Responsive HP Scanners</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Unblocking Printer Operation Post-Windows 10 Update
-date: 2024-09-07T18:49:52.284Z
-updated: 2024-09-14T16:11:29.442Z
+date: 2024-09-19T03:18:53.140Z
+updated: 2024-09-19T22:47:03.938Z
 tags:
   - win11
   - win10
@@ -70,6 +70,13 @@ Here is how to power cycle your printer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-188.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -88,27 +95,20 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-193.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the**Services** window, scroll down until you find**Print Spooler** , then right-click on it and click**Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-194.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) On your keyboard, press the**Windows logo key** and**R** at the same time, then type**%WINDIR%\\system32\\spool\\printers** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-195.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Select**all the files** within the folder and_delete_ them. This is to clear the print queues.
 
@@ -116,26 +116,26 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-197.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Click**Start** , then in**Startup** **Type** , select**Automatic** and click**OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-198.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Check to see if your printer works properly. If it still doesn’t work, please move on to**Fix 5** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Run Windows Troubleshooter
@@ -173,21 +173,12 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/fix-d1360-printer-drivers-not-working-on-windows-7-10/"><u>[Fix] D1360 Printer Drivers Not Working on Windows 7-10</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-elevating-your-visuals-mastering-instagram-edits-in-fcpx/"><u>[New] 2024 Approved Elevating Your Visuals Mastering Instagram Edits in FCPX</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-achieving-financial-gain-with-youtube-shorts-essentials-opportunities-and-earning-prospects/"><u>[Updated] Achieving Financial Gain with Youtube Shorts Essentials, Opportunities & Earning Prospects</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-video-revenue-generation-on-facebook-tactics-for-financial-growth/"><u>2024 Approved Video Revenue Generation on Facebook Tactics for Financial Growth</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/banishing-blank-output-hp-printers-success-story/"><u>Banishing Blank Output: HP Printer's Success Story</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/cure-winxp-slow-printer-achieve-swift-printing/"><u>Cure WinXP Slow Printer - Achieve Swift Printing</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/dj-1360-driver-issue-on-various-windows-os/"><u>DJ-1360 Driver Issue on Various Windows OS</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/getting-back-online-actions-for-print-errors/"><u>Getting Back Online: Actions for Print Errors</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-honor-x50iplus-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Honor X50i+</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-y27-4g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo Y27 4G Pattern Lock Screen</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-unlocking-social-media-potential-stream-to-fb-via-obs/"><u>In 2024, Unlocking Social Media Potential Stream to FB via OBS</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-pcl-xl-faults-instantly/"><u>Overcoming PCL XL Faults Instantly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-the-dreaded-error-code-0xc19001e1-a-comprehensive-guide-for-windows-11-users/"><u>Solve the Dreaded Error Code 0Xc19001e1: A Comprehensive Guide for Windows 11 Users</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/swiftly-solve-stuck-printer-job-queue/"><u>Swiftly Solve Stuck Printer Job Queue</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unleash-connectivity-with-starlink-4-unmatched-benefits/"><u>Unleash Connectivity with Starlink: 4 Unmatched Benefits</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-seamless-screen-record-for-windows-11/"><u>[New] Seamless Screen Record for Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/blank-page-problem-persists-on-new-epson-printer-model/"><u>Blank Page Problem Persists on New Epson Printer Model</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cheap-nikon-coolpix-a10-photos-vs-frustration/"><u>Cheap Nikon COOLPIX A10 - Photos vs Frustration</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/easy-canon-printer-setup-instructions/"><u>Easy Canon Printer Setup Instructions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-for-converting-wave-waveform-audio-file-format-to-wav-windows-audio-video-intermixing/"><u>Easy Steps for Converting WAVE (Waveform Audio File Format) to WAV (Windows Audio Video Intermixing)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-color-in-black-and-white-outputs/"><u>No Color in Black and White Outputs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-deactivating-sticky-keys-in-windows-os/"><u>Step-by-Step Instructions for Deactivating Sticky Keys in Windows OS</u></a></li>
 </ul></div>
 

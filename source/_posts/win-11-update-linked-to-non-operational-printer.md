@@ -1,7 +1,7 @@
 ---
 title: Win 11 Update Linked to Non-Operational Printer
-date: 2024-09-08T01:10:42.092Z
-updated: 2024-09-15T02:57:50.336Z
+date: 2024-09-17T16:34:57.225Z
+updated: 2024-09-19T18:23:54.079Z
 tags:
   - win11
   - win10
@@ -66,29 +66,9 @@ Here is how to power cycle your printer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap19-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-188.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -97,19 +77,6 @@ Here is how to power cycle your printer:
 5) Check to see if the printer stopped working issue has been resolved. If yes, then congrats! If the problem still persists, please move on to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reset the print spooler
 
@@ -121,6 +88,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-193.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the**Services** window, scroll down until you find**Print Spooler** , then right-click on it and click**Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-194.png)
@@ -128,6 +102,13 @@ Here is how to do it:
  3) On your keyboard, press the**Windows logo key** and**R** at the same time, then type**%WINDIR%\\system32\\spool\\printers** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-195.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Select**all the files** within the folder and_delete_ them. This is to clear the print queues.
 
@@ -140,10 +121,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-198.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Check to see if your printer works properly. If it still doesn’t work, please move on to**Fix 5** , below.
@@ -157,6 +138,13 @@ Here is how to do it:
  1) On your keyboard, press**the Windows logo key** and type**troubleshoo** t, then click on**Troubleshoot settings** once it pops up as a search result.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-208.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In the**Troubleshoot** window, scroll down to the**Get up and running** section, click on**Printer** \>**Run the troubleshooter** .
 
@@ -185,21 +173,18 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/remier-producer-a-choreography-of-colors-and-tones-for-2024/"><u>[New] Premier Producer A Choreography of Colors & Tones for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-mememolding-cutter/"><u>[Updated] 2024 Approved MemeMolding Cutter</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574142393-cant-remove-printer-on-windows-solved/"><u>Can’t Remove Printer on Windows [Solved]</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/clearing-page-queue-in-hp-printer-errors/"><u>Clearing Page Queue in HP Printer Errors</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-why-the-totobay-wake-up-light-2nd-gen-is-the-premier-budget-sleep-aid-on-the-market/"><u>Discover Why the Totobay Wake-Up Light (2Nd Gen) Is the Premier Budget Sleep Aid on the Market.</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/eliminate-the-non-print-on-canon-here-are-your-top-5-fixes-for-windows-11-users/"><u>Eliminate the Non-Print on Canon - Here Are Your Top 5 Fixes for Windows 11 Users</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ending-epson-misprint-mistake/"><u>Ending Epson Misprint Mistake</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/epic-puzzle-gaming-on-apple-devices-find-fun-titles-akin-to-the-room-and-myst/"><u>Epic Puzzle Gaming on Apple Devices: Find Fun Titles Akin to 'The Room' & 'Myst'</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-x100-pro-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo X100 Pro Device</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/iphone-techniques-creating-extended-frame-videos-for-2024/"><u>IPhone Techniques Creating Extended Frame Videos for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574021414-print-every-page-without-a-glitch-now/"><u>Print Every Page without a Glitch, Now</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-setup-crisis-averted-zeroing-out-error-0x00000709/"><u>Printer Setup Crisis Averted - Zeroing Out Error (0X00000709)</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-street-fighter-6s-pc-stability-issues-with-these-effective-fixes/"><u>Resolve Street Fighter 6'S PC Stability Issues with These Effective Fixes</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-art-of-conveying-excitement-perfecting-your-valorant-video-thumbnails-for-2024/"><u>The Art of Conveying Excitement Perfecting Your Valorant Video Thumbnails for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-compatibility-boost-with-mf4770n-update/"><u>Windows Compatibility Boost with MF4770n Update</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-advanced-playback-techniques-to-streamline-media-workflows/"><u>[New] Advanced Playback Techniques to Streamline Media Workflows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-hp-driver-missing-in-windows-system/"><u>[Printer] HP Driver Missing in Windows System</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-epson-error-code-0x97/"><u>[Solved] Epson Error Code 0X97</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-instantaneous-viewership-metering/"><u>[Updated] Instantaneous Viewership Metering</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-ways-to-open-the-remote-desktop-connection-tool-in-windows-11/"><u>10 Ways to Open the Remote Desktop Connection Tool in Windows 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/effective-solutions-for-when-your-dota-2-game-is-caught-on-the-startup-screen/"><u>Effective Solutions for When Your Dota 2 Game Is Caught on the Startup Screen</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-15-plus-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone 15 Plus? Heres the Best Fixes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-6-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone 6 in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/new-fix-all-paper-print-job-achievement/"><u>New Fix: All-Paper Print Job Achievement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-11s-geforce-now-error-xc0f1103f/"><u>Tackling Windows 11'S GeForce Now Error Xc0f1103f</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/tactics-to-determine-igtv-viewership-success-for-2024/"><u>Tactics to Determine IGTV Viewership Success for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-common-pc-crashes-in-black-desert-online-a-comprehensive-guide/"><u>Troubleshooting Common PC Crashes in Black Desert Online - A Comprehensive Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unresponsive-services-printer-cannot-connect/"><u>Unresponsive Services, Printer Cannot Connect</u></a></li>
 </ul></div>
 

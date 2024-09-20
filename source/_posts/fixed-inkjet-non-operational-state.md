@@ -1,7 +1,7 @@
 ---
 title: Fixed Inkjet Non-Operational State
-date: 2024-09-11T00:13:39.039Z
-updated: 2024-09-15T01:05:28.833Z
+date: 2024-09-13T01:44:00.985Z
+updated: 2024-09-19T21:17:34.684Z
 tags:
   - win11
   - win10
@@ -76,6 +76,13 @@ With the Pro version: click **Update All**  to automatically download and instal
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c325e1705.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7.png)
 
  3) Right-click on your EPSON printer device in Printers or Printer queues. Then click **Uninstall** .  
@@ -86,26 +93,26 @@ With the Pro version: click **Update All**  to automatically download and instal
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c170e3799.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Click **Devices and Printers**  in **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c1ac9662b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Right-click on the blank area and click **Add a printer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c7442faf0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  8) For Windows 7 users, click   **Add a network, wireless or Bluetooth printer** .
@@ -121,6 +128,13 @@ With the Pro version: click **Update All**  to automatically download and instal
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c7f50fd88.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  11) Enter the IP address and Port name of your printer. Then click**Next** to complete reinstalling your printer.
 
  Note:[See your IP address and Port name](#IP) .
@@ -135,24 +149,10 @@ With the Pro version: click **Update All**  to automatically download and instal
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Highlight the checked Port with √ mark in **Ports** , then click **Configure Port…**
  Now you can see the Port name and IP address of your printer on the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * [printer](https://tools.techidaily.com/drivereasy/download/)
 
@@ -171,20 +171,20 @@ With the Pro version: click **Update All**  to automatically download and instal
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-best-websites-and-software-to-add-frames-to-photos/"><u>[New] Best Websites and Software to Add Frames to Photos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-subtle-sounds-clear-vision-audio-cleanup-methods-reviewed/"><u>[Updated] Subtle Sounds, Clear Vision Audio Cleanup Methods Reviewed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-selecting-superior-audio-our-picks-for-the-top-6-live-stream-enhancers/"><u>2024 Approved Selecting Superior Audio Our Picks for the Top 6 Live-Stream Enhancers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/all-pages-printer-output-ready/"><u>All Pages Printer Output Ready</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/assisting-with-the-installation-of-hp-officejet-pro-8600/"><u>Assisting with the Installation of HP Officejet Pro 8600</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ceased-printer-standby-mode-in-hp-laserjet-mfp/"><u>Ceased Printer Standby Mode in HP Laserjet MFP</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/fb-video-placement-upright-or-flat-angle/"><u>FB Video Placement - Upright or Flat Angle?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-explainer-video-creation-made-easy-top-picks/"><u>New In 2024, Explainer Video Creation Made Easy Top Picks</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/no-more-gaps-in-documents-with-new-fixes/"><u>No More Gaps in Documents with New Fixes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcome-print-errors-windows-10-solutions/"><u>Overcome Print Errors: Windows 10 Solutions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/pcshochiku/"><u>PCやスマートフォンでShochikuのゲーム映像を記録する詳細なガイド</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/repeated-sheet-fill-up-in-your-epson-printer/"><u>Repeated Sheet Fill-Up in Your Epson Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unveiling-the-secrets-of-efficiently-setting-up-hp-on-pcs/"><u>Unveiling the Secrets of Efficiently Setting Up HP on PCs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/yi-drone-in-4k-a-filmmakers-dream/"><u>Yi Drone in 4K A Filmmaker’s Dream</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instas-friendship-breakdown-detect-it-fast/"><u>[Updated] Insta's Friendship Breakdown Detect It Fast</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-hero5-black-in-action-essential-shooting-advice-for-amazing-results/"><u>2024 Approved Hero5 Black in Action Essential Shooting Advice for Amazing Results</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/b200-bug-fixed-ready-to-go/"><u>B200 Bug Fixed, Ready to Go!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/connectivity-woes-with-hp-print-on-w7-resolved/"><u>Connectivity Woes with HP Print on W7 Resolved</u></a></li>
+<li><a href="https://driver-download.techidaily.com/critical-drivers-alert-resolved-fix-your-graphics-card-glitch-with-these-expert-hacks/"><u>Critical Drivers Alert Resolved! Fix Your Graphics Card Glitch with These Expert Hacks</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-itel-p40-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Itel P40 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-can-you-determine-if-your-laptop-features-bluetooth-connectivity-exploring-two-methods/"><u>How Can You Determine If Your Laptop Features Bluetooth Connectivity? Exploring Two Methods</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-unfreeze-an-offline-brother-printer-online/"><u>How To Unfreeze an Offline Brother Printer Online</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/optimizing-mf4770n-driver-for-w11-w8-w7/"><u>Optimizing MF4770n Driver for W11, W8, W7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/re-establishing-scanner-link-to-computer-in-win10/"><u>Re-Establishing Scanner Link to Computer in Win10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/remedying-stuck-print-head/"><u>Remedying Stuck Print Head</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/spring-screenrecorder-simplified-your-ultimate-guide/"><u>Spring ScreenRecorder Simplified Your Ultimate Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unidentified-fingerprint-attempts/"><u>Unidentified Fingerprint Attempts</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-if-youre-not-using-video-yet-now-is-the-time-to-start-in-this-post-well-discuss-the-benefits-of-using-video-for-social-media-marketing-and-p/"><u>Updated In 2024, If Youre Not Using Video yet, Now Is the Time to Start. In This Post, Well Discuss the Benefits of Using Video for Social Media Marketing and Provide Tips for Getting Started. Keep Reading to Learn More</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Motorola G54 5G? | Dr.fone</u></a></li>
 </ul></div>
 

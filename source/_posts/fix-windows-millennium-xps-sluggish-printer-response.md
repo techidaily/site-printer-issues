@@ -1,7 +1,7 @@
 ---
 title: Fix Windows Millennium XP's Sluggish Printer Response
-date: 2024-09-14T02:38:50.792Z
-updated: 2024-09-14T17:03:46.239Z
+date: 2024-09-15T01:56:48.155Z
+updated: 2024-09-19T19:01:54.276Z
 tags:
   - win11
   - win10
@@ -78,6 +78,14 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 **d)**  You have just restarted Print Spooler service. Now try your printer and see if the not responding error is gone.  
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4) Configure to correct port
 
  In order for your printer to run normally, you need to configure your printer to correct printer port. You can follow the steps below to check and change the port of your printer.
@@ -87,41 +95,47 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595476501c3bd.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **b)**  Click on**Devices and Printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595476948d409.png)
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **c)**  In**Printers** section, right click on your printer and then select**Printer properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595477595478e.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **d)**  Select**Change properties**  on**General** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595478ceef471.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **e)**  Go to**Ports** tab. Under**Print to the following port(s)** , **tick**  the port that contains**the name of your printer** . You should note that the**Description** of the port should include**USB** or**DOT4** if you are using**USB connection** , or**WSD** ,**network** or**IP** if**network connection** is used. After choosing the port, hit**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5954a9c7c72c1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **f)**  Go back to**General** tab. Click on**Print Test Page** to perform a printing test in order to check if you choose the right port.
 
@@ -142,13 +156,6 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 **a)** Open the program and hit**Scan Now** . Wait for a few seconds.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59536d887738b.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **b)** Click on**Update** button next to your printing device. Driver Easy will download the latest credible driver for you. Then you can install the driver on your own.
 
@@ -179,17 +186,16 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-metaverse-metaphors-discovering-6-detailed-instances/"><u>[New] Metaverse Metaphors Discovering 6 Detailed Instances</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-tier-reddit-discussions-a-list-of-the-ten-greatest/"><u>[New] Top Tier Reddit Discussions - A List of the Ten Greatest</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-precision-in-preservation-expert-techniques-for-skype-call-recordings/"><u>2024 Approved Precision in Preservation Expert Techniques for Skype Call Recordings</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/achieving-caption-excellence-an-overview-of-premium-internet-tools/"><u>Achieving Caption Excellence An Overview of Premium Internet Tools</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/conquering-printer-malfunction-after-win-10-fixes/"><u>Conquering Printer Malfunction After Win 10 Fixes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/grasping-c-span-a-legal-grey-area-explored/"><u>Grasping C-Span A Legal Grey Area Explored</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-quickly-fix-the-cannot-start-video-error-in-zoom-5-effective-methods/"><u>How to Quickly Fix the 'Cannot Start Video' Error in Zoom: 5 Effective Methods</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mf4770n-drivers-rollout-on-multiple-windows-versions/"><u>MF4770n Drivers Rollout on Multiple Windows Versions</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-samsung-cartridge-issues/"><u>Overcoming Samsung Cartridge Issues</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-remedies-for-recurring-printer-errors-on-windows-systems/"><u>Quick Remedies for Recurring Printer Errors on Windows Systems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Which is the Best Fake GPS Joystick App On Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-honor-magic-5-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Honor Magic 5? Fixed | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-digital-darling-list-top-viewed-on-fb/"><u>[Updated] In 2024, Digital Darling List Top Viewed on FB</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/address-common-canon-printer-woes-in-windows-10-settings/"><u>Address Common Canon Printer Woes in Windows 10 Settings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-browsers-conversational-power-our-top-7-plugin-lists/"><u>Boosting Browsers' Conversational Power: Our Top 7 Plugin Lists</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/conquer-snapchat-with-pro-pinning-tips-for-2024/"><u>Conquer Snapchat with Pro Pinning Tips for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquer-virtual-realms-with-ease-streamlining-gameplay-of-popular-titles-in-steam-using-meta-quest-controllers/"><u>Conquer Virtual Realms with Ease: Streamlining Gameplay of Popular Titles in Steam Using Meta Quest Controllers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/end-incessant-print-service-pauses-in-win-systems/"><u>End Incessant Print Service Pauses in Win Systems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/error-code-0x97-on-epson-dispelled/"><u>Error Code 0X97 on Epson Dispelled</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-1000-bucks-more-value-with-these-mirrorless-cameras/"><u>In 2024, 1000 Bucks, More Value with These Mirrorless Cameras</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leveraging-kinemasters-strengths-for-video-magic-and-10-esteemed-competitors/"><u>In 2024, Leveraging KineMaster's Strengths for Video Magic & 10 Esteemed Competitors</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-hp-printer-error-code-oxc4eb827f/"><u>Overcoming HP Printer Error Code: OXC4EB827F</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-tecno-pop-8-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Tecno Pop 8? 8 Solutions Inside | Dr.fone</u></a></li>
 </ul></div>
 

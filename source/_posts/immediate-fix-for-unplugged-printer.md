@@ -1,7 +1,7 @@
 ---
 title: Immediate Fix for Unplugged Printer
-date: 2024-09-09T19:08:35.584Z
-updated: 2024-09-14T20:05:32.858Z
+date: 2024-09-18T07:16:39.432Z
+updated: 2024-09-19T18:21:51.700Z
 tags:
   - win11
   - win10
@@ -81,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
  Try to use your printer again to see if it’s connecting.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Troubleshoot printer issues
 
  You can also try the troubleshooting tool to diagnose and fix your printer issues. Here’s how to do it:
@@ -96,27 +89,20 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
 ![Windows 11 - how to open the Control Panel](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Devices and Printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/win-11-control-panel-devices-and-printers.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Locate and click on your printer, and select**Run the Troubleshoot** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/win-11-printer-troubleshoot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Let your computer troubleshoot the issue and follow the on-screen instructions to fix it.
 
@@ -130,6 +116,13 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-services.msc_.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down and find the**Print Spooler** service.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/win-11-services-print-spooler.jpg)
@@ -139,6 +132,13 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
  If the service isn’t running properly, right-click on the service and click**Start** to run the service.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/win-11-services-print-spooler-start.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Restart your computer and try your printer again to see if your printer is connected.
 
@@ -164,20 +164,16 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-triumph-through-battle-the-supreme-selection-of-top-7-total-wars/"><u>[New] 2024 Approved Triumph Through Battle The Supreme Selection of Top 7 Total Wars</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-essential-selection-11-child-friendly-beginner-level-waterproof-cams/"><u>[Updated] In 2024, Essential Selection 11 Child-Friendly, Beginner-Level Waterproof Cams</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-unlocking-full-photo-viewing-capabilities-win-11-edition/"><u>[Updated] Unlocking Full Photo Viewing Capabilities Win 11 Edition</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-world-of-adobe-storage-options-the-complete-review-and-comparisons/"><u>2024 Approved Navigating the World of Adobe Storage Options The Complete Review & Comparisons</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-check-dji-fpv-drone-spectacles-features/"><u>2024 Approved The Ultimate Check DJi FPV Drone Spectacles' Features</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/5-steps-for-converting-dvds-into-iso-files-tutorials-for-windows-11-10-8-7-and-macos/"><u>5 Steps for Converting DVDs Into ISO Files: Tutorials for Windows 11, 10, 8, 7 & macOS</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/advanced-video-transformation-suite-winx-hd-deluxe-ultra-fast-editing-and-resizing-via-gpu-technology/"><u>Advanced Video Transformation Suite WinX HD Deluxe – Ultra-Fast Editing & Resizing via GPU Technology</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-error-0x00000709-on-printer-selection-in-windows/"><u>Fixed Error 0X00000709 on Printer Selection in Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/installation-failure-canon-pixma-mp620-driver-missing-in-win10/"><u>Installation Failure: Canon Pixma MP620 Driver Missing in WIN10</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-os-x-mavericks-mp4-editing-software-convert-trim-and-more/"><u>New 2024 Approved OS X Mavericks MP4 Editing Software Convert, Trim, and More</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-reboot-no-more-error-after-windows-10-patch/"><u>Printer Reboot, No More Error After Windows 10 Patch</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-troubles-resolved-windows-11-guide/"><u>Printer Troubles Resolved: Windows 11 Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-blank-page-output-from-hp/"><u>Resolving Blank Page Output From HP</u></a></li>
-<li><a href="https://extra-support.techidaily.com/secure-and-spacious-our-compilation-of-best-20-free-cloud-services-for-2024/"><u>Secure & Spacious Our Compilation of Best 20 Free Cloud Services for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/trouble-with-printer-driver-setup-for-hp-deskjet-d1360-on-pcs/"><u>Trouble with Printer Driver Setup for HP Deskjet D1360 on PCs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-perfecting-distance-remote-podcast-capture-techniques/"><u>[New] 2024 Approved Perfecting Distance Remote Podcast Capture Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-inside-out-stardew-valley-and-the-allure-of-ginger-island/"><u>[Updated] In 2024, Inside Out Stardew Valley and the Allure of Ginger Island</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-wireless-excellence-with-the-tp-link-archer-c50-router/"><u>Affordable Wireless Excellence with the TP-Link Archer C50 Router</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/domain-services-unreachable-print-issue/"><u>Domain Services Unreachable, Print Issue</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-tecno-spark-10c-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Tecno Spark 10C Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/healed-printer-communication-link/"><u>Healed Printer Communication Link</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-snag-another-systems-footprint-found/"><u>Printer Snag: Another System's Footprint Found</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-prints-the-ultimate-guide-to-cura-enhancements/"><u>Revolutionize Your Prints: The Ultimate Guide to Cura Enhancements</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-connecting-your-airpods-to-pcs-windows-edition/"><u>Troubleshooting Steps for Connecting Your AirPods to PCs - Windows Edition</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1725289744245-winx-dvd-copy-pro-dvdiso/"><u>WinX DVD Copy Proの簡単使い方 | 公式無料ダウンロード版 - あんなにも簡単で、DVD/ISO/フォルダコピーが可能!</u></a></li>
 </ul></div>
 

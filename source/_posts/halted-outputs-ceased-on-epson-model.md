@@ -1,7 +1,7 @@
 ---
 title: Halted Outputs Ceased on Epson Model
-date: 2024-09-13T19:48:29.384Z
-updated: 2024-09-14T17:00:03.185Z
+date: 2024-09-18T00:43:22.174Z
+updated: 2024-09-20T09:37:25.738Z
 tags:
   - win11
   - win10
@@ -77,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/6b2ec2941933023600c9882b03f190635c85fa9ba
  Hopefully, this helps you solve your problem. But if not, there are five more fixes for you to try.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Update your printer driver
@@ -100,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/6b2ec2941933023600c9882b03f190635c85fa9ba
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/epson-print.png)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 ## Method 4: Check the Print Spooler service
@@ -114,33 +121,20 @@ To check this service:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f29629de1e9.jpg)
 3. Make sure its Startup type is set to**Automatic** and its Service status is**Running** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f299190ca46.png)
 4. If not, set its Startup type to**Automatic** , and click the**Start** button.  
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f2984ab53d0.png)
 5. Click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f29d7e9e7e4.png)
 6. Check to see if your Epson printer is able to print now.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If it does, great! But if not, there are three more fixes for you to try…
 
@@ -162,15 +156,16 @@ To clear your print jobs:
 4. Minimize the Services window. Then open**File Explorer** (on your keyboard, press the**Windows logo key** and**E**  at the same time).  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f2a36c12e67.jpg)
 5. Copy and paste the address**`%windir%\System32\spool\PRINTERS`** to the address bar and press**Enter** on your keyboard to go to where the print jobs are stored.  
-![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f2a48b237b4.jpg)
-6. Delete all the files in this folder.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f2a48b237b4.jpg)
+6. Delete all the files in this folder.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f2ab14ccc48.jpg)
 7. Restore the Services window. Then double click the**Print Spooler** service.  
@@ -183,16 +178,16 @@ To clear your print jobs:
 12. Plug the power cable to your printer and turn it on.
 13. Turn on your computer. Then check to see if your Epson printer is able to print.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 6: Use another program to print your document
 
  You may have a not printing issue with your printer if the program you are using to print is not working properly. Test your printer with another program. If the problem comes from your program, contact its developer or vendor for advice or install an alternative solution.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 7: Check the status of your printer
 
@@ -221,21 +216,16 @@ To clear your print jobs:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-iphone-videography-8-tips-of-recording-pro-videos/"><u>[New] IPhone Videography 8 Tips of Recording Pro Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-premier-5-minute-longshot-recorder/"><u>[Updated] In 2024, Premier 5-Minute Longshot Recorder</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-ultimate-selection-8-preferred-mp3-grabbers-android/"><u>[Updated] Ultimate Selection 8 Preferred MP3 Grabbers (Android)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-connectivity-at-its-peak-usb-c-and-the-hp-envy-27-monitor/"><u>2024 Approved Connectivity at Its Peak USB-C & the HP Envy 27 Monitor</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-pinnacle-racing-experiences-best-of-the-best/"><u>2024 Approved Pinnacle Racing Experiences Best of the Best</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brother-printer-not-working-solve-it-in-win1011/"><u>Brother Printer Not Working? Solve It in Win10/11</u></a></li>
-<li><a href="https://article-files.techidaily.com/crafting-your-own-google-vr-glasses/"><u>Crafting Your Own Google VR Glasses</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-the-active-directory-domain-services-is-currently-unavailable-printer-error/"><u>Fixed: The Active Directory Domain Services Is Currently Unavailable Printer Error</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-print-error-solved-online-and-offline/"><u>HP Print Error: Solved - Online & Offline</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-prints-blank-pages-solved/"><u>HP Printer Prints Blank Pages [SOLVED]</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reviving-dormant-windows-3x-print-jobs-instantly/"><u>Reviving Dormant Windows 3.x Print Jobs Instantly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tailored-updates-mf4770n-for-windows-oses/"><u>Tailored Updates: MF4770n for WIndows OSes</u></a></li>
-<li><a href="https://win-dash.techidaily.com/troubleshoot-and-fresh-install-mbox-2-windows-drivers-problem-solutions-included/"><u>Troubleshoot and Fresh-Install MBox 2 Windows Drivers – Problem Solutions Included</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/unlocking-the-secrets-of-successful-google-meet-engagement-for-2024/"><u>Unlocking the Secrets of Successful Google Meet Engagement for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unpacking-pcl-xl-breakdowns-effortlessly/"><u>Unpacking PCL XL Breakdowns Effortlessly</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-mastering-in-game-speech-alteration-top-picks-and-reviews/"><u>Updated Mastering In-Game Speech Alteration Top Picks and Reviews</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/bugfix-windows-printer-spooler-stuck/"><u>[BUGFIX] Windows Printer Spooler Stuck</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-connectivity-aid-fb-stories-saver-pro/"><u>2024 Approved Connectivity Aid FB Stories Saver Pro</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canon-printer-mute-how-to-engage/"><u>Canon Printer Mute - How to Engage?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-guide-installing-epson-xp-430-printer-drivers-on-your-pc-a-step-by-step-tutorial/"><u>Complete Guide: Installing Epson XP-430 Printer Drivers on Your PC – A Step by Step Tutorial</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-g54-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Motorola G54 5G?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-apple-iphone-xr-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing Apple iPhone XR Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/local-print-service-on-hold-investigate-now/"><u>Local Print Service On Hold, Investigate Now</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-art-of-product-placement/"><u>The Art of Product Placement</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-digital-archivists-toolkit-downloading-videos-from-messenger-for-2024/"><u>The Digital Archivist's Toolkit Downloading Videos From Messenger for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unprinted-pages-issue-on-hp-printer-fixed/"><u>Unprinted Pages Issue on HP Printer Fixed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/white-sheet-woes-end-with-hp-printer-update-fixed/"><u>White Sheet Woes End with HP Printer Update Fixed</u></a></li>
 </ul></div>
 

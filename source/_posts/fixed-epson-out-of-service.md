@@ -1,7 +1,7 @@
 ---
 title: Fixed Epson Out Of Service
-date: 2024-09-12T18:12:14.887Z
-updated: 2024-09-14T21:06:06.942Z
+date: 2024-09-18T18:45:36.678Z
+updated: 2024-09-19T19:15:03.475Z
 tags:
   - win11
   - win10
@@ -78,6 +78,13 @@ With the Pro version: click **Update All**  to automatically download and instal
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click on your EPSON printer device in Printers or Printer queues. Then click **Uninstall** .  
   
  4) On your keyboard, press the **Windows logo key** and **R**  at the same time to invoke the Run box.
@@ -86,43 +93,42 @@ With the Pro version: click **Update All**  to automatically download and instal
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c170e3799.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Click **Devices and Printers**  in **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c1ac9662b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Right-click on the blank area and click **Add a printer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c7442faf0.png)
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  8) For Windows 7 users, click   **Add a network, wireless or Bluetooth printer** .
  (For Windows 10 users, please skip to step 9)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  9) Click **The printer that I want isn’t listed** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c7d426e87.png)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  10) Tick on **Add a printer using a TCP/IP address or hostname** . Then click **Next** .
 
@@ -134,13 +140,6 @@ With the Pro version: click **Update All**  to automatically download and instal
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c822a0881.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  12) Restart your computer and check if you’re able to use your printer.
 
 **How to check IP address and port name of printer:**
@@ -148,6 +147,13 @@ With the Pro version: click **Update All**  to automatically download and instal
  1)Right-click on your printer and choose **Printer properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Highlight the checked Port with √ mark in **Ports** , then click **Configure Port…**
  Now you can see the Port name and IP address of your printer on the pop-up window.
@@ -171,16 +177,20 @@ With the Pro version: click **Update All**  to automatically download and instal
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-discover-the-5-best-android-photo-editors-for-enhanced-images/"><u>2024 Approved Discover the 5 Best Android Photo Editors for Enhanced Images</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-sluggish-printers-fast/"><u>Fix Sluggish Printers Fast</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-flat-out-print-fiasco-windows-error-0x00000709-resolved/"><u>Fixing Flat-Out Print Fiasco: Windows Error 0X00000709 Resolved</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guide-incorrante-connectivity-linking-officejet-pro-to-pc/"><u>Guide: Incorrante Connectivity: Linking OfficeJet Pro to PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-xiaomi-redmi-k70-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Xiaomi Redmi K70 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-samsung-galaxy-f04-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Samsung Galaxy F04 Device</u></a></li>
-<li><a href="https://win-dash.techidaily.com/intel-nuc-upgrades-made-effortless-quick-driver-installation-tips/"><u>Intel NUC Upgrades Made Effortless: Quick Driver Installation Tips</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/maximize-your-mobile-podcast-experience-on-iphone-for-2024/"><u>Maximize Your Mobile Podcast Experience on iPhone for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-epson-printer-paper-jam/"><u>Resolved: Epson Printer Paper Jam</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/step-by-step-guide-to-hp-printer-firmware-update/"><u>Step-by-Step Guide to HP Printer Firmware Update</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-essence-of-polarr-revolutionizing-digital-photography/"><u>[New] 2024 Approved The Essence of Polarr Revolutionizing Digital Photography</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/criptwriting-mastery-elevate-your-youtube-channels-content-quality/"><u>[New] Scriptwriting Mastery Elevate Your YouTube Channel's Content Quality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-sync-soundscapes-from-downloads-to-personalized-phone-alerts/"><u>[New] Sync Soundscapes From Downloads to Personalized Phone Alerts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-b-roll-basics-strategies-for-creative-video-editing/"><u>2024 Approved B Roll Basics Strategies for Creative Video Editing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/boost-canons-charm-10-free-luts-tailored-upgrades-await/"><u>Boost Canon's Charm 10 Free LUTs, Tailored Upgrades Await</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/elegant-setup-procedure-for-high-performance-hp-printers-in-windows/"><u>Elegant Setup Procedure for High-Performance HP Printers in Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/endless-blank-pages-no-more-fixing-printer-issues/"><u>Endless Blank Pages No More: Fixing Printer Issues</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-tecno-camon-20-pro-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Tecno Camon 20 Pro 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-itel-s23plusfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Itel S23+FRP Lock</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/methods-to-reactivate-sleepy-hp-laser-printers/"><u>Methods to Reactivate Sleepy HP Laser Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/repair-hp-printer-paper-jam-resolved/"><u>Repair: HP Printer Paper Jam Resolved</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restored-inkjet-efficiency-levels/"><u>Restored Inkjet Efficiency Levels</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/turning-hp-print-on-in-windows-environment/"><u>Turning HP Print On in Windows Environment</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/s-that-vibe-a-novices-roadmap-on-a-mac-and-youtube-for-2024/"><u>Videos That Vibe A Novice's Roadmap on a Mac and YouTube for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-printer-spool-error-detected/"><u>Windows Printer Spool Error Detected</u></a></li>
 </ul></div>
 

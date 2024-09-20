@@ -1,7 +1,7 @@
 ---
 title: No-Print Error on HP DeskJet 4120X Resolved
-date: 2024-09-13T19:45:58.109Z
-updated: 2024-09-15T02:47:58.918Z
+date: 2024-09-16T08:11:23.128Z
+updated: 2024-09-19T21:14:22.265Z
 tags:
   - win11
   - win10
@@ -69,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/5bc10bcfbea3c36ca839a96ba01fc56320fae45e4
 4. There is now a tick below the icon of your HP printer. That means it is now set as the default printer.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5fe2a9b6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Cancel all print jobs
 
  Another possible cause of your HP printer not printing issue is the stuck print queue. The print queue containing failed print jobs can stop functioning normally and lead to the printer not printing issues. You can clear all print jobs to get your HP printer back to normal.
@@ -78,46 +85,42 @@ thumbnail: https://thmb.techidaily.com/5bc10bcfbea3c36ca839a96ba01fc56320fae45e4
 2. Right-click on your HP printer in the**Printers** section and select**See what’s printing** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e955d3a5d.png)
 3. Open the**Printer** menu and then select**Open As Administrator** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea27610b0.png)
 4. Open**Printer** menu again. This time select**Cancel All Documents** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea70940b1.png)
 5. **Confirm** your action.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987eaa0030f9.png)
 6. You have canceled all print jobs of your printer. Now check and see if it can run normally.
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Check printer status
 
  If you have tried the methods above and your HP printer still cannot print, you may need to check if there are hardware issues on your printer.
 
  You need to ensure your HP printer has**enough** **paper, ink, or toner** , and it is**not stuck in a paper jam** . Also, check the status of your printer cartridge and try replacing it with a new one if it is not good enough. In some cases, your HP printer stops printing after you replace its parts. If this happens you should**install the original ones back** and see if the problem is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Repair system files
 
@@ -153,13 +156,6 @@ Check your computer to see if your printer works properly.
 ![how to open Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 2. Click**Yes** when prompted to confirm.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/sfc-scannow.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -183,20 +179,21 @@ Check your computer to see if your printer works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-skyward-savings-affordable-drones-below-a-hundred/"><u>[New] In 2024, Skyward Savings Affordable Drones Below a Hundred$</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-social-streaming-success-maximizing-video-impact-with-desktop-integration-on-facebook/"><u>2024 Approved Social Streaming Success Maximizing Video Impact with Desktop Integration on Facebook</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-guide-executing-android-applications-on-your-pc-with-windows-10/"><u>Effortless Guide: Executing Android Applications on Your PC with Windows 10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhancing-mf4770n-performance-in-windows-108/"><u>Enhancing MF4770n Performance in WIndows 10/8</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-printer-offline-error/"><u>Fixing: Printer Offline Error</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-apple-iphone-7-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Apple iPhone 7 Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-android-and-ios-wedding-timer-apps-top-10-selection-revealed/"><u>In 2024, Android & iOS Wedding Timer Apps Top 10 Selection Revealed</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-from-page-to-screen-crafting-jujutsu-kaisen-stories-on-tiktok/"><u>In 2024, From Page to Screen Crafting Jujutsu Kaisen Stories on TikTok</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-oppo-reno-11f-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Oppo Reno 11F 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-iphone-lens-hacks-capturing-perfect-reflections/"><u>In 2024, IPhone Lens Hacks Capturing Perfect Reflections</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-8-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 8 Everything You Need to Know | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/optimize-printing-roll-out-latest-windows-7-dell-updates/"><u>Optimize Printing: Roll-Out Latest Windows 7 Dell Updates</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reviving-a-printers-purpose-beyond-empty-pages/"><u>Reviving a Printer's Purpose Beyond Empty Pages</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/steps-to-restore-printer-functionality/"><u>Steps to Restore Printer Functionality</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshoot-and-rectify-non-responsive-printer-on-nt/"><u>Troubleshoot and Rectify Non-Responsive Printer on NT</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-pioneering-process-open-mac-seamlessly-with-watch/"><u>[New] Pioneering Process Open Mac Seamlessly with Watch</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-repaired-connectivity-issue/"><u>[PRINT] Repaired Connectivity Issue</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-scrutinizing-the-benefits-of-itops-screencasting/"><u>[Updated] In 2024, Scrutinizing the Benefits of ITop's Screencasting</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-vmixfusion-for-dual-environments/"><u>[Updated] In 2024, VMixFusion for Dual Environments</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-freememogen-your-guide-to-free-memes/"><u>2024 Approved FreeMemoGen Your Guide to FREE Memes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-instant-time-stamping-techniques-for-youtube-videos/"><u>2024 Approved Instant Time-Stamping Techniques for YouTube Videos</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/effortlessly-rectify-canons-no-print-issue-with-these-5-window-11-tips/"><u>Effortlessly Rectify Canon's No-Print Issue with These 5 Window 11 Tips</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eliminating-recurring-printer-crashes-in-windows-systems/"><u>Eliminating Recurring Printer Crashes in Windows Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/enhance-performance-removing-non-essential-bloatware-on-windows-1011-devices/"><u>Enhance Performance: Removing Non-Essential Bloatware on Windows 10/11 Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guide-setting-up-hp-projetronics-with-pc/"><u>Guide: Setting up HP Projetronics with PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-windows-0x8007007e-error-code/"><u>How to Fix the Windows 0X8007007E Error Code</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/method-linking-hp-printer-to-personal-computer/"><u>Method: Linking HP Printer to Personal Computer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revive-printing-overcome-windows-11-issues/"><u>Revive Printing: Overcome Windows 11 Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/smart-strategies-for-effective-windows-based-hp-printer-setups/"><u>Smart Strategies for Effective Windows-Based HP Printer Setups</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/tapping-into-youtubes-affiliate-income-streams-for-2024/"><u>Tapping Into YouTube's Affiliate Income Streams for 2024</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify missing your drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
 </ul></div>
 

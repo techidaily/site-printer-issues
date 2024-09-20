@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Unresponsive Networked Printers
-date: 2024-09-13T04:42:10.204Z
-updated: 2024-09-14T18:18:36.281Z
+date: 2024-09-14T07:09:41.831Z
+updated: 2024-09-19T20:23:49.475Z
 tags:
   - win11
   - win10
@@ -91,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
 
  See if you can print now. If this issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 4: Restart The Print Spooler Service
 
  Your printer will refuse to work if the Print Spooler service is not working well. In some case, this service is somehow turned off. You need to check if it’s running first, then decide whether or not to restart it:
@@ -100,43 +107,29 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
 2. On your keyboard, press the**P** key to faster locate**Print Spooler** item. See if its status is**Running** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f1a101e6655.png)
 3. If you can’t see its status here, right-click Print Spooler service and click**Start** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f1a16a7e270.png)
 4. If you like, you can also restart this service: right-click**Print Spooler** and click**Restart** .  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f1a16a7e270.png)
 5. Close the Properties window.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Check if your printer is online now. If not, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 5: Add a second printer
 
@@ -149,6 +142,14 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
 1. On your keyboard, press the **Windows logo key**   and **I**   at the same time. Click **Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fbce29ce5.png)
 2. Click **Devices and printers** .  
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fbb2818a8.jpg)
 3. Right-click your printer and select**Printer properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fd2c6fb8a.png)
@@ -157,15 +158,16 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
 5. Select**Standard TCP/IP Port** , then click**New Port** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fd728aa09.png)
 6. Click**Next** .  
-![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fda0e3c3c.png)
-7. Type in the**printer’s IP address** . Click**Next** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fda0e3c3c.png)
+7. Type in the**printer’s IP address** . Click**Next** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fe1829457.png)
 
@@ -194,16 +196,19 @@ Your offline printer should work flawlessly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-free-webinar-creation-and-management-on-youtube/"><u>[New] 2024 Approved Free Webinar Creation & Management on Youtube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-entrepreneurial-guide-to-video-content-monetization/"><u>[New] The Entrepreneurial Guide to Video Content Monetization</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-cam-protection-the-ultimate-10-guide/"><u>2024 Approved Cam Protection The Ultimate 10 Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-in-depth-guide-to-installing-microsofts-movie-maker/"><u>2024 Approved In-Depth Guide to Installing Microsoft's Movie Maker</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/bypassing-fault-error-eco-error-xf1/"><u>Bypassing Fault: Error #Eco-Error XF1</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/correct-printing-resumed-on-hp-printer-after-glitch/"><u>Correct Printing Resumed on HP Printer After Glitch</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/deciphering-trillers-unique-positioning-amidst-social-media-titles/"><u>Deciphering Triller's Unique Positioning Amidst Social Media Titles</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/error-resolution-restoring-default-windows-printer-0x00000709/"><u>Error Resolution: Restoring Default Windows Printer (0X00000709)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-setup-software-package-hp-officejet-pro-8600-for-pcs/"><u>Quick Setup Software Package: HP OfficeJet Pro 8600 for PCs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/scheduling-zoom-on-android-a-step-by-step-approach/"><u>Scheduling Zoom on Android A Step-by-Step Approach</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unblocking-hp-printer-issues/"><u>Unblocking HP-Printer Issues</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/uilding-your-thriving-youtube-space-for-gamers-for-2024/"><u>[New] Building Your Thriving YouTube Space for Gamers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-convert-fast-videos-on-iphone-into-slow-motion-magic/"><u>[New] How to Convert Fast Videos on iPhone Into Slow Motion Magic</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-pioneering-filmmakers-top-7-color-grading-hacks-for-2024/"><u>[New] Pioneering Filmmakers' Top 7 Color Grading Hacks for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-definitive-guide-to-iphones-how-to-grab-podcast-episodes/"><u>2024 Approved The Definitive Guide to iPhones How to Grab Podcast Episodes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/brother-wireless-mfc-9330cdw-instructions/"><u>Brother Wireless MFC-9330CDW Instructions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/choosing-the-perfect-keyboard-companer-for-your-new-steam-deck-a-comprehensive-guide/"><u>Choosing the Perfect Keyboard Companer for Your New Steam Deck: A Comprehensive Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/diagnosing-ink-and-paper-feed-issues-in-hp/"><u>Diagnosing Ink and Paper Feed Issues in HP</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-effects-of-machine-learning-on-emotional-health-and-therapertive-resources/"><u>Exploring the Effects of Machine Learning on Emotional Health and Therapertive Resources</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-online-offline-print-status-anomaly/"><u>Fixing Online-Offline Print Status Anomaly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-laserjet-1320-software-update-and-installation-guide-for-windows-pcs/"><u>Get the Latest HP LaserJet 1320 Software Update & Installation Guide for Windows PCs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hack-your-way-through-pcl-xl-troubles/"><u>Hack Your Way Through PCL XL Troubles</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ct-your-youtube-clips-essential-editing-techniques-unveiled/"><u>Perfect Your YouTube Clips Essential Editing Techniques Unveiled</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reversed-printing-mishaps-hp-printer-now-solid-and-sure/"><u>Reversed Printing Mishaps: HP Printer Now Solid and Sure</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/showcase-spaces-perfect-live-stream-flair-for-2024/"><u>Showcase Spaces Perfect Live Stream Flair for 2024</u></a></li>
 </ul></div>
 

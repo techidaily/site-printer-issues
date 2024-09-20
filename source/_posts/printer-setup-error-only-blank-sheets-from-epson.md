@@ -1,7 +1,7 @@
 ---
 title: "Printer Setup Error: Only Blank Sheets From Epson"
-date: 2024-09-09T18:51:18.458Z
-updated: 2024-09-14T20:01:19.629Z
+date: 2024-09-16T19:51:27.400Z
+updated: 2024-09-20T05:14:15.403Z
 tags:
   - win11
   - win10
@@ -62,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 **Note** : This Printhead Cleaning Cycles cannot be used too often. Allow your printer to rest for at least 6 hours after one cycle (recommended by Epson), then go through a cleaning cycle again. Doing this program repeatedly will make your clog worse and use a lot of ink.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your printer driver
@@ -94,16 +94,10 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/%E6%96%B0.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
@@ -113,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/epson.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you encounter problems while using Driver Easy, please send an email to [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -157,15 +151,20 @@ Here’s how to use it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-5-outstanding-mkv-tools-for-macos-users/"><u>[New] 5 Outstanding MKV Tools for macOS Users</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-fix-coffee-stain-distortions-on-iphones-in-a-flash-for-free/"><u>[Updated] In 2024, Fix Coffee Stain Distortions on iPhones in a Flash, for Free</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-issue-mp620-driver-not-detected/"><u>[Windows Issue] MP620 Driver Not Detected</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-watching-social-media-videos-on-appletv/"><u>2024 Approved Watching Social Media Videos on AppleTV</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-samsung-galaxy-a14-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Samsung Galaxy A14 5G</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/end-of-the-line-for-non-printed-pages/"><u>End of the Line for Non-Printed Pages</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-best-funny-fictional-frequencies/"><u>In 2024, The Best Funny Fictional Frequencies</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-compatibility-windows-11-and-canons-mp620/"><u>Printer Compatibility: Windows 11 and Canon's MP620</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-new-age-analyst-gpt-3s-impact-on-data-management/"><u>The New Age Analyst: GPT-3's Impact on Data Management</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-and-solutions-for-the-dark-screen-error-on-persona-5-strikers/"><u>Troubleshooting and Solutions for the Dark Screen Error on Persona 5 Strikers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-issue-canon-pixma-mp620-unsupported-by-win10/"><u>[Driver Issue] Canon Pixma MP620 Unsupported by WIN10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-hurdle-free-humor-your-guide-to-the-ifunny-app-world/"><u>[New] 2024 Approved Hurdle-Free Humor Your Guide to the iFunny App World</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ssessing-mr-beasts-monetary-trajectory-for-2024/"><u>[New] Assessing Mr. Beast’s Monetary Trajectory for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/iscover-the-tricks-to-recording-and-screencasting-your-youtube-views-without-cash-for-2024/"><u>[New] Discover The Tricks to Recording & Screencasting Your YouTube Views without Cash for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-a-thorough-exploration-of-kinesthetic-controls/"><u>[New] In 2024, A Thorough Exploration of Kinesthetic Controls</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-tricks-to-turn-off-youtube-videos-without-compromise-for-2024/"><u>[New] Tricks to Turn Off YouTube Videos Without Compromise for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-explore-and-compare-20plus-best-free-video-editors-for-ios/"><u>[Updated] In 2024, Explore and Compare 20+ Best Free Video Editors for iOS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-ultimate-guide-to-mobizens-screen-capture-tool-for-2024/"><u>[Updated] Ultimate Guide to Mobizen's Screen Capture Tool for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/disconnecting-all-print-devices-at-once-on-pc/"><u>Disconnecting All Print Devices at Once on PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-techniques-for-eliminating-repeated-scenes-in-videos/"><u>Effective Techniques for Eliminating Repeated Scenes in Videos</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eradicate-brother-printers-no-print-dilemma-on-windows/"><u>Eradicate Brother Printer's No-Print Dilemma on Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-pro-max-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Pro Max To Android? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-online-on-windows-7-after-troubleshooting/"><u>Printer Online on Windows 7 After Troubleshooting</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-woes-after-suspend-on-windows-7-systems/"><u>Printer Woes After Suspend on Windows 7 Systems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/winerror-zeroed-out-restoring-printer-setup-0x00000709/"><u>WinError Zeroed Out - Restoring Printer Setup (0X00000709)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Persistent Bugs Causing Manor Lords PC Instability
-date: 2024-09-13T21:40:02.095Z
-updated: 2024-09-15T04:01:36.694Z
+date: 2024-09-18T05:26:25.329Z
+updated: 2024-09-19T18:24:45.673Z
 tags:
   - win11
   - win10
@@ -68,6 +68,14 @@ Many Minecraft users complain that the error code 0x803f8001 appears when starti
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -82,13 +90,6 @@ Many Minecraft users complain that the error code 0x803f8001 appears when starti
 1. Click the**Search** box and type**microsoft store** . Then click the**Microsoft Store** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-06_18-02-00.jpg)
 2. The Microsoft Store windows will pop up. Click the user icon on the top-right of the windows and then select**Sign out** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-07_09-21-12-1.jpg)
 3. Reboot your PC and then restart the Microsoft Store.
@@ -107,6 +108,14 @@ Many Minecraft users complain that the error code 0x803f8001 appears when starti
 3. Click**Apps** **& features** . Scroll your mouse down until you find Minecraft Launcher. Click**Minecraft Launcher** and then select the**Uninstall** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-09_08-43-36.jpg)
 4. After the uninstallation finishes, you can start to reinstall it from the**Microsoft Store** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click the**Search** box and type**microsoft store** . Then click the**Microsoft Store** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_11-12-53-1.jpg)
 6. Type**Minecraft Launcher** in the Microsoft Store’s search tool. Then click**Minecraft Launcher** in the search results.  
@@ -116,16 +125,10 @@ Many Minecraft users complain that the error code 0x803f8001 appears when starti
 8. You can follow the on-screen instructions to install the App. Once the**Minecraft Launcher** is reinstalled, see if the Minecraft Launcher works normally.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Reset Microsoft Store cache
@@ -139,13 +142,6 @@ Many Minecraft users complain that the error code 0x803f8001 appears when starti
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-07_19-48-11.jpg)
 4. Once the reset finishes, the Microsoft Store windows will appear on the taskbar at the bottom of your screen. Then you can check if the problem is solved.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Run the Windows Store Apps Troubleshooter
 
  The Windows Store Apps Troubleshooter is a Windows built-in tool for troubleshooting and fixing app problems. So if you encounter the Minecraft Launcher error 0x803f8001, you can run the Windows Store Apps Troubleshooter to fix the problem.
@@ -154,23 +150,18 @@ Many Minecraft users complain that the error code 0x803f8001 appears when starti
 2. Click the**Update and Security** from the menu options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-07_19-50-12-4.jpg)
 3. Select**Troubleshoot** on the left panel and click**Additional troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-09_09-23-18.jpg)
 4. Slide your mouse down until you find Windows Store Apps. Click**Windows Store Apps** and then select**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-09_09-25-29-1.jpg)
 5. The troubleshooter will fix problems it might find. After the troubleshooter finishes work, see if the Minecraft Launcher starts normally. If not, try the next fix.
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Uninstall and reinstall Microsoft Gaming Services
 
@@ -180,13 +171,6 @@ Many Minecraft users complain that the error code 0x803f8001 appears when starti
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-07_11-14-36.jpg)
 2. Right-click**Windows Powershell** and then select**Run as administrator** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-07_20-01-36.jpg)
 3. Type the command below (you can just copy and paste it) and then press**Enter** . Windows will uninstall gaming services.  
 **`get-appxpackage Microsoft.GamingServices | remove-AppxPackage -allusers`**  
@@ -195,6 +179,14 @@ Many Minecraft users complain that the error code 0x803f8001 appears when starti
 **`start ms-windows-store://pdp/?productid=9MWPM2CQNLHN`**  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-07_19-59-23.jpg)
 5. The Microsoft store will open up the Gaming Services automatically. Then click the**Get** button to install it.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-08_20-09-02-1.jpg)
 6. You can follow the on-screen instructions to install the Gaming Services. After you reinstall the Gaming services, you can check if the Minecraft Launcher error is solved.
 
@@ -215,20 +207,17 @@ Many Minecraft users complain that the error code 0x803f8001 appears when starti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/error-fixing-unable-to-add-hp-d1360-drivers-in-windows-oses/"><u>[Error Fixing] Unable to Add HP D1360 Drivers in Windows OSes</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-mastering-volume-transitions-in-lumafusion/"><u>[New] 2024 Approved Mastering Volume Transitions in Lumafusion</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-discover-8-trustworthy-online-content-promoters-for-2024/"><u>[New] Discover 8 Trustworthy Online Content Promoters for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-craft-clearer-crisper-youtube-videos-with-quality-tools/"><u>[Updated] Craft Clearer, Crisper YouTube Videos with Quality Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-best-6-gopro-mounts-for-seamless-capture/"><u>2024 Approved Unveiling the Best 6 GoPro Mounts for Seamless Capture</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/addressing-printer-no-show-on-windows-me-edition/"><u>Addressing Printer No-Show on Windows ME Edition</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-mf4770n-driver-update-in-windows-1087/"><u>Canon MF4770n Driver Update in Windows 10/8/7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/decoding-ink-cartridge-errors-in-printers/"><u>Decoding Ink Cartridge Errors in Printers</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-x90s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-12plus-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Realme 12+ 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-narzo-n55-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Realme Narzo N55 Users</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/jumpstart-your-stationary-machine-fix-canon-printer-offline/"><u>Jumpstart Your Stationary Machine: Fix Canon Printer Offline</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/optimize-mf4770n-functionality-in-windows-ecosystems/"><u>Optimize MF4770n Functionality in Windows Ecosystems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unconventional-uses-what-if-google-recommended-ingestion-of-adhesives-and-fueling-your-pasta/"><u>Unconventional Uses: What if Google Recommended Ingestion of Adhesives and Fueling Your Pasta?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Realme Narzo N55? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-windows-7-devices-not-recognizing-post-sleep-usb-printers/"><u>[Fix] Windows 7 Devices Not Recognizing Post Sleep USB Printers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-collect-audio-files-from-fb-newsfeeds/"><u>[New] Collect Audio Files From FB Newsfeeds</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-explore-the-finest-virtual-hydro-adventures/"><u>[Updated] In 2024, Explore the Finest Virtual Hydro Adventures</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asrock-ab350-pro4-windows-driver-downloads-at-no-cost-simplified-guide/"><u>ASRock AB350 Pro4 Windows Driver Downloads at No Cost – Simplified Guide</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-gionee-f3-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Gionee F3 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/efficient-operation-windows-compatible-driver-for-officejet-pro-8600/"><u>Efficient Operation: Windows Compatible Driver for Officejet Pro 8600</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-secure-passcodes-longer-windows-11-and-11-pins/"><u>Mastering Secure Passcodes: Longer Windows 11 and 11 PINs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/my-canon-printer-is-playing-hard-to-respond/"><u>My Canon Printer Is Playing Hard To Respond</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-mp4-video-trimming-made-easy-top-free-tools/"><u>New In 2024, MP4 Video Trimming Made Easy Top Free Tools</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-corsair-one-pro-innovative-and-sleek-for-serious-gamers/"><u>The Ultimate Guide to the Corsair One Pro: Innovative and Sleek for Serious Gamers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/trouble-printing-on-windows-11-lets-fix-it/"><u>Trouble Printing on Windows 11? Let's Fix It</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-hp-errors/"><u>Troubleshooting HP Errors</u></a></li>
 </ul></div>
 

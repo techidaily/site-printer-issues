@@ -1,7 +1,7 @@
 ---
 title: Print All Pages Seamlessly
-date: 2024-09-10T22:22:52.799Z
-updated: 2024-09-14T23:34:58.113Z
+date: 2024-09-18T02:46:36.597Z
+updated: 2024-09-20T01:29:04.694Z
 tags:
   - win11
   - win10
@@ -80,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
 3. Go to the**Services** tab, scroll down and find**Spooler** . Right-click it and select**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_14-18-55.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The screenshot above comes from Windows 10\. If you’re running Windows 11, your screen may look slightly different. However, the steps you perform remain persistent.
 
 If your printer still won’t print all pages, try the next fix.
@@ -97,6 +104,13 @@ If your printer still won’t print all pages, try the next fix.
 3. Once the scan is complete, you can review the summary. If Fortect detects any missing or broken system files or other issues that may have triggered your printer problem, you can click **Start Repair** to fix them.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues while using Fortect, feel free to contact their support service.
 
 If the problem persists, try the next fix.
@@ -112,50 +126,43 @@ If the problem persists, try the next fix.
 2. Select your printer, then click**Manage** . (If you’re on Windows 11, simply click on your printer.)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_15-13-59.jpg)
 3. Click**Printer properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_15-15-49.jpg)
 4. Go to the**Ports** tab, select the**TCP/IP port** , then click**Configure Port** .  
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_15-17-15.jpg)
 5. Make sure**SNMP** **Status Enabled** is unchecked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_15-19-15-1.jpg)
 
- If the problem returns, you can repeat the steps above and re-enable SNMP in your printer’s properties.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If the problem returns, you can repeat the steps above and re-enable SNMP in your printer’s properties.
 
 ## Fix 6: Clear the spooler cache
 
@@ -168,13 +175,6 @@ If the problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_15-52-19.jpg)
 
 If this doesn’t work, there’s one more fix you can try.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7: Update your printer software
 
@@ -199,21 +199,17 @@ If this doesn’t work, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-taking-video-action-with-gopro-burst-technology/"><u>[New] In 2024, Taking Video Action with GoPro Burst Technology</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-connectivity-crunch-windows-7-usb-printer-dormancy/"><u>[Resolved] Connectivity Crunch: Windows 7 USB Printer Dormancy</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-printer-communication-not-available-issue/"><u>[Solved] Printer Communication Not Available Issue</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-guide-to-snapchat-brand-building/"><u>[Updated] The Ultimate Guide to SnapChat Brand Building</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win-error-unable-to-locate-printer-drivers/"><u>[WIN ERROR] Unable to Locate Printer Drivers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-full-screen-feature-on-facebook-what-you-need-to-know/"><u>2024 Approved Full-Screen Feature on Facebook What You Need to Know</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/conquering-screenshots-a-compreayer-on-lenovo-tech/"><u>Conquering Screenshots A Compreayer on Lenovo Tech</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-intermittent-printing-on-hp-deskjet-305dn/"><u>Fixed Intermittent Printing on HP DeskJet 305Dn</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/future-ready-data-retention-selecting-excellent-cloud-providers/"><u>Future-Ready Data Retention Selecting Excellent Cloud Providers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>How to share/fake gps on Uber for Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-guide-to-time-stamping-for-higher-youtube-rankings/"><u>In 2024, Step-by-Step Guide to Time Stamping for Higher YouTube Rankings</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-saving-made-easy-a-step-by-step-final-cut-pro-guide/"><u>New Saving Made Easy A Step-by-Step Final Cut Pro Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectified-device-creation-mishap/"><u>Rectified Device Creation Mishap</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/why-are-my-documents-black-and-white/"><u>Why Are My Documents Black & White?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-11-and-canons-mp620-a-driver-match/"><u>Windows 11 & Canon's MP620: A Driver Match?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/winos-cant-find-incompatible-print-drivers/"><u>WinOS Can't Find Incompatible Print Drivers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-roadmap-to-acquiring-perfect-copyright-free-photos/"><u>[New] 2024 Approved The Roadmap to Acquiring Perfect, Copyright-Free Photos</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-hp-printer-driver-is-unavailable-on-windows-1110/"><u>[Solved] HP Printer Driver Is Unavailable on Windows 11/10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/jpegmtsmp4/"><u>「JPEG画像から動画形式への変換法：MTSファイルをMP4へ」</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/mp3/"><u>網路上任何影片 MP3 格式免費轉換工具列表</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canon-pixma-mp620-searching-for-driver-on-win11/"><u>Canon Pixma MP620: Searching for Driver on Win11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/navigating-the-complexities-of-gaming-recordings-with-obs/"><u>Navigating the Complexities of Gaming Recordings with OBS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-printer-connection-remedy/"><u>Quick Printer Connection Remedy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-ai-art-dall-e-3s-new-editing-features-room-for-improvement/"><u>Revolutionizing AI Art: DALL-E 3'S New Editing Features - Room for Improvement?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/speedy-clearance-of-stalled-print-queue/"><u>Speedy Clearance of Stalled Print Queue</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-faster-periscope-streams-for-2024/"><u>The Ultimate Guide Faster Periscope Streams for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-hardware-hub-in-depth-insights-and-comparisons/"><u>Tom's Computer Hardware Hub: In-Depth Insights and Comparisons</u></a></li>
+<li><a href="https://driver-download.techidaily.com/windows-11-optimized-nvidia-geforce-rtx-3060-ti-driver-software-immediate-download/"><u>Windows 11-Optimized NVIDIA GeForce RTX 3060 Ti Driver Software [Immediate Download]</u></a></li>
 </ul></div>
 

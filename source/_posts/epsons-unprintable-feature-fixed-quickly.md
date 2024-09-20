@@ -1,7 +1,7 @@
 ---
 title: Epson's Unprintable Feature Fixed Quickly
-date: 2024-09-07T16:55:15.687Z
-updated: 2024-09-14T19:05:41.518Z
+date: 2024-09-16T19:38:39.051Z
+updated: 2024-09-20T00:06:26.558Z
 tags:
   - win11
   - win10
@@ -95,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 4: Check the Print Spooler service
 
  The Print Spooler service on your computer manages your print jobs and the communication between your printer and your computer. Your Epson printer can’t work properly if this service is turned off. You should check the service to see if it is running properly.
@@ -106,14 +113,22 @@ To check this service:
 2. Double-click**Print Spooler** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f29629de1e9.jpg)
 3. Make sure its Startup type is set to**Automatic** and its Service status is**Running** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f299190ca46.png)
 4. If not, set its Startup type to**Automatic** , and click the**Start** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f2984ab53d0.png)
@@ -137,16 +152,10 @@ To clear your print jobs:
 2. Double click**Print Spooler** .  
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f29629de1e9.jpg)
@@ -156,32 +165,20 @@ To clear your print jobs:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f2a36c12e67.jpg)
 5. Copy and paste the address**`%windir%\System32\spool\PRINTERS`** to the address bar and press**Enter** on your keyboard to go to where the print jobs are stored.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f2a48b237b4.jpg)
 6. Delete all the files in this folder.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f2ab14ccc48.jpg)
 7. Restore the Services window. Then double click the**Print Spooler** service.  
-![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f29629de1e9.jpg)
-8. Click the**Start** button. After the service is started, click**OK** to save the change and close this dialog.  
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f29629de1e9.jpg)
+8. Click the**Start** button. After the service is started, click**OK** to save the change and close this dialog.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f2a9e345daa.png)
 9. Close all the opened windows and turn off your computer.
@@ -189,19 +186,6 @@ To clear your print jobs:
 11. Leave your printer for at least one minute.
 12. Plug the power cable to your printer and turn it on.
 13. Turn on your computer. Then check to see if your Epson printer is able to print.
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 6: Use another program to print your document
 
@@ -234,20 +218,16 @@ To clear your print jobs:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-unlocking-the-power-of-closing-credits-on-vimeo-videos/"><u>[New] 2024 Approved Unlocking the Power of Closing Credits on Vimeo Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-guide-to-the-lg-bp350-visual-experience/"><u>[New] Ultimate Guide to the LG BP350 Visual Experience</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-explore-gbs-best-in-class-emulation-software-for-pc-users/"><u>[Updated] 2024 Approved Explore GB's Best in Class Emulation Software for PC Users</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-how-to-use-snap-camera-for-microsoft-teams/"><u>[Updated] 2024 Approved How to Use Snap Camera for Microsoft Teams</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-altering-visuals-in-teams-calls-timely-setup-adjustments-for-2024/"><u>[Updated] Altering Visuals in Teams Calls Timely Setup Adjustments for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-enhancing-imagery-a-step-by-step-guide-to-crop-videos-on-instagram-for-2024/"><u>[Updated] Enhancing Imagery A Step-by-Step Guide to Crop Videos on Instagram for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/bypass-printer-job-queue-delay-instantly/"><u>Bypass Printer Job Queue Delay Instantly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-methods-for-configuring-a-linux-swap-partition/"><u>Easy Methods for Configuring a Linux Swap Partition</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhanced-reliability-msi-boards-now-aligned-with-intel-i9-power-recommendations-to-combat-crashing-issues-during-ongoing-investigations/"><u>Enhanced Reliability: MSI Boards Now Aligned with Intel I9 Power Recommendations to Combat Crashing Issues During Ongoing Investigations</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-oneplus-ace-2-pro-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For OnePlus Ace 2 Pro Phones</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/laptop-meets-printing-unlocking-potential-with-3-fixes-for-hp/"><u>Laptop Meets Printing: Unlocking Potential with 3 Fixes for HP</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/no-access-to-domain-services-printer-not-responding/"><u>No Access To Domain Services, Printer Not Responding</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reactivating-online-status-of-windowshp-multi-function/"><u>Reactivating Online Status of Windows/HP Multi-Function</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/repairing-unresponsive-printers/"><u>Repairing Unresponsive Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revolutionizing-workspace-setup-with-easy-fixes-for-print-laptop-linkage/"><u>Revolutionizing Workspace Setup with Easy Fixes for Print-Laptop Linkage</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-digital-diaries-top-picks-for-personal-recorders/"><u>[New] 2024 Approved Digital Diaries Top Picks for Personal Recorders</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/asy-steps-to-youtubing-prosperity-channel-size-not-a-barrier/"><u>[New] Easy Steps to Youtubing Prosperity Channel Size Not a Barrier</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-innovative-approaches-to-video-voiceover-integration/"><u>[New] In 2024, Innovative Approaches to Video Voiceover Integration</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-beyond-advertisements-a-direct-look-at-recordcast/"><u>[Updated] Beyond Advertisements A Direct Look at RecordCast</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-websites-for-downloading-snapchat-ringtone/"><u>Best Websites For Downloading Snapchat Ringtone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-issues-how-to-stop-dirt-5-from-crashing-on-your-computer/"><u>Fixing Issues: How to Stop Dirt 5 From Crashing on Your Computer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-visuals-galore-top-10-sites-to-explore-for-2024/"><u>Free Visuals Galore – Top 10 Sites to Explore for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hardware-issue-hp-printer-not-recognized-by-os/"><u>Hardware Issue: HP Printer Not Recognized by OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-printer-network-failure/"><u>Resolved Printer Network Failure</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/mline-your-content-on-youtube-a-detailed-tutorial-for-2024/"><u>Streamline Your Content on YouTube A Detailed Tutorial for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unlocking-the-full-potential-of-hp-printers-in-windows/"><u>Unlocking the Full Potential of HP Printers in Windows</u></a></li>
 </ul></div>
 

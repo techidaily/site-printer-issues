@@ -1,7 +1,7 @@
 ---
 title: HP Printer Blank Page Problem Solved
-date: 2024-09-13T04:15:46.391Z
-updated: 2024-09-14T18:13:14.146Z
+date: 2024-09-14T17:26:09.672Z
+updated: 2024-09-19T20:29:41.407Z
 tags:
   - win11
   - win10
@@ -109,19 +109,6 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-841.png)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the printer driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -156,6 +143,13 @@ If your issue persists, then move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-843.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click**Use a printer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-844.png)
@@ -173,13 +167,6 @@ If your issue persists, then move on and try the fix below.
 **1)** On your keyboard, press the**Windows logo** key and type**troubleshooting** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-846.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Select**Troubleshooting settings** .
 
@@ -237,13 +224,6 @@ If your problem persists, don’t worry. There is 1 more fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-859.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Go to**C:\\Windows\\System32\\spool\\PRINTERS:**
 
  If you’re prompted about permissions, click**Continue** .
@@ -251,29 +231,44 @@ If your problem persists, don’t worry. There is 1 more fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-860.png)
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **7)** Delete all files in this folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/delete-files.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **8)** On your keyboard, press the**Windows logo** key and type**services.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-862.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **9)** Select**Services** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/service.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **10)** Double-click**Printer Spooler**
 
@@ -282,13 +277,6 @@ If your problem persists, don’t worry. There is 1 more fix to try.
 **11)** Click**Start** . Then, make sure the**Startup type** is set to**Automatic** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-865.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **12)** Try printing a page to test your issue.
 
@@ -317,20 +305,18 @@ If your problem persists, don’t worry. There is 1 more fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/levating-engagement-strategic-use-of-youtube-titles/"><u>[New] Elevating Engagement Strategic Use of Youtube Titles</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-from-idea-to-execution-making-memorable-fb-videos/"><u>[New] From Idea to Execution Making Memorable FB Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-grandest-clash-of-titans-a-compilation-of-the-top-7-total-war-skirmishes/"><u>[Updated] Grandest Clash of Titans A Compilation of the Top 7 Total War Skirmishes</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/iuwlleeuupluswmluobruajiplusmghjrpq5jlk4hos6rjg5pjg4fjgqrjgbjjga7lpinmj5vmlrnms5ui/"><u>動画化の手順:高品質ビデオへの変換方法</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enable-scanner-activation-after-updating-win10/"><u>Enable Scanner Activation After Updating Win10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enabling-easy-wi-fi-connectivity-for-canon/"><u>Enabling Easy Wi-Fi Connectivity for Canon</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-apple-iphone-13-mini-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From Apple iPhone 13 mini without Password?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-samsung-galaxy-a05-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Samsung Galaxy A05 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/immediate-resumption-of-prints/"><u>Immediate Resumption of Prints</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/navigating-through-pcl-xl-errors-with-ease/"><u>Navigating Through PCL XL Errors with Ease</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/repaired-printer-error-after-windows-11-update/"><u>Repaired: Printer Error After Windows 11 Update</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solidify-printing-integrity-fixing-issues-on-win10/"><u>Solidify Printing Integrity, Fixing Issues on Win10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/transform-printing-experience-hp-officejets-newest-software-update/"><u>Transform Printing Experience: HP Officejet's Newest Software Update</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/ultimate-guide-to-improve-your-videos-with-winxvideo-ai-expert-tips-on-audio-removal-editing-and-format-conversions/"><u>Ultimate Guide to Improve Your Videos with Winxvideo AI – Expert Tips on Audio Removal, Editing & Format Conversions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-the-potential-of-your-apple-tv-with-vlc-how-to-play-various-formats/"><u>Unlock the Potential of Your Apple TV with VLC - How to Play Various Formats</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/compatibility-canon-pixma-mp620-and-windows-11-clash/"><u>[Compatibility] Canon Pixma MP620 and Windows 11 Clash</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonizing-visuals-and-soundtracks-with-youtubes-video-editor-for-2024/"><u>[Updated] Harmonizing Visuals & Soundtracks with YouTube's Video Editor for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-cross-platform-connections-effortless-insta-facebook-linkup/"><u>[Updated] In 2024, Cross-Platform Connections Effortless Insta-Facebook Linkup</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-financial-magnitude-in-mr-beasts-realm/"><u>2024 Approved Financial Magnitude in Mr. Beast's Realm</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-tutorial-how-to-disable-the-keyboard-shortcut-extension-sticky-keys-in-windows/"><u>A Comprehensive Tutorial: How to Disable the Keyboard Shortcut Extension, Sticky Keys in Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/essential-guide-to-stopping-repeated-spooler-halt-in-windows/"><u>Essential Guide to Stopping Repeated Spooler Halt in Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-swiftrecord-the-quick-windows-11-recorder/"><u>In 2024, SwiftRecord - The Quick Windows 11 Recorder</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-the-full-spectrum-of-toolwiz-apps-capabilities-2023-for-2024/"><u>In Depth The Full Spectrum of Toolwiz App's Capabilities, 2023 for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/navigating-orientation-options-for-facebook-videos/"><u>Navigating Orientation Options for Facebook Videos</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-skips-colored-pages/"><u>Printer Skips Colored Pages</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-connect-protocol-printer-online/"><u>Quick Connect Protocol: Printer Online</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-issue-of-logitech-gaming-application-not-launching-properly/"><u>Solving the Issue of Logitech Gaming Application Not Launching Properly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/winning-against-the-new-windows-printing-issue/"><u>Winning Against the New Windows Printing Issue</u></a></li>
 </ul></div>
 
