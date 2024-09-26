@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Non-Printing Brother Printer in Windows OSes
-date: 2024-09-17T21:50:34.965Z
-updated: 2024-09-20T01:47:23.566Z
+date: 2024-09-21T00:31:22.881Z
+updated: 2024-09-25T16:27:46.052Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 
  If you connect the printer to your computer via a USB cable, simply re-plug it and also try another USB port on your computer in case the one you previously used is broken.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### If you’re using a wireless printer
 
  For users with a wireless Brother printer, it’s essential to confirm the printer and computer are on the same Wi-Fi network.
@@ -64,11 +71,39 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 2. Select**Small icons** from the drop-down menu next to**View by** . Then, click**Devices and Printers** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/2-2-2.jpg)
 3. Right-click your**Brother printer** and click**Set as default printer** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/2-4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now do some prints to test if this method helps. If yes, then congrats! If not, there’re more fixes to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3 – Restart the Print Spooler service
 
@@ -81,28 +116,35 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/3-2.jpg)
 3. After the Print Spooler service is restarted, right-click**Print Spooler** again and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/3-3-2.jpg)
 4. Set the**Startup type** to**Automatic** . Then, click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/3-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now see if your Brother printer returns to normal and acts the way it should. If the same problem occurs, the culprit may be your printer driver, and please check out Fix 4.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4 – Update your printer driver
 
@@ -113,6 +155,19 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
  Brother keeps updating drivers for its printers. You can search for the latest driver on **[Brother’s support website](https://support.brother.com/g/b/productsearch.aspx?c=us%5Fot&lang=en&content=dl)**  , find the one corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download it.
 
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2 – Automatically update the printer driver
 
@@ -151,22 +206,8 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/4-3-3.jpg)
 5. Delete all the files in that folder.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Re-open the Services window. Then, click**Print Spooler** and click**Start** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/4-5-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After you finish the steps above, restart your PC for the changes to take effect. Then, test if your Brother printer works as intended. If not, try the next fix.
 
@@ -184,13 +225,6 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -231,5 +265,26 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-pro-streamers-list-5-innovative-webcams-for-gamers/"><u>[New] Pro Streamer's List 5 Innovative Webcams for Gamers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshoot-print-service-non-functioning-windows/"><u>[TROUBLESHOOT] Print Service Non-Functioning Windows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-ready-set-edit-top-15-fast-and-fun-tricks-to-use-in-pixlr/"><u>2024 Approved Ready, Set, Edit! Top 15 Fast and Fun Tricks to Use in Pixlr</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convenient-ways-downloading-setting-up-and-running-msix-extensions-on-windows/"><u>Convenient Ways: Downloading, Setting Up & Running MSIX Extensions on Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-for-post-update-printer-failure/"><u>Fix for Post-Update Printer Failure</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-tecno-spark-10-4g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Tecno Spark 10 4G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-xr21-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from XR21?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-guiding-users-on-completely-audible-fb-videos/"><u>In 2024, Guiding Users on Completely Audible FB Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-ideal-screen-capture-device-for-effective-video-sharing/"><u>In 2024, Ideal Screen Capture Device for Effective Video Sharing</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printers-colored-output-not-rendered/"><u>Printer's Colored Output Not Rendered</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resetting-scanner-activation-on-windows-10-system/"><u>Resetting Scanner Activation on Windows 10 System</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/service-not-active-local-printer-spooler/"><u>Service Not Active: Local Printer Spooler</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/silencing-the-silent-printouts-in-your-device/"><u>Silencing the Silent Printouts in Your Device</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/step-by-step-guide-to-installing-hp-envy-504-printers/"><u>Step-by-Step Guide to Installing HP Envy 504 Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/step-by-step-incorporating-hp-printer-in-pc-network/"><u>Step-by-Step: Incorporating HP Printer in PC Network</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-xiaomi-redmi-a2-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Xiaomi Redmi A2 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-driver-errors-in-windows-systems-11-8-7-steps-to-solve/"><u>Troubleshooting Driver Errors in Windows Systems (11, 8, 7) – Steps to Solve</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-restored-scan-operation/"><u>Windows 11: Restored Scan Operation</u></a></li>
+</ul></div>
 

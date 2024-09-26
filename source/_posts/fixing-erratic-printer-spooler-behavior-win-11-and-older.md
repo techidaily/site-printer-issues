@@ -1,7 +1,7 @@
 ---
 title: Fixing Erratic Printer Spooler Behavior (Win 11 & Older)
-date: 2024-09-16T06:35:39.981Z
-updated: 2024-09-19T22:15:40.165Z
+date: 2024-09-19T00:06:41.613Z
+updated: 2024-09-26T01:43:24.046Z
 tags:
   - win11
   - win10
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 
 4) Check to see if your printer works.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Check if the Print Spooler service is set to Automatic
 
  If the print spooler service isn’t set to automatic, it won’t turn on when Windows starts, and your printer won’t work until you manually start the service.
@@ -67,35 +60,29 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a50a818f88a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Right-click **Print Spooler** , then click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a54177dc82e.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Make sure Startup type is set to **Automatic**  , then click**Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a51825cb795.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Check to see if your printer works.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Change the Print Spooler Recovery options
 
@@ -109,13 +96,6 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a50a818f88a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click **Print Spooler** , then click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a54177dc82e.jpg)
@@ -123,6 +103,13 @@ To set it to auto:
  4) Click **Recovery** , ensure all **three** **failure fields** are set to **Restart the Service**  and click**Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a51c37d1a84.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Check to see if your printer works.  
 
@@ -140,9 +127,23 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a5269d7216e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**—** to minimize the Services window:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/minimize.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) On your keyboard, press the   **Windows logo key**  and **E**  at the same time to open Windows File Explorer.  
 
@@ -150,11 +151,25 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/PRINTERS.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re prompted about permission, click **Continue** .
 
  7)**Delete all the files** in PRINTERS folder.You should then see **This folder is empty** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/empty.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 8) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run box.
 
@@ -182,13 +197,6 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/PRINTERS-ICON.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  15) **Right-click on the blank area** and click **Add a printer**  , then follow the on-screen instructions to re-add your printer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a542a63d1d0.png)
@@ -208,6 +216,13 @@ To set it to auto:
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975af310cda9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Click the **Update**  button next to a flagged printer driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
@@ -232,5 +247,22 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-rapidrecord-fullscreen-feature/"><u>[Updated] 2024 Approved RapidRecord Fullscreen Feature</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-realizing-dreamscapes-picks-of-the-best-tools-for-animation-artists/"><u>[Updated] Realizing Dreamscapes Picks of the Best Tools for Animation Artists</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-latest-screens-recording-revelation-by-apeaksoft-2023-for-2024/"><u>[Updated] The Latest Screens Recording Revelation by Apeaksoft, 2023 for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-under-the-waves-best-practices-in-underwater-filming-with-a-gopro-for-2024/"><u>[Updated] Under the Waves Best Practices in Underwater Filming with a GoPro for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/conquering-printer-malfunction-after-win-10-fixes/"><u>Conquering Printer Malfunction After Win 10 Fixes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/exiting-loop-hp-printer-no-longer-suffering-from-ghosts/"><u>Exiting Loop: HP Printer No Longer Suffering From Ghosts</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-the-no-content-print-jobs-on-an-epson-device/"><u>Fixing the 'No Content' Print Jobs on an Epson Device</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-unavailable-printer-network-status/"><u>Fixing Unavailable Printer Network Status</u></a></li>
+<li><a href="https://program-issues.techidaily.com/getting-your-hands-on-doom-eternal-despite-potential-postponement-fixes/"><u>Getting Your Hands on DOOM Eternal Despite Potential Postponement Fixes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-or-update-the-canon-mg3000-printing-drivers-efficiently/"><u>How to Install or Update the Canon MG3000 Printing Drivers Efficiently</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mf4770n-drivers-rollout-on-multiple-windows-versions/"><u>MF4770n Drivers Rollout on Multiple Windows Versions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-samsung-cartridge-issues/"><u>Overcoming Samsung Cartridge Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-remedies-for-recurring-printer-errors-on-windows-systems/"><u>Quick Remedies for Recurring Printer Errors on Windows Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168136117-relive-your-favorite-xbox-moments-emulate-today/"><u>Relive Your Favorite Xbox Moments: Emulate Today!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
+</ul></div>
 

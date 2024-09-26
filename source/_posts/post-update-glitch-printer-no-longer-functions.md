@@ -1,7 +1,7 @@
 ---
 title: "Post-Update Glitch: Printer No Longer Functions"
-date: 2024-09-15T08:04:04.906Z
-updated: 2024-09-19T20:43:51.964Z
+date: 2024-09-20T10:21:35.352Z
+updated: 2024-09-25T22:14:08.188Z
 tags:
   - win11
   - win10
@@ -88,27 +88,20 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-193.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the**Services** window, scroll down until you find**Print Spooler** , then right-click on it and click**Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-194.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) On your keyboard, press the**Windows logo key** and**R** at the same time, then type**%WINDIR%\\system32\\spool\\printers** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-195.png)
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Select**all the files** within the folder and_delete_ them. This is to clear the print queues.
 
@@ -117,10 +110,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-197.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Click**Start** , then in**Startup** **Type** , select**Automatic** and click**OK** to save the changes.
@@ -132,10 +125,10 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Run Windows Troubleshooter
@@ -146,9 +139,23 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-208.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the**Troubleshoot** window, scroll down to the**Get up and running** section, click on**Printer** \>**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-209.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Wait for Windows to diagnose the problem and follow the on-screen instructions to resolve the printing not working situation.
 
@@ -171,5 +178,17 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/updated-launch-your-wealth-journey-on-periscope-platform/"><u>[Updated] Launch Your Wealth Journey on Periscope Platform</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-making-the-most-of-both-worlds-tweeting-and-sending-videos-with-whatsapp/"><u>2024 Approved Making the Most of Both Worlds Tweeting & Sending Videos with WhatsApp</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-the-printing-glitch-error-0x00000709-resolved/"><u>Fixed the Printing Glitch - Error 0X00000709 Resolved</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-update-oculus-graphics-drivers-for-optimal-performance/"><u>How to Update Oculus Graphics Drivers for Optimal Performance</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mfc-9330-installation-made-simple/"><u>MFC-9330 Installation Made Simple</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-no-response-issues-with-hp-printers/"><u>Overcoming No Response Issues with HP Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-issue-code-b200/"><u>Resolved Issue Code B200</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/speedy-view-of-vimeo-videos/"><u>Speedy View of Vimeo Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-windows-event-viewer-fixes/"><u>Strategies for Windows Event Viewer Fixes</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-get-creative-top-free-mobile-apps-for-adding-video-special-effects/"><u>Updated In 2024, Get Creative Top Free Mobile Apps for Adding Video Special Effects</u></a></li>
+</ul></div>
 

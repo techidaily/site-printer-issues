@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Dying Light Analysis: Engaging Co-Op Action in a FPS World of Parkour and Struggle"
-date: 2024-09-16T02:45:42.221Z
-updated: 2024-09-19T17:03:36.660Z
+date: 2024-09-24T04:18:33.554Z
+updated: 2024-09-25T18:20:23.670Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Dying Light Analysis: Engaging Co-Op Action in a FPS World of Parkour and Struggle"
@@ -75,6 +75,13 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/c10USyUEVgaFrdeWRUBgX6MNpOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_05-7314cf2ae25a4f428d93f40cc56fb5d1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Jeremy Laukkonen
 
  The Luna app, both the Fire TV version and the web app version, is well-designed enough, without a whole lot to really stand out or impress. It functions as a basic interface to access all of the games that the service offers, including a Home screen that highlights games in various categories, a Library screen that lists every available game, and a Playlist page that provides easy access to games you have specifically chosen to place there.
@@ -105,18 +112,18 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/6427gP-MSnqe4st8hfuI-7yxlos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_03-f12a92bc606e43caa77b445a2fdcf1c1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Jeremy Laukkonen
 
  If you do opt to link your controller to your Amazon account when you buy it, and you already own other Amazon devices like[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) that are connected to your Wi-Fi connection, then you can take advantage of Amazon’s Wi-Fi simple setup that shaves some time off the setup process. Otherwise, you just use the Luna controller app on your Android or iPhone to hook the controller up to Wi-Fi.
 
  After the initial setup process, your Luna controller is ready to go regardless of platform. Power on the controller, launch the Luna app or website, and everything automatically connects without any additional work or input.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Performance: Impressive game streaming, but no 4K
 
@@ -138,6 +145,13 @@ Lifewire / Jeremy Laukkonen
 
  If you have a slow internet connection or suffer from poor connectivity, then it’s likely that the brief issues I experienced could be amplified to an unacceptable point. If you have a decent connection, live closer to a major metropolitan area than I do, and have more than 10Mbps of downstream bandwidth available, the service should work just fine.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Software: Dozens of games, but the library is a bit thin with a lot of holes
 
  Luna’s biggest issue, and its biggest question mark going forward, is its streaming library. Amazon is taking a page from Microsoft’s book in that they’re trying to function as a Netflix of game streaming, but Amazon just doesn’t have the same deep library as Microsoft.
@@ -150,31 +164,24 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/NBB1N6qtwbtdjrUgwr1YaBaTuBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_02-37837bf860d244d3ab11ff01f37c609c-db472e204ada4ccca88e7510eacfae34.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Jeremy Laukkonen
 
  For some reason, the fighting category is populated by titles like the rogue-like shooter Everspace and the co-op brawler River City Girls. No actual fighting games, though. The horror category was empty until Amazon scored Resident Evil 7 Gold Edition and also saddled gorefest pixel art platformer Valfaris with the horror tag.
 
  It’s clear that Amazon is working to bring a nice mix of games to the service, but the depth and breadth of the titles you can access with a basic subscription remain the biggest question as Luna moves through beta and toward general launch.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Price: Affordable fee reflects the thin library
 
  Luna comes with a price tag of $4.95 per month during the beta period, with the insinuation that it will increase later on. It’s uncertain as to whether or not the price will actually go up, but right now it’s a pretty good deal. The only real caveat is that the attractive price tag is balanced by a somewhat thin library. Go ahead and check the library before you sign up. If you see more than a handful of games you’re interested in, then Luna is absolutely worth the price of admission.
 
  The Luna controller has a heftier price tag of $50, but that’s actually pretty reasonable if you compare it to other wireless controllers. It’s cheaper than a lot of the other options, and you can use it via Wi-Fi with Luna, or via Bluetooth or USB-C to play non-Luna games on your PC. All in all, it’s a good controller that’s priced competitively.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Amazon Luna vs. Microsoft Game Pass Ultimate
 
@@ -193,6 +200,13 @@ Lifewire / Jeremy Laukkonen
 **A solid game streaming service.**
 
  Amazon Luna is an impressive game streaming service that works surprisingly well whether or not you buy the optional controller. It isn’t perfect, and you’re likely to experience hiccups here and there, but it’s an extremely affordable way to experience dozens of games, many of which would otherwise require an expensive gaming PC or console, without any kind of initial investment. The future of the service remains uncertain, and the precedent of locking Ubisoft games behind an expensive additional paywall isn’t a great sign, but Amazon has a chance to make a real splash in the gaming world with Luna.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -228,5 +242,24 @@ Lifewire / Jeremy Laukkonen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ideo-enhanced-slideshow-mastery-with-youtube-for-2024/"><u>[New] Video-Enhanced Slideshow Mastery with YouTube for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-webinar-playback-recordings/"><u>[Updated] In 2024, Webinar Playback Recordings</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/code-b200-debugged-successfully/"><u>Code B200 Debugged Successfully</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/cure-non-engagement-in-older-windows-versions-printers/"><u>Cure Non-Engagement in Older Windows Versions' Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/disabling-scanner-error-cleared-in-win11/"><u>Disabling Scanner Error Cleared in Win11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/from-silence-to-service-restoring-online-status-in-printer/"><u>From Silence to Service: Restoring Online Status in Printer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mobile-masterpieces-the-ultimate-list-of-facial-enhancers-iosandroid/"><u>In 2024, Mobile Masterpieces The Ultimate List of Facial Enhancers (iOS/Android)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-picture-in-picture-features-in-firefox/"><u>In 2024, Navigating Picture-in-Picture Features in Firefox</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/maximize-printer-potential-with-hp-inkjet-updates/"><u>Maximize Printer Potential with HP Inkjet Updates</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-printer-connected-successfully/"><u>Resolved: PRINTER Connected Successfully</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/setting-up-your-hp-laserjet-remote-connection/"><u>Setting Up Your HP LaserJet Remote Connection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-best-fixes-for-frozen-taskbar-in-windows-10-step-by-step-solutions/"><u>The Best Fixes for Frozen Taskbar in Windows 10: Step-by-Step Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-comfort-discover-the-new-ios-18-feature-that-eases-motion-sickness-on-your-device/"><u>Unlocking Comfort: Discover the New iOS 18 Feature That Eases Motion Sickness on Your Device</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/upgrade-and-secure-printer-communication-in-win10/"><u>Upgrade and Secure Printer Communication in Win10</u></a></li>
+</ul></div>
 

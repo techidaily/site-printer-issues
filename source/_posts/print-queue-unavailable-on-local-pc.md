@@ -1,7 +1,7 @@
 ---
 title: Print Queue Unavailable on Local PC
-date: 2024-09-12T23:03:49.007Z
-updated: 2024-09-20T04:46:08.473Z
+date: 2024-09-22T08:05:54.770Z
+updated: 2024-09-25T19:00:56.905Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/876b4cf01691e6a76beb54576565375ccfec6aaf5
 4. [**Install all Windows updates**](#fix4)
 5. **[Check for corrupted system files](#fix5)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1:**Reconfigure the printer service**
 
  First you can start by troubleshooting settings of services. By default the Print Spooler service runs automatically, but you should check to**make sure everything is configured properly** .
@@ -37,10 +44,40 @@ thumbnail: https://thmb.techidaily.com/876b4cf01691e6a76beb54576565375ccfec6aaf5
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to open the Run box. Type or paste**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/services-msc.jpg)
 2. Right click**Print Spooler** and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/print-spooler-services-properties.jpg)
 3. Make sure**Startup type** is set to**Automatic** . You can also try to manually start the service by clicking**Start** .  
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/print-spooler-services-properties-2.jpg)
 4. Navigate to the**Recovery** tab. Make sure**First failure** and**Second failure** are set to**Restart the Service** ,**Reset fail count after** is set to**1** days,**Restart service** after**1** minutes. Once completed, click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/print-spooler-services-properties-3.jpg)
 5. Restart your PC and check if the Print Spooler service is up and running. If you have access to the printer, give it a reboot as well.
 
@@ -53,11 +90,26 @@ If the error persists, you can check out the next fix.
 1. On your keyboard, press**Win+I** (the Windows logo key and the I key) to open**Windows Settings** . Select**Update & Security.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/update-and-security.png)
 2. On the left pane, select**Troubleshoot** . Click**Additional troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Select**Printer** . Then follow the on-screen instructions to troubleshoot.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/troubleshooter-printer.jpg)
 
  If the troubleshooter can’t help you fix the issue, take a look at the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3:**Reinstall your printer driver**
 
@@ -67,34 +119,20 @@ If the error persists, you can check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/just-a-run-box.jpg)
 2. Type or paste**devmgmt.msc** . Then click**OK** to open Device Manager.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/device-manager-run-box-ok.jpg)
 3. Click to expand the**Print queues** category. Right-click your printer and select**Uninstall device** . (If you can’t find your printer in Device Manager, you can [download Driver Easy](https://tools.techidaily.com/drivereasy/download/) to scan for missing drivers.)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/device-manager-reinstall-printer-02.jpg)
 4. Click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/device-manager-reinstall-printer-03.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Usually Windows will install the missing printer driver automatically after a reboot. But if it doesn’t, you need to go to**your printer manufacturer’s website** and search for your printer model. Be sure to download the latest correct driver installer that’s compatible with your system. If you’re not familiar with computer drivers, you can use [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) to**repair and update drivers automatically** .
 
@@ -113,10 +151,10 @@ If the error persists, you can check out the next fix.
  If the latest driver doesn’t give you luck, simply move on to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4:**Install all Windows updates**
@@ -129,13 +167,6 @@ If the error persists, you can check out the next fix.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
@@ -174,5 +205,22 @@ If the error persists, you can check out the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://printer-issues.techidaily.com/issue-missing-printer-driver-in-win/"><u>[ISSUE] Missing Printer Driver in Win</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-elevate-engagement-crafting-effective-youtube-shorts/"><u>[New] 2024 Approved Elevate Engagement Crafting Effective YouTube Shorts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-supercharge-view-counts-through-strategic-video-time-stamping/"><u>[New] 2024 Approved Supercharge View Counts Through Strategic Video Time-Stamping</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-demystifying-twitters-ad-formats-and-targeting-options-for-2024/"><u>[New] Demystifying Twitter's Ad Formats and Targeting Options for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-tips-for-effective-tripod-usage-in-video-blogging/"><u>[New] Tips for Effective Tripod Usage in Video Blogging</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-canon-pixma-mp620-printer-driver-not-found-on-windows-11/"><u>[Solved] Canon Pixma MP620 Printer Driver Not Found on Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-explore-the-top-7-innovative-apps-for-effortless-youtube-live-broadcasts-on-iphone-and-android/"><u>[Updated] In 2024, Explore the Top 7 Innovative Apps for Effortless YouTube LIVE Broadcasts on iPhone and Android</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/annual-highlights-ultimate-free-lut-download-guide/"><u>Annual Highlights Ultimate Free LUT Download Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/connection-guide-integrating-hp-printer-with-pc-network/"><u>Connection Guide: Integrating HP Printer with PC Network</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/corrective-measures-in-place-for-hp-printers-blanks/"><u>Corrective Measures in Place for HP Printer's Blanks</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/dealing-with-sudden-printer-shutdowns/"><u>Dealing with Sudden Printer Shutdowns</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-discovering-the-magic-behind-youtube-shorts/"><u>In 2024, Discovering the Magic Behind Youtube Shorts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-lava-yuva-2-pro-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Lava Yuva 2 Pro Pattern Lock Screen</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mastering-the-canon-wi-fi-connection-process/"><u>Mastering the Canon-Wi-Fi Connection Process</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/zeroing-out-error-0x97-in-epson-units/"><u>Zeroing Out Error 0X97 in Epson Units</u></a></li>
+</ul></div>
 

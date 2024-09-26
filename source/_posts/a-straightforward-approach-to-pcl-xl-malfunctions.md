@@ -1,7 +1,7 @@
 ---
 title: A Straightforward Approach to PCL XL Malfunctions
-date: 2024-09-12T22:45:40.261Z
-updated: 2024-09-20T04:19:13.421Z
+date: 2024-09-23T22:44:47.990Z
+updated: 2024-09-25T23:11:57.833Z
 tags:
   - win11
   - win10
@@ -30,6 +30,19 @@ thumbnail: https://thmb.techidaily.com/61cd3f9de3e328bf4fd572ae53f8d259727451f01
 2. [Update your printer driver](#F2)
 3. [Change your printing settings](#F3)
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Rename the files related with your printer
 
  This method works like a trick and it hopefully resolves your PCL XL Error in your printer. Follow these steps:
@@ -40,6 +53,20 @@ thumbnail: https://thmb.techidaily.com/61cd3f9de3e328bf4fd572ae53f8d259727451f01
 3. Under this folder, filter the file type with the**.gpd** extension by clicking**down** **arrow** next to **Type** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bed334e2a0ed.jpg)
 4. Choose **GPD File** .  
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bed33aa730e5.jpg)
 5. Rename all these files with**.gpd** extension to whatever you want. Before renaming these files, it’s recommended to backup first.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bed49e548eff.jpg)
@@ -66,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/61cd3f9de3e328bf4fd572ae53f8d259727451f01
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap89.png)
 3. Click the**Update** button next to your device to automatically download the latest drivers (you can do this with the**FREE** version). Then install the drivers in your computer.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap90.png)
 4. Restart your computer to take effect.
@@ -80,41 +114,28 @@ thumbnail: https://thmb.techidaily.com/61cd3f9de3e328bf4fd572ae53f8d259727451f01
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bed34a362e86.jpg)
 2. Click**Devices and Printers** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bed49a022ad1.jpg)
 3. Right click on your printer that is having the PCL XL Error, and select**Printing preferences** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bed4a5a07580.jpg)
 4. Click the**Advanced** tab.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bed4a88c6584.jpg)
 5. Change**TrueType Font** to**Download** **as** **Softfont** , and set**Send True Type as Bitmap** to**Enabled** .  
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bed4abcdd53f.jpg)
 6. Click**Apply** and**OK** to save the changes.  
@@ -139,5 +160,26 @@ thumbnail: https://thmb.techidaily.com/61cd3f9de3e328bf4fd572ae53f8d259727451f01
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-optimal-gameplayers-for-your-androids-gb-games/"><u>[New] In 2024, Optimal GamePlayers for Your Android's GB Games</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-your-creative-potential-with-inshot-for-pcs-and-laptops/"><u>[Updated] Unlock Your Creative Potential with Inshot for PCs & Laptops</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-issue-mp620-driver-not-detected/"><u>[Windows Issue] MP620 Driver Not Detected</u></a></li>
+<li><a href="https://fox-access.techidaily.com/advanced-techniques-for-iphone-hdr-captures/"><u>Advanced Techniques for iPhone HDR Captures</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/diagnosing-faulty-connectivity-in-printers/"><u>Diagnosing Faulty Connectivity in Printers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/effortless-entertainment-free-quality-memes-galore/"><u>Effortless Entertainment FREE, Quality Memes Galore</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/end-of-the-line-for-non-printed-pages/"><u>End of the Line for Non-Printed Pages</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-siblings-printer-remains-unreachable/"><u>Fixing: Sibling's Printer Remains Unreachable</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-set-up-a-canon-printer-a-visual-walkthrough/"><u>How to Set Up a Canon Printer: A Visual Walkthrough</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-officejet-4630-driver-download-and-update/"><u>HP Officejet 4630 Driver Download & Update</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-officejet-pro-8600-printer-manager-for-windows-systems/"><u>HP Officejet Pro 8600 Printer Manager for Windows Systems</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/identifying-your-ideal-video-sharing-app-tiktok-or-youtubes-shorts-in-2024/"><u>Identifying Your Ideal Video Sharing App TikTok or YouTubes' Shorts, In 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oneplus-nord-ce-3-lite-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change OnePlus Nord CE 3 Lite 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/keep-it-running-smoothly-update-dells-inkjet-aio-on-windows-7/"><u>Keep It Running Smoothly: Update Dell's Inkjet AIO on Windows 7</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/leading-alternatives-to-zoom-on-desktops-and-smartphones/"><u>Leading Alternatives to Zoom on Desktops & Smartphones</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-compatibility-windows-11-and-canons-mp620/"><u>Printer Compatibility: Windows 11 and Canon's MP620</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-compatibility-download-logitech-t6vee-drivers-suited-for-win7810/"><u>Seamless Compatibility: Download Logitech T6vee Drivers Suited For Win7/8/10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-top-5-software-solutions-for-playing-amr-audio-files/"><u>The Ultimate Top 5 Software Solutions for Playing AMR Audio Files</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/visual-studio-code-companion-in-depth-walkthrough-for-adding-and-using-codegpt-to-your-projects/"><u>Visual Studio Code Companion: In-Depth Walkthrough for Adding and Using CodeGPT to Your Projects</u></a></li>
+</ul></div>
 

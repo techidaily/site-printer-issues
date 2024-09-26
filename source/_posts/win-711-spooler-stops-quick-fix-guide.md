@@ -1,7 +1,7 @@
 ---
 title: "Win 7/11 Spooler Stops: Quick Fix Guide"
-date: 2024-09-14T08:48:54.681Z
-updated: 2024-09-20T06:38:06.843Z
+date: 2024-09-22T08:13:40.158Z
+updated: 2024-09-25T17:54:42.671Z
 tags:
   - win11
   - win10
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/ef64597bda93820e24d8ab2d0a8cbf446e80301b9
 
  The print spooler is a Windows service that manages all the print jobs you send to your printer. If the service isn’t running, your printer won’t work.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How do I fix print spooler keeps stopping?
 
  Here are 5 solutions you can try to fix this problem. You may not have to try them all; just work your way down the list until you find the one that works.**Note:** The screens shown below are from Windows 10, but all the fixes also apply to Windows 7 too.
@@ -41,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/ef64597bda93820e24d8ab2d0a8cbf446e80301b9
 2) Type **services.msc** and press **Enter** to open the **Services** window:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a50a818f88a.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Print Spooler** , then **Restart** .  
 
@@ -60,29 +74,22 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a50a818f88a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Right-click **Print Spooler** , then click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a54177dc82e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Make sure Startup type is set to **Automatic**  , then click**Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a51825cb795.png)
 
 5) Check to see if your printer works.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Change the Print Spooler Recovery options
 
@@ -100,11 +107,25 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a54177dc82e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click **Recovery** , ensure all **three** **failure fields** are set to **Restart the Service**  and click**Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a51c37d1a84.png)
 
  5) Check to see if your printer works.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Delete your print spooler files
 
@@ -136,18 +157,18 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/empty.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run box.
 
 9) Type control and press**Enter** to open Control Panel:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a53a72eb0b7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  10) On the open window, choose to view by**Catalog** . Then click**View devices and printers** .
 
@@ -157,27 +178,26 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/REMOVE.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  12) Click**Services** icon in your taskbar to return to Services window:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/SETTINGS-WINDOW.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  13) Click on**Print Spooler** then**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a538386c9a4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  14)Click the **Devices and Printers icon**  in your taskbar to return to the Devices and Printers window:
 
@@ -186,6 +206,19 @@ To set it to auto:
  15) **Right-click on the blank area** and click **Add a printer**  , then follow the on-screen instructions to re-add your printer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a542a63d1d0.png)
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 16) Check to see if your printer works.
 
@@ -226,5 +259,17 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-m1-explored-apples-leap-in-computational-innovation/"><u>[Updated] In 2024, M1 Explored Apple's Leap in Computational Innovation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlink-from-youtube-shorts-follow-this-plan/"><u>[Updated] Unlink From YouTube Shorts - Follow This Plan</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guide-joining-officejet-8720-to-home-computers/"><u>Guide: Joining OfficeJet 8720 to Home Computers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-xiaomi-redmi-note-12-pro-4g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Xiaomi Redmi Note 12 Pro 4G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-not-responding-to-color-requests/"><u>Printer Not Responding to Color Requests</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-infinix-hot-40i-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Infinix Hot 40i has been deleted</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/swiftly-reunite-disconnected-printer/"><u>Swiftly Reunite Disconnected Printer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-tecno-pova-6-pro-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Tecno Pova 6 Pro 5G</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-eliminate-sims-4-slow-performance-on-your-computer/"><u>Ultimate Guide: Eliminate Sims 4 Slow Performance on Your Computer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/usb-printer-error-unresponsive-on-win7-restart/"><u>USB Printer Error: Unresponsive on Win7 Restart</u></a></li>
+</ul></div>
 

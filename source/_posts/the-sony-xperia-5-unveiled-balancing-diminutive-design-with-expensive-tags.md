@@ -1,7 +1,7 @@
 ---
 title: "The Sony Xperia 5 Unveiled: Balancing Diminutive Design with Expensive Tags"
-date: 2024-09-16T08:04:22.861Z
-updated: 2024-09-19T21:53:05.681Z
+date: 2024-09-23T05:17:51.106Z
+updated: 2024-09-26T09:04:43.416Z
 categories:
   - BestProducts
 description: "This Article Describes The Sony Xperia 5 Unveiled: Balancing Diminutive Design with Expensive Tags"
@@ -66,6 +66,19 @@ Lifewire / Kelsey Simon
 
  Lifewire / Kelsey Simon
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup Process: Straight into the action**
 
  The first time you launch the game you'll be treated to an artistic video over the background of a news report. It explains the situation in Harran, the city where the game takes place. The game proper starts with a cut scene that shows you on a plane, about to parachute out. There’s no character creation here, although once you get a little further into the game, you’ll be able to pick your clothes.
@@ -75,10 +88,16 @@ Lifewire / Kelsey Simon
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Plot: A character torn between obligation and friendship**
@@ -92,6 +111,13 @@ Harran is a whole different city at night.
  This is a fairly linear game with regards to the plot. There's a main storyline for you to follow, with some optional side quests that you can take or leave. The narrative does a decent job of building up the circumstances for Kyle feeling torn between his mission and these people, and you’ll learn more about the virus as you go, as well as Antizin, the fictional drug that could lead to a cure.
 
 ![Dying Light](https://www.lifewire.com/thmb/8G35q3VsoSEuht_3bqsGm0Pwz-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-7-d9d2bbe8881e476f8dfb3c13059634ed.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -111,13 +137,6 @@ Harran is a whole different city at night.
 
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Graphics: Attention to detail**
 
  The graphics of Dying Light compare well to other triple-A titles, though it feels like the developers took more care with the scenery than the characters. Human models look a little plasticky, but the world around you is textured beautifully and rich with small details like posters and graffiti that help make the world around you feel real.
@@ -129,15 +148,22 @@ Harran is a whole different city at night.
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: Worth the cost, especially with a friend**
 
  On PlayStation 4, you can purchase the game for $14, a fantastic value. You’ll get more than enough gameplay and fun to justify a purchase at that low cost. However, if you want to play on[PC](https://www.lifewire.com/best-desktop-pcs-4045927) , you’ll have to either wait for the game to go on sale, or you’ll have to pay $40\. Considering the game is older now, we’d suggest getting the game on sale (it goes on sale often through Steam). There’s a lot of fun to be had in Dying Light, especially if you have a friend to play with, so if you’re thinking about getting the game, we’d say go for it.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Competition: Other zombie and parkour games**
 
@@ -170,5 +196,23 @@ Harran is a whole different city at night.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-premier-selection-of-11-costless-yt-moniker-makers-for-2024/"><u>[Updated] The Premier Selection of 11 Costless YT Moniker Makers for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-vivo-x-fold-2-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Vivo X Fold 2 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guiding-through-printer-malfunction-fixes/"><u>Guiding Through Printer Malfunction Fixes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12-pro-4g-phone-without-password-by-drfone-android/"><u>How To Unlock Xiaomi Redmi Note 12 Pro 4G Phone Without Password?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-v30-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme V30 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-making-sense-of-virtual-realitys-promise-and-peril/"><u>In 2024, Making Sense of Virtual Reality's Promise and Peril</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-top-6-online-webcam-recorders-2023/"><u>In 2024, Top 6 Online Webcam Recorders 2023</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/never-again-the-end-of-blank-printouts/"><u>Never Again: The End of Blank Printouts</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/precision-tactics-to-overcome-non-printing-brother-printer-in-oses/"><u>Precision Tactics to Overcome Non-Printing Brother Printer in OSes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-error-driver-not-located-by-win/"><u>Printer Error: Driver Not Located by Win</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-sibling-print-device-from-online-standby-mode/"><u>Reviving Sibling Print Device From Online Standby Mode</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/simplified-customization-for-your-youtube-channel-url-for-2024/"><u>Simplified Customization for Your YouTube Channel URL for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/stop-and-fix-spooler-error-in-win-7-printers/"><u>Stop and Fix Spooler Error in Win 7 Printers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-samsung-galaxy-s23-fe-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Samsung Galaxy S23 FE for Streaming | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unblock-print-queue-on-windows-10/"><u>Unblock Print Queue on Windows 10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-oppo-a1x-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Oppo A1x 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+</ul></div>
 

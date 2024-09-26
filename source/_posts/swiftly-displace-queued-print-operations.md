@@ -1,7 +1,7 @@
 ---
 title: Swiftly Displace Queued Print Operations
-date: 2024-09-15T16:58:02.822Z
-updated: 2024-09-19T18:15:48.258Z
+date: 2024-09-23T07:18:13.021Z
+updated: 2024-09-25T17:19:40.120Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/d08434487f817b4e37cfe7558cadbd43386d2a121
    2. [Use Command Prompt to Clear Stuck Files](#f2)  
    3. [Create a Bat file for permanent use](#f3)
 * **Fix 2 –[Reinstall your printer driver](#m2)**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Clear the print queue
 
@@ -79,12 +86,27 @@ This will clear all of your print jobs stuck in a queue.
  **net start spooler**  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/note.jpg)
 3. Then click**File** \>**Save as…**  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * Change the file type to**All files**  
    * Name your file whatever you want, but add a**.bat** suffix.  
    * Make sure the Encoding type is**ANSI** .  
    * Save the file. (Note where the file is saved.)  
    ![](https://images.drivereasy.com/wp-content/uploads/2020/01/batch-file.jpg)
 4. Double-click the batch file to clear the print queue anytime you want.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Reinstall the printer driver
 
@@ -120,6 +142,14 @@ This will clear all of your print jobs stuck in a queue.
 **OR** click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-1.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Try printing again. Your printer should be working properly now.
 
 ---
@@ -145,12 +175,20 @@ Feel free to drop us a comment if you have any questions or suggestions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-behind-the-scenes-look-at-podcaster-income-for-2024/"><u>[New] Behind-the-Scenes Look at Podcaster Income for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-detailed-examination-of-chilled-treat-recorders-for-2024/"><u>[New] Detailed Examination of Chilled Treat Recorders for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-monetization-does-youtube-pay-monthly-in-2024/"><u>[Updated] YouTube Monetization Does YouTube Pay Monthly, In 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/farewell-to-printer-frustration-win-10s-solution-found/"><u>Farewell to Printer Frustration: Win 10'S Solution Found</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/flawless-gameplay-controlling-games-via-switch-pro-controller-in-steam-for-2024/"><u>Flawless Gameplay Controlling Games via Switch Pro Controller in Steam for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hidden-network-printer-how-to-find-it-on-your-os/"><u>Hidden Network Printer: How to Find It on Your OS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-vr-accessories-the-top-10-countdown-for-2024/"><u>Leading VR Accessories The Top 10 Countdown for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-windows-registry-management-edit-remove-and-add-keys-via-revo-uninstaller/"><u>Mastering Windows Registry Management: Edit, Remove & Add Keys via Revo Uninstaller</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mp620-printer-searching-for-missing-windows-driver/"><u>MP620 Printer: Searching for Missing Windows Driver</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-videopad-video-editor-review-the-best-choice-for-your-video-editing-needs/"><u>New 2024 Approved Videopad Video Editor Review The Best Choice for Your Video Editing Needs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-epsons-lack-of-print-feature/"><u>Overcoming Epson's Lack of Print Feature</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/preventing-continuous-spooler-failures-on-w10w11w7/"><u>Preventing Continuous Spooler Failures on W10/W11/W7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/secure-removal-of-drivers-for-printer-devices/"><u>Secure Removal of Drivers for Printer Devices</u></a></li>
+</ul></div>
 

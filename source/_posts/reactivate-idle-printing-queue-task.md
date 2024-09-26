@@ -1,7 +1,7 @@
 ---
 title: Reactivate Idle Printing Queue Task
-date: 2024-09-14T21:51:43.182Z
-updated: 2024-09-20T09:37:30.822Z
+date: 2024-09-24T18:28:35.447Z
+updated: 2024-09-26T04:54:40.006Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
    3. [Create a Bat file for permanent use](#f3)
 * **Fix 2 –[Reinstall your printer driver](#m2)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Clear the print queue
 
  There are three options for you to clear the print queue. You don’t have to try them all; just take your pick.
@@ -38,11 +45,35 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 2. In the Run window, type**services.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/services-run-box.jpg)
 3. Scroll down to**Print Spooler** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Right-click**Print Spooler** and select**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/stop-the-service.jpg)
 5. Navigate to**C:\\Windows\\System32\\spool\\PRINTERS** and delete all files in the folder. (Do NOT delete the folder itself.)  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/delete.jpg)
 6. In the Services window, right-click**Print Spooler** and select**Start** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/start-service.jpg)
 7. Go back to the**Print Job** queue. All print jobs should have been removed now and you can start printing again normally.
 
@@ -145,12 +176,26 @@ Feel free to drop us a comment if you have any questions or suggestions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-video-quality-edge-mirrorless-versus-dslr-cameras/"><u>[New] Video Quality Edge Mirrorless Versus DSLR Cameras</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1725288258213-2022dvd/"><u>2022最强大的DVD到数字化转换技术：终极指南</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-steps-to-crafting-powerful-end-of-episode-notes/"><u>2024 Approved Steps to Crafting Powerful End-of-Episode Notes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/brisk-release-from-print-waitlist/"><u>Brisk Release From Print Waitlist</u></a></li>
+<li><a href="https://article-files.techidaily.com/detailed-elucinasion-the-google-podcast-application-explained/"><u>Detailed Elucinasion The Google Podcast Application Explained</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-scanner-activation-issue-after-installing-updates/"><u>Fix Scanner Activation Issue After Installing Updates</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-craftsmanship-in-marvellous-marvel-creation/"><u>In 2024, Craftsmanship in Marvellous Marvel Creation</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-lane-the-funniest-youtubers-for-a-good-time-for-2024/"><u>Laughing Lane The Funniest YouTubers for a Good Time for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/microvid-virtuoso/"><u>MicroVid Virtuoso</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-guide-cease-spooler-halt-on-w710-11-windows/"><u>Quick Guide: Cease Spooler Halt on W7/10, 11 Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-guide-setting-up-a-canon-printer/"><u>Quick Guide: Setting Up a Canon Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reconnect-scanner-troubleshooting-guide-for-win10-users/"><u>Reconnect Scanner: Troubleshooting Guide for Win10 Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-narzo-60x-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Narzo 60x 5G</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/repaired-noise-level-fluctuation-in-hp-officejet-pro-x100/"><u>Repaired Noise Level Fluctuation in HP Officejet Pro X100</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-steps-for-stubborn-printer/"><u>Troubleshooting Steps for Stubborn Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-printer-disconnected-from-network/"><u>Troubleshooting: Printer Disconnected From Network</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/turning-off-the-speaking-feature-tips-for-managing-your-samsung-tvs-voice-control/"><u>Turning Off the Speaking Feature: Tips for Managing Your Samsung TV's Voice Control</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-problems-no-access-to-hp-printer-drivers/"><u>Windows Problems: No Access to HP Printer Drivers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtubes-role-in-todays-dynamic-educational-landscape-for-2024/"><u>YouTube's Role in Today's Dynamic Educational Landscape for 2024</u></a></li>
+</ul></div>
 

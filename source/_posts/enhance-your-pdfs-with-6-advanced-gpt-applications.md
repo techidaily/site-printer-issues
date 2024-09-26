@@ -1,7 +1,7 @@
 ---
 title: Enhance Your PDFs with 6 Advanced GPT Applications
-date: 2024-09-13T09:20:33.174Z
-updated: 2024-09-20T01:38:33.501Z
+date: 2024-09-19T06:58:01.097Z
+updated: 2024-09-26T05:49:20.332Z
 tags:
   - chatgpt
   - open-ai
@@ -52,10 +52,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Expanded Knowledge Base and Cross-Chat Memory
@@ -73,16 +73,16 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
+<span id="1977023">
 					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
@@ -94,6 +94,13 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  Pairing this feature with ChatGPT's browsing and memory functionality allows for a highly versatile AI companion. This enhanced version of ChatGPT can now better assist you with shopping, planning, and organizing. GPT-4o's conversation functionality makes it possible to use ChatGPT as a hands-free assistant using voice commands, making it easier to interact with the AI while you're on the go or multitasking.
 
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Upgraded Code Analysis
 
@@ -108,16 +115,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Temporary Chat
@@ -143,5 +144,23 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-clip-curator-platform/"><u>[Updated] 2024 Approved Clip Curator Platform</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-essential-gopro-video-editor-companies/"><u>[Updated] In 2024, Essential GoPro Video Editor Companies</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-professional-strategies-for-screen-capturing-facetime-for-2024/"><u>[Updated] Professional Strategies for Screen-Capturing FaceTime for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/air-lift-extraordinaire-top-industrial-drones/"><u>Air-Lift Extraordinaire Top Industrial Drones</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/b200-corrective-action-complete/"><u>B200 Corrective Action Complete</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hardware-setup-hp-printer-driver-not-in-windows-os/"><u>Hardware Setup: HP Printer Driver Not in Windows OS</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-tecno-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Tecno Without PUK Codes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-oppo-reno-9a-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Oppo Reno 9A</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Vivo Y100 5G? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/journeys-end-successfully-setting-up-hp-printer-in-win-os/"><u>Journey's End: Successfully Setting Up HP Printer in Win OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/spooler-error-preventing-successful-prints/"><u>Spooler Error Preventing Successful Prints</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574032401-trouble-printing-on-windows-11-lets-fix-it/"><u>Trouble Printing on Windows 11? Let's Fix It!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-selection-hits-the-cutting-edge-youtube-unboxing-channels-of-2024/"><u>Ultimate Selection Hits The Cutting-Edge YouTube Unboxing Channels of 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unite-your-workspace-3-cutting-edge-solutions-for-hp-and-laptop-connection/"><u>Unite Your Workspace: 3 Cutting-Edge Solutions for HP and Laptop Connection</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-3x-print-hiccup-quick-fixes-needed/"><u>Windows 3.x Print Hiccup - Quick Fixes Needed</u></a></li>
+</ul></div>
 

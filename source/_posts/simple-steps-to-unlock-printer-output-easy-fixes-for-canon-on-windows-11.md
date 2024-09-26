@@ -1,7 +1,7 @@
 ---
 title: "Simple Steps to Unlock Printer Output: Easy Fixes for Canon on Windows 11"
-date: 2024-09-13T23:53:12.830Z
-updated: 2024-09-19T23:44:36.277Z
+date: 2024-09-23T16:26:02.575Z
+updated: 2024-09-25T19:28:04.874Z
 tags:
   - win11
   - win10
@@ -69,9 +69,23 @@ If your printer is still not working properly, proceed to the next fix.
   
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/windows-defender-firewall.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the left side of the window, click**Turn Windows Defender Firewall on or off** .  
   
 ![disable Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/turn-Windows-Defender-Firewall-on-or-off.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Tick**Turn off Windows Defender Firewall** for both public and private networks. Then click**OK** to confirm the changes.  
   
@@ -89,13 +103,6 @@ You can disable the firewall in software by clicking the link below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Update your printer driver
 
  After connecting your Canon printer to Windows, to ensure it works properly, you need to install a proper driver. But if your printer driver is faulted or outdated, issues like printer not printing will arise. So if you can’t remember when was the last time you updated your printer driver, do it now as it may fix your issue right away.
@@ -103,10 +110,10 @@ You can disable the firewall in software by clicking the link below.
  There are mainly two ways you can update your printer driver:[manually](#option1) and [automatically](#option2) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 1: Manually update your printer driver
@@ -128,13 +135,6 @@ Here’s how you can update your drivers with Driver Easy:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and **detect any problem drivers** .
 
 ![update drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -166,26 +166,26 @@ Here’s how you can update your drivers with Driver Easy:
 ![set Canon printer as the default printer](https://images.drivereasy.com/wp-content/uploads/2021/01/in-the-control-panel.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Right-click your Canon printer and select**Set as default printer** from the list.  
   
 ![set Canon printer as the default printer](https://images.drivereasy.com/wp-content/uploads/2021/01/set-as-default-printer.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now perform printing tasks to check if it works.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Delete print jobs from the print queue
 
@@ -213,6 +213,13 @@ Now perform printing tasks to check if it works.
 
 ![stop the Print Spooler](https://images.drivereasy.com/wp-content/uploads/2021/01/stop-the-printing-service.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Note: Do not close the Services window, simply minimize it as you’ll go back to it later.
 
  4) After the print spooler service has stopped, press the**Windows logo key** and**R** at the same time to open the Run box. Then type**spool** in the field and press**Enter** .  
@@ -222,6 +229,13 @@ Now perform printing tasks to check if it works.
  5) Open the**PRINTERS** folder.  
   
 ![open the printers folder](https://images.drivereasy.com/wp-content/uploads/2021/01/printers-folder.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6) Delete any files in this folder.
 
@@ -252,5 +266,19 @@ Now perform printing tasks to check if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-superior-4k-visual-quality-with-gear/"><u>[New] Expert Tips for Superior 4K Visual Quality with Gear</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-behind-the-scenes-iphone-video-loops-unveiled/"><u>[Updated] In 2024, Behind the Scenes IPhone Video Loops Unveiled</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/25-unique-gift-choices-tailored-for-every-android-fanatic/"><u>25 Unique Gift Choices Tailored for Every Android Fanatic</u></a></li>
+<li><a href="https://program-issues.techidaily.com/getting-your-hands-on-doom-eternal-despite-potential-postponement-fixes/"><u>Getting Your Hands on DOOM Eternal Despite Potential Postponement Fixes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-kodi-upgrades-its-distribution-method-with-flatpak-integration-in-linux-environments/"><u>How Kodi Upgrades Its Distribution Method with Flatpak Integration in Linux Environments</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-uninstall-a-print-driver-in-windows/"><u>How to Uninstall a Print Driver in Windows</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-launch-live-fb-broadcast-from-any-device-with-obs-guide/"><u>In 2024, Launch Live FB Broadcast From Any Device with OBS Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-v27-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo V27 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/navigating-through-epson-paper-jam-signals/"><u>Navigating Through Epson Paper Jam Signals</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printing-resumed-in-hp-all-in-one-after-network-fix/"><u>Printing Resumed in HP All-in-One After Network Fix</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/streamline-non-printing-your-guide-to-fixing-brother-printer-on-windows/"><u>Streamline Non-Printing: Your Guide to Fixing Brother Printer on Windows</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/surging-up-the-search-results-with-effective-podcast-seo-for-2024/"><u>Surging Up the Search Results with Effective Podcast SEO for 2024</u></a></li>
+</ul></div>
 

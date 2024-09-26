@@ -1,7 +1,7 @@
 ---
 title: Brother CDW Duo Air Glide Instructions
-date: 2024-09-19T01:42:20.887Z
-updated: 2024-09-20T03:40:20.809Z
+date: 2024-09-20T00:19:11.148Z
+updated: 2024-09-26T09:54:15.121Z
 tags:
   - win11
   - win10
@@ -66,13 +66,34 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Download.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Once you’ve downloaded the correct driver file for your system, right-click the downloaded file and select**Run as administrator** . Then follow the on-screen instructions to install the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-127.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Restart your computer to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update Brother MFC-9330CDW drivers
 
@@ -91,6 +112,13 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-126.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** You can do it for free if you like, but it’s partly manual.
 
@@ -118,12 +146,26 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-secrets-to-dynamic-and-effective-igtv-covers/"><u>[New] In 2024, Secrets to Dynamic & Effective IGTV Covers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-ultimate-insight-into-dji-inspire-2-for-2024/"><u>[New] The Ultimate Insight Into DJI Inspire 2 for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-issue-fixer-regain-lost-network-print-visibility/"><u>[Print Issue Fixer] Regain Lost Network Print Visibility</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-excellent-video-chat-solutions-for-mobile-and-desktops-for-2024/"><u>[Updated] Excellent Video Chat Solutions for Mobile & Desktops for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-high-resolution-sky-photography-10-preferred-pages/"><u>[Updated] High-Resolution Sky Photography 10 Preferred Pages</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-perfecting-transition-timings-in-premiere-audio-for-2024/"><u>[Updated] Perfecting Transition Timings in Premiere Audio for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-ultimate-guide-to-saving-your-iphone-7-display-for-2024/"><u>[Updated] The Ultimate Guide to Saving Your iPhone 7 Display for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574061275-b200-bug-fixed-ready-to-go/"><u>B200 Bug Fixed, Ready to Go</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/blank-page-dilemma-hp-printer-now-printing-correctly/"><u>Blank Page Dilemma: HP Printer Now Printing Correctly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719573877149-effortlessly-rectify-canons-no-print-issue-with-these-5-window-11-tips/"><u>Effortlessly Rectify Canon's No-Print Issue with These 5 Window 11 Tips!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-popular-networks-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Exploring Popular Networks: A Guide to Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-fix-disappearing-printers-in-windows-810/"><u>How to Fix Disappearing Printers in WIndows 8/10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-inshot-on-pcs-and-laptops/"><u>In 2024, The Ultimate Guide to Inshot on PCs and Laptops</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mastering-the-deletion-of-printers-on-pc/"><u>Mastering the Deletion of Printers on PC</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-guide-to-sony-vegas-alternatives-for-windows-for-2024/"><u>New The Ultimate Guide to Sony Vegas Alternatives for Windows for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-text-only-paper-the-epson-printer-glitch/"><u>No Text, Only Paper: The Epson Printer Glitch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-problems-of-starting-resident-evil-village-game/"><u>Overcoming the Problems of Starting Resident Evil Village Game</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-not-shown-solutions-for-network-print-issues/"><u>Printer Not Shown: Solutions for Network Print Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solving-officejets-no-print-malaise/"><u>Solving OfficeJet's No Print Malaise</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Restoring Order: A Printer's Tale After Windows Update"
-date: 2024-09-17T18:54:00.477Z
-updated: 2024-09-20T03:11:18.265Z
+date: 2024-09-19T07:54:08.959Z
+updated: 2024-09-26T08:27:39.456Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/521e77f0b3c0772eff4a23cfd11435c9aec9bd0ff
 3. **[Update your printer driver](#F3)**
 4. **[Reset the print spooler](#F4)**
 5. **[Run Windows Troubleshooter](#F5)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Power cycle your printer
 
@@ -67,34 +74,15 @@ Here is how to power cycle your printer:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap19-1.png)
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-188.png)
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -115,28 +103,15 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-193.png)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the**Services** window, scroll down until you find**Print Spooler** , then right-click on it and click**Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-194.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) On your keyboard, press the**Windows logo key** and**R** at the same time, then type**%WINDIR%\\system32\\spool\\printers** and press**Enter** .
 
@@ -156,6 +131,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Run Windows Troubleshooter
 
  Windows comes with a number of ‘troubleshooters’ that are designed to detect the hardware components on your computer and solve the issues for you. So you can run the printer troubleshooter to see if it can detect the problem and hopefully sort it out.
@@ -163,6 +145,13 @@ Here is how to do it:
  1) On your keyboard, press**the Windows logo key** and type**troubleshoo** t, then click on**Troubleshoot settings** once it pops up as a search result.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-208.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In the**Troubleshoot** window, scroll down to the**Get up and running** section, click on**Printer** \>**Run the troubleshooter** .
 
@@ -189,5 +178,17 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-pioneering-programs-3d-animation-crafting/"><u>[New] Pioneering Programs 3D Animation Crafting</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-keep-your-videos-secure-youtube-to-mp4-downloading-safely/"><u>[Updated] Keep Your Videos Secure - YouTube-to-MP4 Downloading Safely</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-comprehensive-guide-to-subtitle-sharing-on-tumblr-and-discord/"><u>2024 Approved A Comprehensive Guide to Subtitle Sharing on Tumblr and Discord</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/discover-the-art-of-quickly-tweaking-game-characters-voices-in-pubg-for-2024/"><u>Discover the Art of Quickly Tweaking Game Characters' Voices in PUBG for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enrich-printer-capabilities-dell-software-update-for-windows-7/"><u>Enrich Printer Capabilities: Dell Software Update for Windows 7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-hq-blank-page-conundrum-resolved/"><u>Epson HQ Blank Page Conundrum Resolved</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/inkjet-resumed-solved-epson-printer/"><u>Inkjet Resumed: Solved [Epson Printer]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimizing-performance-new-brother-scanner-drivers-for-windows-users/"><u>Optimizing Performance: New Brother Scanner Drivers for Windows Users</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolve-print-head-alignment-issues-in-w11/"><u>Resolve Print Head Alignment Issues in W11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-capturing-and-archiving-gotomeeting-sessions-successfully/"><u>Step-by-Step Guide to Capturing and Archiving GoToMeeting Sessions Successfully</u></a></li>
+</ul></div>
 

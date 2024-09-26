@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Resolve the Persona 5 Strikers' Black Screen Problem"
-date: 2024-09-17T00:30:16.956Z
-updated: 2024-09-20T03:53:57.680Z
+date: 2024-09-22T01:58:10.234Z
+updated: 2024-09-25T16:45:25.431Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 2. **[Run Apex Legends as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Verify game files](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Edit registry](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update the graphics driver
 
@@ -54,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run Apex Legends as an administrator
 
  This engine error may happen if the game does not have administrative privileges. So you should make sure to run Apex Legends as an administrator to see if it fixes the issue.
@@ -63,6 +77,13 @@ Here is how to grant administrative privileges to Apex Legends:
  1) On your keyboard, press the Windows logo key and type Apex Legends. Once the game shows up as a result, right-click on**Apex Legends** and select **Open file location** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-564.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In File Explorer, right click on **Apex Legends .exe**  and click **Properties** .
 
@@ -84,13 +105,6 @@ Here is how to verify game files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-439-1024x522.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Right-click on**Apex Legends** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-561.png)
@@ -100,10 +114,10 @@ Here is how to verify game files:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Once done, run Apex Legends and check if the engine error is fixed. If yes, then great! If the issue persists, please move on to**Fix 4** , below.
@@ -131,10 +145,10 @@ Windows Registry Editor Version 5.00
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-475.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**File** \>**Save as…**
@@ -169,5 +183,20 @@ Windows Registry Editor Version 5.00
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-interactive-television-take-pot-perspectives-for-2024/"><u>[New] INTERACTIVE TELEVISION TAKE Pot Perspectives for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solution-needed-mp620-printer-not-detected-in-windows-os/"><u>[Solution Needed] MP620 Printer Not Detected in Windows OS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-sprint-through-slow-videos-best-8-android-choices/"><u>[Updated] In 2024, Sprint Through Slow Videos Best 8 Android Choices</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-sharing-lifes-moments-with-your-online-audience/"><u>2024 Approved Sharing Life's Moments with Your Online Audience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-insights-into-every-bit-of-new-artificial-intelligence-launched-by-apple-at-their-recent-wwdc/"><u>Comprehensive Insights Into Every Bit of New Artificial Intelligence Launched by Apple at Their Recent WWDC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-solution-to-overcome-intel-hd-graphics-630-drivers-glitch-in-windows-environments/"><u>Comprehensive Solution to Overcome Intel HD Graphics 630 Drivers Glitch in Windows Environments</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-printer-not-printing-solved/"><u>Epson Printer Not Printing [SOLVED]</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/essential-tips-for-hp-printer-setup-on-windows-os/"><u>Essential Tips for HP Printer Setup on Windows OS</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-logitech-g29-racing-wheel-software-for-pc-windows-10-11-and-7/"><u>Free Logitech G29 Racing Wheel Software for PC (Windows 10, 11 & 7)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/pro-free-ending-makers-ranked-1-6/"><u>Pro-FREE Ending Makers - Ranked 1-6</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-redmi-note-12-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Xiaomi Redmi Note 12 5G</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unplugged-reset-to-bring-canon-printer-back-online/"><u>Unplugged? Reset to Bring Canon Printer Back Online</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-pixma-mp620-driver-elusive/"><u>Windows 11: Pixma MP620 Driver Elusive</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Epson's Ink Failure
-date: 2024-09-14T16:09:16.131Z
-updated: 2024-09-20T06:24:45.866Z
+date: 2024-09-21T03:49:31.947Z
+updated: 2024-09-26T05:13:18.770Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/c56c87173dfda8b9c9894c8b4a0ea04c4e7b1abbd
 5. [**Clear all print jobs**](#e)
 6. [**Use another program to print your document**](#f)
 7. [**Check the status of your printer**](#g)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 1: Check your printer connection
 
@@ -68,13 +75,48 @@ thumbnail: https://thmb.techidaily.com/c56c87173dfda8b9c9894c8b4a0ea04c4e7b1abbd
 1. On your keyboard, press the**Windows logo key** and**R** on your keyboard at the same time to invoke the Run box. Type “**control** ” and press**Enter** on your keyboard.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f05fa653ea6.png)
 2. Under**View by** , select**Large icons** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f05f6349879.jpg)
 3. Click**Devices and Printers** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f0600edfd3e.jpg)
 4. Right-click your printer, and select**Set as default printer** .  
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b30c9804bf35.jpg)
 
  Hopefully, this helps you solve your problem. But if not, there are five more fixes for you to try.
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Update your printer driver
 
@@ -93,13 +135,6 @@ thumbnail: https://thmb.techidaily.com/c56c87173dfda8b9c9894c8b4a0ea04c4e7b1abbd
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/epson-print.png)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 ## Method 4: Check the Print Spooler service
@@ -112,29 +147,30 @@ To check this service:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f1bc9808a1b.png)
 2. Double-click**Print Spooler** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f29629de1e9.jpg)
 3. Make sure its Startup type is set to**Automatic** and its Service status is**Running** .  
-![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f299190ca46.png)
-4. If not, set its Startup type to**Automatic** , and click the**Start** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f299190ca46.png)
+4. If not, set its Startup type to**Automatic** , and click the**Start** button.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f2984ab53d0.png)
 5. Click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f29d7e9e7e4.png)
 6. Check to see if your Epson printer is able to print now.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If it does, great! But if not, there are three more fixes for you to try…
 
@@ -155,13 +191,6 @@ To clear your print jobs:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f2a1317d8a2.png)
 4. Minimize the Services window. Then open**File Explorer** (on your keyboard, press the**Windows logo key** and**E**  at the same time).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f2a36c12e67.jpg)
 5. Copy and paste the address**`%windir%\System32\spool\PRINTERS`** to the address bar and press**Enter** on your keyboard to go to where the print jobs are stored.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f2a48b237b4.jpg)
@@ -170,6 +199,14 @@ To clear your print jobs:
 7. Restore the Services window. Then double click the**Print Spooler** service.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f29629de1e9.jpg)
 8. Click the**Start** button. After the service is started, click**OK** to save the change and close this dialog.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f2a9e345daa.png)
 9. Close all the opened windows and turn off your computer.
 
@@ -183,10 +220,10 @@ To clear your print jobs:
  You may have a not printing issue with your printer if the program you are using to print is not working properly. Test your printer with another program. If the problem comes from your program, contact its developer or vendor for advice or install an alternative solution.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 7: Check the status of your printer
@@ -214,5 +251,24 @@ To clear your print jobs:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-your-marketing-game-free-50-youtube-adornments-here/"><u>[New] 2024 Approved Elevate Your Marketing Game - Free 50 YouTube Adornments Here</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/another-computer-is-using-the-printer-solved/"><u>Another Computer Is Using the Printer [Solved]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620192575-best-6-exceptional-contact-widget-apps-for-android-ranked/"><u>Best 6 Exceptional Contact Widget Apps for Android - Ranked</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-take-on-the-oneplus-nord-n10-e-with-5g-a-must-read/"><u>Expert Take on the OnePlus Nord N10 E With 5G – A Must-Read!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/finding-the-right-hp-d1360-print-drivers-in-windows-ecosystems/"><u>Finding the Right HP D1360 Print Drivers in Windows Ecosystems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-for-utilizing-luts-within-adobe-after-effects/"><u>In 2024, Expert Tips for Utilizing LUTs Within Adobe After Effects</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-expertly-curated-9-best-video-conferencing-software-for-smartphones-and-tablets/"><u>In 2024, Expertly Curated 9 Best Video Conferencing Software for Smartphones & Tablets</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-integration-of-video-filters-in-zoom/"><u>In 2024, Seamless Integration of Video Filters in Zoom</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-post-update-printer-glitches/"><u>Overcoming Post-Update Printer Glitches</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printers-silence-speaks-louder-than-no-response/"><u>Printer's Silence Speaks Louder Than No Response</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reignite-printing-with-simple-tips-for-canon-windows/"><u>Reignite Printing with Simple Tips for Canon, Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-inactive-hp-printing-units/"><u>Reviving Inactive HP Printing Units</u></a></li>
+<li><a href="https://windows11.techidaily.com/skillful-art-of-masking-the-search-on-11-taskbar/"><u>Skillful Art of Masking the Search on 11 Taskbar</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamline-your-digital-media-library-with-winx-video-converter-premium-download-and-use-anytime-on-the-go/"><u>Streamline Your Digital Media Library with WinX Video Converter Premium – Download and Use Anytime, On-the-Go!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unplugging-and-removing-a-secondary-printer-from-os/"><u>Unplugging and Removing a Secondary Printer From OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win10-printer-setup-guide-hp-connection-fixes/"><u>Win10 Printer Setup Guide - HP Connection Fixes</u></a></li>
+</ul></div>
 

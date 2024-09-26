@@ -1,7 +1,7 @@
 ---
 title: "Cracking the Code: Printer Error X97"
-date: 2024-09-15T03:26:22.360Z
-updated: 2024-09-20T06:57:06.986Z
+date: 2024-09-23T22:35:48.988Z
+updated: 2024-09-25T23:51:26.349Z
 tags:
   - win11
   - win10
@@ -66,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 
  Make sure your cartridges all work properly, and then reopen your printer to test your issue. If your problem still exists, check the fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Run the Windows printer troubleshooter
 
  Another quick fix to error code 0x97 is running the Windows printer troubleshooter. Here is how to do it:
@@ -86,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-843.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click **Use a printer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-844.png)
@@ -102,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-845.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait for your computer to automatically detect your printer issue, and then follow the on-screen instructions to fix it. If no printer issue is identified, try [**fix 4**](#d) , below.
@@ -116,29 +116,36 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-846.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Select **Troubleshooting settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-847.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click **Printer,**  and then click **Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-849.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for the troubleshooting process to be complete, then reopen your printer to check if this fixed your issue. If not, read on and check the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your printer driver
 
@@ -205,5 +212,19 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-the-epitome-of-visual-perfection-top-10-monitors-for-mac-users/"><u>[New] The Epitome of Visual Perfection - Top 10 Monitors for Mac Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/access-and-utilize-advanced-ai-tools-through-quoras-poe-platform/"><u>Access and Utilize Advanced AI Tools Through Quora’s Poe Platform</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-engaging-conversations-with-users-boost-ai-learning/"><u>Can Engaging Conversations with Users Boost AI Learning?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-infinix-hot-40-to-mac-drfone-by-drfone-android/"><u>How to Mirror Infinix Hot 40 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Fixing Foneazy MockGo Not Working On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-any-language-for-free-explore-these-9-highly-recommended-online-language-platforms/"><u>Master Any Language for Free? Explore These 9 Highly Recommended Online Language Platforms!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-print-server-disconnect/"><u>Overcoming Print Server Disconnect</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reinstating-print-spooler-services-correctly/"><u>Reinstating Print Spooler Services Correctly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/seamless-printer-function-release/"><u>Seamless Printer Function Release</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/steps-to-resolve-print-spooler-shutdown-woes-win-10-11-and-7/"><u>Steps to Resolve Print Spooler Shutdown Woes (Win 10, 11 & 7)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-windows-view-overcoming-overscan-issues/"><u>Streamline Windows View: Overcoming Overscan Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unable-to-produce-full-color-prints/"><u>Unable to Produce Full-Color Prints</u></a></li>
+</ul></div>
 

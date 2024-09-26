@@ -1,7 +1,7 @@
 ---
 title: Fix Windows Millennium XP's Sluggish Printer Response
-date: 2024-09-15T01:56:48.155Z
-updated: 2024-09-19T19:01:54.276Z
+date: 2024-09-20T01:43:52.702Z
+updated: 2024-09-26T06:24:20.660Z
 tags:
   - win11
   - win10
@@ -38,6 +38,14 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
  Additionally, you can also try**restarting** all devices related to printing jobs. They include your**printer, computer, and WiFi router** (if your printer use wireless connection). You should shut them down completely, leave them for a while, and then power them on again. After that you can print something to see if this fixes the problem.  
   
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2) Run printer troubleshooter
 
  Windows system has a built-in printer troubleshooter that can diagnose your printer issues. You can run this tool as a way to help you fix the printer not responding error.
@@ -46,11 +54,31 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595469f21cf8b.png)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595469d0b5f8f.png)
 
 **b)**  If you are using**Windows 10** , click on**Printer** and then on**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59546a6bbf65e.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **c)**  For**Windows 7** , click on**Use a printer** under**Hardware and Sound** .
 
@@ -58,6 +86,14 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 **d)**  Follow the on-screen instruction to complete the troubleshooting. If the troubleshooter is able to find some issues, you may need to fix them with this tool or seek for solutions from other sources.  
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3) Restart Print Spooler service
 
  Print Spooler service manages all the print jobs of your computer. Sometimes it can go wrong and cause various printer issues. You can solve problems of this kind by simply restarting this service. To restart Print Spooler service, follow the steps below.
@@ -72,19 +108,26 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595471a35b437.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **c)**  Click on**Stop** button under**Service status** and then on**Start** . (If the Service status is**Stopped** , then directly hit the**Start** button.) After that, hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5954724027192.png)
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **d)**  You have just restarted Print Spooler service. Now try your printer and see if the not responding error is gone.  
   
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4) Configure to correct port
 
@@ -94,29 +137,9 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595476501c3bd.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **b)**  Click on**Devices and Printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595476948d409.png)
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **c)**  In**Printers** section, right click on your printer and then select**Printer properties** .
 
@@ -125,13 +148,6 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 **d)**  Select**Change properties**  on**General** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595478ceef471.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **e)**  Go to**Ports** tab. Under**Print to the following port(s)** , **tick**  the port that contains**the name of your printer** . You should note that the**Description** of the port should include**USB** or**DOT4** if you are using**USB connection** , or**WSD** ,**network** or**IP** if**network connection** is used. After choosing the port, hit**Apply** .
 
@@ -156,6 +172,13 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 **a)** Open the program and hit**Scan Now** . Wait for a few seconds.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59536d887738b.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **b)** Click on**Update** button next to your printing device. Driver Easy will download the latest credible driver for you. Then you can install the driver on your own.
 
@@ -184,5 +207,16 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-quick-tips-screen-recording-made-simple-for-mac-users/"><u>[Updated] 2024 Approved Quick Tips Screen Recording Made Simple for Mac Users</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-discovering-charismatic-faces-on-your-snaps/"><u>[Updated] In 2024, Discovering Charismatic Faces on Your Snaps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transforming-ordinary-sessions-into-visual-extravaganzas-in-zoom/"><u>[Updated] Transforming Ordinary Sessions Into Visual Extravaganzas in Zoom</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/accelerate-release-for-queued-printer-work/"><u>Accelerate Release for Queued Printer Work</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/break-free-from-stuck-print-queue/"><u>Break Free From Stuck Print Queue</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/do-real-world-dialogues-enhance-chatgpts-knowledge-base/"><u>Do Real-World Dialogues Enhance ChatGPT’s Knowledge Base?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/endless-white-refills-in-epson-printing-issue/"><u>Endless White Refills in Epson Printing Issue</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-infinix-smart-8-hd-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Infinix Smart 8 HD to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reconnect-scanner-troubleshooting-win10/"><u>Reconnect Scanner: Troubleshooting Win10</u></a></li>
+</ul></div>
 

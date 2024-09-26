@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Turtle Beach Recon 70 Mic Not Working"
-date: 2024-09-14T03:51:23.225Z
-updated: 2024-09-20T09:08:07.003Z
+date: 2024-09-21T16:22:29.554Z
+updated: 2024-09-26T07:27:40.698Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Check your microphone device settings
 
  Your Turtle Beach mic may be disabled or not set as the default device on your computer. Or the microphone volume is set to a very low value so it can’t record your sound clearly. To check these settings:
@@ -45,9 +52,23 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**  Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
@@ -56,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
 **6)** Right click it again and select **Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **7)** Right click**Headset Microphone** and click**Properties** .
 
@@ -70,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2: Update your audio drivers
 
@@ -94,13 +129,6 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
  Once you’ve updated the driver for your Turtle Beach headset, restart your computer. Then log in again and see if the microphone is working.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Troubleshoot hardware issues
 
@@ -128,5 +156,22 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/1716069727357-new-internal-recording-feature-screen-capture-for-huaweis-mate-and-p-series-phones-for-2024/"><u>[New] Internal Recording Feature Screen Capture for Huawei's Mate & P Series Phones. For 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/afe-audio-download-techniques-from-youtube-for-2024/"><u>100% Safe Audio Download Techniques From YouTube for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/addressing-lexmark-printer-glitches/"><u>Addressing Lexmark Printer Glitches</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/assassins-creed-valhalla-a-riveting-saga-of-vikings-through-the-middle-agebustling-action-and-immersive-story-reviewed/"><u>Assassin's Creed: Valhalla – A Riveting Saga of Vikings Through the Middle Agebustling Action and Immersive Story Reviewed!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/breaking-down-pcl-xl-error-fixes/"><u>Breaking Down PCL XL Error Fixes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-inkjet-malfunctions-today/"><u>Fixing Inkjet Malfunctions Today</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Change Netflix Location to Get More Country Version On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-oppo-reno-10-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Oppo Reno 10 Pro 5G</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/mastering-windows-troubleshooting-eradicating-error-0x00000amoa-blue-screen-dilemma/"><u>Mastering Windows Troubleshooting: Eradicating Error 0X00000amoa Blue Screen Dilemma</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reconnect-hp-printer-with-flawless-setup-in-wx-9800se/"><u>Reconnect HP Printer with Flawless Setup in WX 9800SE</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/seamless-setup-with-win32-officejet-pro-8600-drivers/"><u>Seamless Setup with Win32 Officejet Pro 8600 Drivers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-printer-stopped-working-after-windows-10-update/"><u>SOLVED: Printer Stopped Working After Windows 10 Update</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/swift-film-techniques-for-at-home-creators/"><u>Swift Film Techniques for At-Home Creators</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-restoring-functionality-of-your-non-responsive-hp-wireless-keyboard/"><u>Troubleshooting Guide: Restoring Functionality of Your Non-Responsive HP Wireless Keyboard</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/turn-on-offline-hp-desktop-printer-in-wx-2003/"><u>Turn On Offline HP Desktop Printer in WX 2003</u></a></li>
+</ul></div>
 

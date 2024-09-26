@@ -1,7 +1,7 @@
 ---
 title: How to Add HP OfficeJet Pro 8720 to Your PC [Step by Step]
-date: 2024-09-14T20:22:41.326Z
-updated: 2024-09-20T02:14:29.176Z
+date: 2024-09-22T21:33:19.389Z
+updated: 2024-09-25T19:54:31.867Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap95-1-150x150.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Turn on your computer and your printer.
 2. Use a**USB cable** to connect the USB port on the rear of your printer and your computer.
 
@@ -68,6 +75,13 @@ If your printer is **wireless-capable**  , you can connect your printer to your 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap88.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Install the printer driver for your printer
 
  Insert your printer driver CD that came with the your printer and run the printer setup application (usually “setup.exe”) to install the driver for your printer.
@@ -84,6 +98,13 @@ If your printer is **wireless-capable**  , you can connect your printer to your 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Step 3: Add the printer to your PC**
 
@@ -104,29 +125,24 @@ If your printer is **wireless-capable**  , you can connect your printer to your 
 2. Click **Advanced printers setup** (in Win 7, it would be**Add a printer**).  
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap82.png)
 3. Select your Printer and click**Next** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap83.png)
-4. Windows will start to install your printer to your PC. This may take several minutes.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap83.png)
+4. Windows will start to install your printer to your PC. This may take several minutes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap84.png)
 5. When it is finished, click**Devices and Printers** .  
@@ -135,20 +151,13 @@ If your printer is **wireless-capable**  , you can connect your printer to your 
 6. Your printer should appear in the**Printers** section.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap86.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 4: Print test paper
 
@@ -157,6 +166,14 @@ If your printer is **wireless-capable**  , you can connect your printer to your 
 1. On your keyboard, press**the Windows logo key** and **R**  at the same time to open the Run dialog, then type **control** and press **Enter**  on your keyboard to open the Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap91.png)
 2. Click**Devices and Printers**  to view your printer.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap92.png)
 3. Right-click your printer and select**Printer Properties**  .  
 
@@ -164,10 +181,10 @@ If your printer is **wireless-capable**  , you can connect your printer to your 
 4. In the pop-up window, click**Printer Test Page**  .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap94.png)
@@ -191,5 +208,21 @@ If your printer is **wireless-capable**  , you can connect your printer to your 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-top-8-steps-in-recording-and-archiving-computer-audio/"><u>2024 Approved Top 8 Steps in Recording and Archiving Computer Audio</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-13-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and Apple iPhone 13 The Right Way</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-deactivation-done-right-the-ultimate-instagram-guide/"><u>In 2024, Deactivation Done Right The Ultimate Instagram Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-motorola-edge-40-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Motorola Edge 40 Phone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-strategies-for-altering-pubg-speech-for-2024/"><u>Innovative Strategies for Altering PUBG Speech for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-14-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 14 Properly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mending-non-operational-printers/"><u>Mending Non-Operational Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574160377-reconnect-your-silent-canon-printer-now/"><u>Reconnect Your Silent Canon Printer Now</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/repaired-network-communication-issue/"><u>Repaired Network Communication Issue</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revamp-printer-functions-install-new-hp-inkjets-software/"><u>Revamp Printer Functions: Install New HP Inkjets Software</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-brother-printer-no-output/"><u>Reviving Brother Printer No Output</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722892838721-top-picks-must-watch-lgbt-films-streaming-on-netflix-this-july/"><u>Top Picks: Must-Watch LGBT Films Streaming on Netflix This July</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unlock-your-creative-potential-10-top-music-video-editing-software/"><u>Updated Unlock Your Creative Potential 10 Top Music Video Editing Software</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-10-re-enable-scanned-device-connection/"><u>Windows 10: Re-Enable Scanned Device Connection</u></a></li>
+</ul></div>
 

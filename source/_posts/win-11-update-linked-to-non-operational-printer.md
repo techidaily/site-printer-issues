@@ -1,7 +1,7 @@
 ---
 title: Win 11 Update Linked to Non-Operational Printer
-date: 2024-09-17T16:34:57.225Z
-updated: 2024-09-19T18:23:54.079Z
+date: 2024-09-23T19:51:36.234Z
+updated: 2024-09-25T21:57:09.962Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/a13a2db3e926587257ddbddaa8e6b2d5c7f6b5a5b
 4. **[Reset the print spooler](#F4)**
 5. **[Run Windows Troubleshooter](#F5)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Power cycle your printer
 
  Power cycling is often an effective way to fix mysterious glitches on different devices. So you can give it a try to see if this fixes the problem for you.
@@ -43,6 +50,13 @@ Here is how to power cycle your printer:
 4) Test to see if your printer works properly. If yes, then great! If the issue remains, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Make sure your printer is connected
 
@@ -70,6 +84,13 @@ Here is how to power cycle your printer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-188.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -88,13 +109,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-193.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the**Services** window, scroll down until you find**Print Spooler** , then right-click on it and click**Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-194.png)
@@ -104,10 +118,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-195.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Select**all the files** within the folder and_delete_ them. This is to clear the print queues.
@@ -121,10 +135,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-198.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Check to see if your printer works properly. If it still doesn’t work, please move on to**Fix 5** , below.
@@ -138,13 +152,6 @@ Here is how to do it:
  1) On your keyboard, press**the Windows logo key** and type**troubleshoo** t, then click on**Troubleshoot settings** once it pops up as a search result.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-208.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In the**Troubleshoot** window, scroll down to the**Get up and running** section, click on**Printer** \>**Run the troubleshooter** .
 
@@ -171,5 +178,22 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonious-hub-choosing-the-best-free-apps-for-your-youtube-music-streams/"><u>[Updated] 2024 Approved Harmonious Hub Choosing the Best Free Apps for Your YouTube Music Streams</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-web-compendium-alarm-rhythms-guidebook/"><u>[Updated] Ultimate Web Compendium Alarm Rhythms Guidebook</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-loop-youtube-videos-on-tv/"><u>2024 Approved How to Loop YouTube Videos on TV</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-video-capture-pro-for-windows-10-ultimate-quality/"><u>2024 Approved Video Capture Pro for Windows 10 - Ultimate Quality</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-honor-magic-vs-2-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Honor Magic Vs 2 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/conquer-no-print-restoring-functionality-of-brother-printer-winoses/"><u>Conquer No-Print: Restoring Functionality of Brother Printer, WinOSes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enabling-access-to-remote-brother-print-device/"><u>Enabling Access to Remote Brother Print Device</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/expedite-jammed-print-queue/"><u>Expedite Jammed Print Queue</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/first-impressions-can-the-nokia-31-live-up-to-its-promise-as-a-starter-device/"><u>First Impressions: Can the Nokia 3.1 Live Up to Its Promise as a Starter Device?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hardware-hiccup-printer-config-issue/"><u>Hardware Hiccup: Printer Config Issue</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-poco-x5-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Poco X5 Without PUK Codes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-oneplus-11r-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your OnePlus 11R Device</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tackled-non-responding-printer-unit/"><u>Tackled Non-Responding Printer Unit</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unable-to-access-domain-service-not-available/"><u>Unable To Access: Domain Service Not Available</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unexpected-print-hiccup-discovered/"><u>Unexpected Print Hiccup Discovered</u></a></li>
+</ul></div>
 

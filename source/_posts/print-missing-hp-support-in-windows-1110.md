@@ -1,7 +1,7 @@
 ---
 title: "[Print] Missing HP Support in Windows 11/10"
-date: 2024-09-16T20:05:56.898Z
-updated: 2024-09-20T05:51:18.007Z
+date: 2024-09-19T06:04:23.067Z
+updated: 2024-09-26T01:09:13.294Z
 tags:
   - win11
   - win10
@@ -33,6 +33,14 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the Windows settings menu. Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/check-for-windows-update-1-1.jpg)
 2. Click**Check for updates** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/check-for-windows-update-2-1.jpg)
 
  The download and installation will automatically start when updates are available. Wait a few minutes until the process completes, then reboot your computer to test. If the error persists, move on to the second solution.
@@ -48,10 +56,26 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Then type**devmgmt.msc** and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Printers** to expand that category.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/device-manager-1.jpg)
 3. Right-click your**HP printer** and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/device-manager-2.jpg)
 4. Tick**Delete the driver software for this device** and click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/device-manager-3.jpg)
 5. Restart your computer to employ the changes, and Windows should install the correct driver for you.
 
@@ -67,6 +91,14 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 3. Click the**Activate & Update** button next to the flagged HP Printer driver to automatically download and install the correct version of this driver. Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (Note: This will prompt an upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy offers a 7-day free trial, providing access to premium features such as high-speed downloads and one-click installs without any charges until the trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/10/de-update-all-hp-printer.jpg)
 
@@ -88,20 +120,13 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Check the status of your HP printer driver and it should be back to normal now. If
@@ -126,5 +151,22 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://printer-issues.techidaily.com/systemissue-printer-spooler-not-functioning-in-windows/"><u>[SYSTEM_ISSUE] Printer Spooler Not Functioning in Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-elevate-your-stories-advanced-bokeh-techniques/"><u>[Updated] Elevate Your Stories Advanced Bokeh Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-unveiling-leading-edge-vr-developers/"><u>[Updated] In 2024, Unveiling Leading-Edge VR Developers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unleash-the-potential-of-your-gopro-streaming-made-easy-on-facebookperiscope/"><u>2024 Approved Unleash the Potential of Your Gopro Streaming Made Easy on Facebook/Periscope</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/addressing-persistent-printer-spooler-issues-in-win-oss/"><u>Addressing Persistent Printer Spooler Issues in Win OSs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/alleviating-hp-printer-error-code-oxc4eb827f/"><u>Alleviating HP Printer Error: Code OXC4EB827F</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canons-mp620-printer-not-recognized-by-win11/"><u>Canon's MP620 Printer Not Recognized by Win11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-print-job-stuck-in-queue-quickly/"><u>Fix ‘Print Job Stuck in Queue’ Quickly</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-effortlessly-update-your-hp-envy-5660s-system-with-the-latest-drivers/"><u>How to Effortlessly Update Your HP Envy 5660'S System with the Latest Drivers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quicken-your-print-jobs-easily/"><u>Quicken Your Print Jobs Easily</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamping-dell-machines-introducing-updated-windows-drivers/"><u>Revamping Dell Machines: Introducing Updated Windows Drivers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolution-or-replacement-gpts-effect-on-academic-essays/"><u>Revolution or Replacement? GPT’s Effect on Academic Essays</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solutions-for-printer-disconnection-problem-on-network/"><u>Solutions for Printer Disconnection Problem on Network</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-tecno-camon-20-pro-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Tecno Camon 20 Pro 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-absolutebly-eliminating-temporary-files-a-comprehensive-tutorial-for-win11-users/"><u>Windows Absolutebly Eliminating Temporary Files: A Comprehensive Tutorial for Win11 Users</u></a></li>
+</ul></div>
 

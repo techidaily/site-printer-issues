@@ -1,7 +1,7 @@
 ---
 title: "Solved: Inkjet HP Not Printing Error"
-date: 2024-09-14T02:28:52.100Z
-updated: 2024-09-19T18:14:23.038Z
+date: 2024-09-23T04:40:08.182Z
+updated: 2024-09-26T08:03:48.320Z
 tags:
   - win11
   - win10
@@ -63,11 +63,33 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 1. Press the Window logo key and R key on your keyboard at the same time to open the Run dialog. In this dialog, type “control” and hit Enter. This will open the Control Panel.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb867beb0b.png)
 2. In Control Panel select**Devices and Printers** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 3. In the**Printers** section, right-click on your HP printer and then select**Set as default printer** . Click on**Yes** if prompted.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5476a01d.png)
 4. There is now a tick below the icon of your HP printer. That means it is now set as the default printer.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5fe2a9b6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Cancel all print jobs
 
@@ -77,21 +99,14 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 2. Right-click on your HP printer in the**Printers** section and select**See what’s printing** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e955d3a5d.png)
 3. Open the**Printer** menu and then select**Open As Administrator** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea27610b0.png)
@@ -99,21 +114,15 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea70940b1.png)
 5. **Confirm** your action.  
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987eaa0030f9.png)
 6. You have canceled all print jobs of your printer. Now check and see if it can run normally.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Check printer status
 
@@ -122,10 +131,10 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
  You need to ensure your HP printer has**enough** **paper, ink, or toner** , and it is**not stuck in a paper jam** . Also, check the status of your printer cartridge and try replacing it with a new one if it is not good enough. In some cases, your HP printer stops printing after you replace its parts. If this happens you should**install the original ones back** and see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6: Repair system files
@@ -162,6 +171,14 @@ Check your computer to see if your printer works properly.
 1. On your keyboard, press the**Windows logo key** and type cmd. Then right-click on **Command Prompt** and select **Run as administrator** .  
 ![how to open Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 2. Click**Yes** when prompted to confirm.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/sfc-scannow.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -183,5 +200,19 @@ Check your computer to see if your printer works properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-how-can-i-use-twitter-archive/"><u>[New] 2024 Approved How Can I Use Twitter Archive?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-creating-a-clickable-thumbnail-enhancing-video-visibility-without-costs-for-2024/"><u>[New] Creating a Clickable Thumbnail Enhancing Video Visibility without Costs for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-speeding-up-vimeo-streams-efficiently/"><u>[New] Speeding Up Vimeo Streams Efficiently</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mastering-identity-change-on-google-meet-via-pc-and-phone/"><u>[Updated] In 2024, Mastering Identity Change on Google Meet via PC & Phone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-seamless-blend-inserting-music-into-fb-video-posts/"><u>[Updated] In 2024, Seamless Blend Inserting Music Into FB Video Posts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-navigating-social-feed-anomalies-missing-video-ideas/"><u>2024 Approved Navigating Social Feed Anomalies Missing Video Ideas</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-tunetales-music-and-speech-review/"><u>2024 Approved TuneTales Music and Speech Review</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/correcting-hp-printers-critical-error-0xoxc4eb827f/"><u>Correcting HP Printer's Critical Error 0xOXC4EB827F</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eliminating-ghost-bars-in-hp-printers-output/"><u>Eliminating Ghost Bars in HP Printer's Output</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-inkjet-not-printing-now-good-to-go/"><u>HP Inkjet Not Printing, Now Good to Go</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/search-unsuccessful-for-windows-printer-driver/"><u>Search Unsuccessful for Windows Printer Driver</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-audio-editing-in-fcp-tips-tricks-and-best-practices-for-2024/"><u>Updated Audio Editing in FCP Tips, Tricks, and Best Practices for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Successfully Added New Printer
-date: 2024-09-19T01:26:42.739Z
-updated: 2024-09-20T01:40:37.997Z
+date: 2024-09-18T16:55:19.570Z
+updated: 2024-09-25T22:28:02.290Z
 tags:
   - win11
   - win10
@@ -60,6 +60,13 @@ This should fix the problem. If not, proceed to solution 2.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6276881dc81.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the printer driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -90,11 +97,25 @@ To delete the printer keys, here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57973526811ea.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Press **Win+R** (Windows logo key and R key) at the same time to invoke the Run box.
 
 3) Type**regedit**  in the run box and click **OK** to open  the Registry Editor dialog box.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/img_56fb391581cd9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Locate the following registry key according to the system version installed on your PC . If you’re not sure what specific version of Windows you have, refer to [Quickly Get Operating System Version](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -103,6 +124,13 @@ To delete the printer keys, here’s what you need to do:
  **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Print\\Environments\\Windows NT x86\\Drivers\\Version-x** (Note x will be a different number in different PC. In my case, it is version-3.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57972e8c6def5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57972ed64a5f9.png)
 
@@ -139,12 +167,26 @@ For   **64-bit** operating system:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://printer-issues.techidaily.com/bugfix-windows-printer-spooler-stuck/"><u>[BUGFIX] Windows Printer Spooler Stuck</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ultimate-collection-highest-ranking-8-4k-players/"><u>[New] In 2024, Ultimate Collection Highest Ranking 8 4K Players</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-defining-your-digital-dna-a-guide-to-youtubing-personal-branding-for-2024/"><u>[Updated] Defining Your Digital DNA A Guide to YouTubing Personal Branding for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-uniting-visuals-the-art-of-video-sequence-composition/"><u>[Updated] In 2024, Uniting Visuals The Art of Video Sequence Composition</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canon-printer-mute-how-to-engage/"><u>Canon Printer Mute - How to Engage?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/customized-ad-experiences-with-advanced-cookiebot-technology/"><u>Customized Ad Experiences with Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-tutorial-on-transferring-apple-login-details-via-csv-format-for-safekeeping-and-exchange/"><u>Easy Tutorial on Transferring Apple Login Details via CSV Format for Safekeeping and Exchange</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-gionee-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Gionee</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-isolating-subject-with-affinity/"><u>In 2024, Isolating Subject with Affinity</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/lighten-up-on-slow-prints-quickly/"><u>Lighten Up on Slow Prints Quickly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/master-brother-printer-print-issues-a-win1011-fix-guide/"><u>Master Brother Printer Print Issues: A Win10/11 Fix Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-errors-detected-during-printer-setup/"><u>No Errors Detected During Printer Setup</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-a-silent-canon-printer/"><u>Reviving a Silent Canon Printer</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-founding-an-indie-review-platform-for-fashion-and-apparel/"><u>The Ultimate Guide to Founding an Indie Review Platform for Fashion and Apparel</u></a></li>
+<li><a href="https://android-frp.techidaily.com/toms-tech-insights-the-ultimate-gadget-guide/"><u>Tom's Tech Insights: The Ultimate Gadget Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unprinted-pages-issue-on-hp-printer-fixed/"><u>Unprinted Pages Issue on HP Printer Fixed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/white-sheet-woes-end-with-hp-printer-update-fixed/"><u>White Sheet Woes End with HP Printer Update Fixed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-10-printer-spooler-non-responsive/"><u>Windows 10 Printer Spooler Non-Responsive</u></a></li>
+</ul></div>
 

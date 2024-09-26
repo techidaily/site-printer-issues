@@ -1,7 +1,7 @@
 ---
 title: Address Imprinter Malfunctions in Windows 11
-date: 2024-09-16T01:20:53.752Z
-updated: 2024-09-20T08:44:30.119Z
+date: 2024-09-19T02:22:24.531Z
+updated: 2024-09-26T05:37:34.738Z
 tags:
   - win11
   - win10
@@ -56,6 +56,13 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970573577e43.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Way 2: Use Windows Update for new drivers**
 
  Please refer to steps below how to use Windows Update in Windows 10 to update drivers.
@@ -64,9 +71,23 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057a9598ee.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In Settings window, click **Update & security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057ddb9441.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) In **UPDATE & SECURITY** , click**Windows Update** in left pane.
 
@@ -98,6 +119,13 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59705887d6c6d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Hopefully you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
 <ins class="adsbygoogle"
@@ -113,12 +141,19 @@ For some printers, you need to update the drivers manually step by step.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-social-media-snipping-an-easy-method-for-capturing-twitters-gifs/"><u>[Updated] In 2024, Social Media Snipping An Easy Method for Capturing Twitter’s GIFs</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-investment-worthy-asmr-sound-for-every-fan/"><u>2024 Approved Investment-Worthy ASMR Sound for Every Fan</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/boost-printing-speed-instantly/"><u>Boost Printing Speed Instantly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/boosting-drive-efficiency-mf4770n-and-windows-systems/"><u>Boosting Drive Efficiency: MF4770n & Windows Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-mastering-the-art-of-uplifting-daily-existence-videos/"><u>In 2024, Mastering the Art of Uplifting Daily Existence Videos</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/new-fixed-version-printing-whole-documents/"><u>New Fixed Version: Printing Whole Documents</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/rescue-your-corrupted-photos-easily-using-our-complimentary-fixing-software/"><u>Rescue Your Corrupted Photos Easily Using Our Complimentary Fixing Software</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/streamlining-hp-color-laser-all-in-one-installation/"><u>Streamlining HP Color Laser All-In-One Installation</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-guide-your-canon-printer-wont-print/"><u>Troubleshooting Guide: Your Canon Printer Won't Print</u></a></li>
+<li><a href="https://win11.techidaily.com/1719320743244-windows-users-run-a-cost-free-locally-operated-gpt-model/"><u>Windows Users: Run a Cost-Free, Locally Operated GPT Model</u></a></li>
+</ul></div>
 

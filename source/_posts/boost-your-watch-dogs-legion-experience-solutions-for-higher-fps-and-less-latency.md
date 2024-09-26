@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Watch Dogs: Legion Experience – Solutions for Higher FPS and Less Latency"
-date: 2024-09-15T22:13:33.622Z
-updated: 2024-09-19T21:53:43.388Z
+date: 2024-09-19T23:20:00.024Z
+updated: 2024-09-25T22:44:17.488Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -43,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 * If you have low-speed Internet, it could lead to an unstable Internet connection. You can google “Internet speed test” and pick a tool to**test your Internet speed** . However, when your Internet connection is unreasonably slow, consider contacting your Internet provider for help.
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Install all the game updates
 
@@ -60,32 +74,40 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
-5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
+5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
@@ -102,13 +124,6 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
  1) [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
@@ -127,13 +142,6 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -156,5 +164,20 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-quick-steps-for-capturing-cs-go-sessions/"><u>[Updated] In 2024, Quick Steps for Capturing CS GO Sessions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-detailed-guidance-how-to-add-custom-ringtones-and-sounds-to-your-android/"><u>2024 Approved A Detailed Guidance How To Add Custom Ringtones And Sounds To Your Android?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artwork-security-in-the-age-of-generative-ais-how-to-enforce-copyright-protection-successfully/"><u>Artwork Security in the Age of Generative AIs: How to Enforce Copyright Protection Successfully</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/avoid-keyword-stuffing-instead-aim-for-a-natural-flow-of-words-that-feels-conversational-while-still-incorporating-crucial-search-terms/"><u>Avoid Keyword Stuffing; Instead, Aim for a Natural Flow of Words that Feels Conversational While Still Incorporating Crucial Search Terms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722134339961-chatgpt-desktop-unavailable-yet-discover-exceptional-open-source-tools-to-bridge-the-gap/"><u>ChatGPT Desktop Unavailable Yet? Discover Exceptional Open Source Tools to Bridge the Gap.</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/effortlessly-rectify-canons-no-print-issue-with-these-5-window-11-tips/"><u>Effortlessly Rectify Canon's No-Print Issue with These 5 Window 11 Tips</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-5m-push-for-new-media-landscape-in-authorship-and-publishing/"><u>Facebook's $5M Push for New Media Landscape in Authorship and Publishing</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guide-setting-up-hp-projetronics-with-pc/"><u>Guide: Setting up HP Projetronics with PC</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-detailed-breakdown-bublcam-360-reviewed/"><u>In 2024, Detailed Breakdown Bublcam 360 Reviewed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/method-linking-hp-printer-to-personal-computer/"><u>Method: Linking HP Printer to Personal Computer</u></a></li>
+<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revive-printing-overcome-windows-11-issues/"><u>Revive Printing: Overcome Windows 11 Issues</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-motorola-moto-g-stylus-2023-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Motorola Moto G Stylus (2023)</u></a></li>
+</ul></div>
 

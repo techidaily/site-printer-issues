@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Printer Not Printing in Color"
-date: 2024-09-17T19:22:29.104Z
-updated: 2024-09-19T16:51:37.655Z
+date: 2024-09-19T19:24:55.132Z
+updated: 2024-09-25T18:37:24.019Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 
 [4: Repair system files](#fix4)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Perform basic troubleshooting
 
  When your printer only prints in black-and-white all of a sudden, the first thing you can do is performing some basic troubleshooting. Sometimes you’ll just need to replace the ink cartridge or adjust a setting, and your printer will work just fine. To perform basic troubleshooting, you can follow these steps:
@@ -41,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 * Clean the print head. Most printers have an automatic cleaning feature now. If your printer doesn’t, you can try to manually clean it. Please refer to a guide while doing so.
 * Make sure the printer is correctly connected to your device.
 * Restart your printer and test the issue again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Try to print from a different device
 
@@ -64,14 +78,14 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_12-11-25.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](mailto:support@drivereasy.com) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Repair system files
 
@@ -85,14 +99,15 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -115,5 +130,16 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-streamlining-communication-utilizing-masks-and-filters/"><u>[New] In 2024, Streamlining Communication Utilizing Masks and Filters</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-gif-capture-on-mac-10-best-tools-ranked/"><u>[Updated] GIF Capture on Mac 10 Best Tools Ranked</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/boost-operational-efficiency-with-mf4770n-on-w11w8w7-windows/"><u>Boost Operational Efficiency with MF4770n on W11/W8/W7 Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-multifunction-device-shows-unwanted-emptiness/"><u>Epson Multifunction Device Shows Unwanted Emptiness</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guide-to-enable-brother-9330cdw-driver/"><u>Guide to Enable Brother 9330CDW Driver</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-infinix-gt-10-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Infinix GT 10 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-the-frequent-failure-of-print-spooler-service/"><u>Resolving the Frequent Failure of Print Spooler Service</u></a></li>
+</ul></div>
 

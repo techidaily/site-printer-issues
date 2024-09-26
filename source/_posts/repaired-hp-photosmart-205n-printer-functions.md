@@ -1,7 +1,7 @@
 ---
 title: Repaired HP Photosmart 205N Printer Functions
-date: 2024-09-14T20:50:29.621Z
-updated: 2024-09-20T09:32:20.673Z
+date: 2024-09-20T00:53:48.720Z
+updated: 2024-09-26T09:03:28.271Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Set your printer as default
 
  When you are trying to print something, your computer will automatically assign these printing tasks to the default printer unless you choose another one on purpose. So your HP printer won’t do its job if you neither set it as the default printer nor select it as the printer to print.
@@ -63,6 +70,14 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
 1. Press the Window logo key and R key on your keyboard at the same time to open the Run dialog. In this dialog, type “control” and hit Enter. This will open the Control Panel.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb867beb0b.png)
 2. In Control Panel select**Devices and Printers** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 3. In the**Printers** section, right-click on your HP printer and then select**Set as default printer** . Click on**Yes** if prompted.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5476a01d.png)
@@ -70,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5fe2a9b6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Cancel all print jobs
@@ -83,19 +98,34 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
 1. Open **Devices and Printers**  in the Control Panel. (You can refer to [**steps a and b**](#f) in the method above.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 2. Right-click on your HP printer in the**Printers** section and select**See what’s printing** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e955d3a5d.png)
 3. Open the**Printer** menu and then select**Open As Administrator** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea27610b0.png)
 4. Open**Printer** menu again. This time select**Cancel All Documents** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea70940b1.png)
 5. **Confirm** your action.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987eaa0030f9.png)
@@ -106,6 +136,19 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
  If you have tried the methods above and your HP printer still cannot print, you may need to check if there are hardware issues on your printer.
 
  You need to ensure your HP printer has**enough** **paper, ink, or toner** , and it is**not stuck in a paper jam** . Also, check the status of your printer cartridge and try replacing it with a new one if it is not good enough. In some cases, your HP printer stops printing after you replace its parts. If this happens you should**install the original ones back** and see if the problem is resolved.
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Repair system files
 
@@ -128,13 +171,6 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 4. If you need to proceed with the repair function, you’ll be required to purchase the full version.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Restart your computer for the changes to take effect.
 
  The full version of Fortect comes with a 60-day money-back guarantee and full customer support. If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact their support team.
@@ -148,13 +184,6 @@ Check your computer to see if your printer works properly.
 1. On your keyboard, press the**Windows logo key** and type cmd. Then right-click on **Command Prompt** and select **Run as administrator** .  
 ![how to open Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 2. Click**Yes** when prompted to confirm.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/sfc-scannow.jpg)  
@@ -177,5 +206,21 @@ Check your computer to see if your printer works properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/updated-top-ringtone-choices-essential-downloads-guide/"><u>[Updated] Top Ringtone Choices Essential Downloads Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-process-fetching-and-installing-current-xp-pen-graphics-tablet-drivers/"><u>Effortless Process: Fetching and Installing Current XP-Pen Graphics Tablet Drivers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/error-0x00000709-windows-printer-setup-successfully-fixed/"><u>Error 0X00000709: Windows Printer Setup Successfully Fixed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/filmopedia-answer-to-inquiries-for-2024/"><u>FilmoPedia Answer to Inquiries for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/high-performance-drivers-hp-officejet-pro-8600-for-windows-pcs/"><u>High-Performance Drivers: HP Officejet Pro 8600 for Windows PCs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-iphone-15-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your iPhone 15 and iPad</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-a78-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Oppo A78 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-13-mini-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 13 mini i Do? Get Answers here</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-facebooks-privacy-constructing-a-restricted-list-for-controlled-visibility/"><u>Mastering Facebook's Privacy: Constructing a Restricted List for Controlled Visibility</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/precision-guided-instructions-your-ultimate-guide-to-hp-printer-installation/"><u>Precision-Guided Instructions: Your Ultimate Guide to HP Printer Installation</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reconciled-printer-not-responding/"><u>Reconciled: Printer Not Responding</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-a-non-responsive-canon-printer/"><u>Reviving a Non-Responsive Canon Printer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/watching-taylor-swifts-cinematic-journey-step-by-step/"><u>Watching Taylor Swift's Cinematic Journey Step-by-Step</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/why-is-my-printer-black-and-white/"><u>Why Is My Printer Black & White?</u></a></li>
+</ul></div>
 

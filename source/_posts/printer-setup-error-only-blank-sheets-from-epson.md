@@ -1,7 +1,7 @@
 ---
 title: "Printer Setup Error: Only Blank Sheets From Epson"
-date: 2024-09-16T19:51:27.400Z
-updated: 2024-09-20T05:14:15.403Z
+date: 2024-09-22T02:26:23.525Z
+updated: 2024-09-25T21:22:56.703Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 3. [Update your printer driver](#f3)
 4. [Install Fortect](#f4)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check your ink cartridges
 
  There are**three situations** in checking your ink cartridges.
@@ -45,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
  The second situation is that**one of your ink cartridges is out of ink** . There is a sentence in the Epson manual which most people might ignore: **You cannot print or copy when an ink cartridge is expended even if the other cartridges are not expended.** If one of your cartridges is expended, you should replace it with a new one. Otherwise, you may encounter the printing blank pages issue.
 
  The third condition is that you’ve replaced a new ink cartridge but**you forget to remove the protective tape** . New cartridges have protective tape. Not only that it keep the ink from leaking, but it actually protects the print nozzles of sensitive ink cartridges. But you should be careful with the additional transparent plastic or a pointed mechanism, do not remove it or your cartridge will leak or malfunction.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Clean your clogged Nozzles
 
@@ -60,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
  If your printer is under warranty and you didn’t see any improvements after cleaning, you can contact Epson for further instructions. But if you are no longer under warranty, you can clean the nozzle manually.
 
 **Note** : This Printhead Cleaning Cycles cannot be used too often. Allow your printer to rest for at least 6 hours after one cycle (recommended by Epson), then go through a cleaning cycle again. Doing this program repeatedly will make your clog worse and use a lot of ink.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your printer driver
 
@@ -93,27 +100,20 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/%E6%96%B0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/epson.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you encounter problems while using Driver Easy, please send an email to [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install Fortect
 
@@ -128,6 +128,13 @@ Here’s how to use it:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -149,5 +156,19 @@ Here’s how to use it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-guide-to-mass-extraction-of-tiktok-content/"><u>[New] In 2024, Guide to Mass Extraction of TikTok Content</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-precision-based-adjustments-for-maximum-impact-on-instagram-tv-for-2024/"><u>[Updated] Precision-Based Adjustments for Maximum Impact on Instagram TV for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-superior-non-zoom-virtual-meeting-options-for-pcs-and-smartphones/"><u>2024 Approved Superior Non-Zoom Virtual Meeting Options for PCs & Smartphones</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/all-you-need-to-know-about-adobe-storages-including-top-non-adobe-alternates-for-2024/"><u>All You Need to Know About Adobe Storages, Including Top Non-Adobe Alternates for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/extract-focus-from-logitech-cam-feed/"><u>Extract Focus From Logitech Cam Feed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-14-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone 14 Plus? | Stellar</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/instantly-free-up-print-queue/"><u>Instantly Free Up Print Queue</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/nozzle-clog-in-hp-printer-cleared-successfully/"><u>Nozzle Clog in HP Printer Cleared Successfully</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/preserve-your-design-templates-easily-with-flipcreator-a-comprehensive-tutorial/"><u>Preserve Your Design Templates Easily with FlipCreator: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-error-post-update-fix/"><u>Printer Error Post-Update Fix</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/stepwise-process-for-connecting-your-canon-printer/"><u>Stepwise Process for Connecting Your Canon Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574001783-technical-mishap-printer-setup-misstep/"><u>Technical Mishap: Printer Setup Misstep</u></a></li>
+</ul></div>
 

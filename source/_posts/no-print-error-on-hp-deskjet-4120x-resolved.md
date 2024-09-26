@@ -1,7 +1,7 @@
 ---
 title: No-Print Error on HP DeskJet 4120X Resolved
-date: 2024-09-16T08:11:23.128Z
-updated: 2024-09-19T21:14:22.265Z
+date: 2024-09-18T18:44:55.273Z
+updated: 2024-09-25T19:20:30.841Z
 tags:
   - win11
   - win10
@@ -33,6 +33,19 @@ thumbnail: https://thmb.techidaily.com/5bc10bcfbea3c36ca839a96ba01fc56320fae45e4
 
  You can also try restarting your HP printer.**Turn** it**off** completely and**unplug the power cord** , leave it for a couple of minutes, and then**plug** the cord**back** and**power on** the printer. See if your printer can print as normally as before.
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Update or reinstall the printer driver
 
  In many cases, the printer won’t print issue comes from faulty drivers. You may need to update or reinstall the printer driver to fix your HP printer, not the printing issue.
@@ -52,6 +65,19 @@ thumbnail: https://thmb.techidaily.com/5bc10bcfbea3c36ca839a96ba01fc56320fae45e4
 ![](https://www.drivereasy.com/wp-content/uploads/2021/10/de-update-all-hp-printer.jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 ## Fix 3: Set your printer as default
@@ -65,15 +91,23 @@ thumbnail: https://thmb.techidaily.com/5bc10bcfbea3c36ca839a96ba01fc56320fae45e4
 2. In Control Panel select**Devices and Printers** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 3. In the**Printers** section, right-click on your HP printer and then select**Set as default printer** . Click on**Yes** if prompted.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5476a01d.png)
 4. There is now a tick below the icon of your HP printer. That means it is now set as the default printer.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5fe2a9b6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Cancel all print jobs
@@ -87,10 +121,10 @@ thumbnail: https://thmb.techidaily.com/5bc10bcfbea3c36ca839a96ba01fc56320fae45e4
 3. Open the**Printer** menu and then select**Open As Administrator** .  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea27610b0.png)
@@ -99,28 +133,21 @@ thumbnail: https://thmb.techidaily.com/5bc10bcfbea3c36ca839a96ba01fc56320fae45e4
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea70940b1.png)
 5. **Confirm** your action.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987eaa0030f9.png)
 6. You have canceled all print jobs of your printer. Now check and see if it can run normally.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Check printer status
 
  If you have tried the methods above and your HP printer still cannot print, you may need to check if there are hardware issues on your printer.
 
  You need to ensure your HP printer has**enough** **paper, ink, or toner** , and it is**not stuck in a paper jam** . Also, check the status of your printer cartridge and try replacing it with a new one if it is not good enough. In some cases, your HP printer stops printing after you replace its parts. If this happens you should**install the original ones back** and see if the problem is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Repair system files
 
@@ -159,6 +186,14 @@ Check your computer to see if your printer works properly.
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/sfc-scannow.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the printer works properly.
 
@@ -177,5 +212,22 @@ Check your computer to see if your printer works properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://printer-issues.techidaily.com/driver-search-problem-windows-10-cant-find-mp620-printer-driver/"><u>[Driver Search] Problem: Windows 10 Can't Find MP620 Printer Driver</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-overcoming-the-challenge-of-hidden-youtube-shorts-thumbnails/"><u>[New] 2024 Approved Overcoming the Challenge of Hidden YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-perfecting-the-pause-how-to-craft-exceptional-slow-motion-videos/"><u>[New] 2024 Approved Perfecting the Pause How to Craft Exceptional Slow Motion Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-above-and-beyond-selecting-premium-software-for-drone-filmmaking/"><u>[New] Above & Beyond Selecting Premium Software for Drone Filmmaking</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-grasping-basics-your-guide-to-av1-encoding/"><u>[New] Grasping Basics Your Guide to AV1 Encoding</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfecting-the-pause-how-to-craft-exceptional-slow-motion-videos/"><u>2024 Approved Perfecting the Pause How to Craft Exceptional Slow Motion Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/accelerated-learning-quick-start-to-becoming-a-lut-expert/"><u>Accelerated Learning Quick Start to Becoming a LUT Expert</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574049626-fix-print-job-stuck-in-queue-quickly/"><u>Fix 'Print Job Stuck in Queue' Quickly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-compress-videos-for-easy-sharing-on-whats-app-pc-online-or-mobile-guide/"><u>How to Compress Videos for Easy Sharing on What's App: PC, Online or Mobile Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mastering-quick-fixes-for-pcl-xl-errors/"><u>Mastering Quick Fixes for PCL XL Errors</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-errors-in-connecting-printer-to-pc/"><u>No Errors in Connecting Printer to PC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resetting-failed-printer-defaults-error-code-0x00000709-overcome/"><u>Resetting Failed Printer Defaults: Error Code 0X00000709 Overcome</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-hp-printer-connectivity-issues/"><u>Resolving HP Printer Connectivity Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-activatingdeactivating-the-touch-typing-display-on-windows-10/"><u>Step-by-Step Guide: Activating/Deactivating the Touch Typing Display on Windows 10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win-removal-guide-for-external-devices/"><u>Win Removal Guide for External Devices</u></a></li>
+</ul></div>
 

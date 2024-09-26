@@ -1,7 +1,7 @@
 ---
 title: "Oddity in Output: Multiple Users on One Printer"
-date: 2024-09-15T22:27:58.194Z
-updated: 2024-09-20T08:38:47.386Z
+date: 2024-09-24T00:08:58.463Z
+updated: 2024-09-26T05:45:12.069Z
 tags:
   - win11
   - win10
@@ -31,14 +31,37 @@ If you get an error message **Another computer is using the printer** when you t
 
 **Note:** the screenshots below are taken from Windows 10, but the solutions apply to Windows 7/8 as well.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1 – Restart the Print Spooler service
 
 Restarting the Printer Spooler in Services solves most printer issues. To do so, you can cancel all the print jobs first, then follow these steps:
 
 1. On your keyboard, press the**Windows** ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ecde832800.png) **key** and**R** at the same time to open the Run box.
 2. Type**services.msc** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8dfc0e6f9a0.png)
 3. Navigate to and select**Print Spooler** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click**Restart** on the upper left to restart the Printer Spooler service.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8dfd51db2d7.jpg)
 5. Check by printing something.
@@ -65,16 +88,29 @@ Another solution that works for many users is **turning the computer, printer, a
 3. Open the**Printers** entry,**right-click** on your printer and select**Update driver** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e295e26ad5.jpg)
 4. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e23644640b.png)
 
 **Note:** It’s possible that Windows could not find driver updates and tell you that**The best drivers for your device are already installed** . (see screenshot below)![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e23a869312.png) Then you can try **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  , a tool that detects, downloads and (if you go Pro) installs any driver updates your computer needs.
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Driver Easy**will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee):
 
@@ -84,13 +120,20 @@ Another solution that works for many users is **turning the computer, printer, a
 4. Restart your PC to check if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 4 – Set your printer as the default printer
 
@@ -112,10 +155,10 @@ Follow me:
 3. Under**Printers & scanners** , select the printer you want to use and click the**Manage** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e4b908f54e.png)
@@ -129,13 +172,6 @@ Follow me:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e4cb5d5468.jpg)
 3. In the**Printers** section,**right-click** on the printer you want to use and select**Set as default printer** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e4e5b47d6c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### **If you’re using Windows 7**
 
 1. click the**Start** button, and **Devices and Printers** .  
@@ -144,19 +180,6 @@ Follow me:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e5138866c6.jpg)
 Then, close the window and test if your printer is working now.
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -189,5 +212,16 @@ The above are our recommended solutions to the **Another computer is using the p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-capture-your-screen-on-chromebook-methods-4-you/"><u>[New] In 2024, Capture Your Screen on Chromebook Methods 4 You</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-realme-c67-4g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Realme C67 4G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574151519-canon-printer-is-offline-heres-how-to-fix-it/"><u>Canon Printer Is Offline? Here's How to Fix It</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/colors-not-filling-in-prints/"><u>Colors Not Filling In Prints</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/dell-inkjet-aio-updater-for-win7/"><u>Dell Inkjet AIO Updater for Win7</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-upload-ubiquity-from-twitter-to-snapchat-videos/"><u>In 2024, Upload Ubiquity From Twitter to Snapchat Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/random-key-disruption/"><u>Random Key Disruption</u></a></li>
+<li><a href="https://techidaily.com/update-your-hardware-drivers-with-device-manager-on-windows-1110-by-drivereasy-guide/"><u>Update your hardware drivers with Device Manager on Windows 11/10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/zeroing-in-on-printer-default-error-0x00000709-victory/"><u>Zeroing In on Printer Default Error 0X00000709 Victory</u></a></li>
+</ul></div>
 

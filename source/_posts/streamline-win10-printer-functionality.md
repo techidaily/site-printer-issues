@@ -1,7 +1,7 @@
 ---
 title: Streamline WIN10 Printer Functionality
-date: 2024-09-16T16:23:36.690Z
-updated: 2024-09-20T04:33:46.400Z
+date: 2024-09-23T19:42:39.138Z
+updated: 2024-09-25T18:47:00.047Z
 tags:
   - win11
   - win10
@@ -56,6 +56,13 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970573577e43.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Way 2: Use Windows Update for new drivers**
 
  Please refer to steps below how to use Windows Update in Windows 10 to update drivers.
@@ -63,6 +70,13 @@ For some printers, you need to update the drivers manually step by step.
  1) Click**Start** menu and click**Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057a9598ee.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In Settings window, click **Update & security.**
 
@@ -73,6 +87,13 @@ For some printers, you need to update the drivers manually step by step.
  Click**Check for updates** , and then wait while Windows looks for the latest updates for your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057f2e0efc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click the link that tells you optional updates are available. (If you don’t see this link, it means Windows Update didn’t find any updates for your computer.)
 
@@ -91,6 +112,13 @@ For some printers, you need to update the drivers manually step by step.
  2) Run Driver Easy and click **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970588279d8b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update** button next to the printer driver to automatically download, you can manually install the correct version of this driver (you can do this with the FREE version).
 
@@ -113,12 +141,22 @@ For some printers, you need to update the drivers manually step by step.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://printer-issues.techidaily.com/fix-inactive-print-spooler-in-windows-os/"><u>[FIX] Inactive Print Spooler in Windows OS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-ultimate-pathway-to-perfected-kinemaster-edits/"><u>[New] 2024 Approved The Ultimate Pathway to Perfected Kinemaster Edits</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-authenticity-audit-filtering-out-pretend-facebook-fans/"><u>[Updated] Authenticity Audit Filtering Out Pretend Facebook Fans</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-asus-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Asus FRP Bypass Instantly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-solutions-to-faulty-beats-audio-integration-on-windows-11-windows-8-and-windows-7-pcs-by-hewlett-packard/"><u>Easy Solutions to Faulty Beats Audio Integration on Windows 11, Windows 8 & Windows 7 PCs by Hewlett-Packard</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/how-to-screen-record-facetime-calls/"><u>How to Screen Record FaceTime Calls</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/network-printer-vanishes-whats-the-remedy/"><u>Network Printer Vanishes, What's the Remedy?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reactivating-scanner-link-to-computer-post-update/"><u>Reactivating Scanner Link to Computer Post-Update</u></a></li>
+<li><a href="https://app-tips.techidaily.com/riding-the-wave-of-pervasive-device-expansion-in-edge-investments-boost-your-career-with-insights-from-zdnet/"><u>Riding the Wave of Pervasive Device Expansion in Edge Investments: Boost Your Career with Insights From ZDNet</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/setup-snag-your-printer-is-confused/"><u>Setup Snag: Your Printer Is Confused</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-5-mejores-reproductores-de-video-en-4k-uhd-para-computadoras-y-macs/"><u>Top 5 Mejores Reproductores De Video en 4K UHD Para Computadoras Y Macs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/understanding-why-youre-not-seen-for-2024/"><u>Understanding Why You're Not Seen for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unraveling-the-mystery-printer-works-after-win-10-patch/"><u>Unraveling the Mystery: Printer Works After Win 10 Patch</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win-system-cannot-retrieve-printer-drivers/"><u>Win System: Cannot Retrieve Printer Drivers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-update-the-silent-printer/"><u>Windows Update: The Silent Printer</u></a></li>
+</ul></div>
 

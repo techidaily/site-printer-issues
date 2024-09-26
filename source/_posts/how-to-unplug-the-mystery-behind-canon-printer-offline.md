@@ -1,7 +1,7 @@
 ---
 title: How To Unplug the Mystery Behind Canon Printer Offline
-date: 2024-09-18T01:37:28.962Z
-updated: 2024-09-20T00:23:40.216Z
+date: 2024-09-19T16:01:07.542Z
+updated: 2024-09-25T18:07:28.272Z
 tags:
   - win11
   - win10
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/93edfabf29b4caf147522fd2f74f95df8196bbd7b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598154a852f36.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Hardware and Sound** \>**Devices and Printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5981556632ee4.jpg)
@@ -60,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/93edfabf29b4caf147522fd2f74f95df8196bbd7b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59816ecc61763.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**Printer** to see if**Use Printer Offline** is unchecked. If it’s checked on with a**√** mark, click it to uncheck.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59816f74c7ba3.png)
@@ -67,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/93edfabf29b4caf147522fd2f74f95df8196bbd7b
  5) Click Printer again and this time click**Cancel All Documents** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5981707ccc034.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6) Print your file to see if your Canon printer works.
 
@@ -83,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/93edfabf29b4caf147522fd2f74f95df8196bbd7b
  3 ) In the**Printers** section, find and right-click your Canon printer. Then select**See what’s printing** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-see-whats-printing.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click the**Printer** tab and make sure the**Use Printer Offline** is not checked on with a **√** mark.
 
@@ -126,6 +154,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/update-all.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  All the drivers in Driver Easy come straight from the manufacturer. They’re all **certified as safe and secure** .
 
  4) Restart your computer and print your file to see if your Canon printer works.
@@ -145,12 +186,24 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-craft-impressive-content-with-proficient-video-cropping-and-exportation/"><u>[New] 2024 Approved Craft Impressive Content with Proficient Video Cropping & Exportation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-breaking-down-average-podcaster-salary/"><u>[New] Breaking Down Average Podcaster Salary</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ultimate-guide-top-screen-capture-apps-analysis-for-2024/"><u>[New] Ultimate Guide Top Screen Capture Apps Analysis for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-keywords-that-catapult-hashtag-hacks-in-gameplay-videos/"><u>2024 Approved Keywords that Catapult Hashtag Hacks in Gameplay Videos</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canon-printer-woes-here-are-your-five-easy-fixes-in-windows-11/"><u>Canon Printer Woes? Here Are Your Five Easy Fixes in Windows 11!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/easy-methods-for-fixing-broken-video-codecs-in-mp4-and-mov-using-vlc/"><u>Easy Methods for Fixing Broken Video Codecs in MP4 and MOV Using VLC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enabling-duplex-print-for-office-hp-devices/"><u>Enabling Duplex Print for Office HP Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-link-your-hp-deskjet-3055-to-computer-wi-fi/"><u>How to Link Your HP DeskJet 3055 to Computer Wi-Fi</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-14-pro-max-by-name-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Apple iPhone 14 Pro Max by Name | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-13-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 13 Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/joining-process-attaching-hp-officejet-to-desktop-pcs/"><u>Joining Process: Attaching HP Officejet to Desktop PCs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/network-services-interrupted-printer-fails/"><u>Network Services Interrupted, Printer Fails</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-not-responding-steps-for-windows-11/"><u>Printer Not Responding: Steps for Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restored-epson-workflow-flow/"><u>Restored Epson Workflow Flow</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-10-struggles-cannot-find-mp620-printer-drivers/"><u>Windows 10 Struggles: Cannot Find MP620 Printer Drivers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726218943364-wmvgif-movavi/"><u>オンラインで無料:WMVビデオを容易にGIF形式に変換する方法 - Movavi</u></a></li>
+</ul></div>
 

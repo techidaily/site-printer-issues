@@ -1,7 +1,7 @@
 ---
 title: Efficient Remedies for Common PCL XL Issues
-date: 2024-09-18T06:18:08.362Z
-updated: 2024-09-19T23:53:35.494Z
+date: 2024-09-21T04:23:07.542Z
+updated: 2024-09-26T06:14:46.671Z
 tags:
   - win11
   - win10
@@ -38,10 +38,26 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
 2. Go to_**C:\\Windows\\System32\\spool\\drivers\\x64\\3**_ .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bed329de33c1.jpg)
 3. Under this folder, filter the file type with the**.gpd** extension by clicking**down** **arrow** next to **Type** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bed334e2a0ed.jpg)
 4. Choose **GPD File** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bed33aa730e5.jpg)
 5. Rename all these files with**.gpd** extension to whatever you want. Before renaming these files, it’s recommended to backup first.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bed49e548eff.jpg)
 6. Save your changes and restart your computer.
 
@@ -73,16 +89,10 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
  Then use your printer to print again and see if it works. Still no luck? Okay, there’s one more thing to try.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Change your printing settings
@@ -94,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
 2. Click**Devices and Printers** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bed49a022ad1.jpg)
@@ -108,15 +118,16 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bed4a88c6584.jpg)
 5. Change**TrueType Font** to**Download** **as** **Softfont** , and set**Send True Type as Bitmap** to**Enabled** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bed4abcdd53f.jpg)
 6. Click**Apply** and**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bed4ae4ac0e4.jpg)
 7. Restart both your PC and printer.
 
@@ -138,5 +149,22 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-reclaim-lost-chatter-in-shared-tweeted-films/"><u>[Updated] In 2024, Reclaim Lost Chatter in Shared Tweeted Films</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-mastering-the-art-of-youtube-thumbnails-on-macos/"><u>2024 Approved Mastering the Art of YouTube Thumbnails on macOS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-gratis-ai-exploring-6-compelling-reasons-for-opting-for-chatgpt-plus-even-with-free-access-to-gpt-4/"><u>Beyond Gratis AI: Exploring 6 Compelling Reasons for Opting for ChatGPT Plus Even with Free Access to GPT-4</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhance-printer-velocity-now/"><u>Enhance Printer Velocity Now!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/immediate-actions-for-a-disconnected-printer/"><u>Immediate Actions for a Disconnected Printer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-groundbreaking-gradients-adobes-best-lut-choices-to-boost-your-lightroom-work/"><u>In 2024, Groundbreaking Gradients Adobe's Best LUT Choices to Boost Your LightRoom Work</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-apple-iphone-se-2020-look-no-further-drfone-by-drfone-virtual-ios/"><u>Looking For A Location Changer On Apple iPhone SE (2020)? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-not-showing-up-a-guide-for-windows-users/"><u>Printer Not Showing Up: A Guide for Windows Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/quick-insights-into-simplified-ipad-and-iphone-recording-for-2024/"><u>Quick Insights Into Simplified iPad & iPhone Recording for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revolutionizing-reports-with-paper-less-prints/"><u>Revolutionizing Reports with Paper-Less Prints</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/saving-photo-printouts-from-failures/"><u>Saving Photo Printouts From Failures</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unblocking-printer-service-on-windows-10-11-7/"><u>Unblocking Printer Service on Windows 10, 11, 7</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-powerhouses-of-social-networking-facebook-twitter-instagram-youtube/"><u>Understanding the Powerhouses of Social Networking: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Which Pokémon can Evolve with a Moon Stone For Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+</ul></div>
 

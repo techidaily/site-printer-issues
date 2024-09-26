@@ -1,7 +1,7 @@
 ---
 title: Reviving a Canon Device That Won't React
-date: 2024-09-13T21:40:10.682Z
-updated: 2024-09-19T18:35:02.892Z
+date: 2024-09-20T23:15:41.409Z
+updated: 2024-09-26T02:46:48.939Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 3. [**Restart the Print Spooler service**](#c)
 4. [**Configure the correct printer port for your printer**](#d)
 5. [**Update your printer driver**](#e)
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1: Do some basic troubleshooting
 
@@ -71,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b3207300145c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Open the troubleshooter:
 
  Click **Printer** and then **Run the troubleshooter** .
@@ -105,6 +119,13 @@ To reset this service:
 
 **1)** On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f05e61151ac.png) and **R** at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Type “_**services.msc**_ ” and press**Enter** on your keyboard. This will open the Services window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f1bc9808a1b.png)
@@ -125,13 +146,6 @@ To reset this service:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f05fa653ea6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Under**View by** , select**Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f05f6349879.jpg)
@@ -141,10 +155,10 @@ To reset this service:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0600edfd3e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Right-click your Canon printer, then click**Printer properties** .
@@ -166,24 +180,30 @@ To reset this service:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b32194502079.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **8)** Click the**General** tab, then click**Print Test Page** to check you’ve made the right change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b321a5ef2bf8.jpg)
 
- If you haven’t, repeat step 7 and 8 until your printer is working properly.
-
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you haven’t, repeat step 7 and 8 until your printer is working properly.
 
 ### Method 5: Update your printer driver
 
@@ -199,15 +219,28 @@ To reset this service:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b02a3b249666.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click the **Update**  button next to_your Canon printer_ to download the latest and correct driver for it, then you can install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b02a3d8e2197.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free, but it’s partly manual.
@@ -230,5 +263,22 @@ To reset this service:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://printer-issues.techidaily.com/fix-non-printing-usb-printers-on-win7-after-suspend/"><u>[Fix] Non-Printing USB Printers on Win7 After Suspend</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-record-powerpoint-presentation-with-webcam-for-2024/"><u>[New] How to Record PowerPoint Presentation with Webcam for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtubes-elite-gear-top-5-video-chat-headsets/"><u>2024 Approved YouTube's Elite Gear Top 5 Video Chat Headsets</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/addressing-oxc4eb827f-error-on-hp-devices/"><u>Addressing OXC4EB827F Error on HP Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-basics-to-mastery-unveiling-timelapse-shooting-techniques-with-gopro-for-2024/"><u>From Basics to Mastery Unveiling Timelapse Shooting Techniques with GoPro for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/full-colors-unavailable-on-printout/"><u>Full Colors Unavailable on Printout</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-poco-c50-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-6s-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 6s Plus without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-motorola-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Motorola FRP Without Computer</u></a></li>
+<li><a href="https://win-dash.techidaily.com/m-audio-fast-track-ultra-driver-free-download/"><u>M-Audio Fast Track Ultra Driver [Free Download]</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574154094-no-more-unprinted-pages-on-hp-printer-now/"><u>No More Unprinted Pages on HP Printer Now!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-paper-jam-phobia/"><u>Overcoming Paper Jam Phobia</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-stuck-printer-issues/"><u>Overcoming Stuck Printer Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-inkjet-error-on-windows-7/"><u>Resolved Inkjet Error on Windows 7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-valkyrie-vind-sl125-reviewed-stunning-design-yet-lacking-in-robust-performance/"><u>The Valkyrie Vind SL125 Reviewed: Stunning Design, Yet Lacking in Robust Performance</u></a></li>
+</ul></div>
 

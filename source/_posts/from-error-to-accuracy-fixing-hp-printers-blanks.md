@@ -1,7 +1,7 @@
 ---
 title: "From Error to Accuracy: Fixing HP Printer's Blanks"
-date: 2024-09-13T22:33:03.864Z
-updated: 2024-09-19T23:12:36.030Z
+date: 2024-09-20T05:31:35.087Z
+updated: 2024-09-26T06:17:25.899Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/900669a0826258b005cbb54f95db85d32c0fe9527
 * [Fix 6: Configure Printer Spooler service](#d)
 
  You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Repair System Files
 
@@ -115,13 +122,6 @@ thumbnail: https://thmb.techidaily.com/900669a0826258b005cbb54f95db85d32c0fe9527
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-842.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -158,6 +158,19 @@ If your issue persists, then move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-845.png)
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** When the troubleshooting is complete, try printing a page to see if your printer works correctly.
 
  If your printer still can’t print or no printer issues are identified, try [**fix 3**](#b) .
@@ -181,10 +194,10 @@ If your issue persists, then move on and try the fix below.
 If this didn’t work for you, read on and check the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Download and run HP Print and Scan Doctor
@@ -203,14 +216,20 @@ If this didn’t work for you, read on and check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-851.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If your problem persists, don’t worry. There is 1 more fix to try.
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Configure Printer Spooler service
 
@@ -222,13 +241,6 @@ If your problem persists, don’t worry. There is 1 more fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-855.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Select**Services** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-856.png)
@@ -238,10 +250,10 @@ If your problem persists, don’t worry. There is 1 more fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-857.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Click**Stop** , and then click**OK** .
@@ -252,6 +264,13 @@ If your problem persists, don’t worry. There is 1 more fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-859.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Go to**C:\\Windows\\System32\\spool\\PRINTERS:**
 
  If you’re prompted about permissions, click**Continue** .
@@ -261,6 +280,13 @@ If your problem persists, don’t worry. There is 1 more fix to try.
 **7)** Delete all files in this folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/delete-files.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **8)** On your keyboard, press the**Windows logo** key and type**services.**
 
@@ -277,6 +303,13 @@ If your problem persists, don’t worry. There is 1 more fix to try.
 **11)** Click**Start** . Then, make sure the**Startup type** is set to**Automatic** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-865.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **12)** Try printing a page to test your issue.
 
@@ -303,5 +336,19 @@ If your problem persists, don’t worry. There is 1 more fix to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://printer-issues.techidaily.com/driver-issue-windows-11-not-supporting-canon-mp620/"><u>[Driver Issue] Windows 11 Not Supporting Canon MP620</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-streamers-dilemma-deciding-between-obs-and-shadowplay/"><u>[New] Streamers' Dilemma Deciding Between OBS and ShadowPlay</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-capturing-content-live-review-of-premium-obs-options/"><u>[Updated] 2024 Approved Capturing Content Live Review of Premium OBS Options</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-future-earnings-gaming-geeks-on-youtube/"><u>2024 Approved Future Earnings Gaming Geeks on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-creativity-adding-professional-radial-effect-to-photos/"><u>2024 Approved Unleash Creativity Adding Professional Radial Effect to Photos</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/elevate-hp-officejet-4630-latest-software-releases/"><u>Elevate HP Officejet 4630: Latest Software Releases</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-offline-workflow-blockage/"><u>Fixed Offline Workflow Blockage</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-fix-slow-printing-easily-and-quickly/"><u>How to Fix Slow Printing [Easily & Quickly]</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-realme-10t-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Realme 10T 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tips-for-restarting-non-functional-hp-photo-units/"><u>Tips for Restarting Non-Functional HP Photo Units</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-s24plus-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Samsung Galaxy S24+ Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Installing HP PhotoSmart Printer"
-date: 2024-09-16T20:39:28.012Z
-updated: 2024-09-20T02:30:50.401Z
+date: 2024-09-24T19:16:50.673Z
+updated: 2024-09-26T03:30:53.006Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ Now let’s start!
 
 **Note** : Part of the setup process requires your computer to be temporarily disconnected from your wireless network. During this time you will not have Internet access. Be sure to save any online work or downloads before continuing with this setup method.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 2: Wireless setup wizard (printer with display)
 
  This method needs you to run from the**printer’s control panel** . So it’s not available for the printer without a touch display.
@@ -70,6 +77,13 @@ Now let’s start!
 
 **6)** Press**OK** to confirm the settings.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 3: WPS (Wi-Fi Protected Setup)
 
  This method requires your printer to support WPS pushbutton mode, and your wireless router must have a physical WPS push button.
@@ -81,10 +95,17 @@ Now let’s start!
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/61RSlaVpCJL._SL1500_-746x1024.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 4: Windows setup
@@ -107,13 +128,6 @@ Now let’s start!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap46.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 5: USB cable connection (printer without display)
 
  This method is for the printer without a display. To set up a wireless connection, it will need a USB cable for a few minutes. After setup, you don’t need it anymore.
@@ -127,13 +141,6 @@ Now let’s start!
 **4)** Run the printer software installation and follow the on-screen instructions.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap40-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus: Troubleshoot problems in hp wireless printer connectivity
 
@@ -172,20 +179,20 @@ Now let’s start!
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -211,5 +218,24 @@ Now let’s start!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-the-comprehensible-guide-to-fb-page-rank-boosting/"><u>[New] In 2024, The Comprehensible Guide to FB Page Rank Boosting</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-capture-and-conserve-the-instagram-freedom-toolkit-for-2024/"><u>[Updated] Capture and Conserve The Instagram Freedom Toolkit for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-mastering-youtube-subscriber-milestones/"><u>2024 Approved Mastering YouTube Subscriber Milestones</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-oppo-a1x-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Oppo A1x 5G Phone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/boost-printer-speed-with-simple-fixes/"><u>Boost Printer Speed with Simple Fixes</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-samsung-galaxy-m14-4g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Samsung Galaxy M14 4G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/capture-the-moment-an-examination-of-camstudio-for-2024/"><u>Capture the Moment An Examination of CamStudio for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/capture-your-best-self-10-top-rated-webcam-software-for-windows-10/"><u>Capture Your Best Self 10 Top-Rated Webcam Software for Windows 10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enable-your-brother-printer-to-print-on-windows-1011-successfully/"><u>Enable Your Brother Printer to Print on Windows 10/11 Successfully</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guide-to-restoring-communication-with-printer/"><u>Guide to Restoring Communication with Printer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-world-of-windows-games-on-macsilicon-with-crossover/"><u>Navigating the World of Windows Games on MacSilicon with CrossOver</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcome-epson-paper-jam/"><u>Overcome Epson Paper Jam</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printers-unexpected-configuration-blunder/"><u>Printer's Unexpected Configuration Blunder</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-printer-error-no-9008e/"><u>Resolved: Printer Error No. 9008E</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revive-your-brother-printers-print-a-win1011-guide-to-fixing-issues/"><u>Revive Your Brother Printer's Print: A Win10/11 Guide to Fixing Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-scanner-no-longer-offline/"><u>Windows 11: Scanner No Longer Offline</u></a></li>
+</ul></div>
 
