@@ -1,7 +1,7 @@
 ---
 title: "[Installation Issue] Unable to Get HP D1360 Up and Running in Windows 8-10"
-date: 2024-08-15T03:17:23.954Z
-updated: 2024-08-16T03:17:23.954Z
+date: 2024-09-29T04:53:44.227Z
+updated: 2024-10-01T06:03:03.803Z
 tags:
   - win11
   - win10
@@ -48,8 +48,6 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -57,12 +55,27 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-from-stills-to-movies-a-pixiz-tutorial-for-photo-animators/"><u>[New] From Stills to Movies A Pixiz Tutorial for Photo Animators</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-metrics-top-10-instagram-tags-right-now/"><u>[New] Mastering Metrics Top 10 Instagram Tags Right Now</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-secrets-of-professional-level-iptv-capturing/"><u>[Updated] In 2024, Secrets of Professional-Level IPTV Capturing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-free-universal-hd-h265-codec-video-player-apps-compatible-with-pc-and-mac-windows-10macos-2020-reviews/"><u>Best FREE Universal HD H.265 Codec Video Player Apps Compatible with PC and MAC (Windows 10/MacOS) - 2020 Reviews</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cross-platform-solution-for-win10s-stream-issues/"><u>Cross-Platform Solution for Win10's Stream Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-connectivity-now-functional/"><u>Epson Connectivity Now Functional</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-samsung-galaxy-s23-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Samsung Galaxy S23 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-sony-xperia-10-v-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Sony Xperia 10 V Bootloader Easily</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574110556-printing-woes-config-error-help-needed/"><u>Printing Woes: Config Error, Help Needed!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-openai-your-definitive-compilation-of-knowledge/"><u>Unraveling OpenAI: Your Definitive Compilation of Knowledge</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win-711-spooler-stops-quick-fix-guide/"><u>Win 7/11 Spooler Stops: Quick Fix Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win107-troubleshooting-steps-to-address-spooler-failures/"><u>Win10/7 Troubleshooting Steps to Address Spooler Failures</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/wireless-paper-refilling-for-hp-officejet-pro-m574dw/"><u>Wireless Paper Refilling for HP Officejet Pro M574dw</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
