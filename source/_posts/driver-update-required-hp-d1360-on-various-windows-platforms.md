@@ -1,7 +1,7 @@
 ---
 title: "[Driver Update Required] HP D1360 on Various Windows Platforms"
-date: 2024-08-27T02:16:52.583Z
-updated: 2024-08-28T02:16:52.583Z
+date: 2024-10-01T16:37:11.153Z
+updated: 2024-10-06T17:53:21.840Z
 tags:
   - win11
   - win10
@@ -48,8 +48,6 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -57,12 +55,26 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-guide-to-effective-nvidia-video-capture/"><u>[New] In 2024, Guide to Effective NVIDIA Video Capture</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-achieving-youtube-mastery-with-effective-use-of-creator-studio-tools/"><u>[Updated] Achieving YouTube Mastery with Effective Use of Creator Studio Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-asian-themed-mini-mansions-for-creative-builders/"><u>[Updated] In 2024, Asian Themed Mini Mansions for Creative Builders</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-samsung-galaxy-a54-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/booking-an-in-store-appointment-with-apple-a-complete-how-to/"><u>Booking an In-Store Appointment with Apple - A Complete How-To</u></a></li>
+<li><a href="https://win11.techidaily.com/discovering-storage-patterns-how-to-apply-windows-diskusage-proficiently/"><u>Discovering Storage Patterns: How to Apply Windows' DiskUsage Proficiently</u></a></li>
+<li><a href="https://fox-place.techidaily.com/mastering-configurations-using-the-inifile-module-for-seamless-app-development/"><u>Mastering Configurations Using the IniFile Module for Seamless App Development</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-more-ghost-printouts-hp-printer-armored-against-errors/"><u>No More Ghost Printouts: HP Printer Armored Against Errors</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/streamlined-device-management-officejet-pro-8600-drivers-pc-friendly/"><u>Streamlined Device Management: Officejet Pro 8600 Drivers, PC-Friendly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/systematic-mf4770n-software-enhancement-windows-wise/"><u>Systematic MF4770n Software Enhancement Windows-Wise</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-complete-openai-overview-insights-and-information-everyone-should-know/"><u>The Complete OpenAI Overview: Insights & Information Everyone Should Know</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unable-to-access-printer-driver-in-windows/"><u>Unable to Access Printer Driver in Windows</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
