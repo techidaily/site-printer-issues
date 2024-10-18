@@ -1,7 +1,7 @@
 ---
 title: Active Directory Unavailable, Print Error Noted
-date: 2024-10-07T01:29:54.518Z
-updated: 2024-10-12T11:48:36.006Z
+date: 2024-10-15T07:06:24.688Z
+updated: 2024-10-18T10:49:38.706Z
 tags:
   - win11
   - win10
@@ -43,17 +43,17 @@ thumbnail: https://thmb.techidaily.com/35eb7ec70c3d68bdd6223aba9efbf03bc030e84e6
   
  5) Close the Services window and check if you could print files successfully.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Using Registry Editor
 
 1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png) and **R**  at the same time to invoke the Run box.
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) Type **regedit**  and press **Enter** to open Registry Editor.  
   
@@ -64,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/35eb7ec70c3d68bdd6223aba9efbf03bc030e84e6
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Right-click on **Devices**  under **CurrentVersion**  dialog.  
  Then click **Permissions** .  
   
@@ -78,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/35eb7ec70c3d68bdd6223aba9efbf03bc030e84e6
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Click your account and tick on**Allow** of **Full Control** . Then click **Apply**  \> **OK** .  
@@ -89,16 +82,23 @@ thumbnail: https://thmb.techidaily.com/35eb7ec70c3d68bdd6223aba9efbf03bc030e84e6
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-13.jpg)
   
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Do the same settings to give your account full control of **PrinterPorts**  and **Windows** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-12.jpg)
   
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Close the Registry Editor window and check to see if you could print files successfully.
@@ -120,22 +120,16 @@ thumbnail: https://thmb.techidaily.com/35eb7ec70c3d68bdd6223aba9efbf03bc030e84e6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/fix-d1360-printer-drivers-not-working-on-windows-7-10/"><u>[Fix] D1360 Printer Drivers Not Working on Windows 7-10</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-essential-image-editors-tips-for-text-in-pictures/"><u>[New] In 2024, Essential Image Editors Tips for Text in Pictures</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-unplugged-gaming-world-the-ultimate-list-of-best-free-mobile-apps/"><u>[Updated] 2024 Approved Unplugged Gaming World - The Ultimate List of Best Free Mobile Apps</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-achieve-professional-looking-motion-blur-with-just-a-few-steps-in-photoshop/"><u>[Updated] Achieve Professional-Looking Motion Blur with Just a Few Steps in Photoshop</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-finding-the-most-skilled-film-capturers/"><u>[Updated] Finding the Most Skilled Film Capturers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/banishing-blank-output-hp-printers-success-story/"><u>Banishing Blank Output: HP Printer's Success Story</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-balanced-tripods-for-dslr-phone-and-tablet-videos-for-2024/"><u>Best Balanced Tripods for DSLR, Phone, and Tablet Videos for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-bcm20702a0-driver-setup-for-windows-quick-download-tutorial/"><u>Easy BCM20702A0 Driver Setup for Windows - Quick Download Tutorial</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/eliminating-empty-pages-a-printers-success-story/"><u>Eliminating Empty Pages: A Printer's Success Story</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hidden-users-print-request-on-printer-noticed/"><u>Hidden User's Print Request on Printer Noticed</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-lava-agni-2-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Lava Agni 2 5G IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/instant-photo-browser-for-modern-windows/"><u>Instant Photo Browser for Modern Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-pcl-xl-faults-instantly/"><u>Overcoming PCL XL Faults Instantly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revitalize-older-printer-drivers-for-modern-windows-10/"><u>Revitalize Older Printer Drivers for Modern Windows 10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/scan-activation-error-resolved-in-win11/"><u>Scan Activation Error Resolved in Win11</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-oppo-a58-4g-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Oppo A58 4G</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/wireless-setup-for-officejet-pro-m110-series-a-complete-walkthrough/"><u>Wireless Setup for Officejet Pro M110 Series: A Complete Walkthrough</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/os-troubleshoot-unseen-network-printer-on-windows-pcs/"><u>[OS Troubleshoot] Unseen Network Printer on Windows PCs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-from-content-creator-to-brand-ambassador-unlocking-instagram-sponsorship/"><u>[Updated] In 2024, From Content Creator to Brand Ambassador Unlocking Instagram Sponsorship</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-take-your-smartphone-cinematography-to-new-heights-with-these-9-accessories/"><u>[Updated] Take Your Smartphone Cinematography to New Heights with These 9 Accessories</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/ius7lee1hoobvplusobqowvvuwhpuazltog44gq44gc44cb5pya5paw5oof5acx5pu05paw44gu44ob44kn44od44kv5qmf6io944gm5q2j5bi444gr5yuv44gl44gq44ge44gt44go44gm44gc44kk44gpl81/"><u>仕組みと対処法: なぜ、最新情報更新のチェック機能が正常に動かないことがありますか？</u></a></li>
+<li><a href="https://win-forum.techidaily.com/boost-your-pcs-performance-free-up-drive-space-in-windows-11-quickly-with-revouninstaller/"><u>Boost Your PC's Performance - Free Up Drive Space in Windows 11 Quickly With RevoUninstaller</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printers-unforeseen-setup-snag-found/"><u>Printer's Unforeseen Setup Snag Found</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-unresponsive-hp-devices/"><u>Troubleshooting Unresponsive HP Devices</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-tutorial-for-setting-up-your-wd-ses-hardware-with-updated-usb-drivers-post-2011/"><u>Ultimate Tutorial for Setting Up Your WD SES Hardware with Updated USB Drivers Post-2011</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unraveling-printer-malfunction-mystery/"><u>Unraveling Printer Malfunction Mystery</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-exploring-the-leading-online-video-communication-apps-beyond-omegle-top-picks-for-2024/"><u>Updated Exploring the Leading Online Video Communication Apps Beyond Omegle Top Picks for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-tecno-spark-10c-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Tecno Spark 10C Device</u></a></li>
 </ul></div>
 

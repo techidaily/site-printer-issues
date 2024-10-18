@@ -1,7 +1,7 @@
 ---
 title: "MF4770n Integration Boost: System Software Updates Windows"
-date: 2024-10-05T05:34:24.481Z
-updated: 2024-10-12T00:57:38.080Z
+date: 2024-10-12T20:29:52.676Z
+updated: 2024-10-17T19:26:28.783Z
 tags:
   - win11
   - win10
@@ -35,16 +35,24 @@ If you’re not confident playing around with drivers manually, you can do it au
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa3dfb7f029.jpg)
 3. You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c7e148fdf8.jpg) You can also click**Update** to do it for free if you like, but it’s partly manual.
-4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+4. Restart your computer for the changes to take effect.
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Option 2: Update your Canon MF4770n driver manually**
 
@@ -56,27 +64,26 @@ If you’re not confident playing around with drivers manually, you can do it au
 2. Under **imageCLASS MF4770n** , click**Drivers & Downloads** .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03db4a0d862.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Scroll down the new page to the bottom and a list of printer drivers compatible with your operating system will be listed (**Windows 10** ,**x64** in my case). Click**the first result** to make sure you download the latest driver release. Then click**DOWNLOAD** .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03db3044199.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Double-click on the downloaded file and follow the on-screen instructions to finish the installation.
 
@@ -105,19 +112,22 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-unlocking-new-dimensions-in-picture-tones/"><u>[New] Unlocking New Dimensions in Picture Tones</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-the-ultimate-guide-to-10-leading-pc-vr-headsets/"><u>2024 Approved The Ultimate Guide to 10 Leading PC VR Headsets</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/address-ink-level-sensor-failures-in-w11/"><u>Address Ink Level Sensor Failures in W11</u></a></li>
-<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-motorola-moto-g73-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Motorola Moto G73 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/driving-performance-mf4770n-on-windows-oss/"><u>Driving Performance: MF4770n on Windows OSs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-uncooperative-printer-status-on-winntme-os/"><u>Fixing Uncooperative Printer Status on WinNT/Me OS</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-nubia-red-magic-8s-proplus-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Nubia Red Magic 8S Pro+ Devices | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oneplus-11r-by-drfone-android/"><u>How to Bypass FRP from OnePlus 11R?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-deskjet-d1360-print-drivers-troubleshooting-across-windows-versions/"><u>HP Deskjet D1360 Print Drivers: Troubleshooting Across Windows Versions</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-xr-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone XR Data From iTunes | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-solving-corsair-icue-compatibility-issues-with-windows-11/"><u>Troubleshooting Steps: Solving Corsair iCUE Compatibility Issues with Windows 11</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-10-easy-to-use-cartoon-video-creation-tools-online-and-pc/"><u>Updated In 2024, Top 10 Easy-to-Use Cartoon Video Creation Tools (Online & PC)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/zeroing-out-error-0x00000709-for-printer-settings/"><u>Zeroing Out Error 0X00000709 for Printer Settings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-embracing-diversity-easeus-tech-assessment-for-2024/"><u>[Updated] Embracing Diversity, EaseUS Tech Assessment for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/another-computer-is-using-the-printer-solved/"><u>Another Computer Is Using the Printer [Solved]</u></a></li>
+<li><a href="https://article-posts.techidaily.com/diy-guide-to-custom-instagram-tones/"><u>DIY Guide to Custom Instagram Tones</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/finding-the-right-hp-d1360-print-drivers-in-windows-ecosystems/"><u>Finding the Right HP D1360 Print Drivers in Windows Ecosystems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-vivo-x90s-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Vivo X90S Phone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-90-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Honor 90 Pro Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-itel-s23-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Itel S23 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/le-piu-efficienti-modi-per-creare-il-backup-delle-email-imap-con-outlook-2010/"><u>Le Più Efficienti Modi per Creare Il Backup Delle Email IMAP Con Outlook 2010</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mastering-printer-fault-resolutions/"><u>Mastering Printer Fault Resolutions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-post-update-printer-glitches/"><u>Overcoming Post-Update Printer Glitches</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574064539-post-update-printer-problem-resolved-and-happy-again/"><u>Post-Update Printer Problem: Resolved and Happy Again</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printers-now-consistently-full-page-output/"><u>Printers Now Consistently Full-Page Output</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-inactive-hp-printing-units/"><u>Reviving Inactive HP Printing Units</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-cod-black-ops-cold-war-glitch-tips-for-handling-code-80070057/"><u>Solving Cod: Black Ops Cold War Glitch: Tips for Handling Code 80070057</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-guide-removing-photo-backdrops-for-2024/"><u>Step-by-Step Guide Removing Photo Backdrops for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-portable-15n-inch-1080p-ips-monitor-now-just-6599-best-quality-for-the-lowest-price/"><u>Unbeatable Deal: Portable 15.n Inch, 1080P IPS Monitor Now Just $65.99 - Best Quality for the Lowest Price!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unplugging-and-removing-a-secondary-printer-from-os/"><u>Unplugging and Removing a Secondary Printer From OS</u></a></li>
 </ul></div>
 

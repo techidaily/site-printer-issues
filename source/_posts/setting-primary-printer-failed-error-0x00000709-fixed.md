@@ -1,7 +1,7 @@
 ---
 title: "Setting Primary Printer Failed: Error 0X00000709 Fixed"
-date: 2024-10-08T16:13:09.485Z
-updated: 2024-10-12T08:52:46.129Z
+date: 2024-10-12T04:13:45.686Z
+updated: 2024-10-18T03:16:34.415Z
 tags:
   - win11
   - win10
@@ -53,22 +53,15 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/regedit-in-start-panel.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If **User Account Control** comes up, please choose **Yes** at the prompt.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57bbbed40caf2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Follow the path   **HKEY\_CURRENT\_USER\\Software\\Microsoft\\WindowsNT\\CurrentVersion\\Windows** .
@@ -85,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/error-cannot-edit-device-error-writing-the-values-new-content.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  a) Right-click the **Windows** key on the left side of the panel and then click **Permissions…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/permission-in-windows-registry.png)
@@ -93,22 +93,15 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/permissions-for-windows.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Right-click **UserSelectDefault** and click **Rename**  to rename it as your printer name.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/rename-userselectdefault.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There you go! You should be able to set up your default printer now!
@@ -131,6 +124,13 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/update-hp-printer-driver-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -146,22 +146,22 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-whimsical-worlds-kids-fun-game-selection/"><u>2024 Approved Whimsical Worlds - Kids' Fun Game Selection</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/5-easy-ways-to-fix-canon-printer-wont-print-in-windows-11/"><u>5 Easy Ways to Fix Canon Printer Won't Print in Windows 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/conquer-minecraft-delays-on-windows-proven-techniques-to-avoid-freezing/"><u>Conquer Minecraft Delays on Windows: Proven Techniques to Avoid Freezing</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enabling-easy-wi-fi-connectivity-for-canon/"><u>Enabling Easy Wi-Fi Connectivity for Canon</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/gear-up-glitch-printer-configuration-error/"><u>Gear Up Glitch: Printer Configuration Error</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Realme GT Neo 5? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-windows-securitys-unexpected-error-in-windows-11-and-11/"><u>How to Fix Windows Security’s “Unexpected Error” In Windows 11 & 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-7-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 7 without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-a-20-second-symphony-understanding-musics-compact-formats/"><u>In 2024, A 20-Second Symphony Understanding Music's Compact Formats</u></a></li>
-<li><a href="https://games-able.techidaily.com/keychron-gaming-pad-the-lemokey-l3-showdown/"><u>Keychron Gaming Pad: The Lemokey L3 Showdown</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-y200e-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo Y200e 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/rapid-recovery-from-common-pcl-xl-failures/"><u>Rapid Recovery From Common PCL XL Failures</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restore-connected-status-for-offline-hp-laserjet/"><u>Restore Connected Status for Offline HP Laserjet</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/setup-guide-adding-hp-printer-officejet-pro-to-pc-network/"><u>Setup Guide: Adding HP Printer (Officejet Pro) to PC Network</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-complete-guide-to-iphone-sound-personalization/"><u>The Complete Guide to iPhone Sound Personalization</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/the-journey-from-void-papers-to-valuable-outputs/"><u>The Journey From Void Papers to Valuable Outputs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-loss-of-printers-internet-connection/"><u>Troubleshooting: Loss of Printer's Internet Connection</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/alert-windows-10-print-queue-offline/"><u>[ALERT] Windows 10: Print Queue Offline</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-dive-into-instagram-live-without-hesitation/"><u>[New] 2024 Approved Dive Into Instagram Live Without Hesitation</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-hover-and-watch-utilizing-the-float-feature-on-netflix/"><u>[New] 2024 Approved Hover & Watch Utilizing the Float Feature on Netflix</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pinnacle-goggles-ranking-best-5-for-drone-flyers/"><u>[New] Pinnacle Goggles Ranking Best 5 for Drone Flyers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-essential-insights-for-crafting-youtube-intros-aplusb-methods/"><u>[Updated] Essential Insights for Crafting YouTube Intros A+B Methods</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enhancing-video-visibility-with-optimal-thumbnails/"><u>[Updated] In 2024, Enhancing Video Visibility with Optimal Thumbnails</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-top-6-nft-environments-for-creatives/"><u>2024 Approved Unveiling the Top 6 NFT Environments for Creatives</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/connectivity-woes-solve-offline-canon-printer-issues/"><u>Connectivity Woes? Solve Offline Canon Printer Issues</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/navigating-through-epson-paper-jam-signals/"><u>Navigating Through Epson Paper Jam Signals</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/new-trends-in-technology-3-solutions-connecting-laptops-and-hp-printers/"><u>New Trends in Technology - 3 Solutions Connecting Laptops & HP Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printing-resumed-in-hp-all-in-one-after-network-fix/"><u>Printing Resumed in HP All-in-One After Network Fix</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reconnect-your-silent-canon-printer-now/"><u>Reconnect Your Silent Canon Printer Now!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-screen-reset-on-windows-with-elan-tablet-driver/"><u>Solving Screen Reset on Windows with Elan Tablet Driver</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/streamline-non-printing-your-guide-to-fixing-brother-printer-on-windows/"><u>Streamline Non-Printing: Your Guide to Fixing Brother Printer on Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/struggling-with-wmv-files-in-mac-osx-discover-how-to-get-them-to-work-without-quicktime/"><u>Struggling with WMV Files in Mac OSX? Discover How to Get Them to Work Without QuickTime</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unraveling-hp-printer-writes-error-oxc4eb827f/"><u>Unraveling HP Printer' Writes Error OXC4EB827F</u></a></li>
 </ul></div>
 

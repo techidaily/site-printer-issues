@@ -1,7 +1,7 @@
 ---
 title: HP Officejet Pro 8600 Printer Manager for Windows Systems
-date: 2024-07-29T00:30:02.927Z
-updated: 2024-07-30T00:30:02.927Z
+date: 2024-10-16T16:15:03.578Z
+updated: 2024-10-17T21:45:36.476Z
 tags:
   - win11
   - win10
@@ -30,53 +30,26 @@ thumbnail: https://thmb.techidaily.com/72178c55a17f02b5af426d7fce9f5984667c0f559
 [**Option 2: Update Printer Driver Manually**](#2)
 [**Option 3: Update Printer Driver Automatically (Recommended)**](#3)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_590809f687953.jpg)
 
  **Option 1: Update Printer Driver via Device Manager**
 
  1) Press**Windows key** and**R** at the same time, then type in**devmgmt.msc** and hit**Enter** .
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5907fef252f36.png)
  2) Locate and click to expand category**Print queues** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_590802e3114a1.jpg)
  3) Right click the**HP Officejet Pro 8600 printer** that you see here. Then choose**Update driver** option from the list.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59080a9f4559f.png)
 
  4) Then choose**Search automatically for updated driver software** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59080b75a70a9.jpg)
 
  5) Then Windows will start to help you with the search of the new driver. If you see the notification as below, which indicates that Windows cannot help you with the driver update, then you need to look for an alternative. Please move on.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59082342e5590.jpg)
 
  **Option 2: Update Printer Driver Manually**
@@ -118,8 +91,6 @@ thumbnail: https://thmb.techidaily.com/72178c55a17f02b5af426d7fce9f5984667c0f559
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,8 +98,29 @@ thumbnail: https://thmb.techidaily.com/72178c55a17f02b5af426d7fce9f5984667c0f559
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/updated-audiophile-tools-best-audio-interfaces-for-podcasters/"><u>[Updated] Audiophile Tools Best Audio Interfaces for Podcasters</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-iphone-x-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On iPhone X? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/dismantling-the-mystery-of-non-printing-machines/"><u>Dismantling the Mystery of Non-Printing Machines</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/extractor-et-converteur-de-dvd-winxdvd-solution-complete-pour-la-sauvegarde-ios/"><u>Extractor Et Converteur De DVD WinXDVD - Solution Complète Pour La Sauvegarde iOS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-issue-with-installing-printer/"><u>Fixed Issue with Installing Printer</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-8-plus-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>How to Change your Apple iPhone 8 Plus Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-assessment-the-capabilities-and-features-of-deepcools-pq8e-m-series-psu/"><u>In-Depth Assessment: The Capabilities & Features of DeepCool's PQ8e M Series PSU</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723001818270-is-there-any-disruption-with-xbox-live-servers-latest-status-report/"><u>Is There Any Disruption with Xbox Live Servers? Latest Status Report</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-through-time-the-transformative-saga-of-apples-ios-version-10-180/"><u>Navigating Through Time: The Transformative Saga of Apple's iOS (Version 1.0 - 18.0)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-windows-11s-past-text-recall-capabilities/"><u>Optimizing Windows 11'S Past Text Recall Capabilities</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-recovery-steps/"><u>Printer Recovery Steps</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-remedies-for-slow-printers/"><u>Quick Remedies for Slow Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/secure-and-update-hp-officejet-4630-driver-edition/"><u>Secure & Update: HP Officejet 4630 Driver Edition</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/step-by-step-guide-to-remove-hardware-printers/"><u>Step-By-Step Guide to Remove Hardware Printers</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-restoring-broken-keys-on-modern-microsoft-operating-systems/"><u>Step-by-Step Guide: Restoring Broken Keys on Modern Microsoft Operating Systems</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

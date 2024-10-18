@@ -1,7 +1,7 @@
 ---
 title: Revive Your Printer's Life with Windows 11 Fixes
-date: 2024-10-04T19:21:32.163Z
-updated: 2024-10-11T17:41:25.443Z
+date: 2024-10-15T16:58:48.227Z
+updated: 2024-10-17T23:05:16.623Z
 tags:
   - win11
   - win10
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 3. [Run printer troubleshooter](#f3)
 4. [Repair system file](#f4)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Check for Windows Update
 
  Microsoft has released [KB5006746](https://support.microsoft.com/en-us/topic/october-21-2021-kb5006746-os-build-22000-282-preview-03190705-0960-4ba4-9ee8-af40bef057d3) to fix printer issues. If you just upgraded to Windows 11 and encountered printer issues, you can check if there’s an available Windows update.
@@ -42,6 +35,19 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 2. Go to**Windows Update** then click**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 3. If there is an available update, windows will download and install it automatically.
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Then reboot your PC to check the printer issue is fixed or not.
 
@@ -63,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/update-hp-printer-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -84,15 +83,15 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/win11-settings-troubleshooter.jpg)
 3. Choose**Other troubleshoot** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/win11-other-troubleshooter.jpg)
 4. Find the**Printer** section and click**Run** .
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Repair system file
 
@@ -115,10 +114,10 @@ Here’s how to use Fortect to repair system files on your PC:
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
@@ -126,6 +125,13 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 5. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Check your computer to see if the driver crash issue is fixed.
 
@@ -141,10 +147,10 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Yes** when prompted to confirm.
@@ -178,24 +184,20 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-best-5-apple-podcast-services-for-ios-users/"><u>[New] Best 5 Apple Podcast Services for iOS Users</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-from-full-size-photos-to-miniature-expert-thumbnail-crafting-for-2024/"><u>[New] From Full-Size Photos to Miniature Expert Thumbnail Crafting for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-engaging-scriptwriting-techniques-for-higher-video-rankings/"><u>[Updated] 2024 Approved Engaging Scriptwriting Techniques for Higher Video Rankings</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-elevate-your-tiktok-presence-with-innovative-pfps/"><u>[Updated] Elevate Your TikTok Presence with Innovative PFPs</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-undercover-guide-to-enhancing-your-window-11-experience/"><u>[Updated] In 2024, The Undercover Guide to Enhancing Your WINDOW 11 Experience</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/connectivity-woes-with-hp-print-on-w7-resolved/"><u>Connectivity Woes with HP Print on W7 Resolved</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epsons-print-problem-decoded-error-x97/"><u>Epson's Print Problem Decoded: Error X97</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/essential-strategies-successful-webcam-and-gaming-recordings-for-2024/"><u>Essential Strategies Successful Webcam & Gaming Recordings for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-asrock-ab350-pro4-control-card-updated-complimentary-painless-process/"><u>Get Your ASRock AB350 Pro4 Control Card Updated: Complimentary, Painless Process</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-determine-if-chatgpt-service-is-active-top-5-methods/"><u>How to Determine if ChatGPT Service Is Active: Top 5 Methods</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-free-video-credits-pro-the-best-suggestions-1-6/"><u>In 2024, Free Video Credits Pro - The Best Suggestions #1-6</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/my-canon-printer-wont-respond-what-now/"><u>My Canon Printer Won't Respond, What Now?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printing-powerhouse-latest-updates-for-dell-printer-windows-7/"><u>Printing Powerhouse: Latest Updates for Dell Printer WIndows 7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/re-establishing-scanner-link-to-computer-in-win10/"><u>Re-Establishing Scanner Link to Computer in Win10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/remedying-stuck-print-head/"><u>Remedying Stuck Print Head</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/stop-windows-print-spooler-from-freaking-out/"><u>Stop Windows Print Spooler From Freaking Out</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-evolution-of-electric-cars-an-enlightening-guide-through-time/"><u>The Evolution of Electric Cars: An Enlightening Guide Through Time</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshoot-windows-10-printer-software/"><u>Troubleshoot Windows 10 Printer Software</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshoot-windows-11-printing-glitches/"><u>Troubleshoot Windows 11 Printing Glitches</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pioneering-tech-in-vr-content-creation/"><u>2024 Approved Pioneering Tech in VR Content Creation</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ad-ds-offline-causes-inability-to-print/"><u>AD DS Offline Causes Inability To Print</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/drone-footage-battlegrounds-djis-pro-vs-gopro-hero3/"><u>Drone Footage Battlegrounds DJI's Pro VS GoPro HERO3</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhance-compatibility-boosting-mf4770n-performance-in-win11win8w7/"><u>Enhance Compatibility: Boosting MF4770n Performance in Win11/Win8/W7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-intermittent-printing-on-hp-deskjet-305dn/"><u>Fixed Intermittent Printing on HP DeskJet 305Dn</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-preventing-and-correcting-the-spike-in-crashes-for-football-manager-2019/"><u>Guide to Preventing and Correcting the Spike in Crashes for Football Manager 2019</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-samsung-galaxy-z-fold-5-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Samsung Galaxy Z Fold 5 online without jailbreak</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973204491-nvidia-rtx-tiri-driver-for-widnows-10-8-and-7-get-your-free-download-here/"><u>NVIDIA RTX ˈtiːɡri Driver for Widnows 10, 8 & 7 - Get Your Free Download Here!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574118383-printerranker-setting-snafu-alert/"><u>Printer'ranker: Setting Snafu Alert!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-guide-turn-on-your-disconnected-canon-printer/"><u>Quick Guide: Turn On Your Disconnected Canon Printer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-losungen-fur-die-meistverbreiteten-ios-11-update-schwierigkeiten/"><u>Top-Lösungen Für Die Meistverbreiteten iOS 11 Update Schwierigkeiten</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steamvr-efficient-methods-to-restore-functionality/"><u>Troubleshooting SteamVR - Efficient Methods to Restore Functionality</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/why-are-my-documents-black-and-white/"><u>Why Are My Documents Black & White?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/winos-cant-find-incompatible-print-drivers/"><u>WinOS Can't Find Incompatible Print Drivers</u></a></li>
 </ul></div>
 

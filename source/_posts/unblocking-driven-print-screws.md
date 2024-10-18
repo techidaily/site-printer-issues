@@ -1,7 +1,7 @@
 ---
 title: Unblocking Driven Print Screws
-date: 2024-10-10T17:25:18.952Z
-updated: 2024-10-11T20:29:17.834Z
+date: 2024-10-12T07:48:38.967Z
+updated: 2024-10-17T20:54:24.288Z
 tags:
   - win11
   - win10
@@ -36,6 +36,14 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
  Sometimes the problem can be fixed by**restarting** your devices. You can power off your computer and printer completely and leave them for a couple of minutes. After that turn them on and see if the error is gone.  
   
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2) Update or reinstall printer driver
 
  Printer in error state can also result from faulty or incompatible printer driver. You will need to update or reinstall the driver to fix problems of this kind.
@@ -52,28 +60,21 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59682e9883633.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **c)** Click on the**Update** button next to your printer to download the latest and correct driver for this device. You can also hit**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click on Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598805259801c.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Apart from updating driver, you can also use Driver Easy to**uninstall** driver (also**Pro** required). This is helpful especially when you want to**reinstall** the driver of a device.
@@ -82,23 +83,29 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5988077cb6a13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **b)**  Select**Driver Uninstall** and you will see a list of device drivers. Locate your printer driver and then click on the**Uninstall** button. The driver you select will be removed soon.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598815eadf4ef.jpg)
   
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3) Contact printer manufacturer
@@ -122,14 +129,14 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-radiance-reimagined-top-video-tools-list/"><u>[New] In 2024, Radiance Reimagined Top Video Tools List</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-alternative-to-cyberlink-a-comparative-study-of-recording-software-for-2024/"><u>[Updated] Alternative to Cyberlink A Comparative Study of Recording Software for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-advanced-3d-design-for-stylish-text-creations/"><u>2024 Approved Advanced 3D Design for Stylish Text Creations</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/color-saturation-dropped-in-prints/"><u>Color Saturation Dropped in Prints</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/disabling-and-activating-scanner-seamlessly-on-windows-11/"><u>Disabling & Activating Scanner Seamlessly on Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/easy-install-mfc-9330cdw-driver-download/"><u>Easy Install: MFC-9330CDW Driver Download</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-y100withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo Y100with/without a PC</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/successful-connection-of-print-device/"><u>Successful Connection of Print Device</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-rankings-leading-gopro-case-models-for-2024/"><u>The Ultimate Rankings Leading GoPro Case Models for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-innovative-approaches-to-capturing-rl-experiences/"><u>[New] 2024 Approved Innovative Approaches to Capturing RL Experiences</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/active-directory-maintenentic-failure-printer-issue/"><u>Active Directory Maintenentic Failure: Printer Issue</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-load-screen-fixing-madden-nfl-22-stuck-scenario-for-smooth-gaming/"><u>Beat the Load Screen: Fixing Madden NFL 22 Stuck Scenario for Smooth Gaming</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-support-efficiency-by-merging-chatgpt-and-whatsapp-functions/"><u>Boosting Support Efficiency by Merging ChatGPT and WhatsApp Functions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comprehensive-bandicam-analysis-pricing-and-key-capabilities-exploring-with-movavi/"><u>Comprehensive Bandicam Analysis: Pricing and Key Capabilities - Exploring with Movavi</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-offline-printer-on-windows-xpvista7/"><u>Fixing Offline Printer on Windows XP/Vista/7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-integrating-printer-model-8720-in-pc/"><u>How-To: Integrating Printer Model 8720 in PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-strategies-to-improve-performance-for-watch-dogs-legion-players/"><u>Step-by-Step Strategies to Improve Performance for Watch Dogs: Legion Players</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshoot-offline-issue-with-ease-in-this-guide/"><u>Troubleshoot Offline Issue with Ease in This Guide</u></a></li>
 </ul></div>
 

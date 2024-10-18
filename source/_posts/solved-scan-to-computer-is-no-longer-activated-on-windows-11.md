@@ -1,7 +1,7 @@
 ---
 title: "Solved: Scan to Computer Is No Longer Activated on Windows 11"
-date: 2024-10-05T07:15:59.557Z
-updated: 2024-10-12T11:30:59.419Z
+date: 2024-10-14T01:26:43.801Z
+updated: 2024-10-18T01:13:28.759Z
 tags:
   - win11
   - win10
@@ -28,6 +28,19 @@ Read on. 🙂
 2. [**Reinstall your printer driver**](#m2)
 3. [**Get rid of ‘Scan to computer is no longer activated’ error**](#m3)
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Check the connection of your Printer
 
  Once the error pops up on your Windows 10, and you cannot print the files with your printer, please check the connection between your printer and computer first.
@@ -40,6 +53,13 @@ Read on. 🙂
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Reinstall your printer driver
 
  A corrupted driver software can also cause the message pop up. In such case, you can try to solve it through updating the printer driver.
@@ -49,13 +69,6 @@ You need to do these steps:
  1) On your keyboard, press the**Windows** logo key +**X** key together to open the quick-access menu. Then click**Device Manager** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf305cb04.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) On the open window, find and expand the**Print queues** catalog. Then right-click on your printer software to choose**Uninstall device** .
 
@@ -81,13 +94,6 @@ You need to do these steps:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 3: Get rid of ‘Scan to computer is no longer activated’ error
 
  If you can use you printer properly, however, the error message Scan to computer is not activated keeps poping-up every 2-5 minutes, it would annoys you deeply. Follow the steps below to get rid of it:  
@@ -101,10 +107,10 @@ You need to do these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee29de8213.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Find**scanToPCActivationApp** under**Startup** tab. Then right-click on it to choose**Disable** .
@@ -112,10 +118,10 @@ You need to do these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee2dfcd442.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 That’s all there is to it.
@@ -140,16 +146,21 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/fix-non-printing-usb-printers-on-win7-after-suspend/"><u>[Fix] Non-Printing USB Printers on Win7 After Suspend</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-hands-on-with-hp-envy-27-pushing-screen-tech-to-limits-for-2024/"><u>[New] Hands-On with HP Envy 27 Pushing Screen Tech to Limits for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/3-reasons-why-metas-social-media-dominance-should-scare-you/"><u>3 Reasons Why Meta's Social Media Dominance Should Scare You</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-communication-with-the-new-mozilla-thunderbird-update-52/"><u>Enhance Communication with the New Mozilla Thunderbird Update 52</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-to-repairing-missing-ac1st16dll-errors-on-your-pc/"><u>Guide to Repairing Missing ac1st16.dll Errors on Your PC</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-stuck-printer-issues/"><u>Overcoming Stuck Printer Issues</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/revolutionize-your-live-broadcasts-with-manycam-advanced-virtual-webcam-software/"><u>Revolutionize Your Live Broadcasts with ManyCam – Advanced Virtual Webcam Software!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamlined-installation-hp-officejet-pro-8600-on-windows/"><u>Streamlined Installation: HP OfficeJet Pro 8600 on Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/turn-around-canons-no-prints-with-these-5-effective-fixes-for-windows-11/"><u>Turn Around Canon's No-Prints with These 5 Effective Fixes for Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tutorial-configuring-officejet-pro-in-your-pc/"><u>Tutorial: Configuring OfficeJet Pro in Your PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/w11-pros-best-offers-save-and-elevate-your-spend/"><u>W11 Pro's Best Offers: Save & Elevate Your Spend</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-acid-pro-critique-and-comparable-software/"><u>[New] 2024 Approved ACID Pro Critique and Comparable Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ice-cream-recording-tech-deep-dive-analysis/"><u>[New] 2024 Approved Ice Cream Recording Tech Deep Dive Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellent-text-plugin-compendium/"><u>[Updated] Excellent Text Plugin Compendium</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-love-in-song-ultimate-listening-guide-to-proposals/"><u>2024 Approved Love in Song Ultimate Listening Guide to Proposals</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/boost-printer-speed-with-simple-fixes/"><u>Boost Printer Speed with Simple Fixes</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/guide-to-equipment-selection-for-youtube-creators/"><u>Guide to Equipment Selection for YouTube Creators</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guide-to-restoring-communication-with-printer/"><u>Guide to Restoring Communication with Printer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-tecno-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Tecno Phone Screen?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-inaccessibility-issues-with-csgo-on-w11/"><u>Overcoming Inaccessibility Issues with CS:GO on W11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printers-unexpected-configuration-blunder/"><u>Printer's Unexpected Configuration Blunder</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-printer-error-no-9008e/"><u>Resolved: Printer Error No. 9008E</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revive-your-brother-printers-print-a-win1011-guide-to-fixing-issues/"><u>Revive Your Brother Printer's Print: A Win10/11 Guide to Fixing Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unraveling-the-mystery-printer-works-after-win-10-patch/"><u>Unraveling the Mystery: Printer Works After Win 10 Patch</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-tecno-camon-30-pro-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Tecno Camon 30 Pro 5G Device</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-scanner-no-longer-offline/"><u>Windows 11: Scanner No Longer Offline</u></a></li>
 </ul></div>
 

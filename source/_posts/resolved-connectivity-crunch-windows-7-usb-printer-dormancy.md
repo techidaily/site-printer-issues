@@ -1,7 +1,7 @@
 ---
 title: "[Resolved] Connectivity Crunch: Windows 7 USB Printer Dormancy"
-date: 2024-07-29T00:30:14.247Z
-updated: 2024-07-30T00:30:14.247Z
+date: 2024-10-14T04:17:33.941Z
+updated: 2024-10-18T03:48:06.264Z
 tags:
   - win11
   - win10
@@ -24,16 +24,10 @@ If printer drivers are outdated or missing, the printer won’t work properly. Y
   
  1\. In Device Manager, expand category “Print queues”. Under this category, right click on your printer device and select   **Update Driver Software…**
   
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_5732f97719a2a.png)
   
 2\. Click **Search automatically for updated driver software**  . Then Windows will update the driver automatically.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57318a2bd0396.png)
 
 If Windows doesn’t update the driver successfully, you can go to your printer manufacturer’s website to check and download the latest drivers manually. To download the right drivers, you are required to know your printer’s model number and the specific operating system (Windows 32-bit or Windows 64-bit).
@@ -48,23 +42,14 @@ If your printer drivers are up-to-date and the problem persists, the program mig
   
 1\. In Device Manager, expand category “Universal Serial Bus controllers” and Double-click on the**USB Root Hub**device.  
   
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_5732ffa8e7d2c.png)
 
 2\. Click the**Power Management**tab.(if there’s more than one USB Root Hub device, repeat these steps for each one.)  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_5732fd294c22d.png)
 
 3\. Turn off the**Allow the computer to turn off this device to save power**option, and click**OK**when you’re done.  
   
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_5732fd3b93f59.png)
   
  Try solutions above, and your USB printer should work again.
@@ -75,8 +60,6 @@ If your printer drivers are up-to-date and the problem persists, the program mig
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,8 +67,33 @@ If your printer drivers are up-to-date and the problem persists, the program mig
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-decoding-social-medias-new-wave-10-realities-about-reels/"><u>[New] Decoding Social Media's New Wave 10 Realities About Reels</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-printer-error-code-following-device-suspend-w7/"><u>[Solved] Printer Error Code Following Device Suspend, W7</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-easy-recording-setups-for-lol-enthusiasts-3-ways/"><u>[Updated] 2024 Approved Easy Recording Setups for LOL Enthusiasts (3 Ways)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pixtra-photo-editor-deep-dive/"><u>[Updated] Pixtra Photo Editor Deep Dive</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-securing-your-pc-gaming-memories-best-techniques/"><u>2024 Approved Securing Your PC Gaming Memories Best Techniques</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canon-printer-pause-how-to-react/"><u>Canon Printer Pause: How To React?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-asus-frp-by-drfone-android/"><u>How Can We Bypass Asus FRP?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-6s-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 6s Plus After Forgetting the Passcode?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-snap-into-the-loop-mastering-boomerangs-for-max-impact/"><u>In 2024, Snap Into the Loop Mastering Boomerangs for Max Impact</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-faster-periscope-streams/"><u>In 2024, The Ultimate Guide Faster Periscope Streams</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leapfrogging-to-photo-editing-mastery-with-lunapic/"><u>Leapfrogging to Photo Editing Mastery with LunaPic</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/managing-paper-tray-sensor-problems/"><u>Managing Paper Tray Sensor Problems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/optimize-printing-workflow-swiftly/"><u>Optimize Printing Workflow Swiftly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-device-hooked-up-no-friction/"><u>Print Device Hooked Up, No Friction</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-issue-solved-for-epson-model/"><u>Print Issue Solved for Epson Model</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reinstate-scanner-connection-on-windows-10-machine/"><u>Reinstate Scanner Connection on Windows 10 Machine</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-recurring-printer-errors-in-win10win7/"><u>Troubleshooting Recurring Printer Errors in Win10/Win7</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-iphone-11-pro-max-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your iPhone 11 Pro Max has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/zero-in-on-the-problem-discover-these-5-ways-to-help-your-canon-printer-print/"><u>Zero in on the Problem: Discover These 5 Ways to Help Your Canon Printer Print</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

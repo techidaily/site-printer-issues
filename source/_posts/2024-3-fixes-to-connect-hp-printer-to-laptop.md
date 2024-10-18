@@ -1,7 +1,7 @@
 ---
 title: 2024 | 3 Fixes to Connect HP Printer to Laptop
-date: 2024-10-06T06:11:10.170Z
-updated: 2024-10-12T05:20:03.516Z
+date: 2024-10-17T03:41:11.329Z
+updated: 2024-10-17T20:39:04.403Z
 tags:
   - win11
   - win10
@@ -41,30 +41,31 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/1-3.jpg)
 2. Click**Devices** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2-1.jpg)
 3. Choose the**Printers & scanners** tab on the left and then click**Add a printer or scanner** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/05/3-1.jpg)  
- Now Windows should be able to detect your printer.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/05/3-1.jpg)  
+ Now Windows should be able to detect your printer.
 
 4. Click the**name** (printer’s manufacturer name and model number) when it pops up. And complete the installation following the instructions.
 
  After that, your HP printer should be connected to your laptop.**[Keep your printer driver up-to-date](#tip)** before printing away!
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Option 2 – Link HP printer to laptop via wireless network
 
@@ -81,24 +82,18 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/1-3.jpg)
 4. Click**Devices** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2-1.jpg)
 5. Choose the**Printers & scanners** tab and then click**Add a printer or scanner** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/05/3-1.jpg)
-6. Click the printer’s**name** , when it pops up, shown as the manufacturer name and model number. And your computer will do the rest to complete the configuration.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/05/3-1.jpg)
+6. Click the printer’s**name** , when it pops up, shown as the manufacturer name and model number. And your computer will do the rest to complete the configuration.
 
  Now your printer is ready to churn out paper! Don’t forget to**[check your printer has the latest driver](#tip)** for smooth running.
 
@@ -117,13 +112,6 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
 1. Open the printer’s control panel and turn**ON** Wi-Fi Direct. (Note: it is turned on by default). Or touch the HP Wireless Direct icon (![](https://lh3.googleusercontent.com/Dx6d3123fWH0nIb8VThUGHleXYNEgDM1vjmzQy5lDWg-d0wEPs0mF_CERLTAcwGRU1ffU2HhPl_sCQGUhCKW56n9KsFCSTRanDWu9R54Qt6eslyeSM4yOQlvNn-0VZly5-57TYsTOZenH6X4UQ) ) and then turn**ON** the connection.
 2. Get the security password from the printer control panel.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/7-1.jpg)
 3. On your computer or mobile devices, connect to**Wi-Fi Direct** or**Wireless Direct** the same way you connect to any other wireless network.  
 
@@ -132,11 +120,25 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/8-1.jpg)
 5. Open your files and select**Print** . Select your**printer** and then you can print the files you want from smartphones, laptops or tablets.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your mobile apps don’t support printing, download and install [HP Print Service Plugin](https://play.google.com/store/apps/details?id=com.hp.android.printservice) before tapping print.
 
  If the above steps fail to help you set up the printer, check these documents for more fixes:[HP printer setup (Wi-Fi Direct)](https://support.hp.com/nz-en/document/ish%5F1841315-1637332-16) , or [Printing with HP Wireless Direct](https://support.hp.com/us-en/document/c04090221) .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tips – Keep your printer driver up-to-date
 
@@ -161,15 +163,15 @@ Here’s how it works in just 2 clicks:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/google-meet-camera-6.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or you can click the**Update** button next to the flagged printer driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE** version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/hp-printer.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The [**Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](mailto:support@drivereasy.com) .
 
@@ -195,17 +197,18 @@ Here’s how it works in just 2 clicks:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/error-fixing-unable-to-add-hp-d1360-drivers-in-windows-oses/"><u>[Error Fixing] Unable to Add HP D1360 Drivers in Windows OSes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-live-without-the-convenience-of-youtube-shorts/"><u>[New] 2024 Approved How To Live Without the Convenience of YouTube Shorts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-recording-google-voice-a-comprehensive-tutorial/"><u>[New] In 2024, Recording Google Voice A Comprehensive Tutorial</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-gopro-and-yi-clash-a-new-look-at-action-cams-best-version/"><u>[Updated] GoPro & Yi Clash A New Look at Action Cams' Best Version</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/addressing-printer-no-show-on-windows-me-edition/"><u>Addressing Printer No-Show on Windows ME Edition</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-mf4770n-driver-update-in-windows-1087/"><u>Canon MF4770n Driver Update in Windows 10/8/7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/decoding-ink-cartridge-errors-in-printers/"><u>Decoding Ink Cartridge Errors in Printers</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-a18-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo A18? | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-uniting-platforms-sharing-vids-on-twtplustumblr-space/"><u>In 2024, Uniting Platforms Sharing Vids on Twt+Tumblr Space</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/jumpstart-your-stationary-machine-fix-canon-printer-offline/"><u>Jumpstart Your Stationary Machine: Fix Canon Printer Offline</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-speaker-pop-up-issues-on-your-computer-with-easy-fixes-for-windows-users/"><u>Overcome Speaker Pop-Up Issues on Your Computer with Easy Fixes for Windows Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-pesky-sound-glitches-in-windows-operating-systems-including-10-and-7/"><u>Troubleshooting Pesky Sound Glitches in Windows Operating Systems, Including 10 & #7</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-best-alternative-top-10-flv-to-youtube-converter-apps/"><u>[New] 2024 Approved Best Alternative Top 10 FLV to YouTube Converter Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-future-filming-top-15-video-cameras-to-watch/"><u>[New] Future Filming – Top 15 Video Cameras to Watch</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-samsung-galaxy-xcover-7-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Samsung Galaxy XCover 7 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/boost-your-multimedia-with-winxvideo-ai-effortless-video-conversion-stabilization-and-editing-tools/"><u>Boost Your Multimedia with WinxVideo AI - Effortless Video Conversion, Stabilization & Editing Tools.</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/effimero-a-domicilio-estrai-i-tuoi-film-dai-dvd-senza-costi-con-il-prodotto-dvd-ripper-2e-editione-2020-garantito-sicuro-e-facile-da-usare/"><u>Effimero a Domicilio: Estrai I Tuoi Film Dai DVD Senza Costi Con Il Prodotto DVD Ripper 2E Editione 2020 - Garantito Sicuro E Facile Da Usare</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensuring-seamless-remote-device-connectivity-on-windows/"><u>Ensuring Seamless Remote Device Connectivity on Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guide-to-overcoming-silent-hp-network-printers/"><u>Guide to Overcoming Silent HP Network Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/installation-tips-for-seamlessly-connecting-your-hp-officejet-4500i/"><u>Installation Tips for Seamlessly Connecting Your HP Officejet 4500I</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/non-responsive-printer-halted-what-to-do/"><u>Non-Responsive Printer Halted, What to Do?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-11x-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 11X 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revive-windows-9598-print-jobs-that-wont-respond/"><u>Revive Windows 95/98 Print Jobs That Won't Respond</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/second-pc-same-printer-issue-resolved/"><u>Second PC, Same Printer Issue? Resolved</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/usb-printer-fails-to-respond-post-suspend-win7/"><u>USB Printer Fails to Respond Post Suspend, Win7</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Epson Online Functionality Regained
-date: 2024-10-07T08:53:17.167Z
-updated: 2024-10-12T07:32:06.415Z
+date: 2024-10-15T02:10:46.879Z
+updated: 2024-10-17T18:04:00.327Z
 tags:
   - win11
   - win10
@@ -38,36 +38,29 @@ thumbnail: https://thmb.techidaily.com/c35bb55569306b5428a10bd1ab44596d5c722993d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c1ac9662b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Right-click on your printer and click **See what’s printing** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-16.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Click **Printer** to make sure there’s no √ mark before **Use Printer Offline** . Then click **Printer**  again and this time check on **Set As Default Printer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Close the window and check if you’re able to use your printer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your EPSON printer driver
 
@@ -82,10 +75,16 @@ thumbnail: https://thmb.techidaily.com/c35bb55569306b5428a10bd1ab44596d5c722993d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/SCAN.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3)With the Free version: Click the **Update**  button next to the flagged printer driver to automatically download and install the correct version of this driver.
@@ -97,10 +96,10 @@ With the Pro version: click **Update All**  to automatically download and instal
  4) Restart your computer and check if you’re able to use your printer.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Reinstall your EPSON printer
@@ -112,10 +111,10 @@ With the Pro version: click **Update All**  to automatically download and instal
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c325e1705.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7.png)
@@ -145,16 +144,16 @@ With the Pro version: click **Update All**  to automatically download and instal
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c7d426e87.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  10) Tick on **Add a printer using a TCP/IP address or hostname** . Then click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c7f50fd88.png)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  11) Enter the IP address and Port name of your printer. Then click**Next** to complete reinstalling your printer.
 
@@ -169,6 +168,13 @@ With the Pro version: click **Update All**  to automatically download and instal
  1)Right-click on your printer and choose **Printer properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Highlight the checked Port with √ mark in **Ports** , then click **Configure Port…**
  Now you can see the Port name and IP address of your printer on the pop-up window.
@@ -192,24 +198,17 @@ With the Pro version: click **Update All**  to automatically download and instal
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/driver-difficulty-unable-to-locate-hp-driver-on-winxo/"><u>[Driver Difficulty] - Unable to Locate HP Driver on WinXO</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/0-second-teasers-explained/"><u>[New] 10-Second Teasers Explained</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-monochrome-to-vivid-mastering-the-sdr-to-hdr-video-transition/"><u>[New] From Monochrome to Vivid Mastering the SDR-to-HDR Video Transition</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-masterpieces-come-to-life-with-top-photo-frame-tools-for-2024/"><u>[New] Masterpieces Come to Life with Top Photo Frame Tools for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-usb-printers-not-working-after-sleep-in-windows-7/"><u>[Solved] USB Printers Not Working After Sleep in Windows 7</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-from-hobbyist-to-pro-optimal-cameras-for-youtubing/"><u>2024 Approved From Hobbyist to Pro Optimal Cameras For YouTubing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-poco-c55-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Poco C55 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-tecno-spark-20-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Tecno Spark 20</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574003773-canon-printer-is-offline-heres-how-to-fix-it/"><u>Canon Printer Is Offline? Here's How to Fix It!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-vivo-y56-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo Y56 5G Lock Screen Password</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mastering-fixes-for-epson-error-0x97/"><u>Mastering Fixes for Epson Error 0X97</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-chatgpts-stream-errors-successfully/"><u>Navigating ChatGPT's Stream Errors Successfully</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/officejet-pro-8600-printer-support-package-windows-based/"><u>Officejet Pro 8600 Printer Support Package, Windows-Based</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-dilemma-ends-after-new-windows-installation/"><u>Print Dilemma Ends After New Windows Installation</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-puzzle-mysterious-setup-error/"><u>Printer Puzzle: Mysterious Setup Error</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-guide-hook-up-your-hp-officejet-pro-duo/"><u>Quick Guide: Hook Up Your HP Officejet Pro Duo</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-mystery-of-http-401-unauthorized-a-step-by-step-guide/"><u>Solving the Mystery of HTTP 401 Unauthorized: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-ipad-pro-protectors-comprehensive-reviews-and-testing-insights-by-tech-gurus-gadgetzoo/"><u>Top-Rated iPad Pro Protectors - Comprehensive Reviews & Testing Insights by Tech Gurus | GadgetZoo</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win-hp-printer-setup-manual/"><u>Win HP Printer Setup Manual</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-in-depth-analysis-top-9-freeware-logo-designers-unveiled/"><u>[New] In 2024, In-Depth Analysis Top 9 Freeware Logo Designers Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-composers-toolkit-for-flawless-image-finishing/"><u>[New] The Composer's Toolkit for Flawless Image Finishing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/breaking-limits-free-saves-for-your-story-loads-for-2024/"><u>Breaking Limits Free Saves for Your Story Loads for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-not-detected-windows-print-error/"><u>Driver Not Detected: Windows Print Error</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/exploring-efficient-methods-printer-and-laptop-harmony-achieved/"><u>Exploring Efficient Methods: Printer & Laptop Harmony Achieved</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/finding-hp-printer-drivers-on-windows-1011/"><u>Finding HP Printer Drivers on Windows 10/11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-a-print-device-that-wont-blink-back/"><u>Fixing a Print Device That Won't Blink Back</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-to-restore-factory-settings-on-laptops-running-windows-11-8-or-7/"><u>How to Restore Factory Settings on Laptops Running Windows 11, 8, or 7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-s17-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Vivo S17 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Methods to Change GPS Location On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-archive-storing-your-iphone-images-and-videos-for-2024/"><u>Instagram Archive Storing Your iPhone Images and Videos for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/speedy-updates-for-sluggish-printers/"><u>Speedy Updates for Sluggish Printers</u></a></li>
 </ul></div>
 

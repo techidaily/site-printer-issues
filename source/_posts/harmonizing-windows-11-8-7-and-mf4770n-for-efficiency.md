@@ -1,7 +1,7 @@
 ---
 title: Harmonizing Windows 11, 8, 7 & MF4770n for Efficiency
-date: 2024-09-04T06:16:38.603Z
-updated: 2024-09-05T06:16:38.603Z
+date: 2024-10-12T09:36:44.543Z
+updated: 2024-10-18T01:56:22.255Z
 tags:
   - win11
   - win10
@@ -35,16 +35,32 @@ If you’re not confident playing around with drivers manually, you can do it au
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa3dfb7f029.jpg)
 3. You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c7e148fdf8.jpg) You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Option 2: Update your Canon MF4770n driver manually**
 
  Canon keeps updating drivers. To get them, you need to go to Canon’s official website, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
@@ -53,38 +69,16 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 1. Go to **[Canon’s official website](https://www.usa.canon.com/internet/portal/us/home)**  , type **Canon MF4770n** in the box, and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03f1a0cf44c.png)
 2. Under **imageCLASS MF4770n** , click**Drivers & Downloads** .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03db4a0d862.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Scroll down the new page to the bottom and a list of printer drivers compatible with your operating system will be listed (**Windows 10** ,**x64** in my case). Click**the first result** to make sure you download the latest driver release. Then click**DOWNLOAD** .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03db3044199.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Double-click on the downloaded file and follow the on-screen instructions to finish the installation.
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Restart your computer for the changes to take effect even if you’re not asked to.
 6. Skip this step if you can scan over a network/with a USB connection in your Windows system. But if you fail to do in either of them, you might need to go back to the download page to download & install a patch for it. Follow the prompts to so that the patch can solve the issue for you.
 
@@ -101,8 +95,6 @@ If you’re not confident playing around with drivers manually, you can do it au
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,8 +102,22 @@ If you’re not confident playing around with drivers manually, you can do it au
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-brillianttoons-in-depth-review-2024-guide/"><u>[New] BrilliantToons In-Depth Review 2024 Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/1716169249173-new-how-to-use-the-instagram-green-screen-effect/"><u>[New] How to Use the Instagram Green Screen Effect</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-harnessing-royalty-free-graphics-a-compreeved-guide-for-2024/"><u>[Updated] Harnessing Royalty-Free Graphics A Compreeved Guide for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-video-cut-off-chronicles-in-digital-photobooths/"><u>[Updated] In 2024, Video Cut-Off Chronicles in Digital Photobooths</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/assistenza-esclusiva-per-il-software-di-riproduzione-dvd-winx-strategie-e-tutorial/"><u>Assistenza Esclusiva per Il Software Di Riproduzione DVD WinX - Strategie E Tutorial</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/breathe-life-into-your-dying-windows-11-printer/"><u>Breathe Life Into Your Dying Windows 11 Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/brother-cdw-duo-air-glide-instructions/"><u>Brother CDW Duo Air Glide Instructions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eliminating-error-on-hp-printer-0xoxc4eb827f/"><u>Eliminating Error on HP Printer: 0XOXC4EB827F</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/lines-for-optimal-youtube-video-brightness-for-2024/"><u>Guidelines for Optimal YouTube Video Brightness for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hardware-setup-successful-driver-installation-for-hp-d1360/"><u>Hardware Setup: Successful Driver Installation for HP D1360?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-complete-breakdown-enhancing-your-experience-with-advanced-mobizen-techniques/"><u>In 2024, Complete Breakdown Enhancing Your Experience with Advanced Mobizen Techniques</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-master-list-of-prime-online-destinations-for-quality-montage-audio-acquisition/"><u>In 2024, Master List of Prime Online Destinations for Quality Montage Audio Acquisition</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/paper-jam-no-more-epson-printer-fixed/"><u>Paper Jam No More: Epson Printer Fixed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/rapid-printer-setup-guide/"><u>Rapid Printer Setup Guide</u></a></li>
+</ul></div>
 

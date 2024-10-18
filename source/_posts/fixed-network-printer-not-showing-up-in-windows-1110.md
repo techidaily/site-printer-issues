@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Network Printer Not Showing up in Windows 11/10"
-date: 2024-10-08T08:21:55.311Z
-updated: 2024-10-11T23:03:09.410Z
+date: 2024-10-11T08:16:02.008Z
+updated: 2024-10-17T18:25:04.461Z
 tags:
   - win11
   - win10
@@ -38,16 +38,16 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-26_10-35-52.jpg)
 2. Find out the**IP address** on your printer information tag.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Type**ping** and then**IP address** (eg. ping 10.26.76.249) on the Command Prompt dialog and press**Enter** . Note that**a space** is necessary between the ping command and the IP address.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-28_10-58-4011111-1.png)
 4. Your PC will perform the ping command and detect if your printer is connected to the network.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 2: Reconnect the printer
 
@@ -62,39 +62,48 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 1. Click the**Search** box in the lower left corner of your screen and then type**control panel** . Click the**Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-25_17-04-59.jpg)
 2. Click**Hardware and sound** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-27_10-26-01.jpg)
 3. Click**Devices and Printers** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-25_17-12-20.jpg)
 4. Click**Add a printer** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-25_17-14-40.jpg)
 5. The windows below will pop up. If your PC doesn’t detect your printer automatically, click**The printer that I want isn’t listed** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-25_17-16-52.jpg)
 6. Click the option button next to**Select a shared printer by name** . Type your computer or printer name in the empty text box and then click the**Next** Button.  
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-25_17-21-34.jpg)
 7. Your PC will connect to the printer you add. Then you can check if your network printer is visible on your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your printer drivers
 
@@ -117,22 +126,8 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-15_15-08-24-2.jpg)
 3. You can choose to update the driver with a FREE version. Click the**Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or you can click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-25_17-36-56.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After updating your device drivers, see if your network printer shows up. If not, move to the next method.
 
@@ -145,25 +140,26 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-28_09-01-23.jpg)
 3. Slide down your mouse until you find the**Printer Spooler** . Double click the**Printer Spooler** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-25_14-52-42.jpg)
 4. The**Print Spooler Properties** dialog will pop up. Click**Start** and then select the**OK** button.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-25_14-54-08.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-25_14-54-08.jpg)
+
  After enabling the Print Spooler service, you can check if your network printer appears on your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Run Printer Troubleshooter
 
@@ -195,24 +191,19 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-lg-360-camera-full-review-2023-update/"><u>[New] LG 360 Camera Full Review -2023 Update</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-the-ultimate-adventure-companion-a-garmin-ultra-30-analysis-for-2024/"><u>[New] The Ultimate Adventure Companion - A Garmin Ultra 30 Analysis for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-11-key-steps-for-perfect-color-grading-in-photography/"><u>[Updated] 11 Key Steps for Perfect Color Grading in Photography</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-win-10-wisdom-key-tips-and-tricks-guide/"><u>[Updated] Win 10 Wisdom Key Tips and Tricks Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ad-domain-down-resulting-in-printer-failure/"><u>AD Domain Down - Resulting In Printer Failure</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/address-memory-overuse-by-w11-printers/"><u>Address Memory Overuse by W11 Printers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/enhancing-visuals-5-simple-steps-to-zoom-in-minecraft/"><u>Enhancing Visuals 5 Simple Steps to Zoom in Minecraft</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/essential-steps-for-mounting-your-canon-printer/"><u>Essential Steps for Mounting Your Canon Printer</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/expert-strategies-for-high-quality-macbook-webcam-recordings/"><u>Expert Strategies for High-Quality MacBook Webcam Recordings</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-iphone-15-pro-max-by-drfone-ios/"><u>How to Bypass iCloud Lock from iPhone 15 Pro Max</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s24-ultra-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S24 Ultra Phones with/without a PC</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-it-possible-to-transform-my-laptops-core/"><u>Is It Possible to Transform My Laptop’s Core?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mending-non-operational-printers/"><u>Mending Non-Operational Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revamp-printer-functions-install-new-hp-inkjets-software/"><u>Revamp Printer Functions: Install New HP Inkjets Software</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reviving-disabled-scan-in-win11/"><u>Reviving Disabled Scan in Win11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/smooth-silence-integration-in-audio-post-production-audacity-style/"><u>Smooth Silence Integration in Audio Post-Production - Audacity Style</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-non-functional-print-devices/"><u>Troubleshooting Non-Functional Print Devices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-10-re-enable-scanned-device-connection/"><u>Windows 10: Re-Enable Scanned Device Connection</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/winprint-woes-successfully-fixing-error-0x00000709/"><u>WinPrint Woes: Successfully Fixing Error 0X00000709</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-essential-open-worlds-you-cant-ignore/"><u>[New] Essential Open Worlds You Can't Ignore</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tech-support-unsuccessful-print-driver-installation-across-windows-versions/"><u>[Tech Support] Unsuccessful Print Driver Installation Across Windows Versions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-capture-phone-gaming-moments-on-samsung-devices/"><u>[Updated] Capture Phone Gaming Moments on Samsung Devices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-windows-guide-free-tools-for-capturing-live-tv/"><u>[Updated] Windows Guide Free Tools for Capturing Live TV</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-speed-settings-unveiled-customizing-your-snapchat-experience/"><u>2024 Approved Speed Settings Unveiled Customizing Your Snapchat Experience</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/compatibility-hurdle-installation-of-hp-d1360-printer-drivers/"><u>Compatibility Hurdle: Installation of HP D1360 Printer Drivers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-printer-connectivity-issue-sorted-out/"><u>HP Printer Connectivity Issue Sorted Out</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-immersive-tech-the-best-vr-gadgets-rated/"><u>In 2024, Immersive Tech The Best VR Gadgets Rated</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-honor-x50i-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Honor X50i Phone Pattern Lock</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/methodology-linking-hp-officejet-to-windows-os/"><u>Methodology: Linking HP Officejet to Windows OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/methods-to-reactivate-dormant-brother-printer/"><u>Methods to Reactivate Dormant Brother Printer</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-persistent-halo-infinite-pc-game-freezes-expert-advice/"><u>Resolving Persistent Halo Infinite PC Game Freezes – Expert Advice</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-printer-error-code-e-0x97/"><u>Resolving Printer Error Code E-0X97</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-remedy-for-when-your-steelseries-arctis-pro-headsets-mic-fails-you/"><u>Step-by-Step Remedy for When Your SteelSeries Arctis Pro Headset's Mic Fails You</u></a></li>
 </ul></div>
 

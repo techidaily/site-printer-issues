@@ -1,7 +1,7 @@
 ---
 title: Rapid Unjamming of Print Workqueue
-date: 2024-10-11T00:33:04.568Z
-updated: 2024-10-12T11:23:11.522Z
+date: 2024-10-15T23:41:25.415Z
+updated: 2024-10-17T16:37:06.657Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
    3. [Create a Bat file for permanent use](#f3)
 * **Fix 2 –[Reinstall your printer driver](#m2)**
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Clear the print queue
 
  There are three options for you to clear the print queue. You don’t have to try them all; just take your pick.
@@ -45,21 +52,14 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/delete.jpg)
 6. In the Services window, right-click**Print Spooler** and select**Start** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/start-service.jpg)
 7. Go back to the**Print Job** queue. All print jobs should have been removed now and you can start printing again normally.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Have trouble deleting the files?**
@@ -96,6 +96,19 @@ This will clear all of your print jobs stuck in a queue.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/note.jpg)
 3. Then click**File** \>**Save as…**  
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * Change the file type to**All files**  
    * Name your file whatever you want, but add a**.bat** suffix.  
    * Make sure the Encoding type is**ANSI** .  
@@ -121,13 +134,6 @@ This will clear all of your print jobs stuck in a queue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/kisspng-pixel-illustration-printer-5a983b8a6f6aa4.5830009615199261544564.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Option 2: Automatic printer driver update (Recommended)
 
  If you don’t have the time, patience, or computer skills to update your audio driver manually, you can**do it automatically** with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct driver for your device.
@@ -146,16 +152,10 @@ This will clear all of your print jobs stuck in a queue.
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Try printing again. Your printer should be working properly now.
@@ -185,18 +185,20 @@ Feel free to drop us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-gamers-pathway-to-impeccable-recordings/"><u>[New] 2024 Approved Gamers' Pathway to Impeccable Recordings</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-creating-the-ultimate-home-pc-for-professional-video-editors-for-2024/"><u>[New] Creating the Ultimate Home PC for Professional Video Editors for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-w10-quick-recording-software/"><u>[New] W10 Quick Recording Software</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tech-tip-revive-missing-windows-xp10-printer/"><u>[Tech Tip] Revive Missing Windows XP/10 Printer</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-best-gamification-tools-and-apps-on-a-budget/"><u>[Updated] 2024 Approved Best Gamification Tools & Apps on a Budget</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-creating-an-iphone-photo-mosaic-a-step-by-step-guide/"><u>2024 Approved Creating an iPhone Photo Mosaic A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-the-benchmark-next-gen-ai-measurement-models/"><u>Beyond The Benchmark: Next-Gen AI Measurement Models</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/creating-captivating-podcast-highlights/"><u>Creating Captivating Podcast Highlights</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/optimize-printing-workflow-swiftly/"><u>Optimize Printing Workflow Swiftly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-issue-solved-for-epson-model/"><u>Print Issue Solved for Epson Model</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-recurring-printer-errors-in-win10win7/"><u>Troubleshooting Recurring Printer Errors in Win10/Win7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unblocking-offline-status-on-windows-hp-devices/"><u>Unblocking Offline Status on Windows HP Devices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/zero-in-on-the-problem-discover-these-5-ways-to-help-your-canon-printer-print/"><u>Zero in on the Problem: Discover These 5 Ways to Help Your Canon Printer Print</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-savor-the-spectacle-best-practices-for-cooking-channel-titling/"><u>[New] 2024 Approved Savor the Spectacle Best Practices for Cooking Channel Titling</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-deciphering-the-code-a-deep-dive-into-recording-whatsapp-messages-for-2024/"><u>[New] Deciphering the Code A Deep Dive Into Recording WhatsApp Messages for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-instagrams-question-marker-magic-for-2024/"><u>[New] Navigating Instagram’s Question Marker Magic for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-unveiling-best-waterproof-tech-action-cameras-roundup/"><u>[New] Unveiling Best Waterproof Tech Action Cameras Roundup</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-printer-error-after-wake-from-sleep-in-windows-7/"><u>[Resolved] Printer Error After Wake From Sleep in Windows 7</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-content-with-top-ranked-youtube-channels-for-2024/"><u>[Updated] Elevate Your Content with Top-Ranked YouTube Channels for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-12-proven-ways-to-increase-youtube-views-you-should-try/"><u>[Updated] In 2024, 12 Proven Ways to Increase YouTube Views You Should Try</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-how-to-make-your-instagram-pop-with-sharing-gifs-in-4-easy-steps/"><u>2024 Approved How to Make Your Instagram Pop with Sharing GIFs in 4 Easy Steps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-making-friends-across-networks-instagram-plus-facebook/"><u>2024 Approved Making Friends Across Networks Instagram + Facebook</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fast-track-prints-in-queue/"><u>Fast-Track Prints in Queue</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/methodes-pour-reinitialiser-un-pc-indifferemment-de-la-marque-sans-mot-de-passe-lenovo-dell-et-autres/"><u>Méthodes Pour Réinitialiser Un PC Indifféremment De La Marque Sans Mot De Passe (Lenovo, DELL Et Autres)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reconnected-printer-in-win7-environment/"><u>Reconnected Printer in Win7 Environment</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-restarting-brother-printer-for-windows/"><u>Troubleshooting: Restarting Brother Printer for Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unwanted-blank-sheets-a-common-epson-complaint/"><u>Unwanted Blank Sheets: A Common Epson Complaint</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/wins-overprint-taming-the-post-update-beast/"><u>Wins Overprint: Taming the Post-Update Beast</u></a></li>
 </ul></div>
 

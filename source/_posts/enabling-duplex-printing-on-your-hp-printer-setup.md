@@ -1,7 +1,7 @@
 ---
 title: Enabling Duplex Printing on Your HP Printer Setup
-date: 2024-10-07T21:04:16.780Z
-updated: 2024-10-12T04:39:12.372Z
+date: 2024-10-16T06:54:15.218Z
+updated: 2024-10-17T17:41:17.536Z
 tags:
   - win11
   - win10
@@ -70,6 +70,13 @@ Now let’s start!
 
 **6)** Press**OK** to confirm the settings.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 3: WPS (Wi-Fi Protected Setup)
 
  This method requires your printer to support WPS pushbutton mode, and your wireless router must have a physical WPS push button.
@@ -81,10 +88,10 @@ Now let’s start!
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/61RSlaVpCJL._SL1500_-746x1024.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 4: Windows setup
@@ -96,10 +103,10 @@ Now let’s start!
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap41.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Turn on the printer and go to its**Network** menu.
@@ -109,6 +116,19 @@ Now let’s start!
 **5)** Back to your computer. Under**Printers & scanners** tab, click “**+** ” button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap42.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Select the printer from the results and click**Add device** . You should be good to go.
 
@@ -129,23 +149,10 @@ Now let’s start!
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap40-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Bonus: Troubleshoot problems in hp wireless printer connectivity
@@ -175,6 +182,13 @@ Now let’s start!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap42-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Method 2\. Install Reimage
 
  Many printer issues could be related to corrupted system files.[**Fortect**](https://tools.techidaily.com/drivereasy/download/) is a powerful tool to repair and rebuild Windows. It is tailored to your specific system and is working in a private and automatic way. There’s no harm to your PC and no worries about losing any programs and your personal data.
@@ -184,23 +198,9 @@ Now let’s start!
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -225,21 +225,16 @@ Now let’s start!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-highlighting-the-top-10-budget-friendly-video-communication-platforms-for-industry-and-academia/"><u>[New] 2024 Approved Highlighting the Top 10 Budget-Friendly Video Communication Platforms For Industry & Academia</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cutting-edge-tools-to-snatch-and-save-videos-flawlessly/"><u>[New] In 2024, Cutting-Edge Tools to Snatch and Save Videos Flawlessly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/addressing-the-blank-pages-from-your-epson-printer/"><u>Addressing the Blank Pages From Your Epson Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ease-into-plc-error-resolution/"><u>Ease Into PLC Error Resolution</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhance-printing-quick-fixes-for-canon-windows-10-compatibility/"><u>Enhance Printing: Quick Fixes for Canon, Windows 10 Compatibility</u></a></li>
-<li><a href="https://win-web.techidaily.com/how-to-create-an-instantly-executable-flipbook-a-complete-guide-with-flipbuilder/"><u>How to Create an Instantly Executable Flipbook: A Complete Guide with FlipBuilder</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-11-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock iPhone 11 3 Ways To Unlock</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-google-pixel-7a-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-driver-windows-1011-error/"><u>HP Printer Driver - Windows 10/11 Error</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-social-media-wiz-how-to-create-captivating-slideshow-stories-for-facebook/"><u>In 2024, Social Media Wiz How to Create Captivating Slideshow Stories for Facebook</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/installation-tips-mfc-9330cdw-driver/"><u>Installation Tips: MFC-9330CDW Driver</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/outstanding-videography-fixes-clients-rejoice/"><u>Outstanding Videography Fixes - Clients Rejoice</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/speedy-printer-solutions-unveiled/"><u>Speedy Printer Solutions Unveiled</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-gadget-gurus-edge-trustworthy-advice-on-computer-hardware-by-tom/"><u>The Gadget Guru's Edge: Trustworthy Advice on Computer Hardware by Tom</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-11-printer-issues-quick-solutions-needed/"><u>Windows 11 Printer Issues - Quick Solutions Needed</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-view-bots-how-to-increase-youtube-views-in-2024/"><u>YouTube View Bots How to Increase YouTube Views, In 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-capture-it-all-the-top-5-sd-cards-for-gopro-hero-footage/"><u>[New] Capture It All The Top 5 SD Cards for GoPro Hero Footage</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-no-cost-no-trouble-video-introduction-kits-for-2024/"><u>[New] No-Cost, No-Trouble Video Introduction Kits for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/update-required-pixma-mp620-drivers-missing-windows-10/"><u>[Update Required] Pixma MP620 Drivers Missing Windows 10</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-oneplus-ace-3-frp-bypass-by-drfone-android/"><u>About OnePlus Ace 3 FRP Bypass</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/building-a-powerhouse-pc-tips-and-tricks-by-tomcuo-hardware-authorities/"><u>Building a Powerhouse PC: Tips and Tricks by Tom'cuo Hardware Authorities</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/techniques-to-restructure-your-youtube-sequence/"><u>Fast Techniques to Restructure Your YouTube Sequence</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-navigating-the-nuances-of-spotify-advertising/"><u>In 2024, Navigating the Nuances of Spotify Advertising</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mastering-fixes-for-epson-error-0x97/"><u>Mastering Fixes for Epson Error 0X97</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-guide-hook-up-your-hp-officejet-pro-duo/"><u>Quick Guide: Hook Up Your HP Officejet Pro Duo</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-efficient-data-flow-for-printers/"><u>Restoring Efficient Data Flow for Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/turbocharge-printer-operations/"><u>Turbocharge Printer Operations</u></a></li>
 </ul></div>
 

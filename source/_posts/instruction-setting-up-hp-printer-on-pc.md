@@ -1,7 +1,7 @@
 ---
 title: "Instruction: Setting Up HP Printer on PC"
-date: 2024-10-11T05:07:49.023Z
-updated: 2024-10-12T02:42:38.675Z
+date: 2024-10-11T09:01:04.207Z
+updated: 2024-10-17T16:45:27.936Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c3069
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/universal-1828_960_720-300x200.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 A USB cable
 
 **1)** Turn on your computer and your HP printer.
@@ -53,10 +60,10 @@ If your HP printer is **wireless-capable**  , you can connect your printer to yo
 **4)** On your HP printer control panel, go to the **Setup** , **Network** , or **Wireless** menu, and then open **Wireless Setup Wizard**  to follow the on-screen instructions to connect the printer to your network.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Wired connection to your computer
@@ -67,14 +74,14 @@ If your HP printer is **wireless-capable**  , you can connect your printer to yo
 
 **2)**  Remove any plug from the Ethernet port (the port with the ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eac2c5fcbd.png)  logo) on the rear of your printer.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap14-150x150.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The Ethernet port
 
@@ -83,6 +90,13 @@ The Ethernet port
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap17-1.png)
 
 The Ethernet cable
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 2: Install the printer driver for your HP printer
 
@@ -114,22 +128,21 @@ The Ethernet cable
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap2-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click **Devices and Printers** to view your HP printer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap20.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Right-click your HP printer and select **Printer Properties** .
@@ -139,13 +152,6 @@ The Ethernet cable
 **4)** In the pop-up window, click **Printer Test Page** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap19-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If a test paper is printed, congratulations! You’ve set up your HP printer.
 
@@ -166,20 +172,24 @@ The Ethernet cable
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-quick-and-easy-extracting-hd-videos-from-vimeo-to-mp4-format/"><u>[Updated] Quick & Easy Extracting HD Videos From Vimeo to MP4 Format</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-unleash-your-seo-potential-explore-the-most-effective-7-free-video-tags-extractors/"><u>2024 Approved Unleash Your SEO Potential Explore the Most Effective 7 Free Video Tags Extractors</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/confused-settings-your-printer-misconfigured/"><u>Confused Settings: Your Printer Misconfigured</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/end-page-gaps-the-2024-printer-fix/"><u>End Page Gaps: The 2024 Printer Fix</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-paperclip-maximizer-issue-in-artificial-intelligence/"><u>Exploring the Paperclip Maximizer Issue in Artificial Intelligence</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fully-functional-page-to-page-printer-printing/"><u>Fully Functional, Page-to-Page Printer Printing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-raw-footage-to-final-product-using-windows-10-for-editing-success/"><u>In 2024, From Raw Footage to Final Product Using Windows 10 for Editing Success</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-x100-pro-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo X100 Pro to PC? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/innovative-snooze-solutions-for-flawless-rest-and-stress-release/"><u>Innovative Snooze Solutions for Flawless Rest and Stress Release</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-auditory-tranquility-techniques-to-achieve-gentle-sound-reduction/"><u>New 2024 Approved Auditory Tranquility Techniques to Achieve Gentle Sound Reduction</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-the-printer-setup-error-for-hp-deskjet-d1360-on-windows-systems/"><u>Resolving the Printer Setup Error for HP Deskjet D1360 on Windows Systems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamline-your-hp-inkjets-download-and-upgrade-tips/"><u>Streamline Your HP Inkjets - Download and Upgrade Tips</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unraveling-the-secrets-of-pcl-xl-repairs/"><u>Unraveling the Secrets of PCL XL Repairs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/upgrade-to-top-tier-mf4770n-drivers-for-windows-11w8w7/"><u>Upgrade to Top-Tier MF4770n Drivers for Windows 11/W8/W7</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-techniques-for-enlarging-content-on-youtube-platform/"><u>[New] 2024 Approved Techniques for Enlarging Content on YouTube Platform</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-unveiling-the-secrets-of-obs-game-capture/"><u>[New] 2024 Approved Unveiling the Secrets of OBS Game Capture</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-how-to-harness-the-power-of-puzzles-for-your-instagram-presence/"><u>[New] In 2024, How to Harness the Power of Puzzles for Your Instagram Presence</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1716069349687-updated-in-2024-an-easy-to-follow-methodology-for-initiating-a-productive-skype-conversation-among-various-os-users/"><u>[Updated] In 2024, An Easy-to-Follow Methodology for Initiating a Productive Skype Conversation Among Various OS Users.</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-elite-virtual-storage-service-ranking/"><u>2024 Approved Elite Virtual Storage Service Ranking</u></a></li>
+<li><a href="https://win-able.techidaily.com/call-of-duty-modern-warfare-3-fps-hitching-problems-revealed-solutions-and-prevention-tips/"><u>Call of Duty: Modern Warfare 3 FPS Hitching Problems Revealed: Solutions & Prevention Tips</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/effortlessly-establish-canon-printer-link/"><u>Effortlessly Establish Canon Printer Link</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eliminate-paperjam-error-by-deleting-printer/"><u>Eliminate PaperJam Error by Deleting Printer</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/expert-advice-on-securely-wiping-data-insights-from-stellar/"><u>Expert Advice on Securely Wiping Data - Insights From Stellar</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fresh-output-updated-driver-v305-and-windows-windows-7/"><u>Fresh Output, Updated Driver: V305 and Windows WIndows 7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fully-functional-printers-every-page-included/"><u>Fully Functional Printers, Every Page Included</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/handling-printers-gone-dark/"><u>Handling Printers Gone Dark</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-connect-unplugged-printer-fixed/"><u>Quick Connect: Unplugged Printer Fixed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-guide-releasing-a-stuck-printer-from-windows/"><u>Quick Guide: Releasing A Stuck Printer From Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reengage-the-printing-pro-saving-brother-printer-from-isolation/"><u>Reengage the Printing Pro: Saving Brother Printer From Isolation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-apples-progress-in-artificeal-intelligence-discover-new-features-and-potential-applications-analyzed-by-zdnet/"><u>Unveiling Apple's Progress in Artificeal Intelligence: Discover New Features and Potential Applications | Analyzed by ZDNET</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-audio-mastery-for-quicktime-videos-advanced-tips-and-tricks/"><u>Updated In 2024, Audio Mastery for QuickTime Videos Advanced Tips & Tricks</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-no-access-to-printer-drivers/"><u>Windows: No Access to Printer Drivers</u></a></li>
 </ul></div>
 

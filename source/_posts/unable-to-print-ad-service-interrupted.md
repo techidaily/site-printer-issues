@@ -1,7 +1,7 @@
 ---
 title: "Unable To Print: AD Service Interrupted"
-date: 2024-10-06T06:34:43.980Z
-updated: 2024-10-12T03:15:59.975Z
+date: 2024-10-16T18:30:38.695Z
+updated: 2024-10-18T02:23:57.385Z
 tags:
   - win11
   - win10
@@ -44,25 +44,33 @@ thumbnail: https://thmb.techidaily.com/4ba28a3dd24936be14c010b9b472cc28e6164f2dd
  5) Close the Services window and check if you could print files successfully.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Using Registry Editor
 
 1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png) and **R**  at the same time to invoke the Run box.
   
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Type **regedit**  and press **Enter** to open Registry Editor.  
   
 **![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-23.jpg)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click **Yes** when prompted by User Account Control,.
@@ -81,29 +89,22 @@ thumbnail: https://thmb.techidaily.com/4ba28a3dd24936be14c010b9b472cc28e6164f2dd
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-13.jpg)
   
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Do the same settings to give your account full control of **PrinterPorts**  and **Windows** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-12.jpg)
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Close the Registry Editor window and check to see if you could print files successfully.
@@ -125,21 +126,24 @@ thumbnail: https://thmb.techidaily.com/4ba28a3dd24936be14c010b9b472cc28e6164f2dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/fixed-printer-offline-issue-on-windows-7/"><u>[Fixed] Printer Offline Issue on Windows 7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/network-problem-hp-printer-driver-issues-across-windows-versions/"><u>[Network Problem] HP Printer Driver Issues Across Windows Versions</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-climbing-to-youtube-zenith-a-step-by-step-guide-to-creative-studio-mastery/"><u>[New] 2024 Approved Climbing to YouTube Zenith A Step-by-Step Guide to Creative Studio Mastery</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-smoothing-out-aerial-footage-pulsation/"><u>[New] Smoothing Out Aerial Footage Pulsation</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-pioneering-methods-to-log-lol-gaming-sessions/"><u>[Updated] 2024 Approved Pioneering Methods to Log LOL Gaming Sessions</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-understanding-and-applying-youtube-markup/"><u>[Updated] Understanding & Applying YouTube Markup</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/addressing-brother-printer-no-print-errors-windows-style/"><u>Addressing Brother Printer No-Print Errors, Windows Style</u></a></li>
-<li><a href="https://games-able.techidaily.com/dimming-into-the-game-lowering-xbox-controller-backlight/"><u>Dimming Into the Game: Lowering Xbox Controller Backlight</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-non-downloading-iphone-apps-discover-these-10-key-methods-for-successful-installation/"><u>How to Fix Non-Downloading iPhone Apps: Discover These 10 Key Methods for Successful Installation</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-vivo-y36i-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Vivo Y36i.</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-samsung-galaxy-a54-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Samsung Galaxy A54 5G Phone Screen?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/paper-path-problem-solved-error-code-0x00000709-conquered/"><u>Paper Path Problem Solved - Error Code 0X00000709 Conquered</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restoring-pcs-scanner-functionality-in-win10/"><u>Restoring PC's Scanner Functionality in Win10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/smooth-integration-update-mf4770n-drivers-on-w11w8w7-os/"><u>Smooth Integration: Update MF4770n Drivers on W11/W8/W7 OS</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-unprinted-printer/"><u>Troubleshooting: Unprinted Printer</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-tecno-phantom-v-fold-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Tecno Phantom V Fold Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-sharing-tweets-with-facebook-friends/"><u>[New] 2024 Approved Sharing Tweets with Facebook Friends</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-directing-the-stream-a-close-look-at-obs-vs-twitch-studio-for-2024/"><u>[Updated] Directing the Stream A Close Look at OBS vs Twitch Studio for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-taking-video-action-with-gopro-burst-technology/"><u>[Updated] Taking Video Action with GoPro Burst Technology</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/accelerate-clearing-print-job-queue/"><u>Accelerate Clearing Print Job Queue</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complimentary-logitech-camcorder-drivers-for-windows-operating-system-download/"><u>Complimentary Logitech Camcorder Drivers for Windows Operating System Download</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convert-music-files-at-no-cost-mpgmpeg-to-mp4-online-via-movavi/"><u>Convert Music Files at No Cost: MPG/MPEG to MP4 Online via Movavi</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-phantom-errors-in-epson-printer/"><u>Fixed Phantom Errors in Epson Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-get-an-offline-printer-running-on-vistaxp/"><u>How to Get an Offline Printer Running on Vista/XP</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/immediate-action-on-queued-print-processes/"><u>Immediate Action on Queued Print Processes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/immediate-plug-in-for-print-devices/"><u>Immediate Plug-In for Print Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-logging-into-windows-11-with-password-instead-of-pin/"><u>Master the Art of Logging Into Windows 11 with Password Instead of PIN</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-the-art-of-data-visualization-for-effective-communication/"><u>Mastering the Art of Data Visualization for Effective Communication</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/procedure-connecting-hp-officejet-to-windows-device/"><u>Procedure: Connecting HP Officejet to Windows Device</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-non-authentic-printer-use-case/"><u>Resolved: Non-Authentic Printer Use Case</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/shareable-podcast-episodes-on-instagram-platforms-for-2024/"><u>Shareable Podcast Episodes on Instagram Platforms for 2024</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-motorola-moto-g84-5g-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Motorola Moto G84 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streaming-seamlessly-a-step-by-step-guide-on-broadcasting-zoom-sessions-to-your-television/"><u>Streaming Seamlessly: A Step-by-Step Guide on Broadcasting Zoom Sessions to Your Television</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tackling-epsons-puzzling-error-x97/"><u>Tackling Epson's Puzzling Error X97</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/techniques-to-fix-silent-hp-multi-fax-printers/"><u>Techniques to Fix Silent HP Multi-Fax Printers</u></a></li>
 </ul></div>
 

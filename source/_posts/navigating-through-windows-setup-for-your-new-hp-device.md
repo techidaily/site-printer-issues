@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Windows Setup for Your New HP Device
-date: 2024-10-07T22:56:16.750Z
-updated: 2024-10-11T21:08:54.384Z
+date: 2024-10-14T00:52:22.251Z
+updated: 2024-10-18T09:16:03.751Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ A USB cable
 
 **2)** Use a USB cable to connect the USB port on the rear of your HP printer and your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Wireless (Wi-Fi) connection to your computer (a wireless-capable printer is needed)
 
 If your HP printer is **wireless-capable**  , you can connect your printer to your network with the guided Wireless Setup Wizard on the printer.
@@ -61,10 +68,16 @@ If your HP printer is **wireless-capable**  , you can connect your printer to yo
 **2)**  Remove any plug from the Ethernet port (the port with the ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eac2c5fcbd.png)  logo) on the rear of your printer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap14-150x150.png)
@@ -74,13 +87,6 @@ The Ethernet port
 **3)** Use the Ethernet cable to connect the printer port and an available port on your router.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap17-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The Ethernet cable
 
@@ -103,10 +109,10 @@ The Ethernet cable
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap15.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -114,10 +120,10 @@ The Ethernet cable
  If you have any issue with**Driver Easy** , please contact Driver Easy’s support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  for advice. You should attach the URL of this article so they can help you better.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 3: Print test paper
@@ -132,13 +138,6 @@ The Ethernet cable
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap20.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Right-click your HP printer and select **Printer Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap18-1.png)
@@ -146,6 +145,13 @@ The Ethernet cable
 **4)** In the pop-up window, click **Printer Test Page** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap19-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If a test paper is printed, congratulations! You’ve set up your HP printer.
 
@@ -166,21 +172,17 @@ The Ethernet cable
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-explore-the-best-phone-options-for-enhanced-gear-vr-immersion/"><u>[New] 2024 Approved Explore the Best Phone Options for Enhanced Gear VR Immersion</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-dive-deep-into-the-soundscapes-of-iphone-podcasts-for-2024/"><u>[New] Dive Deep Into the Soundscapes of iPhone Podcasts for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-how-to-fix-obs-high-encoding-problem/"><u>[New] How To Fix OBS High Encoding Problem?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-rev-voice-recorder-download-and-review/"><u>[Updated] Rev Voice Recorder Download and Review</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ting-your-vlog-through-proper-lighting/"><u>Elevating Your Vlog Through Proper Lighting</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhancing-mf4770n-performance-in-windows-108/"><u>Enhancing MF4770n Performance in WIndows 10/8</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-printer-offline-error/"><u>Fixing: Printer Offline Error</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/learn-true-blue-speak-with-100plus-aussie-terms/"><u>Learn True Blue Speak with 100+ Aussie Terms</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/local-network-printer-service-in-standby-mode/"><u>Local Network Printer Service in Standby Mode</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/optimize-printing-roll-out-latest-windows-7-dell-updates/"><u>Optimize Printing: Roll-Out Latest Windows 7 Dell Updates</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/pro-gamers-top-5-soundtrack-devices/"><u>Pro Gamers' Top 5 Soundtrack Devices</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/resolution-guide-overcoming-windows-server-2019s-post-update-reboot-cycle/"><u>Resolution Guide: Overcoming Windows Server 2019'S Post-Update Reboot Cycle</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reviving-a-printers-purpose-beyond-empty-pages/"><u>Reviving a Printer's Purpose Beyond Empty Pages</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/scan-functionality-reinstated-in-win11/"><u>Scan Functionality: Reinstated in Win11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshoot-and-rectify-non-responsive-printer-on-nt/"><u>Troubleshoot and Rectify Non-Responsive Printer on NT</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlock-the-secrets-to-lengthy-exposure-with-iphone/"><u>Unlock the Secrets to Lengthy Exposure with iPhone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/outubes-top-12-choices-in-gamers-introductory-videos-freepaid-for-2024/"><u>[New] YouTube's Top 12 Choices in Gamers' Introductory Videos (Free/Paid) for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/drive-upgrade-streamline-mf4770n-in-windows/"><u>Drive Upgrade: Streamline MF4770n in WIndows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-toms-hardware-experts/"><u>Exploring Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-vivo-v29e-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Vivo V29e</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-realme-11-proplus-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Realme 11 Pro+ FRP</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/keep-your-chatgpt-talks-under-wraps-stealthy-storage-solutions-explored/"><u>Keep Your ChatGPT Talks Under Wraps - Stealthy Storage Solutions Explored</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-every-page-without-a-glitch-now/"><u>Print Every Page without a Glitch, Now!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sharpening-your-minecraft-landscapes-for-2024/"><u>Sharpening Your Minecraft Landscapes for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/techniques-bringing-an-isolated-printer-back-onboard/"><u>Techniques: Bringing an Isolated Printer Back Onboard</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-missing-printers-from-the-network/"><u>Troubleshooting Missing Printers From the Network</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-guide-to-free-green-screen-apps-for-android-and-ios/"><u>Updated In 2024, The Ultimate Guide to Free Green Screen Apps for Android and iOS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/upgrade-printer-drivers-for-better-output-win10-edition/"><u>Upgrade Printer Drivers for Better Output, WIN10 Edition</u></a></li>
 </ul></div>
 

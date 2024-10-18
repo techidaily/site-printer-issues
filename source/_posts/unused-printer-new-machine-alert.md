@@ -1,7 +1,7 @@
 ---
 title: "Unused Printer: New Machine Alert"
-date: 2024-10-07T06:15:40.866Z
-updated: 2024-10-12T10:22:13.389Z
+date: 2024-10-16T05:09:26.821Z
+updated: 2024-10-18T01:22:30.048Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ If you get an error message **Another computer is using the printer** when you t
 
 **Note:** the screenshots below are taken from Windows 10, but the solutions apply to Windows 7/8 as well.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1 – Restart the Print Spooler service
 
 Restarting the Printer Spooler in Services solves most printer issues. To do so, you can cancel all the print jobs first, then follow these steps:
@@ -39,10 +46,10 @@ Restarting the Printer Spooler in Services solves most printer issues. To do so,
 2. Type**services.msc** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8dfc0e6f9a0.png)
@@ -50,6 +57,13 @@ Restarting the Printer Spooler in Services solves most printer issues. To do so,
 4. Click**Restart** on the upper left to restart the Printer Spooler service.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8dfd51db2d7.jpg)
 5. Check by printing something.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -62,6 +76,13 @@ Another solution that works for many users is **turning the computer, printer, a
 3. After a period of about**5 minutes** ,**plug in** both devices, turn them on and try connecting and printing something.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 3 – Update your printer driver
 
@@ -82,20 +103,6 @@ Another solution that works for many users is **turning the computer, printer, a
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e26a4557b9.jpg)
 3. Click the **Update** button next to your printer driver to automatically download the correct version of it, then you can manually install it (you can do this with the FREE version).Or click **Update All** to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e2637d6d6c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your PC to check if the problem is resolved.
 
@@ -118,27 +125,27 @@ Follow me:
 1. Type**printers** in the Windows search box and select**Printers & scanners** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e4898127a3.jpg)
 2. In the right pane, uncheck**Let Windows manage my default printer** .  
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e4b1db6c87.jpg)
 3. Under**Printers & scanners** , select the printer you want to use and click the**Manage** button.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e4b908f54e.png)
 4. Click**Set as default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e4bc46d2c4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### **If you’re using Windows 8**
 
@@ -148,10 +155,10 @@ Follow me:
 3. In the**Printers** section,**right-click** on the printer you want to use and select**Set as default printer** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e4e5b47d6c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### **If you’re using Windows 7**
@@ -160,30 +167,23 @@ Follow me:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e4396a8353.jpg)
 2. **Right-click** on the printer you want to use and select**Set as default printer** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e5138866c6.jpg)
 Then, close the window and test if your printer is working now.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 5 – Check for Windows updates
 
 Some users solve their printer issues by updating their system. To do so: type**update**in the Windows search box, and select**Check for updates**or**Windows update**.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 6 – Scan your system
 
@@ -210,22 +210,16 @@ The above are our recommended solutions to the **Another computer is using the p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/bugfix-windows-printer-spooler-stuck/"><u>[BUGFIX] Windows Printer Spooler Stuck</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-easy-access-luxury-free-access-to-your-dreamset-of-50-banners/"><u>[New] In 2024, Easy-Access Luxury - Free Access to Your Dreamset of 50 Banners</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-pushing-visual-limits-in-depth-analysis-of-video-enhancer-22/"><u>[New] In 2024, Pushing Visual Limits In-Depth Analysis of Video Enhancer 2.2</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-soundtrack-synthesis-selecting-audio-for-instagram-visions/"><u>[New] Soundtrack Synthesis Selecting Audio for Instagram Visions</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-media-transformation-for-audio-mp3/"><u>[Updated] In 2024, Instagram Media Transformation for Audio (MP3)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-superior-cameras-for-clear-smooth-podcast-sessions/"><u>[Updated] Superior Cameras for Clear, Smooth Podcast Sessions</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-unlocking-asmr-potential-professional-filming-practices-revealed/"><u>[Updated] Unlocking ASMR Potential Professional Filming Practices Revealed</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-master-the-art-of-time-stamp-addition-for-better-viewership/"><u>2024 Approved Master the Art of Time Stamp Addition for Better Viewership</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/elegant-setup-procedure-for-high-performance-hp-printers-in-windows/"><u>Elegant Setup Procedure for High-Performance HP Printers in Windows</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/elite-listing-high-quality-webcam-recorders-windows-11/"><u>Elite Listing High-Quality Webcam Recorders Windows 11</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/enhance-listening-pleasure-constructing-a-youtube-playlist-for-2024/"><u>Enhance Listening Pleasure Constructing a YouTube Playlist for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/local-print-service-on-hold-investigate-now/"><u>Local Print Service On Hold, Investigate Now</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/repair-hp-printer-paper-jam-resolved/"><u>Repair: HP Printer Paper Jam Resolved</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restored-inkjet-efficiency-levels/"><u>Restored Inkjet Efficiency Levels</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/turning-hp-print-on-in-windows-environment/"><u>Turning HP Print On in Windows Environment</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/white-sheet-woes-end-with-hp-printer-update-fixed/"><u>White Sheet Woes End with HP Printer Update Fixed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-printer-spool-error-detected/"><u>Windows Printer Spool Error Detected</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-simplified-guide-uploading-urls-to-instagram-media/"><u>[New] 2024 Approved Simplified Guide Uploading URLs to Instagram Media</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-micro-influencer-approach-to-live-youtube-streams-from-mobile/"><u>[Updated] Micro-Influencer Approach to Live Youtube Streams From Mobile</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eliminating-ghost-print-job-errors/"><u>Eliminating Ghost Print Job Errors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Civi 3 Disney 100th Anniversary Edition to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-future-is-now-leveraging-10-innovative-igtv-strategies-to-elevate-your-brand/"><u>In 2024, The Future Is Now Leveraging 10 Innovative IGTV Strategies to Elevate Your Brand</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-ultimate-blueprint-for-crafting-standout-podcast-titles-and-name-samples/"><u>In 2024, The Ultimate Blueprint for Crafting Standout Podcast Titles & Name Samples</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-online-interaction-insights-into-facebook-twitter-instagram-and-youtube/"><u>Navigating the World of Online Interaction: Insights Into Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/non-responsive-usb-printers-in-win7-after-hibernate/"><u>Non Responsive USB Printers in Win7 After Hibernate</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-setup-successful/"><u>Printer Setup: Successful</u></a></li>
+<li><a href="https://win-top.techidaily.com/redefinicao-rapida-de-clonagem-de-hd-para-conjunto-erroneo-acao-imediata-para-corrigir-tamanho/"><u>Redefinição Rápida De Clonagem De HD Para Conjunto Errôneo - Ação Imediata Para Corrigir Tamanho</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/swift-remedy-for-queued-printer-issue/"><u>Swift Remedy for Queued Printer Issue</u></a></li>
 </ul></div>
 

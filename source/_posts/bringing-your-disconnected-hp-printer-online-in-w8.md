@@ -1,7 +1,7 @@
 ---
 title: Bringing Your Disconnected HP Printer Online in W8
-date: 2024-07-29T00:31:14.269Z
-updated: 2024-07-30T00:31:14.269Z
+date: 2024-10-14T01:27:34.302Z
+updated: 2024-10-17T19:11:46.192Z
 tags:
   - win11
   - win10
@@ -32,53 +32,26 @@ This post helps you with your HP Printer showing Offline status on Windows 10 an
 
 5) Click**Printer**tab. Then click **Pause Printing**and**Use Printer Offline** to remove the check marks in front of them.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59116adeabdce.png)
 
 6) See if your printer goes offline again.   **Step 3: Reset Printer**1) Turn on your printer first if it is off. 2) With your printer on, disconnect the power cord from the printer. 3) Unplug the power cord from the wall outlet. 4) Wait for at least 1 minute. Restart your PC. 5) Plug the power cord back onto the wall. 6) Then reconnect the power cord to your printer. 7) Press the power button to turn on your printer if it is not on. 8) Make sure that the printer is connected to the computer or the network. 9) See if you can print now. If the Offline status remains, you need to follow the steps below.   **Step 4: Update Printer Firmware**HP regularly releases new printer firmware versions for its inkjet and LaserJet series. The newer version of firmware allows your printer to work more smoothly and fix minor issues. To update the firmware for your printer: 1) You can update directly from the printer. To do so, you need to check your printer manual for more detailed information since the workarounds differ on different printers. 2) If updating via the printer is not working for you, there is always an alternative. You can update your printer firmware from the HP website. 2.1) Make sure that your printer is connected to your PC. 2.2) Go to HP support, then navigate to**Software and Drivers**tab. Type in the model of your printer and hit**Enter**.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59117525811c5.png)
 
 2.3) Select your operating system first. Then scroll down a little bit to locate category**Firmware**. Hit**Download**button to get it downloaded.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59117685a92e9.png)
 
 2.4) When the download finishes, just follow the on-screen instructions to get the update installed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591177c2c8bfa.jpg)
 
  **Step 5: Update Printer Driver**1) On your keyboard, click**Windows** key, then choose**Control Panel**. In Control Panel window, choose to View by**Large icons**and then choose**Devices and Printer**.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591168191af0d.jpg)
 
 2) Right click your default printer, then choose**Remove device**.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5911795ec9d1b.png)
 
 3) Go to**HP support –** **Software and Drivers**. Then type in the model of your printer and hit**Enter**.
@@ -100,8 +73,6 @@ If at the end, you are not satisfied with the service or the product, just ask f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,8 +80,29 @@ If at the end, you are not satisfied with the service or the product, just ask f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-filmoras-prime-selective-screen-change-list-for-2024/"><u>[New] Filmora's Prime Selective Screen Change List for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-swiftly-upgrade-your-videos-with-professional-level-fb-subtitle-making-for-2024/"><u>[New] Swiftly Upgrade Your Videos with Professional-Level FB Subtitle Making for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-ultimate-list-of-most-watched-videos-on-fb/"><u>[Updated] In 2024, The Ultimate List of Most-Watched Videos on FB</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-securing-your-gameplay-on-windows-10-the-5-essentials-for-2024/"><u>[Updated] Securing Your Gameplay on Windows 10 The 5 Essentials for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/claude-vs-gpt-a-deep-dive-into-4-crucial-enhancements-for-users/"><u>Claude vs GPT: A Deep Dive Into 4 Crucial Enhancements for Users</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-connectivity-restored/"><u>Epson Connectivity Restored</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/gadgets-that-shine-in-travel-videography/"><u>Gadgets That Shine in Travel Videography</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-files-after-iphone-6-factory-reset-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Files after iPhone 6 Factory Reset? | Stellar</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-s23-fe-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/paperless-print-win11-issue-solved/"><u>Paperless Print: Win11 Issue Solved</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/refining-drive-functionality-mf4770n-windows-update/"><u>Refining Drive Functionality: MF4770n Windows Update</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-scanner-on-windows-11-os/"><u>Reviving Scanner on Windows 11 OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/stepwise-instructions-connecting-your-new-canon-print-device/"><u>Stepwise Instructions: Connecting Your New Canon Print Device</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/transforming-empty-sheets-into-essential-data/"><u>Transforming Empty Sheets Into Essential Data</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ultimate-compatibility-pack-officejet-pro-8600-windows-edition/"><u>Ultimate Compatibility Pack: Officejet Pro 8600, Windows Edition</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
