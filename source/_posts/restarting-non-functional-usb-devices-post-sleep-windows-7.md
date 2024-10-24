@@ -1,7 +1,7 @@
 ---
 title: Restarting Non-Functional USB Devices Post Sleep, Windows 7
-date: 2024-07-29T00:29:29.004Z
-updated: 2024-07-30T00:29:29.004Z
+date: 2024-10-19T23:35:35.872Z
+updated: 2024-10-24T01:17:54.661Z
 tags:
   - win11
   - win10
@@ -24,16 +24,10 @@ If printer drivers are outdated or missing, the printer won’t work properly. Y
   
  1\. In Device Manager, expand category “Print queues”. Under this category, right click on your printer device and select   **Update Driver Software…**
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_5732f97719a2a.png)
   
 2\. Click **Search automatically for updated driver software**  . Then Windows will update the driver automatically.  
   
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57318a2bd0396.png)
 
 If Windows doesn’t update the driver successfully, you can go to your printer manufacturer’s website to check and download the latest drivers manually. To download the right drivers, you are required to know your printer’s model number and the specific operating system (Windows 32-bit or Windows 64-bit).
@@ -48,23 +42,14 @@ If your printer drivers are up-to-date and the problem persists, the program mig
   
 1\. In Device Manager, expand category “Universal Serial Bus controllers” and Double-click on the**USB Root Hub**device.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_5732ffa8e7d2c.png)
 
 2\. Click the**Power Management**tab.(if there’s more than one USB Root Hub device, repeat these steps for each one.)  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_5732fd294c22d.png)
 
 3\. Turn off the**Allow the computer to turn off this device to save power**option, and click**OK**when you’re done.  
   
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_5732fd3b93f59.png)
   
  Try solutions above, and your USB printer should work again.
@@ -75,8 +60,6 @@ If your printer drivers are up-to-date and the problem persists, the program mig
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,8 +67,27 @@ If your printer drivers are up-to-date and the problem persists, the program mig
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-prime-video-power-players-all-time-top-tweets-and-views-ranking/"><u>[New] 2024 Approved Prime Video Power Players All-Time Top Tweets & Views Ranking</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-driven-content-creation-operational-companies-and-techniques/"><u>AI-Driven Content Creation: Operational Companies & Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/finding-the-right-balance-how-many-years-do-you-keep-your-mobile-device/"><u>Finding the Right Balance: How Many Years Do You Keep Your Mobile Device?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-make-collage-for-facebook-instantly/"><u>How to Make Collage for Facebook Instantly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719573904602-local-printer-spooler-not-responding-help/"><u>Local Printer Spooler Not Responding, Help!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcome-printing-failure-in-hp-model-xyz/"><u>Overcome Printing Failure in HP Model XYZ</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-windows-117-hp-printer-errors/"><u>Overcoming Windows 11/7 HP Printer Errors</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-samsung-galaxy-z-fold-5-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Samsung Galaxy Z Fold 5 Phone Now with These Tips</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revive-non-respondent-printer-on-windows-3x-edition/"><u>Revive Non-Respondent Printer on Windows 3.x Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tips-for-fixing-no-sound-issues-on-toshiba-notebooks-effectively/"><u>Tips for Fixing No Sound Issues on Toshiba Notebooks Effectively</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-2022-spotify-web-player-performance-issues/"><u>Troubleshooting Guide: Resolving 2022 Spotify Web Player Performance Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unblocking-driven-print-screws/"><u>Unblocking Driven Print Screws</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win7-printer-inactivity-post-sleep-fix-guide/"><u>Win7 Printer Inactivity Post-Sleep: Fix Guide</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

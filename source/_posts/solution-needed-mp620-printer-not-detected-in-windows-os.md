@@ -1,7 +1,7 @@
 ---
 title: "[Solution Needed] MP620 Printer Not Detected in Windows OS"
-date: 2024-07-29T00:28:02.966Z
-updated: 2024-07-30T00:28:02.966Z
+date: 2024-10-16T16:59:40.047Z
+updated: 2024-10-23T16:41:20.317Z
 tags:
   - win11
   - win10
@@ -16,42 +16,22 @@ thumbnail: https://thmb.techidaily.com/f9e691ab1179ca5da97e6ab8b312a61013e41cba8
 
 ## [Solution Needed] MP620 Printer Not Detected in Windows OS
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/canon-pixma-mo620.jpg)  If you want to update the printer driver for your Cannon MP620, but only find that Windows tells you “   **The best driver software for your device is already installed** .”, you’re not alone.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/the-best-driver-software-for-your-device-is-already-installed-2.jpg)
 
 This notification basically means that Windows 10 fail to find your Canon MP620 driver from its database, so it is time you did it yourself: 1) Go to [**support website**](https://www.usa.canon.com/internet/portal/us/home/support) of Canon. Enter the model name of your printer and then click **Go**.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/name-of-the-printer.jpg)
 
  2) In the support website, drag down a little bit to 1) locate the**Driver & Downloads** button, 2) choose your operating system and 3) click the**Drivers** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/pixma-mp620-driver-download-600x375.jpg) Canon has not yet released the printer driver for Windows 10 operating system, so we download the one for**Windows 8.1**instead. 3) Right-click the setup file and click **Properties**. ![](https://images.drivereasy.com/wp-content/uploads/2016/11/properties-setup.jpg) 4) Go to**Compatibility**tab, then check the box for **Run this program in compatibility for:**and select **Windows 8**from the drop-down menu. Click**Apply**and**OK**to save.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-this-program-in-compatibility-for-compatibility-mode.jpg)
 
 5) Now install the setup as you install other setup files. After the installation, restart your computer and your printer for the changes to take effect. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e761c841d8e.png) 3) Click the**Update**button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e7622d68cb0.jpg)
 
 <ins class="adsbygoogle"
@@ -60,8 +40,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -69,8 +47,30 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://printer-issues.techidaily.com/drivers-canon-mp620-not-found-on-11th-edition-windows/"><u>[Drivers] Canon MP620 Not Found on 11Th Edition Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-filmoras-peers-the-best-slide-show-template-collections/"><u>[New] Filmora's Peers The Best Slide Show Template Collections</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-virtual-universes-clash-metaverse-vs-multiverse-for-2024/"><u>[New] Virtual Universes Clash Metaverse V/S Multiverse for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-stay-ahead-in-the-stream-top-5-video-capture-platforms-reviewed-for-2024/"><u>[Updated] Stay Ahead in the Stream Top 5 Video Capture Platforms Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/zing-earnings-disparity-dailymovement-and-youtube-profits-compared-for-2024/"><u>Analyzing Earnings Disparity DailyMovement and YouTube Profits Compared for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-hp-deskjet-2n755e-printer-software-bundle-download-guide-for-windows-users/"><u>Complete HP DeskJet 2N755e Printer Software Bundle: Download Guide for Windows Users</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/fostering-self-assurance-against-virtual-hostility-for-2024/"><u>Fostering Self-Assurance Against Virtual Hostility for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-setup-no-complications-found/"><u>Print Setup: No Complications Found</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-woes-ended-new-windows-solved-issue/"><u>Printer Woes Ended: New Windows Solved Issue</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-woes-in-windows-11-help-needed/"><u>Printer Woes in Windows 11 - Help Needed!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-6s-plus-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 6s Plus Prevention & Solution</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-11-effective-gpt4-prompts-for-crafting-book-characters/"><u>Top 11 Effective GPT4 Prompts for Crafting Book Characters</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unable-to-print-colored-images/"><u>Unable to Print Colored Images</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-chkdsk-vs-scan-disk-dissecting-windows-tools/"><u>Understanding Chkdsk Vs. Scan Disk: Dissecting Windows Tools</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unexpected-print-glitch-detected/"><u>Unexpected Print Glitch Detected</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/zeroing-in-on-the-cause-of-hp-printers-white-sheets/"><u>Zeroing In on the Cause of HP Printer’s White Sheets</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "[PRINT] Connectivity Restored"
-date: 2024-07-29T00:26:37.093Z
-updated: 2024-07-30T00:26:37.093Z
+date: 2024-10-19T23:14:50.155Z
+updated: 2024-10-23T22:52:00.566Z
 tags:
   - win11
   - win10
@@ -18,31 +18,16 @@ thumbnail: https://thmb.techidaily.com/fc45e4935b2783be1c5dc416a8cddc7dff02a0dd6
 
 It can be annoying if you get error message “**Communication Not Available**” while trying to print. This error would occur to many printer brands like Dell, HP, Lexmark and so forth. If you are seeking a solution to this issue, this is the right place for you. After trying solutions here, the problem should resolve. The error message should appear like this.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5787091f3a17e.png)
 
  **Solution 1: Turn off your printer and reboot your computer. Turn on the printer again.**This solution may be a trick to solve your printer issue. **Solution 2：Stop and Start the windows print spooler**Follow these steps: 1\. Press**Win+R**(Windows key and R key) at the same time. A Run dialog will appear. 2\. Copy and paste **services.msc**in the run boxand click**OK**button.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57870f53c80aa.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3\. Find**Sprint Spooler**from the Name list. Double-click on it to open the Properties dialog box. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57870fec6b0f3.png) 4\. In “General” tab, click**Stop**button and**OK**button to disable the service. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57872f814c0fd.png) 5\. O pen the Properties dialog box again. Click**Start** button and**OK** button to enable the service.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57873022e85af.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 **Solution 3: Uninstall Printer and Update the Driver again** The corrupted driver can be the cause of the problem. To resolve the problem, try updating the printer driver. Before that, uninstall the printer first. Follow these steps to uninstall the printer. 1\. Disconnect your printer.2\. Press **Win+R** (Windows key and R key) at the same time. A Run dialog will appear.  3\. Copy and paste **devmgmt.msc** in the run box and click **OK** button. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578734d0d14eb.png) 4.Locate your printer in the device list. Usually, it is listed under category**Print queues**. Right-click on the device name and select**Uninstall**on the context menu. （Note:if the printer has a Fax, uninstall the Fax before uninstalling the printer.） Following screen shot is only for your reference. Different printer will show different name here.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57873f81affcd.png)
@@ -55,9 +40,6 @@ It can be annoying if you get error message “**Communication Not Available**�
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57874266903a0.png) 4\. Turn off the **Allow the computer to turn off this device to save power** option, and click **OK**  button.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578742ca2725e.png)
 
 5\. Reboot the computer.
@@ -68,8 +50,6 @@ It can be annoying if you get error message “**Communication Not Available**�
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -77,8 +57,31 @@ It can be annoying if you get error message “**Communication Not Available**�
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-leveraging-obs-establishing-an-efficient-countdown-clock/"><u>[New] 2024 Approved Leveraging OBS Establishing an Efficient Countdown Clock</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-best-12-mouse-focused-pc-games-for-enthusiasts/"><u>[Updated] Best 12 Mouse-Focused PC Games for Enthusiasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-of-background-tracks-selection/"><u>2024 Approved Best of Background Tracks Selection</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-methods-for-chronological-disruption-in-acting/"><u>2024 Approved Innovative Methods for Chronological Disruption in Acting</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-se-2022-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone SE (2022) Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ght-idea-boost-your-videos-impact-on-youtube-for-2024/"><u>A Bright Idea Boost Your Video's Impact on YouTube for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/clearing-page-queue-in-hp-printer-errors/"><u>Clearing Page Queue in HP Printer Errors</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eliminate-the-non-print-on-canon-here-are-your-top-5-fixes-for-windows-11-users/"><u>Eliminate the Non-Print on Canon - Here Are Your Top 5 Fixes for Windows 11 Users</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ending-epson-misprint-mistake/"><u>Ending Epson Misprint Mistake</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-infinix-hot-40i-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/perfect-print-job-across-all-printers/"><u>Perfect Print Job Across All Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574021414-print-every-page-without-a-glitch-now/"><u>Print Every Page without a Glitch, Now</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-setup-crisis-averted-zeroing-out-error-0x00000709/"><u>Printer Setup Crisis Averted - Zeroing Out Error (0X00000709)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printers-unwillingness-for-full-color-printing/"><u>Printer's Unwillingness for Full-Color Printing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-combining-chatgpt-and-google-docssheets-using-the-latest-ai-tools/"><u>The Ultimate Guide to Combining ChatGPT and Google Docs/Sheets Using the Latest AI Tools</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-compatibility-boost-with-mf4770n-update/"><u>Windows Compatibility Boost with MF4770n Update</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
