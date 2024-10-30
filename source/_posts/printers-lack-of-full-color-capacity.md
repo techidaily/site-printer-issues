@@ -1,7 +1,7 @@
 ---
 title: Printer's Lack of Full Color Capacity
-date: 2024-10-20T00:52:48.831Z
-updated: 2024-10-24T04:23:39.227Z
+date: 2024-10-25T21:38:13.116Z
+updated: 2024-10-29T19:03:30.994Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 
 [4: Repair system files](#fix4)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Perform basic troubleshooting
 
  When your printer only prints in black-and-white all of a sudden, the first thing you can do is performing some basic troubleshooting. Sometimes you’ll just need to replace the ink cartridge or adjust a setting, and your printer will work just fine. To perform basic troubleshooting, you can follow these steps:
@@ -42,18 +49,18 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 * Make sure the printer is correctly connected to your device.
 * Restart your printer and test the issue again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Try to print from a different device
 
  If you’ve tested the basics and everything seems just fine, then the problem may be with your PC. You can try to send the print job on another PC, your phone, or tablet, to see if can print your document in color.
 
  If it does, then you may need to [update your driver (see the next fix)](#fix3) . If your printer still won’t print in color, then it could be a hardware issue. Consider seeking help from a printer technician or replace your printer if it’s an old one.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your printer driver
 
@@ -68,24 +75,10 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_12-11-29.jpg)
 3. Click the **Update**  button next to the flagged printer driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_12-11-25.jpg)
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](mailto:support@drivereasy.com) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Repair system files
 
@@ -101,13 +94,20 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -132,18 +132,18 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-best-5-web-based-titling-aces-identified/"><u>[Updated] Best 5 Web-Based Titling Aces Identified</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-cutting-edge-strategies-for-fb-live-broadcasts-and-recordings/"><u>[Updated] In 2024, Cutting-Edge Strategies for FB Live Broadcasts and Recordings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-critical-haldll-files-not-found-on-your-windows-xp-machine/"><u>Fixing Critical Hal.dll Files Not Found on Your Windows XP Machine</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/forgot-your-infinix-lock-screen-pattern-pin-or-password-heres-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Infinix lock screen pattern, PIN or password? Here’s what to do</u></a></li>
-<li><a href="https://windows11.techidaily.com/identifying-ip-and-mac-via-windows-powershell/"><u>Identifying IP & MAC via Windows PowerShell</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instant-resolution-for-caught-in-printer-jobs/"><u>Instant Resolution for Caught-In Printer Jobs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-fixes-for-canon-printer-non-operational-in-windows-10/"><u>Quick Fixes for Canon Printer Non-Operational in Windows 10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reactivation-of-online-scan-achieved-on-win11/"><u>Reactivation of Online Scan Achieved on Win11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-permanently-deleted-or-erased-excel-2021-files-for-free-stellar-by-stellar-guide/"><u>Recover Permanently Deleted or Erased Excel 2021 Files for Free | Stellar</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reviving-non-responsive-printers/"><u>Reviving Non-Responsive Printers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-truth-behind-the-midland-lxt500vp3-radios-rich-in-functionality-yet-struggling-with-efficiency/"><u>The Truth Behind the Midland LXT500VP3 Radios - Rich in Functionality Yet Struggling with Efficiency</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-non-starting-spooler-on-your-pc-windows/"><u>Troubleshooting Non-Starting Spooler on Your PC (Windows)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unavailable-domain-services-prevents-printer-access/"><u>Unavailable Domain Services Prevents Printer Access</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-androids-best-virtual-worlds-top-15-experiences/"><u>[New] Android's Best Virtual Worlds Top 15 Experiences</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-essential-approach-for-blending-gopro-vids-with-continuous-360-degree-visuals-for-2024/"><u>[New] Essential Approach for Blending GoPro Vids with Continuous 360-Degree Visuals for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-checklist-to-prepare-your-zoom-room/"><u>[New] The Ultimate Checklist to Prepare Your Zoom Room</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-honor-magic-6-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Honor Magic 6 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-conquering-screen-display-challenges-with-google-meet/"><u>In 2024, Conquering Screen Display Challenges with Google Meet</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-backward-play-a-comprehensive-walkthrough/"><u>Instagram Backward Play A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/paperless-print-win11-issue-solved/"><u>Paperless Print: Win11 Issue Solved</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/refining-drive-functionality-mf4770n-windows-update/"><u>Refining Drive Functionality: MF4770n Windows Update</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-scanner-on-windows-11-os/"><u>Reviving Scanner on Windows 11 OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/stepwise-instructions-connecting-your-new-canon-print-device/"><u>Stepwise Instructions: Connecting Your New Canon Print Device</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-insiders-guide-to-perfected-picture-hues/"><u>The Insider's Guide to Perfected Picture Hues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/transforming-empty-sheets-into-essential-data/"><u>Transforming Empty Sheets Into Essential Data</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ultimate-compatibility-pack-officejet-pro-8600-windows-edition/"><u>Ultimate Compatibility Pack: Officejet Pro 8600, Windows Edition</u></a></li>
 </ul></div>
 

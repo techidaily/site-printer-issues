@@ -1,7 +1,7 @@
 ---
 title: Address Imprinter Malfunctions in Windows 11
-date: 2024-10-16T16:25:14.242Z
-updated: 2024-10-23T23:38:36.009Z
+date: 2024-10-22T19:54:00.861Z
+updated: 2024-10-29T23:50:49.065Z
 tags:
   - win11
   - win10
@@ -57,10 +57,10 @@ For some printers, you need to update the drivers manually step by step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970573577e43.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Way 2: Use Windows Update for new drivers**
@@ -71,16 +71,16 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057a9598ee.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In Settings window, click **Update & security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057ddb9441.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) In **UPDATE & SECURITY** , click**Windows Update** in left pane.
 
@@ -88,16 +88,16 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057f2e0efc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click the link that tells you optional updates are available. (If you don’t see this link, it means Windows Update didn’t find any updates for your computer.)
 
  5) Select the driver you want to install, click**OK** , and then click**Install updates** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Way 3: Update your printer driver automatically**
 
@@ -113,18 +113,18 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970588279d8b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the printer driver to automatically download, you can manually install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59705887d6c6d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hopefully you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
@@ -143,22 +143,15 @@ For some printers, you need to update the drivers manually step by step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-transforming-simple-sessions-into-high-end-audacity-recordings-for-2024/"><u>[New] Transforming Simple Sessions Into High-End Audacity Recordings for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-conquer-profits-on-the-go-youtube-studio-monetization-explained/"><u>[Updated] 2024 Approved Conquer Profits On-the-Go YouTube Studio Monetization Explained</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-becoming-a-pro-in-lut-creation/"><u>2024 Approved Becoming a Pro in LUT Creation</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-oneplus-nord-n30-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from OnePlus Nord N30 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-oneplus-12-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart OnePlus 12 Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/cdw-duo-fan-guide-for-brother-9330c/"><u>CDW Duo Fan Guide for Brother 9330C</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/disabling-printer-on-windows-instantly/"><u>Disabling Printer on Windows Instantly</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-nokia-g310-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Nokia G310</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-the-pathway-to-seamless-integration-of-voice-inputs-in-powerpoint-presentations/"><u>In 2024, The Pathway to Seamless Integration of Voice Inputs in PowerPoint Presentations</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-printing-hurdles-on-windows-11/"><u>Overcoming Printing Hurdles on Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reconnect-and-resume-a-step-by-step-guide-for-printers/"><u>Reconnect and Resume: A Step-by-Step Guide for Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restoring-clear-document-reception-from-hp-printer/"><u>Restoring Clear Document Reception From HP Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/stop-the-print-jamming-on-windows-11-now/"><u>Stop the Print Jamming on Windows 11 Now</u></a></li>
-<li><a href="https://howto.techidaily.com/tecno-spark-20c-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 20C Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-iphone-xs-max-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From iPhone XS Max</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tips-to-unblock-print-spoolers/"><u>Tips to Unblock Print Spoolers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unable-to-print-ad-service-interrupted/"><u>Unable To Print: AD Service Interrupted</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-mastering-youtube-metrics-a-compreousible-roadmap-to-tracking-traffic-and-turnover/"><u>[Updated] 2024 Approved Mastering YouTube Metrics A Compreousible Roadmap to Tracking Traffic and Turnover</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-superior-skills-for-video-preservation-devices-for-2024/"><u>[Updated] Superior Skills for Video Preservation Devices for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-forge-funny-frameworks/"><u>2024 Approved Forge Funny Frameworks</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-depth-guide-to-streaming-and-recording-webcasts-professionally/"><u>In-Depth Guide to Streaming and Recording Webcasts Professionally</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-powerful-fujitsu-scansnap-ix1/"><u>In-Depth Look at the Powerful Fujitsu ScanSnap iX1</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printers-silence-speaks-louder-than-no-response/"><u>Printer's Silence Speaks Louder Than No Response</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reignite-printing-with-simple-tips-for-canon-windows/"><u>Reignite Printing with Simple Tips for Canon, Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revolutionizing-printer-laptop-connection-new-techniques-explored/"><u>Revolutionizing Printer-Laptop Connection: New Techniques Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-non-existent-device-error-in-windows-11/"><u>Solving Non-Existent Device Error in Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unjamming-print-heads-a-practical-approach/"><u>Unjamming Print Heads: A Practical Approach</u></a></li>
 </ul></div>
 

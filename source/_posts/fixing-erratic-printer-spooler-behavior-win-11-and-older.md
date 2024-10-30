@@ -1,7 +1,7 @@
 ---
 title: Fixing Erratic Printer Spooler Behavior (Win 11 & Older)
-date: 2024-10-23T01:33:03.079Z
-updated: 2024-10-24T03:56:28.301Z
+date: 2024-10-25T18:26:36.665Z
+updated: 2024-10-29T17:37:12.508Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 4. **[Delete your print spooler files](#F4)**
 5. **[Update your printer driver](#F5)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Restart the Print Spooler service
 
 1) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run box.
@@ -50,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a50a818f88a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Print Spooler** , then **Restart** .  
@@ -61,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a515fac43cb.jpg)
 
 4) Check to see if your printer works.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Check if the Print Spooler service is set to Automatic
 
@@ -81,22 +67,43 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a50a818f88a.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Right-click **Print Spooler** , then click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a54177dc82e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Make sure Startup type is set to **Automatic**  , then click**Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a51825cb795.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Check to see if your printer works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Change the Print Spooler Recovery options
 
@@ -114,25 +121,11 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a54177dc82e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click **Recovery** , ensure all **three** **failure fields** are set to **Restart the Service**  and click**Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a51c37d1a84.png)
 
  5) Check to see if your printer works.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Delete your print spooler files
 
@@ -143,6 +136,13 @@ To set it to auto:
 2) Type**services.msc** and press**Enter** to open the**Services** window:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a50a818f88a.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Click **Print Spooler** , then **Stop** .
 
@@ -170,6 +170,13 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a53a72eb0b7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  10) On the open window, choose to view by**Catalog** . Then click**View devices and printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/control-Panel.jpg)
@@ -189,13 +196,6 @@ To set it to auto:
  14)Click the **Devices and Printers icon**  in your taskbar to return to the Devices and Printers window:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/PRINTERS-ICON.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  15) **Right-click on the blank area** and click **Add a printer**  , then follow the on-screen instructions to re-add your printer:
 
@@ -218,10 +218,10 @@ To set it to auto:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975af310cda9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Click the **Update**  button next to a flagged printer driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -249,15 +249,21 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/0-free-youtube-banners-come-see-them-all-for-2024/"><u>[New] 50 FREE YouTube Banners - Come See Them All for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-instantaneous-windows-photo-explorer/"><u>[New] Instantaneous Windows Photo Explorer</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-step-by-step-process-to-make-professional-discord-photos/"><u>[Updated] Step-By-Step Process to Make Professional Discord Photos</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brother-9330cdw-fan-and-software-guide/"><u>Brother 9330CDW Fan & Software Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/bypassing-paper-jam-alerts/"><u>Bypassing Paper Jam Alerts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/cambiar-de-formato-mpg-a-mp4-sin-costo-con-herramientas-en-linea-libres-movavi/"><u>Cambiar De Formato MPG a MP4 Sin Costo Con Herramientas en Línea Libres - Movavi</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/clash-of-the-tablet-titans-apple-ipad-air-4-vs-samsung-galaxy-tab-s7plus-no-compromises-allowed/"><u>Clash of the Tablet Titans: Apple iPad Air 4 Vs. Samsung Galaxy Tab S7+ - No Compromises Allowed!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-officejet-status-online-on-windows-11/"><u>HP OfficeJet Status: Online on Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mf4770n-usb-drive-software-upgrade-for-windows/"><u>MF4770n USB Drive Software Upgrade for Windows</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/navigate-the-maze-of-macos-for-streamlined-video-resizing-to-instagram/"><u>Navigate the Maze of MacOS for Streamlined Video Resizing to Instagram</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-how-to-share-twitter-videos-on-whatsapp/"><u>[New] 2024 Approved How to Share Twitter Videos on WhatsApp?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-maximize-attention-try-these-7-budget-friendly-tools/"><u>[New] 2024 Approved Maximize Attention - Try These 7 Budget-Friendly Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-affordable-high-res-4k-cameras-under-1k/"><u>[New] Affordable High-Res 4K Cameras Under $1K</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/breaking-barriers-reconnecting-brothers-networked-printer/"><u>Breaking Barriers: Reconnecting Brother's Networked Printer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/crafting-a-superior-livestream-with-top-providers-for-2024/"><u>Crafting a Superior Livestream with Top Providers for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/interpreting-codes-for-inkjet-problems/"><u>Interpreting Codes for Inkjet Problems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lessons-from-xboxs-struggle-against-competitors-and-future-moves-to-regain-market-dominance/"><u>Lessons From Xbox’s Struggle Against Competitors and Future Moves to Regain Market Dominance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/list-of-ipad-devices-with-integrated-gps-capabilities/"><u>List of iPad Devices with Integrated GPS Capabilities</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mastering-canon-printer-wi-fi-setup/"><u>Mastering Canon Printer Wi-Fi Setup</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-realme-11x-5g-by-fonelab-android-recover-data/"><u>Recover lost data from Realme 11X 5G</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reestablish-links-essential-steps-to-solve-printer-woes/"><u>Reestablish Links: Essential Steps to Solve Printer Woes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solving-network-disconnectivity-in-hp-printers/"><u>Solving Network Disconnectivity in HP Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/step-by-step-tech-merging-8720-printer-into-pc-system/"><u>Step by Step Tech: Merging 8720 Printer Into PC System</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-hp-d1360-print-driver-installation-across-windows-systems/"><u>Troubleshooting HP D1360 Print Driver Installation Across Windows Systems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unlocking-peace-of-mind-a-users-journey-through-the-features-of-arlo-home-surveillance-solutions/"><u>Unlocking Peace of Mind: A User's Journey Through the Features of Arlo Home Surveillance Solutions</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-nokia-g42-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Nokia G42 5G | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Domain Services Unreachable, Print Issue
-date: 2024-10-21T23:26:45.435Z
-updated: 2024-10-23T16:41:32.556Z
+date: 2024-10-28T18:16:44.812Z
+updated: 2024-10-29T18:27:43.598Z
 tags:
   - win11
   - win10
@@ -49,20 +49,34 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Type **regedit**  and press **Enter** to open Registry Editor.  
   
 **![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-23.jpg)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click **Yes** when prompted by User Account Control,.
  3) On Registry window, go to **HKEY\_CURRENT\_USER** \> **Software**  \> **Microsoft**  \> **Windows NT**  \> **CurrentVersion** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Right-click on **Devices**  under **CurrentVersion**  dialog.  
  Then click **Permissions** .  
@@ -70,24 +84,10 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-14.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click your account and tick on**Allow** of **Full Control** . Then click **Apply**  \> **OK** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-13.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Do the same settings to give your account full control of **PrinterPorts**  and **Windows** .  
   
@@ -95,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
   
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Close the Registry Editor window and check to see if you could print files successfully.
@@ -120,20 +120,18 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tweet-to-facebook-video-sharing-a-2023-perspective/"><u>[New] 2024 Approved Tweet-to-Facebook Video Sharing A 2023 Perspective</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-vlog-with-verve-following-in-the-footsteps-of-video-experts/"><u>2024 Approved Vlog with Verve Following in the Footsteps of Video Experts</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/1726028463826-aviutl/"><u>AviUtlアプリを使用してビデオからオーディオトラックを除去する手順</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/blank-page-problem-persists-on-new-epson-printer-model/"><u>Blank Page Problem Persists on New Epson Printer Model</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/easy-canon-printer-setup-instructions/"><u>Easy Canon Printer Setup Instructions</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Oppo Find N3? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Samsung Galaxy F04? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Motorola Moto G04? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/missing-driver-for-hp-printer-on-windows/"><u>Missing Driver for HP Printer on Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/no-color-in-black-and-white-outputs/"><u>No Color in Black and White Outputs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-device-disappearing-act-in-windows-910/"><u>Print Device Disappearing Act in WIndows 9/10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/repaired-inkjet-non-operational/"><u>Repaired Inkjet Non-Operational</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-showdown-for-writers-notion-ai-vs-openai/"><u>The Ultimate Showdown for Writers: Notion AI Vs. OpenAI</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unique-asus-frankenboard-series-the-maximus-thirteen-era-showcasing-so-dimm-slots-and-exclusive-kingston-furies-branded-editions/"><u>Unique ASUS Frankenboard Series - The Maximus Thirteen Era Showcasing SO-DIMM Slots & Exclusive Kingston Furies Branded Editions</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/untangling-non-responsiveness-in-canon-print/"><u>Untangling Non-Responsiveness in Canon Print</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-building-mental-armor-against-online-critics/"><u>[New] In 2024, Building Mental Armor Against Online Critics</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-mastering-tiktok-the-ultimate-list-of-20-caption-ideas/"><u>[New] Mastering TikTok The Ultimate List of 20 Caption Ideas</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-tailoring-the-frame-how-to-optimize-videography-for-instagram/"><u>[Updated] Tailoring the Frame How to Optimize Videography for Instagram</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-scanner-activation-issue-after-installing-updates/"><u>Fix Scanner Activation Issue After Installing Updates</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-8-without-itunes-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 8 without itunes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-complete-beginners-reference-to-final-cut-pro/"><u>In 2024, Complete Beginner's Reference to Final Cut Pro</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-guide-cease-spooler-halt-on-w710-11-windows/"><u>Quick Guide: Cease Spooler Halt on W7/10, 11 Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reconnect-scanner-troubleshooting-guide-for-win10-users/"><u>Reconnect Scanner: Troubleshooting Guide for Win10 Users</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/repaired-noise-level-fluctuation-in-hp-officejet-pro-x100/"><u>Repaired Noise Level Fluctuation in HP Officejet Pro X100</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solving-the-issue-overcome-this-application-cannot-run-on-your-pc-error/"><u>Solving the Issue: Overcome 'This Application Cannot Run on Your PC' Error</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-steps-for-stubborn-printer/"><u>Troubleshooting Steps for Stubborn Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-problems-no-access-to-hp-printer-drivers/"><u>Windows Problems: No Access to HP Printer Drivers</u></a></li>
 </ul></div>
 

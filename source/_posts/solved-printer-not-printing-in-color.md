@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Printer Not Printing in Color"
-date: 2024-10-17T00:10:44.682Z
-updated: 2024-10-24T02:45:16.772Z
+date: 2024-10-28T00:13:56.929Z
+updated: 2024-10-29T21:18:39.395Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 
 [4: Repair system files](#fix4)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Perform basic troubleshooting
 
  When your printer only prints in black-and-white all of a sudden, the first thing you can do is performing some basic troubleshooting. Sometimes you’ll just need to replace the ink cartridge or adjust a setting, and your printer will work just fine. To perform basic troubleshooting, you can follow these steps:
@@ -49,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 * Make sure the printer is correctly connected to your device.
 * Restart your printer and test the issue again.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Try to print from a different device
 
  If you’ve tested the basics and everything seems just fine, then the problem may be with your PC. You can try to send the print job on another PC, your phone, or tablet, to see if can print your document in color.
@@ -56,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
  If it does, then you may need to [update your driver (see the next fix)](#fix3) . If your printer still won’t print in color, then it could be a hardware issue. Consider seeking help from a printer technician or replace your printer if it’s an old one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Update your printer driver
@@ -80,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](mailto:support@drivereasy.com) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Repair system files
 
  If the fixes above didn’t give you luck, you may be looking at a system-wide issue. Let’s say some of your system files or Windows services that are required for printing are corrupted. It could cause printer issues and thus your printer can have problems printing in color.
@@ -101,13 +94,26 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -132,20 +138,17 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-essential-steps-in-making-impactful-fb-cover-videos/"><u>[Updated] 2024 Approved Essential Steps in Making Impactful FB Cover Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-mastering-collaborative-video-creation-a-guide-to-youtube-partnering/"><u>[Updated] In 2024, Mastering Collaborative Video Creation A Guide to YouTube Partnering</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-organizing-overflow-of-tiktok-saves-for-effective-edits/"><u>2024 Approved Organizing Overflow of TikTok Saves for Effective Edits</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-vloggers-guide-to-going-viral-with-hilarious-reactions-3-must-know-strategies/"><u>2024 Approved Vlogger’s Guide to Going Viral with Hilarious Reactions – 3 Must-Know Strategies</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/effortless-link-to-your-printer/"><u>Effortless Link to Your Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enabling-scanner-connection-on-newly-installed-windows-10/"><u>Enabling Scanner Connection on Newly Installed Windows 10</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-infinix-smart-7-hd-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Infinix Smart 7 HD</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrating-dall-e-with-gpt-4-for-ai-driven-visuals/"><u>Integrating DALL-E with GPT-4 for AI-Driven Visuals</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-12-5-ways-to-get-into-a-locked-apple-iphone-12-by-drfone-ios/"><u>Locked Out of Apple iPhone 12? 5 Ways to get into a Locked Apple iPhone 12</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-edit-like-a-pro-top-free-vob-video-editors-for-2024/"><u>New Edit Like a Pro Top Free VOB Video Editors for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/preventing-disruptive-print-spooler-failures-on-pcs/"><u>Preventing Disruptive Print Spooler Failures on PCs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-out-solutions-for-unprinted-sheets-dilemma/"><u>Print Out Solutions for Unprinted Sheets Dilemma</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-error-resolved-on-windows-7-laptop/"><u>Printer Error Resolved on Windows 7 Laptop</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamlined-installation-hp-officejet-pro-8600-on-windows/"><u>Streamlined Installation: HP OfficeJet Pro 8600 on Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/usb-print-malfunction-in-sleep-state-w7/"><u>USB Print Malfunction in Sleep State, W7</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-comparing-costs-of-global-cloud-data-centers/"><u>[Updated] 2024 Approved Comparing Costs of Global Cloud Data Centers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-blueprint-for-buzzing-outro/"><u>[Updated] Blueprint for Buzzing Outro</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-develop-engaging-facebook-visuals/"><u>[Updated] In 2024, Develop Engaging FACEbook Visuals</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/cutting-edge-approaches-to-in-game-auditory-logging/"><u>Cutting-Edge Approaches to In-Game Auditory Logging</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862868179-discovering-the-advancements-in-camm2-faster-speed-reduced-size-and-enhanced-upgradability/"><u>Discovering the Advancements in CAMM2: Faster Speed, Reduced Size & Enhanced Upgradability</u></a></li>
+<li><a href="https://os-tips.techidaily.com/free-access-to-apple-developer-beta-versions-risky-move-or-great-opportunity/"><u>Free Access to Apple Developer Beta Versions: Risky Move or Great Opportunity?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-new-m-audio-fast-track-driver-suite-win-11-7-8-and-81-supported/"><u>Get Your New M-Audio Fast Track Driver Suite: Win 11, 7, 8 & 8.1 Supported</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hardware-setup-hp-printer-driver-not-in-windows-os/"><u>Hardware Setup: HP Printer Driver Not in Windows OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-network-reestablished-windows-7/"><u>Printer Network Reestablished, Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-silent-logiteche-g933-headset-easily-with-these-tips/"><u>Resolve Silent Logiteche G933 Headset Easily with These Tips</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/steps-to-troubleshoot-unresponsive-hp-printers/"><u>Steps to Troubleshoot Unresponsive HP Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unite-your-workspace-3-cutting-edge-solutions-for-hp-and-laptop-connection/"><u>Unite Your Workspace: 3 Cutting-Edge Solutions for HP and Laptop Connection</u></a></li>
 </ul></div>
 

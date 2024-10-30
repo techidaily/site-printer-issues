@@ -1,7 +1,7 @@
 ---
 title: "[DRIVER LOST] Windows Can't Find Printer Device"
-date: 2024-10-17T21:31:59.533Z
-updated: 2024-10-23T17:26:46.509Z
+date: 2024-10-27T22:50:55.905Z
+updated: 2024-10-29T21:25:19.204Z
 tags:
   - win11
   - win10
@@ -37,16 +37,16 @@ thumbnail: https://thmb.techidaily.com/3d0b2d16ee1d6e6a1474c3b5739a00253bf279f42
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a164dca2109f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Find and**right-click** on your printer. Then click **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a16664c47596.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click **Uninstall**  if you’re prompted to confirm.
 
@@ -61,6 +61,19 @@ thumbnail: https://thmb.techidaily.com/3d0b2d16ee1d6e6a1474c3b5739a00253bf279f42
  7) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this. Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it, you can get a full refund, no questions asked. (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to your printer in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a166e3214a67.jpg)
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  8) Restart your computer and try to print a file to see if your printer works. If it does, congratulations, you’ve resolved your problem! If it doesn’t, move on to Fix 2 below.
 
@@ -77,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/3d0b2d16ee1d6e6a1474c3b5739a00253bf279f42
 1. On your keyboard, press the **Windows Logo key** ![](https://images.drivereasy.com/wp-content/uploads/2023/10/windows-logo.png) and the**I** key (**Win+I**) to open the Windows Settings app.
 2. Click**Windows Update** on the right.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![win 11 update windows 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-update-windows-1.jpg)
 3. Then click**Check for updates** . Windows will then check if there are any newly released updates. If so, it will automatically download and install the updates for you. It might take some time.  
 
@@ -91,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/3d0b2d16ee1d6e6a1474c3b5739a00253bf279f42
 4. You may repeat these steps until it prompts**You’re up to date** when you click**Check for updates** to make sure you have all the updates installed. Restart your computer when it’s done.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note that the screenshots were captured from a Windows 11 system. For a Windows 10 system, the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
@@ -105,26 +111,26 @@ thumbnail: https://thmb.techidaily.com/3d0b2d16ee1d6e6a1474c3b5739a00253bf279f42
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a167ac767596.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a167b717a88d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Install updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a167d918e4c5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) After Windows has installed all the updates, restart your computer and try to print a file to see if your printer works.
@@ -150,14 +156,21 @@ thumbnail: https://thmb.techidaily.com/3d0b2d16ee1d6e6a1474c3b5739a00253bf279f42
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-syma-x5c-your-first-drones-best-friend/"><u>[Updated] The Ultimate Guide to Syma X5C – Your First Drone's Best Friend</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/disconnecting-all-print-devices-at-once-on-pc/"><u>Disconnecting All Print Devices at Once on PC</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-high-performance-computing-at-toms-hardware-hub/"><u>Dive Into High-Performance Computing at Tom's Hardware Hub</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/eradicate-brother-printers-no-print-dilemma-on-windows/"><u>Eradicate Brother Printer's No-Print Dilemma on Windows</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-insights-on-the-hp-zbook-firefly-15-g8-the-definitive-portable-powerhouse/"><u>Expert Insights on the HP ZBook Firefly 15 G8: The Definitive Portable Powerhouse</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-functioning-lenovo-keyboard-step-by-step-guide/"><u>How to Fix a Non-Functioning Lenovo Keyboard – Step by Step Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-woes-after-suspend-on-windows-7-systems/"><u>Printer Woes After Suspend on Windows 7 Systems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-scan-to-computer-is-no-longer-activated-on-windows-11/"><u>Solved: Scan to Computer Is No Longer Activated on Windows 11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-15-pro-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From iPhone 15 Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-stardews-ultimate-game-changing-mods-a-curated-list-for-2024/"><u>[Updated] Stardew's Ultimate Game-Changing Mods A Curated List for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-quick-guide-to-stellar-disco-screen-names-for-2024/"><u>[Updated] The Quick Guide to Stellar Disco Screen Names for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/breaking-the-code-on-non-printing-printers/"><u>Breaking the Code on Non-Printing Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ceased-epson-standby-error/"><u>Ceased Epson Standby Error</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/connect-printer-with-a-click-no-delay/"><u>Connect Printer with a Click, No Delay</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-stories-and-poems-with-chatgpt-tips-and-techniques/"><u>Crafting Stories and Poems with ChatGPT: Tips & Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/dns-cleanse-a-step-by-step-guide-for-flushing-on-windows-10-and-windows-11/"><u>DNS Cleanse: A Step-by-Step Guide for Flushing on Windows 10 & Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-canons-error-b200/"><u>Fixed Canon's Error: B200</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hefty-helpers-airborne-lifting-titans-unveiled/"><u>In 2024, Hefty Helpers Airborne Lifting Titans Unveiled</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-vivo-y100t-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Vivo Y100t Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-streamlined-methods-for-masking-facial-features-in-picscanner/"><u>In 2024, Streamlined Methods for Masking Facial Features in PicScanner</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-insta-photo-and-video-reposts/"><u>Mastering Insta Photo & Video Reposts</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/perfect-the-art-of-posting-on-snapchat-15-tips/"><u>Perfect the Art of Posting on Snapchat (15 Tips)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-offline-hp-xp-paper-issue/"><u>Troubleshooting Offline HP XP Paper Issue</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unblocking-offline-status-hp-printer-on-dos-systems/"><u>Unblocking Offline Status: HP Printer on DOS Systems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-paper-trail-issue-error-0x00000709-solution-found/"><u>Windows Paper Trail Issue - Error 0X00000709 Solution Found</u></a></li>
 </ul></div>
 

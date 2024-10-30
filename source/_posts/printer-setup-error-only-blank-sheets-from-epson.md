@@ -1,7 +1,7 @@
 ---
 title: "Printer Setup Error: Only Blank Sheets From Epson"
-date: 2024-10-18T18:02:25.447Z
-updated: 2024-10-24T03:49:45.921Z
+date: 2024-10-24T21:54:46.580Z
+updated: 2024-10-29T23:50:35.026Z
 tags:
   - win11
   - win10
@@ -28,10 +28,16 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 5. Make sure the paper size, orientation, and layout settings in your software are correct.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixes for Epson Printer Printing Blank Pages
@@ -42,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 2. [Clean your clogged Nozzles](#f2)
 3. [Update your printer driver](#f3)
 4. [Install Fortect](#f4)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Check your ink cartridges
 
@@ -67,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
  If your printer is under warranty and you didn’t see any improvements after cleaning, you can contact Epson for further instructions. But if you are no longer under warranty, you can clean the nozzle manually.
 
 **Note** : This Printhead Cleaning Cycles cannot be used too often. Allow your printer to rest for at least 6 hours after one cycle (recommended by Epson), then go through a cleaning cycle again. Doing this program repeatedly will make your clog worse and use a lot of ink.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your printer driver
 
@@ -107,10 +113,10 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/epson.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you encounter problems while using Driver Easy, please send an email to [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -129,14 +135,14 @@ Here’s how to use it:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -160,22 +166,18 @@ Here’s how to use it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-budget-conscious-obs-tweaks-and-tricks/"><u>[New] In 2024, Budget-Conscious OBS Tweaks and Tricks</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-capture-every-moment-to-perfection-with-sj7s-new-4k-star-camera-review-for-2024/"><u>[Updated] Capture Every Moment to Perfection with SJ7’s New 4K Star Camera Review for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/debunking-disinformation-enhanced-penalties-by-social-media/"><u>Debunking Disinformation: Enhanced Penalties by Social Media</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-laserjet-errors-the-cure-for-windows-xp7/"><u>HP Laserjet Errors: The Cure for Windows XP/7</u></a></li>
-<li><a href="https://discover-help.techidaily.com/imovie-troubleshooting-guide-restoring-audio-on-your-mp4-video-imports/"><u>IMovie Troubleshooting Guide: Restoring Audio on Your MP4 Video Imports</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-realme-gt-3-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Realme GT 3</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-essential-tips-on-calculating-your-youtube-traffic-and-earnings/"><u>In 2024, Essential Tips on Calculating Your YouTube Traffic & Earnings</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-hololens-by-microsoft-envisioning-the-augmented-tomorrow/"><u>In 2024, HoloLens By Microsoft Envisioning the Augmented Tomorrow</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/new-year-new-ways-to-integrate-your-laptop-and-printer-effortlessly/"><u>New Year, New Ways to Integrate Your Laptop & Printer Effortlessly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/no-print-error-on-hp-deskjet-4120x-resolved/"><u>No-Print Error on HP DeskJet 4120X Resolved</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcome-printing-obstacle-with-epson/"><u>Overcome Printing Obstacle with Epson</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/post-update-glitch-printer-no-longer-functions/"><u>Post-Update Glitch: Printer No Longer Functions</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restart-hp-printer-for-online-status/"><u>Restart HP Printer for Online Status</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revive-your-printers-life-with-windows-11-fixes/"><u>Revive Your Printer's Life with Windows 11 Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-putting-an-end-to-anthems-continuous-load-problem/"><u>Solved! Putting an End to Anthem's Continuous Load Problem</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tackling-hp-printer-error-0xoxc4eb827f/"><u>Tackling HP Printer Error 0xOXC4EB827F</u></a></li>
-<li><a href="https://blog-min.techidaily.com/unveiling-digiartys-exclusive-commemorative-offer-for-its-18-years-of-innovation/"><u>Unveiling Digiarty's Exclusive Commemorative Offer for Its 18 Years of Innovation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-cutting-edge-final-cut-pros-best-10-plugins/"><u>[New] Cutting Edge Final Cut Pro's Best 10 Plugins</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-from-isolated-viewers-to-shared-experiences-online/"><u>2024 Approved From Isolated Viewers to Shared Experiences Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clarifying-auditory-data-handling-wasd-in-windows-os/"><u>Clarifying Auditory Data Handling: WASD in Windows OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/drive-performance-upgrade-dell-inkjet-aio-on-windows-7/"><u>Drive Performance: Upgrade Dell Inkjet AIO on WIndows 7</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-advanced-tips-for-blending-modes-in-vfx/"><u>In 2024, Advanced Tips for Blending Modes in VFX</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-sign-up-process-for-using-google-meet/"><u>In 2024, Sign Up Process for Using Google Meet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-techs-trailblazers-windows-10-redefines-user-interface/"><u>In 2024, Tech's Trailblazers Windows 10 Redefines User Interface</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210859793-9781667452265-mein-gluckliches-leben-als-expat-frau/"><u>Mein Glückliches Leben als Expat-Frau | Free Book</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mplayer-xtreme-next-gen-media-player/"><u>MPlayer Xtreme Next-Gen Media Player</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-more-ghost-printouts-hp-printer-armored-against-errors/"><u>No More Ghost Printouts: HP Printer Armored Against Errors</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-internet-connectivity-to-printers/"><u>Restoring Internet Connectivity to Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/seamless-installation-wizard-officejet-pro-8600-windows-printer-suite/"><u>Seamless Installation Wizard: Officejet Pro 8600 Windows Printer Suite</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-diy-fixes-to-restore-speaker-functionality-on-your-personal-computer/"><u>Step-by-Step DIY Fixes to Restore Speaker Functionality on Your Personal Computer</u></a></li>
 </ul></div>
 

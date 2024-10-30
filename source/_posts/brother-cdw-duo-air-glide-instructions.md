@@ -1,7 +1,7 @@
 ---
 title: Brother CDW Duo Air Glide Instructions
-date: 2024-10-20T19:46:55.940Z
-updated: 2024-10-23T20:29:45.080Z
+date: 2024-10-28T23:21:08.449Z
+updated: 2024-10-29T22:55:27.353Z
 tags:
   - win11
   - win10
@@ -40,15 +40,22 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-116.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Double click**Print queues** or**Printers** to expand its drop-down list and find your Brother printer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-118.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Right-click**Brother MFC-9330CDW** **printer** and select**Uninstall device** .
@@ -65,40 +72,13 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-120.png)
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the first result, click**Full Driver & Software Package (Recommended)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-122.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Agree to the EULA and Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Download.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Once you’ve downloaded the correct driver file for your system, right-click the downloaded file and select**Run as administrator** . Then follow the on-screen instructions to install the driver.
 
@@ -122,9 +102,23 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-09-24_10-03-23-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-126.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** You can do it for free if you like, but it’s partly manual.
 
@@ -154,18 +148,18 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-innovative-interactions-in-virtuosity-the-top-30-quotes/"><u>[New] Innovative Interactions in Virtuosity The Top 30 Quotes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-printer-communication-not-available-issue/"><u>[Solved] Printer Communication Not Available Issue</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win-error-unable-to-locate-printer-drivers/"><u>[WIN ERROR] Unable to Locate Printer Drivers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ignite-your-workout-spirit-essential-background-music-choices/"><u>2024 Approved Ignite Your Workout Spirit Essential Background Music Choices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-escalating-security-risks-in-the-world-of-generative-ai/"><u>Exploring the Escalating Security Risks in the World of Generative AI</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-intermittent-printing-on-hp-deskjet-305dn/"><u>Fixed Intermittent Printing on HP DeskJet 305Dn</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-xiaomi-civi-3-disney-100th-anniversary-edition-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Xiaomi Civi 3 Disney 100th Anniversary Edition.</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-do-i-sim-unlock-my-iphone-6s-by-drfone-ios/"><u>In 2024, How Do I SIM Unlock My iPhone 6s?</u></a></li>
-<li><a href="https://win-popular.techidaily.com/mengatur-klik-untuk-menyetel-mematikanmemulai-program-windows-win111087-langkah-langkah-tiga-bodoh-banyak-gue-perih/"><u>Mengatur Klik Untuk Menyetel / Mematikan/Memulai Program Windows (Win11/10/8/7): Langkah-Langkah Tiga Bodoh Banyak Gue Perih.</u></a></li>
-<li><a href="https://howto.techidaily.com/reliable-user-guide-to-fix-lava-yuva-3-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Lava Yuva 3 Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/streamline-your-inbox-overnight-using-simple-organization-tricks-say-goodbye-to-clutter-without-multiple-emails-smarttechhacks/"><u>Streamline Your Inbox Overnight Using Simple Organization Tricks - Say Goodbye to Clutter Without Multiple Emails | SmartTechHacks</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/why-are-my-documents-black-and-white/"><u>Why Are My Documents Black & White?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-11-and-canons-mp620-a-driver-match/"><u>Windows 11 & Canon's MP620: A Driver Match?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-compreenas-record-your-life-in-hd-via-vlc-media-player/"><u>[New] In 2024, Compreenas Record Your Life in HD via VLC Media Player</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-explore-the-10-most-inspiring-youtube-makeup-vloggers-ever/"><u>[New] In 2024, Explore the 10 Most Inspiring YouTube Makeup Vloggers Ever</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-quick-guide-resolving-obs-skipping-problems/"><u>2024 Approved Quick Guide Resolving OBS Skipping Problems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/brew-the-latest-printer-driver-potion-in-windows-7/"><u>Brew the Latest Printer Driver Potion in WIndows 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-data-protection-turning-on-controlled-folder-access/"><u>Ensuring Data Protection: Turning on Controlled Folder Access</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-cups-printer-connectivity-in-win7/"><u>Fixing CUPS Printer Connectivity in Win7</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-apple-iphone-13-pro-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Apple iPhone 13 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-video-splitting-wins-ranking-recorder-titans/"><u>In 2024, Video Splitting Wins Ranking Recorder Titans?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/nows-vr-device-showcase-and-analysis-for-2024/"><u>Now’s VR Device Showcase & Analysis for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcome-printing-obstacle-with-epson/"><u>Overcome Printing Obstacle with Epson</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/personalize-your-soundtrack-constructing-a-youtube-playlist-from-home-and-on-the-move-for-2024/"><u>Personalize Your Soundtrack Constructing a YouTube Playlist From Home & On-the-Move for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restart-hp-printer-for-online-status/"><u>Restart HP Printer for Online Status</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tackling-hp-printer-error-0xoxc4eb827f/"><u>Tackling HP Printer Error 0xOXC4EB827F</u></a></li>
 </ul></div>
 

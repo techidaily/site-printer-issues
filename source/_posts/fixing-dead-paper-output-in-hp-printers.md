@@ -1,7 +1,7 @@
 ---
 title: Fixing Dead Paper Output in HP Printers
-date: 2024-10-16T20:33:10.737Z
-updated: 2024-10-23T21:56:47.624Z
+date: 2024-10-26T23:30:58.590Z
+updated: 2024-10-29T22:29:27.209Z
 tags:
   - win11
   - win10
@@ -41,26 +41,13 @@ thumbnail: https://thmb.techidaily.com/45a1f9697d2bdeb16116c56d8bb656d37d6c88757
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/restart-services.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Check if your HP printer is able to print now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2\. Reinstall the printer driver
@@ -89,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/45a1f9697d2bdeb16116c56d8bb656d37d6c88757
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/printers-and-scanners.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Select your printer, and click**Remove device** . Select**Yes** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/remove-the-current-printer.jpg)
@@ -109,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/45a1f9697d2bdeb16116c56d8bb656d37d6c88757
 ![update audio technica driver automatically](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-now.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -122,6 +102,19 @@ thumbnail: https://thmb.techidaily.com/45a1f9697d2bdeb16116c56d8bb656d37d6c88757
 
 If this method doesn’t do the trick, you can try the fix below.
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3\. Use the generic driver
 
  If the printer driver is already updated, but the HP printer is still not responding, there might be something wrong with the manufacturer’s driver. Therefore, you can use the genetic driver:
@@ -129,13 +122,6 @@ If this method doesn’t do the trick, you can try the fix below.
  1) On your keyboard, press the**Windows + R** and enter**devmgmt.msc** .
 
 ![devmgmt.msc](https://images.drivereasy.com/wp-content/uploads/2021/01/devmgmt.msc_.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Expand the**Printers** category. Then right-click your printer and select**Update driver** .
 
@@ -149,24 +135,18 @@ If this method doesn’t do the trick, you can try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/let-me-pick.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Select**Generic printer device** , and click**Nex** t to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/generic-drivers.jpg)
 
  6) Now the driver should be updated to the generic device now. You can check the status of the printer. If you’re still having the HP printer not responding problem, you can perform a Windows Update or try the Windows built-in troubleshooter, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4\. Use the Windows Troubleshooter
 
@@ -176,19 +156,45 @@ If this method doesn’t do the trick, you can try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/control.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select**Large icons** , and click**Device and Printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/open-control-panel.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Right-click your printer, and select**Troubleshoot** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/troubleshoot-printer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Follow on the on-screen instructions to complete the troubleshooting.
@@ -214,21 +220,21 @@ If this method doesn’t do the trick, you can try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-eliminating-virtual-reality-sickness-with-hint/"><u>[New] 2024 Approved Eliminating Virtual Reality Sickness with Hint</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-game-on-android-a-deep-dive-into-kinemaster-features-for-2024/"><u>[New] Game On Android A Deep Dive Into KineMaster Features for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-from-airplay-to-download-apple-podcasts-simplified/"><u>[New] In 2024, From Airplay to Download Apple Podcasts Simplified</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-audiophiles-recorder-review-for-2024/"><u>[Updated] Audiophile's Recorder Review for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-pathway-to-success-with-snapchat-in-the-workplace-for-2024/"><u>[Updated] The Pathway to Success with Snapchat in the Workplace for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/complete-printing-solution-unveiled/"><u>Complete Printing Solution Unveiled</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/curing-toner-depletion-crisis/"><u>Curing Toner Depletion Crisis</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhance-document-transfer-with-printer-driver-fixes-on-win10/"><u>Enhance Document Transfer with Printer Driver Fixes on Win10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guiding-you-to-a-hassle-free-canon-print-connection/"><u>Guiding You to a Hassle-Free Canon Print Connection</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-top-10-eye-catching-text-in-media/"><u>In 2024, Top 10 Eye-Catching Text in Media</u></a></li>
-<li><a href="https://review-topics.techidaily.com/motorola-edge-2023-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Motorola Edge 2023 Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcome-paper-feeder-malfunction/"><u>Overcome Paper Feeder Malfunction</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolve-non-responsive-printer-in-windows-11/"><u>Resolve Non-Responsive Printer in Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-attention-grabber-composer-for-2024/"><u>Top Attention Grabber Composer for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-xp-vs-mp620-printer-compatibility-questions/"><u>Windows XP vs MP620 Printer Compatibility Questions?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtubes-opposite-order-rearranging-videos-in-reverse-flow-for-2024/"><u>Youtube's Opposite Order Rearranging Videos in Reverse Flow for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-background-tunes-to-boost-your-status/"><u>[New] Background Tunes to Boost Your Status</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-fixing-muted-audio-and-video-transmission-errors-on-fb-messengers-mobile-app/"><u>[New] Fixing Muted Audio & Video Transmission Errors on FB Messengers Mobile App</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-explore-fauna-fun-top-12-android-simulation-games-for-2024/"><u>[Updated] Explore Fauna Fun Top 12 Android Simulation Games for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-behind-the-scenes-professional-steam-capture-methods/"><u>[Updated] In 2024, Behind the Scenes Professional Steam Capture Methods</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/2-steps-to-set-up-canon-printer-with-pictures/"><u>2 Steps to Set up Canon Printer (With Pictures)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/a-beginners-journey-into-gameplay-capturing-with-obs/"><u>A Beginner's Journey Into Gameplay Capturing with OBS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/bridge-your-print-device-setup-for-canon-and-wi-fi/"><u>Bridge Your Print Device: Setup for Canon & Wi-Fi</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/clearing-paper-jams-swiftly/"><u>Clearing Paper Jams Swiftly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/drive-upgrade-streamline-mf4770n-in-windows/"><u>Drive Upgrade: Streamline MF4770n in WIndows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-blank-pages-windows-11-printer-woes/"><u>Fix Blank Pages: Windows 11 Printer Woes</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/master-window-11s-icon-arrangement/"><u>Master Window 11'S Icon Arrangement</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/techniques-bringing-an-isolated-printer-back-onboard/"><u>Techniques: Bringing an Isolated Printer Back Onboard</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/whats-behind-these-7-apps-gpt-4-capabilities/"><u>What's Behind These 7 Apps’ GPT-4 Capabilities?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/who-is-the-legal-keeper-of-ai-assets/"><u>Who Is the Legal Keeper of AI Assets?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-os-struggles-hp-driver-not-available/"><u>Windows OS Struggles: HP Driver Not Available</u></a></li>
 </ul></div>
 

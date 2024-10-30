@@ -1,7 +1,7 @@
 ---
 title: Win 11 Update Linked to Non-Operational Printer
-date: 2024-10-16T22:55:01.142Z
-updated: 2024-10-23T23:52:40.103Z
+date: 2024-10-24T18:24:00.486Z
+updated: 2024-10-29T23:22:39.906Z
 tags:
   - win11
   - win10
@@ -45,10 +45,10 @@ Here is how to power cycle your printer:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Make sure your printer is connected
@@ -73,22 +73,15 @@ Here is how to power cycle your printer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap19-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-188.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -114,10 +107,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-194.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) On your keyboard, press the**Windows logo key** and**R** at the same time, then type**%WINDIR%\\system32\\spool\\printers** and press**Enter** .
@@ -134,13 +127,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-198.png)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  7) Check to see if your printer works properly. If it still doesn’t work, please move on to**Fix 5** , below.
 
 ---
@@ -153,9 +139,23 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-208.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the**Troubleshoot** window, scroll down to the**Get up and running** section, click on**Printer** \>**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-209.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Wait for Windows to diagnose the problem and follow the on-screen instructions to resolve the printing not working situation.
 
@@ -180,20 +180,18 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-elevate-your-videos-with-these-11-grading-guides/"><u>[New] Elevate Your Videos with These 11 Grading Guides</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/eamless-integration-of-youtube-melodies-into-imovie-for-2024/"><u>[New] Seamless Integration of YouTube Melodies Into iMovie for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-cinematiccapture-easy-screen-recorder-for-win11-pcs/"><u>[Updated] CinematicCapture Easy Screen Recorder for Win11 PCs</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-free-video-credits-pro-the-best-suggestions-1-6/"><u>[Updated] In 2024, Free Video Credits Pro - The Best Suggestions #1-6</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-obs-guide-seamless-youtube-and-twitch-streaming/"><u>[Updated] In 2024, OBS Guide Seamless YouTube and Twitch Streaming</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-novices-guide-to-animated-videos-with-wmm-for-2024/"><u>[Updated] Novice's Guide to Animated Videos with WMM for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/creating-captivating-insta-vids-3-description-strategies/"><u>Creating Captivating Insta Vids 3 Description Strategies</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/domain-disabled-resulting-in-print-errors/"><u>Domain Disabled: Resulting in Print Errors</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-samsung-galaxy-f34-5g-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Samsung Galaxy F34 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-oppo-f23-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Oppo F23 5G Phone Screen?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instant-printing-success-setting-up-your-hp-smartoffice-x127e/"><u>Instant Printing Success: Setting Up Your HP SmartOffice X127e</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcame-ink-depletion-problem-in-hp-officejet/"><u>Overcame Ink Depletion Problem in HP Officejet</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-epson-inkjet-skips-printing-texts/"><u>Resolved: Epson Inkjet Skips Printing Texts</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/simplify-installation-with-our-proven-windows-hp-printer-methodology/"><u>Simplify Installation with Our Proven Windows-Hp Printer Methodology</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/successful-fix-for-blank-sheets-in-hp-printers-cycle/"><u>Successful Fix for Blank Sheets in HP Printer's Cycle</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleash-creativity-in-editing-leveraging-storyremix-with-windows-11-photos/"><u>[Updated] Unleash Creativity in Editing Leveraging StoryRemix with Windows 11 Photos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-your-twitch-presence-with-these-critical-top-5-features-for-streamers/"><u>Boost Your Twitch Presence with These Critical Top 5 Features for Streamers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-explained-seamless-language-translation-techniques/"><u>ChatGPT Explained: Seamless Language Translation Techniques</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/demystifying-paper-jam-symptoms-in-printers/"><u>Demystifying Paper Jam Symptoms in Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-paper-jam-resolved-quickly/"><u>Epson Paper Jam, Resolved Quickly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/essential-tips-for-hp-printer-setup-on-windows-os/"><u>Essential Tips for HP Printer Setup on Windows OS</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-recurrent-kodi-system-freezes-a-complete-guide/"><u>Fixing Recurrent Kodi System Freezes: A Complete Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-oneplus-nord-ce-3-lite-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on OnePlus Nord CE 3 Lite 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-vivo-y36-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Vivo Y36</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-s18-pro-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo S18 Pro?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/issue-settled-printer-issues-post-upgrade/"><u>Issue Settled: Printer Issues Post Upgrade</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/simple-steps-for-attaching-hp-wireless-door-mounted-printers/"><u>Simple Steps for Attaching HP Wireless Door Mounted Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unplugged-reset-to-bring-canon-printer-back-online/"><u>Unplugged? Reset to Bring Canon Printer Back Online</u></a></li>
 </ul></div>
 

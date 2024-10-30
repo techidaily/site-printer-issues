@@ -1,7 +1,7 @@
 ---
 title: Overcoming Inactive Scanner on Windows 11
-date: 2024-10-16T22:33:43.019Z
-updated: 2024-10-23T18:54:50.182Z
+date: 2024-10-27T23:08:32.910Z
+updated: 2024-10-29T16:21:14.216Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ Read on. 🙂
 2. [**Reinstall your printer driver**](#m2)
 3. [**Get rid of ‘Scan to computer is no longer activated’ error**](#m3)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Check the connection of your Printer
 
  Once the error pops up on your Windows 10, and you cannot print the files with your printer, please check the connection between your printer and computer first.
@@ -50,23 +57,9 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf305cb04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the open window, find and expand the**Print queues** catalog. Then right-click on your printer software to choose**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf9b29be7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Restart your computer to let Windows reinstall the printer driver for you automatically.
 
@@ -80,16 +73,16 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597af8932fbfe.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5976a910cca49.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
 
@@ -104,10 +97,10 @@ You need to do these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee238c2f07.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Find**scanToPCActivationApp** under**Processes** tab. Then right-click on it to choose**End task** .
@@ -117,6 +110,13 @@ You need to do these steps:
  3) Find**scanToPCActivationApp** under**Startup** tab. Then right-click on it to choose**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee2dfcd442.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 That’s all there is to it.
 
@@ -140,22 +140,20 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-capture-and-record-every-sound-on-your-pc-with-x-recorder-for-2024/"><u>[New] Capture & Record Every Sound on Your PC with X-Recorder for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-rookie-capture-assessment-overview/"><u>[New] In 2024, Rookie Capture Assessment Overview</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-gifs-to-stickers-comprehensive-tutorial-series-for-multiple-chat-apps/"><u>[Updated] From Gifs to Stickers Comprehensive Tutorial Series for Multiple Chat Apps</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-printer-setup-simplified-with-pictures/"><u>Canon Printer Setup Simplified - With Pictures</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhanced-drive-functionality-with-mf4770n-on-windows-oss/"><u>Enhanced Drive Functionality with MF4770n on WIndows OSs</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-infinix-hot-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-ai-chatgpts-role-in-enhancing-lifestyle-quality/"><u>Harnessing AI: ChatGPT's Role in Enhancing Lifestyle Quality</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leading-action-cams-that-keep-moving-steady-for-2024/"><u>Leading Action Cams That Keep Moving Steady for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-paper-jam-hp-print-fix-on-os-x/"><u>Overcoming Paper Jam: HP Print Fix on OS X</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/stop-printerevolving-spooler-error-wx-w10-and-w11/"><u>Stop Printer'evolving Spooler Error (WX, W10 & W11)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-art-of-upward-landscapes-with-phones/"><u>The Art of Upward Landscapes with Phones</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-evolution-of-audio-liberation-pazeras-advanced-techniques-2e-for-2024/"><u>The Evolution of Audio Liberation Pazera's Advanced Techniques (2E) for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-your-canon-printer-disconnects/"><u>Troubleshooting: Your Canon Printer Disconnects</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-guide-to-mts-video-editing-top-tools/"><u>Updated The Ultimate Guide to MTS Video Editing Top Tools</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/why-no-colored-pages/"><u>Why No Colored Pages?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win11-compatible-with-online-scanner-again/"><u>Win11 Compatible with Online Scanner Again</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-11-pixma-mp620-driver-elusive/"><u>Windows 11: Pixma MP620 Driver Elusive</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-capturing-creativity-premium-screen-recorder-software-on-pc-and-mac/"><u>[New] 2024 Approved Capturing Creativity - Premium Screen Recorder Software on PC & Mac</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-chat-enhancement-course-turning-your-graphics-into-social-media-stickers-for-2024/"><u>[New] Chat Enhancement Course Turning Your Graphics Into Social Media Stickers for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-unlocking-the-secret-of-hashtags-for-six-figures/"><u>[New] In 2024, Unlocking the Secret of #Hashtags for Six Figures</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-hp-printer-driver-is-unavailable-on-windows-1110/"><u>[Solved] HP Printer Driver Is Unavailable on Windows 11/10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/combat-brother-printer-not-printing-quagmire-reinstating-functionality-on-windows/"><u>Combat Brother Printer Not Printing Quagmire, Reinstating Functionality on Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-photo-printer-over-printing-white-paper/"><u>Epson Photo Printer: Over-Printing White Paper</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-apple-iphone-6-plus-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the Apple iPhone 6 Plus Without Previous Owner?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-xiaomi-redmi-note-13-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Xiaomi Redmi Note 13 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/maximum-video-file-size-on-whatsapp-understanding-the-2020-limits/"><u>Maximum Video File Size on WhatsApp: Understanding the 2020 Limits</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-release-lenovo-thunderbolt-3-universal-docking-station-updates/"><u>New Release: Lenovo Thunderbolt 3 Universal Docking Station Updates</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-printer-connection-remedy/"><u>Quick Printer Connection Remedy</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/speedy-clearance-of-stalled-print-queue/"><u>Speedy Clearance of Stalled Print Queue</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/syncing-up-hp-printer-with-pc-settings/"><u>Syncing Up HP Printer with PC Settings</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1723262352877-toms-hardware-hub-explore-cutting-edge-tech-advice-for-every-level-of-user/"><u>Tom's Hardware Hub: Explore Cutting-Edge Tech Advice For Every Level of User!</u></a></li>
 </ul></div>
 
