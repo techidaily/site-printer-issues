@@ -1,7 +1,7 @@
 ---
 title: Code B200 Resolution Achieved
-date: 2024-10-16T23:51:37.372Z
-updated: 2024-10-17T22:39:13.610Z
+date: 2024-11-01T16:08:38.822Z
+updated: 2024-11-04T17:17:46.229Z
 tags:
   - win11
   - win10
@@ -29,10 +29,10 @@ thumbnail: https://thmb.techidaily.com/56e1f89334f10f1cb05f14f5231043c0f4d7f09cc
 3. **[Clean the printhead](#c)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your printer driver
@@ -51,6 +51,19 @@ There are two ways you can update your printer driver:
 **1)** Go to the **[Canon support website](https://www.usa.canon.com/internet/portal/us/home/support)**  , then click**SUPPORT > SOFTWARE & DRIVERS** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/b200-error-code-canon-driver-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Enter the name of the serial number of your Canon product and search for it.
 
@@ -74,23 +87,9 @@ There are two ways you can update your printer driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-229.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like. But it’s partly manual.
 
@@ -109,10 +108,10 @@ There are two ways you can update your printer driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/toner-581905_1920-1024x768.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Check the ink levels on your printer
@@ -126,6 +125,13 @@ There are two ways you can update your printer driver:
  Remove your cartridges to check if any of them are defective. If you find any damaged cartridges, replace them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/cartridges-828195_1920-1-1024x981.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Make sure your cartridges all work properly, then reinstall it.
 
@@ -171,21 +177,22 @@ The printhead is very delicate. Please proceed with caution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-ultimate-list-of-highest-subscribed-video-makers-globally/"><u>[Updated] In 2024, The Ultimate List of Highest-Subscribed Video Makers Globally</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-inside-obs-alternatives-for-professional-streamers/"><u>[Updated] Inside OBS Alternatives for Professional Streamers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-sharing-content-video-posts-on-instagram-guide/"><u>[Updated] Sharing Content Video Posts on Instagram Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ad-ds-maintenance-causing-print-errors/"><u>AD DS Maintenance Causing Print Errors</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brother-cdw-air-glide-instructions-quickly/"><u>Brother CDW Air-Glide Instructions Quickly</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-view-mov-movies-content-on-xiaomi-redmi-note-12-pro-4g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can’t view MOV movies content on Xiaomi Redmi Note 12 Pro 4G</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-printer-offline-solved/"><u>Epson Printer Offline [Solved]</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-6-plus-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 Plus with/without SIM Card</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/in-depth-installing-and-tweaking-your-hp-printer-on-windows/"><u>In-Depth: Installing and Tweaking Your HP Printer on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-antivirus-conflicts-with-ms-defender/"><u>Navigating Through Antivirus Conflicts with MS Defender</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/poco-x5-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco X5 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-windows-7-printer-unresponsive/"><u>Resolved: Windows 7 Printer Unresponsive</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-the-ultimate-guide-to-fixing-davinci-resolve-startup-issues-in-windows-os/"><u>Resolved! The Ultimate Guide to Fixing DaVinci Resolve Startup Issues in Windows OS</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restoring-connected-status-to-siblings-print-device/"><u>Restoring Connected Status to Sibling's Print Device</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win7-inkjet-fix-successful/"><u>Win7 Inkjet Fix Successful</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/compatibility-issue-canon-pixma-mp620-and-win10-not-linked/"><u>[Compatibility Issue] Canon Pixma MP620 & WIN10 Not Linked</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-calculating-cost-for-shooting-a-song-in-cinematic-style/"><u>2024 Approved Calculating Cost for Shooting A Song in Cinematic Style</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/accelerated-release-of-print-queued-tasks/"><u>Accelerated Release of Print Queued Tasks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/deciphering-the-magic-behind-magixs-pixel-editor-for-2024/"><u>Deciphering the Magic Behind MAGIX's Pixel Editor for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-amd-radeon-hd-graphics-drivers-for-windows-7-installation-guide/"><u>Download AMD Radeon HD Graphics Drivers for Windows 7: Installation Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/easy-route-reconnecting-print-devices/"><u>Easy Route: Reconnecting Print Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-strategies-for-overcoming-the-cannot-perform-action-error-code-0x80004005/"><u>Effective Strategies for Overcoming the 'Cannot Perform Action' Error (Code 0X80004005)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-print-troubleshoot-0x97/"><u>Epson Print Troubleshoot: 0X97</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/exploring-different-approaches-to-game-playback-for-2024/"><u>Exploring Different Approaches to Game Playback for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-revive-unresponsive-canon-printer/"><u>How to Revive Unresponsive Canon Printer?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-g54-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola G54 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mastering-the-art-of-fixing-printer-problems-after-win-10/"><u>Mastering the Art of Fixing Printer Problems After Win 10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-frequent-spooler-halt-issues-on-pcs-running-windows/"><u>Resolving Frequent Spooler Halt Issues on PCs Running Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-intermittent-printer-spooler-halt-in-win-117/"><u>Resolving Intermittent Printer Spooler Halt in Win 11/7</u></a></li>
+<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/surprising-revelation-top-quality-speaker-system-beyond-bose-and-polk-reviewed-on-zdnet/"><u>Surprising Revelation: Top Quality Speaker System Beyond Bose & Polk Reviewed on ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-correcting-image-persistence-on-screens-of-all-types/"><u>The Ultimate Guide to Correcting Image Persistence on Screens of All Types</u></a></li>
 </ul></div>
 

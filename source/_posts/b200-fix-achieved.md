@@ -1,7 +1,7 @@
 ---
 title: B200 Fix Achieved
-date: 2024-10-14T05:03:07.798Z
-updated: 2024-10-18T07:37:10.461Z
+date: 2024-10-28T17:13:29.596Z
+updated: 2024-11-04T16:33:35.880Z
 tags:
   - win11
   - win10
@@ -45,22 +45,21 @@ There are two ways you can update your printer driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/b200-error-code-canon-driver-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Enter the name of the serial number of your Canon product and search for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/b200-error-code-canon-driver-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
@@ -82,10 +81,10 @@ There are two ways you can update your printer driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -95,6 +94,13 @@ There are two ways you can update your printer driver:
  You can do it for free if you like. But it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](mailto:support@drivereasy.com) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Check your ink cartridges
 
@@ -107,6 +113,13 @@ There are two ways you can update your printer driver:
  Blocked or clogged ink cartridges can cause the printer error B200\. To see if that’s the problem for you, you can clean your ink cartridges from the printer control panel or clean them manually.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/toner-581905_1920-1024x768.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Check the ink levels on your printer
 
@@ -123,19 +136,6 @@ There are two ways you can update your printer driver:
 Make sure your cartridges all work properly, then reinstall it.
 
  Now, reopen your Canon printer. If your problem still exists, try the fix below.
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Clean the printhead
 
@@ -177,24 +177,20 @@ The printhead is very delicate. Please proceed with caution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/network-fix-windows-810-printer-missing-issue/"><u>[Network Fix] Windows 8/10 Printer Missing Issue</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-evaluating-active-presenter-8s-performance-for-2024/"><u>[New] Evaluating Active Presenter 8'S Performance for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ext-gymnastics-ingenious-techniques-for-animated-bounces/"><u>[New] Text Gymnastics Ingenious Techniques for Animated Bounces</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/he-beginners-blueprint-to-building-top-10-easy-to-create-biz-youtubes/"><u>[New] The Beginner's Blueprint to Building Top 10 Easy-to-Create Biz YouTubes</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-guard-your-camera-top-10-shields-reviewed/"><u>[Updated] Guard Your Camera - Top 10 Shields Reviewed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-tide-gear-surfing-camera-innovations-of-2023/"><u>2024 Approved High Tide Gear Surfing Camera Innovations of 2023</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/a-visual-process-guide-on-setting-up-your-canon-printer/"><u>A Visual Process Guide on Setting up Your Canon Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-set-up-and-install-a-canon-printer-with-photos/"><u>How to Set Up and Install a Canon Printer with Photos</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/improve-print-quality-fixing-win10-drivers/"><u>Improve Print Quality: Fixing WIN10 Drivers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-free-range-riffs-and-rhythms-in-free-fire/"><u>In 2024, Free Range Riffs and Rhythms in Free Fire</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/market-shock-intel-plunges-by-30-overnight-losing-39b-in-value/"><u>Market Shock: Intel Plunges by 30% Overnight, Losing $39B in Value</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigate-easy-customization-for-youtube-channel-urls-for-2024/"><u>Navigate Easy Customization for YouTube Channel URLs for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reconnected-print-spooler-in-win7/"><u>Reconnected Print Spooler in Win7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-frequent-spooler-halt-issues-on-pcs-running-windows/"><u>Resolving Frequent Spooler Halt Issues on PCs Running Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solving-error-epson-fault-code/"><u>Solving Error: Epson Fault Code</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/swift-repair-for-xerox-error-alert-0x1/"><u>Swift Repair for Xerox Error Alert 0X1</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-checklist-for-fpv-drone-propeller-selection/"><u>The Ultimate Checklist for FPV Drone Propeller Selection</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-add-a-timer-in-minutes-a-quick-fcpx-tutorial/"><u>Updated 2024 Approved Add a Timer in Minutes A Quick FCPX Tutorial</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/winnt2000-reactivate-sluggish-printer-response/"><u>WinNT/2000: Reactivate Sluggish Printer Response</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/diagnostic-unable-to-start-local-spooler-service/"><u>[DIAGNOSTIC] Unable to Start Local Spooler Service</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/issue-cant-print-spooler-disabled/"><u>[ISSUE] Can't Print - Spooler Disabled</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-7-best-waterproof-video-recorders/"><u>[New] The Ultimate Guide 7 Best Waterproof Video Recorders</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-connectivity-restored/"><u>[PRINT] Connectivity Restored</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-boost-engagement-posting-twitter-videos-on-snapchat/"><u>2024 Approved Boost Engagement Posting Twitter Videos on Snapchat</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-nokia-g22-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Nokia G22 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-master-the-art-of-subtitlecc-integration-in-youtube-with-this-guide/"><u>In 2024, Master the Art of Subtitle/CC Integration in YouTube with This Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-sharp-4k-top-10-mirrorless-cameras/"><u>In 2024, Mastering Sharp 4K Top 10 Mirrorless Cameras</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovative-initiations-panzoids-best-ten/"><u>Innovative Initiations Panzoid's Best Ten</u></a></li>
+<li><a href="https://article-helps.techidaily.com/inside-the-engine-room-the-apple-m1-unveiled-for-2024/"><u>Inside the Engine Room The Apple M1 Unveiled for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-more-lost-pages-thanks-to-new-fixes/"><u>No More Lost Pages, Thanks to New Fixes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overhauling-epsons-error-0x97/"><u>Overhauling Epson's Error 0X97</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/perfect-visual-experience-on-youtube-with-professional-techniques/"><u>Perfect Visual Experience on YouTube with Professional Techniques</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/precision-tactics-to-overcome-non-printing-brother-printer-in-oses/"><u>Precision Tactics to Overcome Non-Printing Brother Printer in OSes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/reliable-budget-friendly-option-cheetah-dual-arm-assessment/"><u>Reliable Budget-Friendly Option: Cheetah Dual Arm Assessment</u></a></li>
 </ul></div>
 

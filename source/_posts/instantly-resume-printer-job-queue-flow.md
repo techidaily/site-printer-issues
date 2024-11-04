@@ -1,7 +1,7 @@
 ---
 title: Instantly Resume Printer Job Queue Flow
-date: 2024-10-22T20:25:45.173Z
-updated: 2024-10-29T16:06:56.258Z
+date: 2024-10-30T16:52:58.750Z
+updated: 2024-11-04T16:09:43.955Z
 tags:
   - win11
   - win10
@@ -39,19 +39,19 @@ thumbnail: https://thmb.techidaily.com/b1dd8faa0beaf2c68ee22b112a11d419910d65751
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/services-run-box.jpg)
 3. Scroll down to**Print Spooler** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Right-click**Print Spooler** and select**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/stop-the-service.jpg)
 5. Navigate to**C:\\Windows\\System32\\spool\\PRINTERS** and delete all files in the folder. (Do NOT delete the folder itself.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/delete.jpg)
 6. In the Services window, right-click**Print Spooler** and select**Start** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/start-service.jpg)
 7. Go back to the**Print Job** queue. All print jobs should have been removed now and you can start printing again normally.
@@ -69,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/b1dd8faa0beaf2c68ee22b112a11d419910d65751
 1. Type**cmd** in the search box and Run it as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/command-prompt-admin.jpg)
 2. In the Command Prompt window, enter the following commands separately:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 net stop spooler
 
@@ -98,17 +105,10 @@ This will clear all of your print jobs stuck in a queue.
 4. Double-click the batch file to clear the print queue anytime you want.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Reinstall the printer driver
@@ -143,10 +143,10 @@ This will clear all of your print jobs stuck in a queue.
 3. Click the Update button next to your sound card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **OR** click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)  
@@ -179,20 +179,18 @@ Feel free to drop us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-mastering-the-art-of-choosing-winning-video-thumbnails/"><u>[New] In 2024, Mastering the Art of Choosing Winning Video Thumbnails</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-printer-error-after-wake-from-sleep-in-windows-7/"><u>[Resolved] Printer Error After Wake From Sleep in Windows 7</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-how-to-schedule-meetings-on-zoom-webdesktopmobile/"><u>[Updated] 2024 Approved How to Schedule Meetings on Zoom [Web/Desktop/Mobile]</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-elevating-your-vimeo-clips-a-guide-to-musical-additions/"><u>[Updated] In 2024, Elevating Your Vimeo Clips A Guide to Musical Additions</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-printer-not-printing-conquer-this-issue-with-our-top-5-solutions-for-windows-11/"><u>Canon Printer Not Printing? Conquer This Issue with Our Top 5 Solutions for Windows 11</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/dominating-the-igtv-space-a-guide-to-massive-viewership-growth/"><u>Dominating the IGTV Space A Guide to Massive Viewership Growth</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fast-track-prints-in-queue/"><u>Fast-Track Prints in Queue</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-10-budget-friendly-mmorpg-experiences/"><u>In 2024, Top 10 Budget-Friendly MMORPG Experiences</u></a></li>
-<li><a href="https://windows11.techidaily.com/modernize-windows-shift-to-enhanced-tiled-workspace/"><u>Modernize Windows: Shift to Enhanced Tiled Workspace</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/peeps-funny-photos-iphones-style/"><u>Peeps' Funny Photos, iPhones Style</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reconnected-printer-in-win7-environment/"><u>Reconnected Printer in Win7 Environment</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-rise-of-robotics-in-occupations-abandoned-by-humans-planning-ahead-for-recession-risks/"><u>The Rise of Robotics in Occupations Abandoned by Humans: Planning Ahead for Recession Risks</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-restarting-brother-printer-for-windows/"><u>Troubleshooting: Restarting Brother Printer for Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unwanted-blank-sheets-a-common-epson-complaint/"><u>Unwanted Blank Sheets: A Common Epson Complaint</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/wins-overprint-taming-the-post-update-beast/"><u>Wins Overprint: Taming the Post-Update Beast</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-altering-mac-screenshot-format-on-the-fly/"><u>[New] Altering Mac Screenshot Format on the Fly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-value-oriented-pc-recording-tools/"><u>[New] Value-Oriented PC Recording Tools</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/os-mismatch-unable-to-load-printer-driver/"><u>[OS MISMATCH] Unable to Load Printer Driver</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-prime-collection-of-effortless-phone-apps-for-2024/"><u>[Updated] Prime Collection of Effortless Phone Apps for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/dealing-with-dormant-printers/"><u>Dealing with Dormant Printers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-make-a-fortune-on-reddit-without-experience-top-13-methods/"><u>How to Make a Fortune on Reddit Without Experience - Top 13 Methods</u></a></li>
+<li><a href="https://os-tips.techidaily.com/introducing-belkins-game-changing-magsafe-triple-port-charger-a-leap-forward-in-wireless-power-solutions/"><u>Introducing Belkin's Game-Changing MagSafe Triple Port Charger - A Leap Forward in Wireless Power Solutions</u></a></li>
+<li><a href="https://win-web3.techidaily.com/massive-outage-affects-microsoft-365-services-understanding-the-cause-tech-news-by-zdnet/"><u>Massive Outage Affects Microsoft 365 Services: Understanding the Cause | Tech News by ZDNet</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/my-print-sentry-refuses-responses/"><u>My Print Sentry Refuses Responses</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-best-free-video-stabilizer-websites-smooth-out-your-footage/"><u>New 2024 Approved Best Free Video Stabilizer Websites Smooth Out Your Footage</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/new-methods-quickly-connect-hp-to-laptops/"><u>New Methods: Quickly Connect HP to Laptops</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/spooler-error-printer-not-initializing-in-windows/"><u>Spooler Error: Printer Not Initializing in Windows</u></a></li>
 </ul></div>
 

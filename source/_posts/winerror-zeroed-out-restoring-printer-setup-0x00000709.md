@@ -1,7 +1,7 @@
 ---
 title: WinError Zeroed Out - Restoring Printer Setup (0X00000709)
-date: 2024-10-15T09:35:16.336Z
-updated: 2024-10-17T23:20:51.567Z
+date: 2024-10-28T16:57:36.543Z
+updated: 2024-11-04T16:32:53.022Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/0cc7e321d1f451639d7bc59d3e2137f7bee3ef2e1
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Modify your registry key
 
 **IMPORTANT:** Modifying the registry in your computer could cause irrecoverable errors if the modification is done incorrectly, therefore, you need to **[back up](https://tools.techidaily.com/drivereasy/download/)**  your registry first.
@@ -53,44 +60,37 @@ thumbnail: https://thmb.techidaily.com/0cc7e321d1f451639d7bc59d3e2137f7bee3ef2e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/regedit-in-start-panel.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If **User Account Control** comes up, please choose **Yes** at the prompt.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57bbbed40caf2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Follow the path   **HKEY\_CURRENT\_USER\\Software\\Microsoft\\WindowsNT\\CurrentVersion\\Windows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/registry-details.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Double-click **Device** . Type in your printer name. (The screenshot here is an example only.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/edit-sting.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click **OK** to save the change.
 
 **Note** : If you encounter this sort of error “ **Cannot edit Device: Error writing the value’s new contents** “, please follow the steps below to set the permission of the key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/error-cannot-edit-device-error-writing-the-values-new-content.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  a) Right-click the **Windows** key on the left side of the panel and then click **Permissions…** .
 
@@ -103,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/0cc7e321d1f451639d7bc59d3e2137f7bee3ef2e1
  4) Right-click **UserSelectDefault** and click **Rename**  to rename it as your printer name.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/rename-userselectdefault.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There you go! You should be able to set up your default printer now!
 
@@ -124,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/0cc7e321d1f451639d7bc59d3e2137f7bee3ef2e1
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Scan-now-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update** button next to the printer driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
@@ -146,17 +146,20 @@ thumbnail: https://thmb.techidaily.com/0cc7e321d1f451639d7bc59d3e2137f7bee3ef2e1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-2024s-superior-camera-gear-roundup/"><u>[New] 2024'S Superior Camera Gear Roundup</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-mystery-unexpectedly-non-appearing-videos-on-fb/"><u>[Updated] 2024 Approved The Mystery Unexpectedly Non-Appearing Videos on FB</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-best-wearable-camera-innovations/"><u>[Updated] Best Wearable Camera Innovations</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/duplicate-device-printing-discovered-and-tackled/"><u>Duplicate Device Printing Discovered & Tackled</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-react-when-your-printer-disconnects/"><u>How to React When Your Printer Disconnects</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-nubia-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Nubia</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-understanding-adobe-storage-alternatives-explained/"><u>In 2024, Understanding Adobe Storage, Alternatives Explained</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/plot-pointers-institute-quintessential-quotient/"><u>Plot Pointers Institute - Quintessential Quotient</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-problem-due-to-domain-service-outage/"><u>Printer Problem Due to Domain Service Outage</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/steps-to-unlink-external-hardware-from-windows-os/"><u>Steps to Unlink External Hardware From Windows OS</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tips-and-tricks-connecting-your-canon-instantly/"><u>Tips & Tricks: Connecting Your Canon Instantly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-creativity-with-innovative-ai-storytelling-platforms-top-picks/"><u>Unleashing Creativity with Innovative AI Storytelling Platforms - Top Picks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-best-dramatic-writing-site/"><u>[New] Best Dramatic Writing Site</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-diverse-technology-scrutiny-easeus-edition/"><u>2024 Approved Diverse Technology Scrutiny EaseUS Edition</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-social-media-sync-integrating-multiple-photographsvideos-into-your-ig-feed/"><u>2024 Approved Social Media Sync Integrating Multiple Photographs/Videos Into Your IG Feed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029540639-mov-mp4/"><u>高画質保持で MOV から MP4 に完璧に変換するテクニック</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-google-pixel-8-pro-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Google Pixel 8 Pro.</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/cure-xp-printer-slowness-and-unresponsiveness-woes/"><u>Cure XP Printer Slowness & Unresponsiveness Woes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-fix-hp-printer-not-responding/"><u>How to Fix HP Printer Not Responding</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-your-itel-a60s-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Itel A60s Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723012389973-mastering-the-dark-mode-dilemma-in-halo-infinite-now-solved/"><u>Mastering the Dark Mode Dilemma in Halo Infinite - Now Solved</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preventing-post-graduation-burnout-effective-techniques-for-new-alumni-featured-on-zdnet/"><u>Preventing Post-Graduation Burnout: Effective Techniques for New Alumni Featured on ZDNet</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restore-inkjet-connectivity-for-windows-vistaxp-users/"><u>Restore Inkjet Connectivity for Windows Vista/XP Users</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/smooth-start-initiating-your-hp-printer-for-windows-users/"><u>Smooth Start: Initiating Your HP Printer for Windows Users</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/sony-wh-1000xm4-review-a-critical-listening-perspective/"><u>Sony WH-1000XM4 Review: A Critical Listening Perspective</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tune-up-update-dell-aio-printer-tools-on-win7-platform/"><u>Tune-Up: Update Dell AIO Printer Tools on Win7 Platform</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-7-usb-printer-not-printing-after-sleep/"><u>Windows 7: USB Printer Not Printing After Sleep</u></a></li>
 </ul></div>
 
