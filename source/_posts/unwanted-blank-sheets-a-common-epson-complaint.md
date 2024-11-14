@@ -1,7 +1,7 @@
 ---
 title: "Unwanted Blank Sheets: A Common Epson Complaint"
-date: 2024-11-03T17:06:51.686Z
-updated: 2024-11-04T17:09:55.027Z
+date: 2024-11-09T13:19:37.802Z
+updated: 2024-11-13T19:18:44.846Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/983f31d4ff46a88bf34dd06f49261024f8d7c362e
 3. [Update your printer driver](#f3)
 4. [Install Fortect](#f4)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check your ink cartridges
 
  There are**three situations** in checking your ink cartridges.
@@ -52,19 +45,6 @@ thumbnail: https://thmb.techidaily.com/983f31d4ff46a88bf34dd06f49261024f8d7c362e
  The second situation is that**one of your ink cartridges is out of ink** . There is a sentence in the Epson manual which most people might ignore: **You cannot print or copy when an ink cartridge is expended even if the other cartridges are not expended.** If one of your cartridges is expended, you should replace it with a new one. Otherwise, you may encounter the printing blank pages issue.
 
  The third condition is that you’ve replaced a new ink cartridge but**you forget to remove the protective tape** . New cartridges have protective tape. Not only that it keep the ink from leaking, but it actually protects the print nozzles of sensitive ink cartridges. But you should be careful with the additional transparent plastic or a pointed mechanism, do not remove it or your cartridge will leak or malfunction.
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Clean your clogged Nozzles
 
@@ -81,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/983f31d4ff46a88bf34dd06f49261024f8d7c362e
 
 **Note** : This Printhead Cleaning Cycles cannot be used too often. Allow your printer to rest for at least 6 hours after one cycle (recommended by Epson), then go through a cleaning cycle again. Doing this program repeatedly will make your clog worse and use a lot of ink.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your printer driver
 
  Epson printer needs drivers to work properly. If the driver is outdated or wrong, it may cause problems. There are two ways to get the correct driver: manually and automatically.
@@ -90,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/983f31d4ff46a88bf34dd06f49261024f8d7c362e
  To get the correct driver Epson printers drivers, you need to go to the [Epson support webpage](https://epson.com/Support/Printers/sh/s1) , search your printer and find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/ep-1024x507.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.  
 
@@ -106,20 +100,27 @@ thumbnail: https://thmb.techidaily.com/983f31d4ff46a88bf34dd06f49261024f8d7c362e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/%E6%96%B0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/epson.jpg)
 
- If you encounter problems while using Driver Easy, please send an email to [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you encounter problems while using Driver Easy, please send an email to [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
 ### Fix 4: Install Fortect
 
@@ -131,13 +132,6 @@ Here’s how to use it:
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
@@ -166,18 +160,21 @@ Here’s how to use it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/driver-not-detected-unable-to-connect-pixma-mp620-to-win10/"><u>[Driver Not Detected] Unable to Connect Pixma MP620 to WIN10</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-the-essential-handbook-for-periscope-video-logging/"><u>[New] In 2024, The Essential Handbook for Periscope Video Logging</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/trouble-windows-fails-to-load-printer-driver/"><u>[TROUBLE] Windows Fails to Load Printer Driver</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/iuwmgus9lewcqos4jeiksemmoueahoadheazges4iplusmasuihjowngowhiue1hos7tuwfiplusmahjog57kplus5bplusd562w5yis55qe5pya5l2z6luf6auu5o6o6jam5yix6kgoig/"><u>如何在不花錢的情況下進行區塊組件克隆: 精心策划的最佳軟體推薦列表</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/broadcast-battle-analyzing-obs-vs-twitchs-pros-for-2024/"><u>Broadcast Battle Analyzing OBS Vs. Twitch's Pros for 2024</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/complete-walkthrough-restoring-your-gopro-hero-n-to-factory-settings/"><u>Complete Walkthrough: Restoring Your GoPro Hero N to Factory Settings</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/conquer-print-issues-with-comprehensive-windows-hp-guide/"><u>Conquer Print Issues with Comprehensive Windows HP Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-your-workflow-essential-tips-for-organizing-windows-folders/"><u>Enhance Your Workflow: Essential Tips for Organizing Windows Folders</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mastering-the-art-of-configuring-your-hp-printer-on-pcs/"><u>Mastering the Art of Configuring Your HP Printer on PCs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-troubleshooting-for-non-printing-canon-printers/"><u>Quick Troubleshooting for Non-Printing Canon Printers</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-google-pixel-7a-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Google Pixel 7a Screen | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-whats-the-optimal-frame-rate-comparing-30-vs-60hz-recording/"><u>[New] 2024 Approved What's the Optimal Frame Rate? Comparing 30 Vs. 60Hz Recording</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-quick-start-guide-zooming-into-fb-live-on-the-web/"><u>[New] Quick Start Guide Zooming Into FB Live on the Web</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-breaking-the-mold-how-to-create-a-standout-youtube-channel-name/"><u>[Updated] 2024 Approved Breaking the Mold How to Create a Standout YouTube Channel Name</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-free-your-cameras-potential-best-screens-recording-apps-reviewed/"><u>[Updated] 2024 Approved Free Your Camera's Potential Best Screens Recording Apps Reviewed</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-exclusive-sites-for-youtube-content-surge-for-2024/"><u>[Updated] Exclusive Sites For YouTube Content Surge for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-how-to-go-live-on-instagram/"><u>2024 Approved How to Go Live on Instagram</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-printer-blackout-blank-sheets-every-time/"><u>Epson Printer Blackout: Blank Sheets Every Time</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-from-laughs-to-clicks-your-stepwise-journey-on-9gag/"><u>In 2024, From Laughs to Clicks Your Stepwise Journey on 9GAG</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mending-hp-printing-issue-0xoxc4eb827f/"><u>Mending HP Printing Issue 0xOXC4EB827F</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-unresponsive-solutions-needed/"><u>Printer Unresponsive: Solutions Needed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reclaiming-printer-status-bring-back-your-brothers-printer/"><u>Reclaiming Printer Status: Bring Back Your Brother's Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/remedying-persistent-spooler-problems-in-windows-systems/"><u>Remedying Persistent Spooler Problems in Windows Systems</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nner-workings-of-youtubes-system-after-an-upload/"><u>The Inner Workings of YouTube's System After an Upload</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-hp-printer-code-xf34/"><u>Troubleshooting HP Printer Code #XF34</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win9598-printer-non-engagement-a-fix-guide/"><u>Win95/98 Printer Non-Engagement: A Fix Guide</u></a></li>
 </ul></div>
 

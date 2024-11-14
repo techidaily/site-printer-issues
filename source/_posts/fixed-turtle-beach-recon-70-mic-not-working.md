@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Turtle Beach Recon 70 Mic Not Working"
-date: 2024-11-08T19:22:28.250Z
-updated: 2024-11-13T18:35:45.336Z
+date: 2024-11-12T09:42:19.658Z
+updated: 2024-11-13T19:38:51.862Z
 tags:
   - win11
   - win10
@@ -30,10 +30,16 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1: Check your microphone device settings
@@ -44,23 +50,9 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Select **Sound** .
 
@@ -70,9 +62,23 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Right click it again and select **Set as Default Device** .
 
@@ -81,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
 **7)** Right click**Headset Microphone** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
 
@@ -91,19 +104,6 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Update your audio drivers
 
@@ -119,16 +119,16 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All** .)  
 
@@ -164,17 +164,22 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-high-end-hardware-a-showcase-of-excellence/"><u>[Updated] High-End Hardware A Showcase of Excellence</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-pioneer-your-way-through-youtube-shorts-production/"><u>[Updated] Pioneer Your Way Through YouTube Shorts Production</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ceased-epson-standby-error/"><u>Ceased Epson Standby Error</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/connect-printer-with-a-click-no-delay/"><u>Connect Printer with a Click, No Delay</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/excellence-in-video-capture-2024s-top-picks/"><u>Excellence in Video Capture 2024'S Top Picks</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/game-on-with-premium-screens-for-your-xbox-series-x-console/"><u>Game on with Premium Screens for Your Xbox Series X Console</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone XS Max? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-set-up-a-wireless-printer-with-hp-color-life-series/"><u>How To: Set Up a Wireless Printer with HP Color Life Series</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/triple-tactic-tracker-how-to-scrutinize-your-subscriber-earnings-on-googles-platform-youtube/"><u>Triple Tactic Tracker How to Scrutinize Your Subscriber Earnings on Google's Platform, YouTube</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-offline-hp-xp-paper-issue/"><u>Troubleshooting Offline HP XP Paper Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209028815-usb-composite-device-malfunctioning-heres-how-to-fix-it-on-a-usb-30-interface/"><u>USB Composite Device Malfunctioning? Here's How to Fix It on a USB 3.0 Interface!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-paper-trail-issue-error-0x00000709-solution-found/"><u>Windows Paper Trail Issue - Error 0X00000709 Solution Found</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-youtubes-top-marketing-moves-for-business-growth-unveiled/"><u>[New] In 2024, YouTube's Top Marketing Moves for Business Growth Unveiled</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-lgs-cinematic-revolution-the-31mu97-b-monitor-breakdown-review/"><u>[New] LG’s Cinematic Revolution The 31MU97-B Monitor Breakdown Review</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-from-novice-to-pro-mastering-lenovos-capture-capabilities/"><u>[Updated] 2024 Approved From Novice to Pro Mastering Lenovo's Capture Capabilities</u></a></li>
+<li><a href="https://fox-info.techidaily.com/creative-composition-ideal-apps-for-ios-and-android-for-2024/"><u>Creative Composition Ideal Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/error-b200-no-longer-exists/"><u>Error B200 No Longer Exists</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-stop-unwanted-blank-page-issues-on-epson/"><u>How to Stop Unwanted Blank Page Issues on Epson</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-unplug-the-mystery-behind-canon-printer-offline/"><u>How To Unplug the Mystery Behind Canon Printer Offline</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-laserjet-errors-the-cure-for-windows-xp7/"><u>HP Laserjet Errors: The Cure for Windows XP/7</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-wireless-methods-to-mirrorapple-iphone-8-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>In 2024, Wireless Methods to MirrorApple iPhone 8 & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210932969-9781912992126-nature-spirits-of-the-trees/"><u>Nature Spirits of the Trees | Free Book</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/new-year-new-ways-to-integrate-your-laptop-and-printer-effortlessly/"><u>New Year, New Ways to Integrate Your Laptop & Printer Effortlessly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-print-error-on-hp-deskjet-4120x-resolved/"><u>No-Print Error on HP DeskJet 4120X Resolved</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/post-update-glitch-printer-no-longer-functions/"><u>Post-Update Glitch: Printer No Longer Functions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revive-your-printers-life-with-windows-11-fixes/"><u>Revive Your Printer's Life with Windows 11 Fixes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-finest-televisions-on-the-market-top-ten-4ks/"><u>The Finest Televisions on the Market – Top Ten 4Ks</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/webinar-on-jitsi-meet/"><u>Webinar on Jitsi Meetを録画するステップバイステップガイド</u></a></li>
 </ul></div>
 

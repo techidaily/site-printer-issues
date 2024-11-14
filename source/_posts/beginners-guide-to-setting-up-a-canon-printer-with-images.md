@@ -1,7 +1,7 @@
 ---
 title: Beginner's Guide to Setting up a Canon Printer (with Images)
-date: 2024-11-12T18:16:58.426Z
-updated: 2024-11-13T17:15:46.044Z
+date: 2024-11-09T19:47:39.198Z
+updated: 2024-11-13T18:14:00.032Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ Setting up your Canon printer is quite easy and takes only two steps:
 1. **[Connect your Canon printer to the computer](#step1)**
 2. **[Install the printer driver](#step2)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1 – Connect your Canon printer to the computer
 
  To set up a Canon printer, the first thing is connecting it to the computer. And there are three ways you can do that:
@@ -42,13 +49,6 @@ Setting up your Canon printer is quite easy and takes only two steps:
  Simply plug one end of the cable into the USB port on the Canon printer and the other into the USB port on your computer. Then, plug in the power cable and turn on the printer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/usb-cable-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/usb-port-2-1.jpg)
 
@@ -71,6 +71,19 @@ Setting up your Canon printer is quite easy and takes only two steps:
 **3)** Select**Wireless LAN,** and press**OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-6.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Select the**Wireless LAN settings** , and press**OK** . Then, select your network and enter the password.
 
@@ -100,16 +113,16 @@ Setting up your Canon printer is quite easy and takes only two steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/33.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After the Canon printer is connected to a wired LAN, you can continue with the next step to install the printer driver on your computer.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 2 – Install the printer driver
 
@@ -133,13 +146,6 @@ Setting up your Canon printer is quite easy and takes only two steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/2-3-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Scroll down to the**Drivers & Downloads** section. Choose your**operating system** , and click**Select** next to the driver you’d like to download.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/55-1-1200x241.jpg)
@@ -147,6 +153,13 @@ Setting up your Canon printer is quite easy and takes only two steps:
 **4)** Click**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/3-0-1-1200x162.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Open the downloaded file, and click**Yes** when you’re prompted to continue.
 
@@ -160,16 +173,16 @@ Setting up your Canon printer is quite easy and takes only two steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/2-7-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **8)** If you connect your printer via a USB cable, select the**USB connection** . If you use the Wi-Fi or Ethernet connection, select the**Network Connection** . Then, click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/2-9-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Follow the wizard to complete the entire setup procedure, and you’ll be able to make your print with the newly-installed Canon printer!
 
@@ -186,10 +199,10 @@ Setting up your Canon printer is quite easy and takes only two steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/de1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click the **Update**  button next to the flagged Canon printer driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version**).
@@ -197,13 +210,6 @@ Setting up your Canon printer is quite easy and takes only two steps:
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/de2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You could do it for free if you like, but it’s partly manual.
 
@@ -232,20 +238,18 @@ Setting up your Canon printer is quite easy and takes only two steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/tech-issue-hp-printer-driver-installation-failure-on-windows-8-10/"><u>[Tech Issue] HP Printer Driver Installation Failure on Windows 8-10</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-crafting-compelling-vo-for-visual-storytelling-success/"><u>[Updated] In 2024, Crafting Compelling VO for Visual Storytelling Success</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/banishing-the-whiteout-from-our-print-sources/"><u>Banishing the Whiteout From Our Print Sources</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/expediting-clogged-print-order/"><u>Expediting Clogged Print Order</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/explore-extravagance-best-terrafirma-mapping-for-2024/"><u>Explore Extravagance Best Terrafirma Mapping for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-all-pages-print-glitch/"><u>Fix All-Pages Print Glitch</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guide-to-setting-up-hp-laserjet-compact-connectivity/"><u>Guide to Setting Up HP LaserJet Compact Connectivity</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-y02t-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo Y02T Phones with/without a PC</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-pinnacle-playwriting-sanctuary/"><u>In 2024, Pinnacle Playwriting Sanctuary</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/is-investing-in-portable-monitors-a-smart-choice-discover-the-top-reasons-with-insights/"><u>Is Investing in Portable Monitors a Smart Choice? Discover the Top Reasons with Insights</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolve-print-hang-up-swiftly/"><u>Resolve Print Hang-Up Swiftly</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-issue-crc-data-integrity-problems-demystified/"><u>Resolved Issue: CRC Data Integrity Problems Demystified</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/set-up-your-mfc-9330cdw-brother-fan/"><u>Set Up Your MFC-9330CDW Brother Fan</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-definitive-list-youtubes-premier-making-up-masters/"><u>The Definitive List YouTube's Premier Making-Up Masters</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ssential-rotators-playbook-for-youtube-video-spinning-for-2024/"><u>The Essential Rotator's Playbook for YouTube Video Spinning for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-revealing-the-secrets-behind-lgs-high-definition-monitoring/"><u>[New] Revealing the Secrets Behind LG’s High-Definition Monitoring</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-earnings-from-a-million-youtube-globals-for-2024/"><u>[Updated] Earnings From a Million YouTube Globals for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/detroit-llc-pc-version-fixed-issues-and-optimal-performance/"><u>Detroit LLC PC Version - Fixed Issues & Optimal Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-asuss-latest-bluetooth-drivers-and-update-guide/"><u>Effortless Installation of Asus's Latest Bluetooth Drivers and Update Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhance-your-pdfs-with-6-advanced-gpt-applications/"><u>Enhance Your PDFs with 6 Advanced GPT Applications</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mastering-the-quick-fixes-how-to-successfully-boot-up-warzone-20-on-a-personal-computer-new-guide-for-23/"><u>Mastering the Quick Fixes: How to Successfully Boot Up Warzone 2.0 on a Personal Computer - New Guide for 2^3</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolve-steamvr-problems-instantly-expert-tips-inside/"><u>Resolve SteamVR Problems Instantly – Expert Tips Inside!</u></a></li>
+<li><a href="https://facebook.techidaily.com/streamlined-video-calls-tips-for-using-facebook-portal-tv/"><u>Streamlined Video Calls: Tips for Using Facebook Portal TV</u></a></li>
+<li><a href="https://facebook.techidaily.com/swimming-squads-ditch-instagram-twitter/"><u>Swimming Squads Ditch Instagram, Twitter</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ultimate-troubleshooting-techniques-for-fixing-unexpected-app-closures/"><u>Ultimate Troubleshooting Techniques for Fixing Unexpected App Closures</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-the-potential-of-virtual-reality-oculus-quest-2-elite-strap-plus-battery-bundle-assessment/"><u>Unlocking the Potential of Virtual Reality: Oculus Quest ^2 Elite Strap + Battery Bundle Assessment</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Error Elimination: Windows Printer Setback (0X00000709)"
-date: 2024-11-08T16:24:14.471Z
-updated: 2024-11-13T16:58:36.360Z
+date: 2024-11-08T12:05:54.619Z
+updated: 2024-11-13T16:56:27.272Z
 tags:
   - win11
   - win10
@@ -53,15 +53,22 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/regedit-in-start-panel.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If **User Account Control** comes up, please choose **Yes** at the prompt.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57bbbed40caf2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Follow the path   **HKEY\_CURRENT\_USER\\Software\\Microsoft\\WindowsNT\\CurrentVersion\\Windows** .
@@ -73,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/edit-sting.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click **OK** to save the change.
@@ -90,28 +97,15 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/permission-in-windows-registry.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  b) Tick the box **Allow** for **Full Control** and **Read** , then click **Apply** and click **OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/permissions-for-windows.png)
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Right-click **UserSelectDefault** and click **Rename**  to rename it as your printer name.
 
@@ -152,24 +146,22 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-mastering-video-editing-in-windows-11-your-movie-maker-primer/"><u>[New] 2024 Approved Mastering Video Editing in Windows 11 - Your Movie Maker Primer</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/udience-appreciation-assessment-self-and-seekers-vs-rival-repertoires/"><u>[New] Audience Appreciation Assessment Self and Seekers Vs. Rival Repertoires</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-secure-tiktok-follower-expansion-companies/"><u>[Updated] 2024 Approved Secure TikTok Follower Expansion Companies</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-elite-mobile-filming-tech-for-iphones/"><u>[Updated] Elite Mobile Filming Tech for iPhones</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-winter-olympics-2022-highlights/"><u>2024 Approved Winter Olympics 2022 Highlights</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/conquer-no-print-restoring-functionality-of-brother-printer-winoses/"><u>Conquer No-Print: Restoring Functionality of Brother Printer, WinOSes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enabling-access-to-remote-brother-print-device/"><u>Enabling Access to Remote Brother Print Device</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/expedite-jammed-print-queue/"><u>Expedite Jammed Print Queue</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-to-rectify-askew-gridlines-on-your-samsung-tv-display/"><u>Expert Tips to Rectify Askew Gridlines on Your Samsung TV Display</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hardware-hiccup-printer-config-issue/"><u>Hardware Hiccup: Printer Config Issue</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-does-windows-10s-system-restore-feature-work/"><u>How Does Windows 10'S System Restore Feature Work?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-m34-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy M34 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printers-colored-output-not-rendered/"><u>Printer's Colored Output Not Rendered</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resetting-scanner-activation-on-windows-10-system/"><u>Resetting Scanner Activation on Windows 10 System</u></a></li>
-<li><a href="https://games-able.techidaily.com/secure-silent-gaming-with-xbox-series-xs/"><u>Secure Silent Gaming with Xbox Series X/S</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/step-by-step-incorporating-hp-printer-in-pc-network/"><u>Step-by-Step: Incorporating HP Printer in PC Network</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-best-youtube-thumbnail-size-for-2024/"><u>The Best YouTube Thumbnail Size for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unable-to-access-domain-service-not-available/"><u>Unable To Access: Domain Service Not Available</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unexpected-print-hiccup-discovered/"><u>Unexpected Print Hiccup Discovered</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-playscreen-media-app-review/"><u>[New] 2024 Approved PlayScreen Media App Review</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-highlight-harmony-the-top-business-tactics-for-insta/"><u>[New] In 2024, Highlight Harmony The Top Business Tactics for Insta</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-the-world-of-instagram-stories-easily-for-2024/"><u>[Updated] Navigating the World of Instagram Stories Easily for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discover-10-leading-e-commerce-platforms-for-mystery-boxes/"><u>Discover 10 Leading E-Commerce Platforms for Mystery Boxes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/from-error-to-accuracy-fixing-hp-printers-blanks/"><u>From Error to Accuracy: Fixing HP Printer's Blanks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/future-proofing-your-house-with-apples-upcoming-domestic-robot-tech-insights-on-zdnet/"><u>Future-Proofing Your House with Apple's Upcoming Domestic Robot | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-reactivate-hp-printer-status/"><u>How to Reactivate HP Printer Status</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-officejet-pro-8600-driver-suite-for-windows-enhancement/"><u>HP Officejet Pro 8600 Driver Suite for Windows Enhancement</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-c210-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia C210 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-instant-collage-creation-tips-for-social-media-posts/"><u>In 2024, Instant Collage Creation Tips for Social Media Posts</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/instruction-setting-up-hp-printer-on-pc/"><u>Instruction: Setting Up HP Printer on PC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/optimize-performance-with-new-hp-officejet-driver/"><u>Optimize Performance with New HP Officejet Driver</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revolutionize-your-workspace-linking-laptop-plus-hp-printer/"><u>Revolutionize Your Workspace: Linking Laptop + HP Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solve-print-queue-problems-on-windows-11/"><u>Solve Print Queue Problems on Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/technical-snafu-printer-configuration-gone-awry/"><u>Technical Snafu: Printer Configuration Gone Awry</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-next-level-sound-for-gamers-snag-60-off-premium-speaker-system-now-at-amazon-insiders-guide-from-zdnet/"><u>Unleash Next-Level Sound for Gamers: Snag 60% Off Premium Speaker System Now at Amazon | Insider's Guide From ZDNET</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unleashing-professionalism-in-audio-communication/"><u>Unleashing Professionalism in Audio Communication</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Reactivate Idle Printing Queue Task
-date: 2024-11-12T17:45:21.625Z
-updated: 2024-11-13T16:08:18.631Z
+date: 2024-11-11T03:39:29.655Z
+updated: 2024-11-13T20:35:02.663Z
 tags:
   - win11
   - win10
@@ -39,35 +39,22 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/services-run-box.jpg)
 3. Scroll down to**Print Spooler** .
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Right-click**Print Spooler** and select**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/stop-the-service.jpg)
 5. Navigate to**C:\\Windows\\System32\\spool\\PRINTERS** and delete all files in the folder. (Do NOT delete the folder itself.)  
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/delete.jpg)
 6. In the Services window, right-click**Print Spooler** and select**Start** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/start-service.jpg)
 7. Go back to the**Print Job** queue. All print jobs should have been removed now and you can start printing again normally.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Have trouble deleting the files?**
   
@@ -82,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 1. Type**cmd** in the search box and Run it as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/command-prompt-admin.jpg)
 2. In the Command Prompt window, enter the following commands separately:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 net stop spooler
 
@@ -111,10 +105,10 @@ This will clear all of your print jobs stuck in a queue.
 4. Double-click the batch file to clear the print queue anytime you want.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Reinstall the printer driver
@@ -135,6 +129,13 @@ This will clear all of your print jobs stuck in a queue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/kisspng-pixel-illustration-printer-5a983b8a6f6aa4.5830009615199261544564.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Option 2: Automatic printer driver update (Recommended)
 
  If you don’t have the time, patience, or computer skills to update your audio driver manually, you can**do it automatically** with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct driver for your device.
@@ -151,13 +152,6 @@ This will clear all of your print jobs stuck in a queue.
 **OR** click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-1.jpg)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Try printing again. Your printer should be working properly now.
 
@@ -186,20 +180,16 @@ Feel free to drop us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/hat-lies-beneath-the-core-of-asmr-videos/"><u>[New] What Lies Beneath The Core of ASMR Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-enhance-visibility-top-methods-for-instagram-hits/"><u>[Updated] In 2024, Enhance Visibility Top Methods for Instagram Hits</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-free-recording-exploring-apowersofts-screen-capture/"><u>[Updated] In 2024, Free Recording Exploring Apowersoft's Screen Capture</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/clearing-out-hp-printers-error-code-oxc4eb827f/"><u>Clearing Out HP Printer's Error Code OXC4EB827F</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fast-and-simple-printer-back-online-now/"><u>Fast & Simple: Printer Back Online Now</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-reactivate-an-idle-brothers-printer-networkly/"><u>How to Reactivate an Idle Brothers Printer Networkly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/immediate-help-for-windows-11-printer-problems/"><u>Immediate Help for Windows 11 Printer Problems</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Xiaomi Redmi K70? | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-pioneer-productions-leading-free-editors-on-android/"><u>In 2024, Pioneer Productions Leading Free Editors on Android</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-unlocking-real-time-sharing-streaming-old-video-to-facebook-audiences/"><u>In 2024, Unlocking Real-Time Sharing Streaming Old Video to Facebook Audiences</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-updated-insights-sonys-s3700-blu-ray-box-player/"><u>In 2024, Updated Insights Sony's S3700 Blu-Ray Box Player</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-samsung-galaxy-a14-4g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Samsung Galaxy A14 4G Phones</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-1011-app-resetting-guide/"><u>Mastering Windows 10/11: App Resetting Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mending-printer-malfunction-code-0x97/"><u>Mending Printer Malfunction: Code 0X97</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-hp-printers-oxc4eb827f-error/"><u>Resolving HP Printer's OXC4EB827F Error</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/error-local-printer-service-unavailable-on-pc/"><u>[ERROR] Local Printer Service Unavailable on PC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-sleephibernate-glitch-with-usb-printers-w7/"><u>[Resolved] Sleep/Hibernate Glitch with USB Printers, W7</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-zero-cost-web-design-apps-on-windows-top-8/"><u>Best Zero-Cost Web Design Apps on Windows (Top 8)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clear-views-on-zoom-how-to-mend-your-camera/"><u>Clear Views on Zoom - How to Mend Your Camera</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/compact-5-listing-visuals-with-accompaniment-recorders/"><u>Compact 5 Listing Visuals with Accompaniment Recorders</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-smart-tech-unveiled-moto-z2-deep-dive/"><u>In 2024, Smart Tech Unveiled Moto Z2 Deep Dive</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-brother-printers-offline-hurdle/"><u>Overcoming Brother Printer's Offline Hurdle</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printing-all-documents-no-gaps-updates/"><u>Printing All Documents, No Gaps Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-absent-battery-icon-issue-on-your-windows-11-pc-a-step-by-step-guide/"><u>Resolving the Absent Battery Icon Issue on Your Windows 11 PC – A Step-by-Step Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-brightness-to-lenovos-invisible-display/"><u>Restoring Brightness to Lenovo’s Invisible Display</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solve-canon-print-failure-on-windows-10-effectively/"><u>Solve Canon Print Failure on Windows 10 Effectively</u></a></li>
 </ul></div>
 

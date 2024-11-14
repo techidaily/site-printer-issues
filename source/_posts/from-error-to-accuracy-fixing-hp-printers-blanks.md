@@ -1,7 +1,7 @@
 ---
 title: "From Error to Accuracy: Fixing HP Printer's Blanks"
-date: 2024-11-11T16:48:02.049Z
-updated: 2024-11-13T18:44:40.035Z
+date: 2024-11-12T22:36:18.112Z
+updated: 2024-11-14T11:01:19.941Z
 tags:
   - win11
   - win10
@@ -51,15 +51,15 @@ thumbnail: https://thmb.techidaily.com/900669a0826258b005cbb54f95db85d32c0fe9527
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/image-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Check your ink cartridges
 
@@ -72,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/900669a0826258b005cbb54f95db85d32c0fe9527
  Your printer won’t function properly when the ink cartridges are blocked or clogged. If that’s the core issue, try cleaning your ink cartridges from the printer control panel or clean it manually.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/toner-581905_640.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Check the ink levels on your printer
 
@@ -123,6 +116,13 @@ thumbnail: https://thmb.techidaily.com/900669a0826258b005cbb54f95db85d32c0fe9527
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-841.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the printer driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -137,6 +137,13 @@ thumbnail: https://thmb.techidaily.com/900669a0826258b005cbb54f95db85d32c0fe9527
 **4)** Check to see if your printer works now.
 
 If your issue persists, then move on and try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run the Windows troubleshooter
 
@@ -153,16 +160,16 @@ If your issue persists, then move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-842.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Select**Troubleshooting** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-843.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Click**Use a printer** .
 
@@ -173,10 +180,10 @@ If your issue persists, then move on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-845.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** When the troubleshooting is complete, try printing a page to see if your printer works correctly.
@@ -201,13 +208,6 @@ If your issue persists, then move on and try the fix below.
 
 If this didn’t work for you, read on and check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Download and run HP Print and Scan Doctor
 
 **HP Print and Scan Doctor** is a free tool that you can use to find the root cause of your printer problem. You can use the tool to troubleshoot your misbehaving HP printer. Follow the instructions below:
@@ -223,6 +223,13 @@ If this didn’t work for you, read on and check the fix below.
 **4 )** Click**Start** and follow the on-screen instructions to resolve your printer problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-851.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If your problem persists, don’t worry. There is 1 more fix to try.
 
@@ -240,31 +247,31 @@ If your problem persists, don’t worry. There is 1 more fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-856.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Double-click**Printer Spooler.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-857.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click**Stop** , and then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-858.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Open Windows File Explorer (on your keyboard, press the**Windows logo** key and**E** at the same time).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-859.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Go to**C:\\Windows\\System32\\spool\\PRINTERS:**
 
@@ -283,13 +290,6 @@ If your problem persists, don’t worry. There is 1 more fix to try.
 **9)** Select**Services** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/service.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **10)** Double-click**Printer Spooler**
 
@@ -326,24 +326,24 @@ If your problem persists, don’t worry. There is 1 more fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/asterful-video-marketing-techniques-youtube-editions-top-5-list/"><u>[New] Masterful Video Marketing Techniques - YouTube Edition's #Top 5 List</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/tudy-smart-the-top-10-channel-selection-for-history-buffs/"><u>[New] Study Smart The Top 10 Channel Selection for History Buffs</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-laptop-techniques-for-instantaneous-video-communication-through-whatsapp-web/"><u>[Updated] 2024 Approved Laptop Techniques for Instantaneous Video Communication Through WhatsApp Web</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-pathway-to-facebook-success-livestreaming-recorded-visual-narratives/"><u>[Updated] 2024 Approved Pathway to Facebook Success Livestreaming Recorded Visual Narratives</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-free-movie-talent-release-declaration/"><u>2024 Approved Free Movie Talent Release Declaration</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/alleviated-printer-network-disconnect/"><u>Alleviated Printer Network Disconnect</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/apple-music-and-video-harmony-explained-for-2024/"><u>Apple Music and Video Harmony Explained for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/eradicating-printer-latency-issues/"><u>Eradicating Printer Latency Issues</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-nvidia-windows-drivers-compatible-with-11-7-and-8-systems/"><u>Get the Latest NVIDIA Windows Drivers: Compatible with 11, 7 and 8 Systems!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-stop-and-repair-spooler-on-windows-versions-7-11/"><u>How to Stop and Repair Spooler on Windows Versions 7-11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y78-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y78 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/immediate-fixes-for-non-responsive-printer-service-windows/"><u>Immediate Fixes for Non-Responsive Printer Service (Windows)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instantly-rejoined-print-device/"><u>Instantly Rejoined Print Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-accessing-and-leaving-focus-in-windows-terminal/"><u>Quick Guide to Accessing & Leaving Focus in Windows Terminal</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/smooth-printing-after-update-woes-ended/"><u>Smooth Printing After Update Woes Ended</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-dilemma-effective-remedies-for-error-0x800f081f-during-net-framework-35-setup/"><u>Solving the Dilemma: Effective Remedies for Error 0X800F081F During .NET Framework 3.5 Setup</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/stop-blank-pages-fixing-brother-printer-not-printing-in-win/"><u>Stop Blank Pages: Fixing Brother Printer Not Printing in Win</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unified-printer-software-solution-officejet-pro-8600-for-windows-pcs/"><u>Unified Printer Software Solution: Officejet Pro 8600 for Windows PCs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/updating-mf4770n-drivers-in-win11win8win7/"><u>Updating MF4770n Drivers in Win11/Win8/Win7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/diagnostic-unable-to-start-local-spooler-service/"><u>[DIAGNOSTIC] Unable to Start Local Spooler Service</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/issue-cant-print-spooler-disabled/"><u>[ISSUE] Can't Print - Spooler Disabled</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-snap-edit-and-share-with-ease-your-4-step-blueprint-for-instagram-gifs/"><u>[New] 2024 Approved Snap, Edit, and Share with Ease Your 4-Step Blueprint for Instagram GIFs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-connectivity-restored/"><u>[PRINT] Connectivity Restored</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-insider-guide-elevating-your-instagram-imagery/"><u>[Updated] 2024 Approved The Insider Guide Elevating Your Instagram Imagery</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unraveling-the-packaging-a-marketing-approach/"><u>[Updated] Unraveling the Packaging A Marketing Approach</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-the-secret-sauce-of-compelling-tiktok-footage-on-mac/"><u>2024 Approved The Secret Sauce of Compelling TikTok Footage on Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creating-your-own-poetic-masterpiece-using-chatgpts-innovative-tools/"><u>Creating Your Own Poetic Masterpiece Using ChatGPT's Innovative Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/division-2-stuck-on-loading-expert-advice-to-solve-launch-problems-2024-edition/"><u>Division 2 Stuck on Loading? Expert Advice to Solve Launch Problems - 2024 Edition</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guiding-through-printer-malfunction-fixes/"><u>Guiding Through Printer Malfunction Fixes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leading-20-creative-anime-music-starts/"><u>In 2024, Leading 20 Creative Anime Music Starts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-tecno-spark-go-2023-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Tecno Spark Go (2023) Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/master-your-media-digiartys-expert-video-to-dvd-conversion-solutions/"><u>Master Your Media: Digiarty's Expert Video-to-DVD Conversion Solutions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-more-lost-pages-thanks-to-new-fixes/"><u>No More Lost Pages, Thanks to New Fixes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overhauling-epsons-error-0x97/"><u>Overhauling Epson's Error 0X97</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/precision-tactics-to-overcome-non-printing-brother-printer-in-oses/"><u>Precision Tactics to Overcome Non-Printing Brother Printer in OSes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-error-driver-not-located-by-win/"><u>Printer Error: Driver Not Located by Win</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/secrets-to-sustaining-high-view-count-in-youtube-videos/"><u>Secrets to Sustaining High View Count in YouTube Videos</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unblock-print-queue-on-windows-10/"><u>Unblock Print Queue on Windows 10</u></a></li>
 </ul></div>
 

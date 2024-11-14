@@ -1,7 +1,7 @@
 ---
 title: HP All-in-One Printer's Connectivity Armored Up
-date: 2024-11-06T16:28:55.431Z
-updated: 2024-11-13T18:37:46.026Z
+date: 2024-11-09T08:25:20.796Z
+updated: 2024-11-13T17:52:42.538Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
 
  You can also try restarting your HP printer.**Turn** it**off** completely and**unplug the power cord** , leave it for a couple of minutes, and then**plug** the cord**back** and**power on** the printer. See if your printer can print as normally as before.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Update or reinstall the printer driver
 
  In many cases, the printer won’t print issue comes from faulty drivers. You may need to update or reinstall the printer driver to fix your HP printer, not the printing issue.
@@ -59,20 +52,13 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
 ![](https://www.drivereasy.com/wp-content/uploads/2021/10/de-update-all-hp-printer.jpg)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Set your printer as default
@@ -86,17 +72,37 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
 2. In Control Panel select**Devices and Printers** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 3. In the**Printers** section, right-click on your HP printer and then select**Set as default printer** . Click on**Yes** if prompted.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5476a01d.png)
 4. There is now a tick below the icon of your HP printer. That means it is now set as the default printer.  
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5fe2a9b6.png)
 
@@ -108,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 2. Right-click on your HP printer in the**Printers** section and select**See what’s printing** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e955d3a5d.png)
 3. Open the**Printer** menu and then select**Open As Administrator** .  
 
@@ -124,21 +123,28 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea70940b1.png)
 5. **Confirm** your action.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987eaa0030f9.png)
 6. You have canceled all print jobs of your printer. Now check and see if it can run normally.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Check printer status
 
  If you have tried the methods above and your HP printer still cannot print, you may need to check if there are hardware issues on your printer.
 
  You need to ensure your HP printer has**enough** **paper, ink, or toner** , and it is**not stuck in a paper jam** . Also, check the status of your printer cartridge and try replacing it with a new one if it is not good enough. In some cases, your HP printer stops printing after you replace its parts. If this happens you should**install the original ones back** and see if the problem is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Repair system files
 
@@ -175,16 +181,16 @@ Check your computer to see if your printer works properly.
 ![how to open Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 2. Click**Yes** when prompted to confirm.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/sfc-scannow.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the printer works properly.
@@ -206,18 +212,20 @@ Check your computer to see if your printer works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-25-essential-no-cost-photography-tools-for-creatives-for-2024/"><u>[Updated] 25 Essential No-Cost Photography Tools for Creatives for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-turn-your-watched-fb-video-into-an-mp3-file/"><u>2024 Approved Turn Your Watched FB Video Into an MP3 File</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-apple-iphone-xs-max-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your Apple iPhone XS Max for Free</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-poco-x6-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-tecno-pop-8-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Tecno Pop 8 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-huawei-nova-y91-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Huawei Nova Y91 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/laptop-meets-printing-unlocking-potential-with-3-fixes-for-hp/"><u>Laptop Meets Printing: Unlocking Potential with 3 Fixes for HP</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/no-access-to-domain-services-printer-not-responding/"><u>No Access To Domain Services, Printer Not Responding</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reactivating-online-status-of-windowshp-multi-function/"><u>Reactivating Online Status of Windows/HP Multi-Function</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revolutionizing-workspace-setup-with-easy-fixes-for-print-laptop-linkage/"><u>Revolutionizing Workspace Setup with Easy Fixes for Print-Laptop Linkage</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/ultimate-gear-for-youtube-content-makers-for-2024/"><u>Ultimate Gear for YouTube Content Makers for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/op-10-hashtags-to-boost-your-youtube-views-beyond-six-figures/"><u>[New] Top 10 Hashtags to Boost Your Youtube Views Beyond Six Figures</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-ig-reel-secrets-pausing-time-for-creative-impact/"><u>2024 Approved IG Reel Secrets Pausing Time for Creative Impact</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-stepping-into-silence-fading-out-audio-in-adobe-premiere-pro/"><u>2024 Approved Stepping Into Silence Fading Out Audio in Adobe Premiere Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/amazons-new-feature-tracks-product-recalls-learn-about-safety-alerts-in-your-past-orders-zdnet/"><u>Amazon's New Feature Tracks Product Recalls - Learn About Safety Alerts In Your Past Orders | ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/confused-settings-your-printer-misconfigured/"><u>Confused Settings: Your Printer Misconfigured</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-xerox-halt-error-codes/"><u>Fix: Xerox Halt - Error Codes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-pcs-error-b200/"><u>Fixed PC's Error B200</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-next-step-in-virtual-reality-jaunt-vr-review/"><u>In 2024, The Next Step in Virtual Reality Jaunt VR Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-supercharging-srt-with-macwindows/"><u>In 2024, The Ultimate Guide to Supercharging SRT with Mac/Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/preventing-constant-interruptions-from-spooler-service-in-win107/"><u>Preventing Constant Interruptions From Spooler Service in Win10/7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/upgrade-to-top-tier-mf4770n-drivers-for-windows-11w8w7/"><u>Upgrade to Top-Tier MF4770n Drivers for Windows 11/W8/W7</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/l-anonymity-in-sharing-blurring-methods-explained/"><u>Visual Anonymity in Sharing Blurring Methods Explained</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-quick-fix-for-scanner-errors/"><u>Windows 11: Quick Fix for Scanner Errors</u></a></li>
 </ul></div>
 

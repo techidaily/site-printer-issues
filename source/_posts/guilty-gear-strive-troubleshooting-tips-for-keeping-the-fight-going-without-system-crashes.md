@@ -1,7 +1,7 @@
 ---
 title: "Guilty Gear Strive Troubleshooting: Tips for Keeping the Fight Going Without System Crashes"
-date: 2024-11-11T18:14:23.985Z
-updated: 2024-11-13T16:57:35.803Z
+date: 2024-11-09T08:16:09.347Z
+updated: 2024-11-13T18:05:43.711Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -50,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 * If you have low-speed Internet, it could lead to an unstable Internet connection. You can google “Internet speed test” and pick a tool to**test your Internet speed** . However, when your Internet connection is unreasonably slow, consider contacting your Internet provider for help.
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Install all the game updates
 
@@ -78,35 +64,42 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 3. Right-click**the network you’re using** , then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
@@ -124,18 +117,18 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
 
@@ -149,6 +142,13 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -173,20 +173,21 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-mastering-voice-changes-in-psgames/"><u>[New] 2024 Approved Mastering Voice Changes in PSGames</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unleashing-the-power-of-playback-turning-youtube-content-into-engaging-gifs-pcmobile/"><u>[New] Unleashing the Power of Playback Turning YouTube Content Into Engaging GIFs (PC/Mobile)</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-a-step-by-step-approach-to-masterful-screen-recordings-on-hp-systems-for-2024/"><u>[Updated] A Step-by-Step Approach to Masterful Screen Recordings on HP Systems for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/akko-mod007b-for-gamers-hall-effect-keyboard-discovered/"><u>Akko MOD007B for Gamers: Hall Effect Keyboard Discovered</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-dell-inkjet-errors-immediately/"><u>Fixing Dell Inkjet Errors Immediately</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-samsung-galaxy-a05s-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Samsung Galaxy A05s Devices | Dr.fone</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/navigating-apowersoft-pdf-shrinker-tutorial-a-comprehensive-guide-for-efficient-file-management/"><u>Navigating Apowersoft PDF Shrinker Tutorial: A Comprehensive Guide for Efficient File Management</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/network-printer-error-what-windows-users-can-do/"><u>Network Printer Error: What Windows Users Can Do</u></a></li>
-<li><a href="https://win-docs.techidaily.com/nuovi-trucchi-e-risoluzioni-per-superare-il-blocco-del-trasferimento-sul-tuo-nuovo-ipad/"><u>Nuovi Trucchi E Risoluzioni per Superare Il Blocco Del Trasferimento Sul Tuo Nuovo iPad</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/pixma-mp620-searching-for-driver-on-win11-repository/"><u>Pixma MP620: Searching for Driver on Win11 Repository</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resetting-network-settings-on-printers/"><u>Resetting Network Settings on Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restored-print-functionality-after-win-11-update/"><u>Restored Print Functionality After Win 11 Update</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/seamless-data-transfer-upgrading-from-an-older-iphone-to-a-new-model/"><u>Seamless Data Transfer: Upgrading From an Older iPhone to a New Model</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/seamless-operation-revamping-mf4770n-on-w11-w8-w7-platforms/"><u>Seamless Operation: Revamping MF4770n on W11, W8, W7 Platforms</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamline-device-functions-with-mf4770n-on-w11win8w7/"><u>Streamline Device Functions with MF4770n on W11/Win8/W7</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-backtrack-with-flair-ingenious-ways-to-watch-youtube-reverse-for-2024/"><u>[New] Backtrack with Flair Ingenious Ways to Watch Youtube Reverse for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-iphones-best-5-podcasting-apps/"><u>[New] The Ultimate Guide to iPhone's Best 5 Podcasting Apps</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-missing-hp-support-in-windows-1110/"><u>[Print] Missing HP Support in Windows 11/10</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-chart-your-course-to-partner-status-via-a-rapid-10000-views-journey-for-2024/"><u>[Updated] Chart Your Course to Partner Status via a Rapid 10,000 Views Journey for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-transform-your-imagery-with-ar-and-accessible-luts/"><u>2024 Approved Transform Your Imagery with AR & Accessible LUTs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-printer-malfunctions-post-win11-rollout/"><u>Fixed: Printer Malfunctions Post Win11 Rollout</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-printer-back-to-normal-goodbye-ghost-bars/"><u>HP Printer Back to Normal: Goodbye, Ghost Bars</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-ultimate-handbook-for-youtube-video-creation/"><u>In 2024, The Ultimate Handbook for YouTube Video Creation</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mf4770n-software-revamp-for-windows-108-upgrades/"><u>MF4770n Software Revamp for WIndows 10/8 Upgrades</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solve-w11-color-calibration-problems/"><u>Solve W11 Color Calibration Problems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-inkjet-hp-not-printing-error/"><u>Solved: Inkjet HP Not Printing Error</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-into-the-world-of-text-animation-14-must-see-examples/"><u>Step Into the World of Text Animation 14 Must-See Examples</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/swift-strategies-correcting-pcl-xl-faults/"><u>Swift Strategies: Correcting PCL XL Faults</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-8-plus-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 8 Plus Without Passcode Easily</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-lava-storm-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Lava Storm 5G? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

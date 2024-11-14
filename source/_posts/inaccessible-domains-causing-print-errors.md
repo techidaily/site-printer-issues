@@ -1,7 +1,7 @@
 ---
 title: Inaccessible Domains Causing Print Errors
-date: 2024-11-11T18:10:50.551Z
-updated: 2024-11-13T18:45:29.162Z
+date: 2024-11-11T18:20:38.245Z
+updated: 2024-11-13T20:08:54.270Z
 tags:
   - win11
   - win10
@@ -43,16 +43,23 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
   
  5) Close the Services window and check if you could print files successfully.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Using Registry Editor
 
 1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png) and **R**  at the same time to invoke the Run box.
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Type **regedit**  and press **Enter** to open Registry Editor.  
@@ -60,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 **![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-23.jpg)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click **Yes** when prompted by User Account Control,.
@@ -71,30 +78,23 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Right-click on **Devices**  under **CurrentVersion**  dialog.  
  Then click **Permissions** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-14.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click your account and tick on**Allow** of **Full Control** . Then click **Apply**  \> **OK** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-13.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Do the same settings to give your account full control of **PrinterPorts**  and **Windows** .  
   
@@ -120,20 +120,15 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/fix-inactive-print-spooler-in-windows-os/"><u>[FIX] Inactive Print Spooler in Windows OS</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-create-a-sports-highlight-video/"><u>[Updated] How to Create a Sports Highlight Video</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-the-path-to-flawless-film-recording-device-agnostic-guide/"><u>[Updated] The Path to Flawless Film Recording Device Agnostic Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-flawless-visual-cuts-mastering-in-and-out-techniques/"><u>2024 Approved Flawless Visual Cuts Mastering 'In and Out' Techniques</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/boost-printer-speed-with-simple-fixes/"><u>Boost Printer Speed with Simple Fixes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Fake the Location to Get Around the MLB Blackouts on Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/guia-completa-de-esquema-de-respaldo-y-recuperacion-con-aomei-backupper/"><u>Guía Completa De Esquema De Respaldo Y Recuperación Con AOMEI Backupper</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Poco X5? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/incremental-introduction-for-2024/"><u>Incremental Introduction for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/network-printer-vanishes-whats-the-remedy/"><u>Network Printer Vanishes, What's the Remedy?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-solutions-for-windows-missing-lsass-components/"><u>Quick Solutions for Windows' Missing Lsass Components</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/setup-snag-your-printer-is-confused/"><u>Setup Snag: Your Printer Is Confused</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95842751-9781881098447-the-witches-almanac-issue-37-spring-2018-to-2019/"><u>The Witches' Almanac: Issue 37, Spring 2018 to 2019 | Free Book</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unraveling-the-mystery-printer-works-after-win-10-patch/"><u>Unraveling the Mystery: Printer Works After Win 10 Patch</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win-system-cannot-retrieve-printer-drivers/"><u>Win System: Cannot Retrieve Printer Drivers</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/completez-vos-besoins-de-stockage-avec-la-clonage-dun-disque-dur-vers-un-plus-grand-une-methode-facile-a-suivre-pour-les-utilisateurs-de-windows/"><u>Complétez Vos Besoins De Stockage Avec La Clonage D'un Disque Dur Vers Un Plus Grand: Une Méthode Facile À Suivre Pour Les Utilisateurs De Windows</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/descubre-los-metodos-mas-eficaces-para-convertir-dvd-usando-la-herramienta-de-software-y-digitales/"><u>Descubre Los Métodos Más Eficaces Para Convertir DVD Usando La Herramienta De Software Y Digitales</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-fidelity-performance-desktops-for-2024/"><u>High Fidelity Performance Desktops for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mf4770n-software-revamp-for-windows-108-upgrades/"><u>MF4770n Software Revamp for WIndows 10/8 Upgrades</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-puzzle-solved-error-avoided/"><u>Printer Puzzle Solved: Error Avoided</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/scouring-youtubes-discussions-for-2024/"><u>Scouring YouTubes' Discussions for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solve-w11-color-calibration-problems/"><u>Solve W11 Color Calibration Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-full-page-capture-issues-in-safari-effective-solutions/"><u>Troubleshooting Full Page Capture Issues in Safari: Effective Solutions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-acer-display-settings-on-pc/"><u>Upgrade Acer Display Settings on PC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-printer-woes-time-to-act/"><u>Windows 11 Printer Woes? Time to Act</u></a></li>
 </ul></div>
 

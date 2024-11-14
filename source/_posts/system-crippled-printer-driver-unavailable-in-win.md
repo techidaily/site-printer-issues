@@ -1,7 +1,7 @@
 ---
 title: "[SYSTEM CRIPPLED] Printer Driver Unavailable in Win"
-date: 2024-11-06T18:33:05.448Z
-updated: 2024-11-13T18:23:50.947Z
+date: 2024-11-10T01:57:20.685Z
+updated: 2024-11-14T01:10:22.839Z
 tags:
   - win11
   - win10
@@ -28,16 +28,16 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 2. **[Install all available Windows updates](#method2)**
 
 <!-- affiliate ads begin -->
-<span id="1982461">
+<span id="1983551">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your printer driver (RECOMMENDED)
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a16664c47596.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click **Uninstall**  if you’re prompted to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a166d61b6e23.png)
@@ -65,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1672bcbc0a7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this. Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it, you can get a full refund, no questions asked. (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to your printer in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
@@ -76,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a166e3214a67.jpg)
 
  8) Restart your computer and try to print a file to see if your printer works. If it does, congratulations, you’ve resolved your problem! If it doesn’t, move on to Fix 2 below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Install all available Windows updates
 
@@ -97,15 +97,15 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 1. On your keyboard, press the **Windows Logo key** ![](https://images.drivereasy.com/wp-content/uploads/2023/10/windows-logo.png) and the**I** key (**Win+I**) to open the Windows Settings app.
 2. Click**Windows Update** on the right.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![win 11 update windows 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-update-windows-1.jpg)
 3. Then click**Check for updates** . Windows will then check if there are any newly released updates. If so, it will automatically download and install the updates for you. It might take some time.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-update-windows-2.jpg)
 4. You may repeat these steps until it prompts**You’re up to date** when you click**Check for updates** to make sure you have all the updates installed. Restart your computer when it’s done.
@@ -118,13 +118,6 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a167ac767596.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a167b717a88d.jpg)
@@ -132,6 +125,13 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
  3) Click **Install updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a167d918e4c5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) After Windows has installed all the updates, restart your computer and try to print a file to see if your printer works.
 
@@ -156,16 +156,18 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/compatibility-issue-canon-pixma-mp620-and-win10-not-linked/"><u>[Compatibility Issue] Canon Pixma MP620 & WIN10 Not Linked</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-optimal-camera-gimbals-summary-1-10-iphoneandroiddslr-compared/"><u>[Updated] Optimal Camera Gimbals Summary #1-#10 iPhone/Android/DSLR Compared</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/a-fresh-perspective-on-grand-escapades-in-yokus-island-express-review/"><u>A Fresh Perspective on Grand Escapades in Yoku's Island Express Review</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/accelerated-release-of-print-queued-tasks/"><u>Accelerated Release of Print Queued Tasks</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-print-troubleshoot-0x97/"><u>Epson Print Troubleshoot: 0X97</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mastering-the-art-of-fixing-printer-problems-after-win-10/"><u>Mastering the Art of Fixing Printer Problems After Win 10</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-make-movies-without-breaking-the-bank-10-essential-low-budget-tools/"><u>New 2024 Approved Make Movies Without Breaking the Bank 10 Essential Low-Budget Tools</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-3-ways-to-add-transitions-in-final-cut-pro/"><u>Updated In 2024, 3 Ways To Add Transitions In Final Cut Pro</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/watch-out-these-are-the-8-most-popular-facebook-videos-right-now/"><u>Watch Out! These Are the 8 Most Popular Facebook Videos Right Now</u></a></li>
-<li><a href="https://driver-error.techidaily.com/winning-against-windows-7s-bsod-how-to-deal-with-error-code-0x0000007e-successfully/"><u>Winning Against Windows 7'S BSOD: How to Deal with Error Code 0X0000007E Successfully</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-bringing-out-the-best-advanced-color-correction-in-gopro/"><u>[Updated] 2024 Approved Bringing Out the Best Advanced Color Correction in GoPro</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-master-your-clips-with-these-premium-free-audiosite-lists-for-2024/"><u>[Updated] Master Your Clips with These Premium, Free Audiosite Lists for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-optimize-your-talk-on-chrome-best-web-based-speech-conversion-services/"><u>2024 Approved Optimize Your Talk on Chrome Best Web-Based Speech Conversion Services</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-screen-scenarios-simplified-a-novices-guide-to-pixels/"><u>2024 Approved Screen Scenarios Simplified A Novice's Guide to Pixels</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-address-and-resolve-crashing-problems-in-the-persona-4-golden-game/"><u>How to Address & Resolve Crashing Problems in the Persona 4 Golden Game</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-nokia-g310-by-drfone-android/"><u>How to Bypass FRP on Nokia G310?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-vivo-y100i-power-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/network-printer-vanishes-whats-the-remedy/"><u>Network Printer Vanishes, What's the Remedy?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/preventing-constant-spooler-crashes-a-guide-for-windows-users/"><u>Preventing Constant Spooler Crashes: A Guide for Windows Users</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reactivating-scanner-link-to-computer-post-update/"><u>Reactivating Scanner Link to Computer Post-Update</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/setup-snag-your-printer-is-confused/"><u>Setup Snag: Your Printer Is Confused</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win-system-cannot-retrieve-printer-drivers/"><u>Win System: Cannot Retrieve Printer Drivers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-update-the-silent-printer/"><u>Windows Update: The Silent Printer</u></a></li>
 </ul></div>
 

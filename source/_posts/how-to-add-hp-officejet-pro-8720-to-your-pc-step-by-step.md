@@ -1,7 +1,7 @@
 ---
 title: How to Add HP OfficeJet Pro 8720 to Your PC [Step by Step]
-date: 2024-11-06T19:01:00.825Z
-updated: 2024-11-13T16:33:53.384Z
+date: 2024-11-13T11:03:13.339Z
+updated: 2024-11-14T12:00:39.456Z
 tags:
   - win11
   - win10
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap95-1-150x150.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Turn on your computer and your printer.
@@ -76,10 +76,10 @@ If your printer is **wireless-capable**  , you can connect your printer to your 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap88.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Install the printer driver for your printer
@@ -95,29 +95,9 @@ If your printer is **wireless-capable**  , you can connect your printer to your 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap90.png)
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Step 3: Add the printer to your PC**
 
@@ -127,23 +107,23 @@ If your printer is **wireless-capable**  , you can connect your printer to your 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap78.png)
 2. Click**View devices and printers** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap79.png)
 3. See if your printer appears in the **Printers** section.  
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **If the printer doesn’t appear** in the**Printers** section, you need to add it to your PC. Here is how to do it:
@@ -152,15 +132,15 @@ If your printer is **wireless-capable**  , you can connect your printer to your 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap81.png)
 2. Click **Advanced printers setup** (in Win 7, it would be**Add a printer**).  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap82.png)
 3. Select your Printer and click**Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap83.png)
 4. Windows will start to install your printer to your PC. This may take several minutes.  
@@ -174,10 +154,10 @@ If your printer is **wireless-capable**  , you can connect your printer to your 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap86.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 4: Print test paper
@@ -194,7 +174,21 @@ If your printer is **wireless-capable**  , you can connect your printer to your 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap93.png)
 4. In the pop-up window, click**Printer Test Page**  .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap94.png)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If a test paper is printed, congratulations! You’ve set up your printer.
 
@@ -217,22 +211,22 @@ If your printer is **wireless-capable**  , you can connect your printer to your 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-the-ultimate-guide-to-refining-your-youtube-videos-after-publishing/"><u>[New] 2024 Approved The Ultimate Guide to Refining Your YouTube Videos After Publishing</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-deep-dive-into-youtubes-latest-monetization-policy-for-2024/"><u>[New] A Deep Dive Into YouTube's Latest Monetization Policy for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-tips-for-clearer-audio-in-home-based-podcasts-for-2024/"><u>[New] Tips for Clearer Audio in Home-Based Podcasts for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-periscope-savvy-the-ultimate-operational-manual/"><u>[Updated] Periscope Savvy The Ultimate Operational Manual</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/10-video-card-selections-for-peak-streaming-performance-for-2024/"><u>Best 10 Video Card Selections for Peak Streaming Performance for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-printer-issue-mp620-not-detected-by-win11/"><u>Canon Printer Issue: MP620 Not Detected by Win11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/driver-search-failed-for-windows-print-system/"><u>Driver Search Failed for Windows Print System</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/eliminating-xerox-paper-jam-issues/"><u>Eliminating Xerox Paper Jam Issues</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/getting-started-cdw-duo-driver-installation/"><u>Getting Started: CDW Duo Driver Installation</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-xiaomi-redmi-note-13-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Xiaomi Redmi Note 13 5G Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-setup-error-driver-not-detected-by-os/"><u>HP Printer Setup Error: Driver Not Detected by OS</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-avoid-infringement-checking-your-tiktok-content-for-rights/"><u>In 2024, Avoid Infringement Checking Your TikTok Content for Rights</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-one-click-coordination-sync-your-zoom-calls-across-devices/"><u>In 2024, One-Click Coordination Sync Your Zoom Calls Across Devices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/integrate-hp-printer-seamlessly-in-windows-environment/"><u>Integrate HP Printer Seamlessly in Windows Environment</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/new-releases-dell-v305-driver-and-utility-supports-win7/"><u>New Releases: Dell V305 Driver & Utility Supports Win7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/regain-access-sister-brother-printer-offline-fix-guide/"><u>Regain Access: Sister-Brother Printer Offline Fix Guide</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-ultimate-guide-to-producing-polished-professional-looking-videos/"><u>Updated In 2024, The Ultimate Guide to Producing Polished, Professional-Looking Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-all-encompassing-examination-of-theta-s-camera/"><u>[New] 2024 Approved The All-Encompassing Examination of Theta S Camera</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-from-idea-to-action-creating-engaging-gifs/"><u>[New] From Idea to Action Creating Engaging GIFs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-combining-images-seamlessly-pc-edition/"><u>2024 Approved Combining Images Seamlessly PC Edition</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/bringing-your-disconnected-hp-printer-online-in-w8/"><u>Bringing Your Disconnected HP Printer Online in W8</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/capturing-motion-setting-up-a-timelapse-on-an-ipad/"><u>Capturing Motion Setting up a Timelapse on an iPad</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/china-dominates-with-local-processor-giant-behind-lenovos-latest-pc-lineup-plus-five-other-oems-embrace-zhoaxin-equipped-systems/"><u>China Dominates with Local Processor Giant Behind Lenovo's Latest PC Lineup; Plus, Five Other OEMs Embrace Zhoaxin-Equipped Systems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-printer-offline-no-more-windows-7/"><u>Epson Printer Offline No More, Windows 7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-printer-driver-issues-on-windows-10/"><u>Fix Printer Driver Issues on Windows 10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-non-operational-printer-service-spooler-issues/"><u>Fixing Non-Operational Printer Service (Spooler) Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-prevent-print-service-interruptions-on-w7w10w11/"><u>How to Prevent Print Service Interruptions on W7/W10/W11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-metaverses-most-social-spaces-for-friends/"><u>In 2024, Metaverse's Most Social Spaces for Friends</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-top-5-apps-that-trim-your-long-video-links-down/"><u>In 2024, Youtube’s Top 5 Apps That Trim Your Long Video Links Down</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mended-paper-jamming-concern/"><u>Mended Paper Jamming Concern</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/microsoft-teams-not-responding-determining-whether-service-interruptions-exist-or-network-problems-persist/"><u>Microsoft Teams Not Responding: Determining Whether Service Interruptions Exist or Network Problems Persist</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/navigating-pcl-xl-complications-swiftly/"><u>Navigating PCL XL Complications Swiftly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-like-a-pro-3-upgrades-to-link-your-printer-and-laptop-seamlessly/"><u>Print Like a Pro: 3 Upgrades to Link Your Printer & Laptop Seamlessly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-9-prevalent-icloud-hiccups-on-your-ios-devices-with-these-fixes/"><u>Troubleshoot 9 Prevalent iCloud Hiccups on Your iOS Devices with These Fixes</u></a></li>
 </ul></div>
 

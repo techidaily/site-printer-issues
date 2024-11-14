@@ -1,7 +1,7 @@
 ---
 title: "Printer Non-Operational: Driver Missing"
-date: 2024-11-09T18:39:18.758Z
-updated: 2024-11-13T16:34:20.437Z
+date: 2024-11-11T12:20:05.381Z
+updated: 2024-11-13T18:21:12.185Z
 tags:
   - win11
   - win10
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/3f687d67d9383763ba88f12d8075ae8aa6427188f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a164dca2109f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Find and**right-click** on your printer. Then click **Uninstall device** .
@@ -64,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/3f687d67d9383763ba88f12d8075ae8aa6427188f
 
  8) Restart your computer and try to print a file to see if your printer works. If it does, congratulations, you’ve resolved your problem! If it doesn’t, move on to Fix 2 below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Install all available Windows updates
 
  If it’s been a while since you last did a Windows Update, that might be why Windows says your printer driver is unavailable. Here’s how to do a Windows Update to install all available operating system updates…
@@ -85,21 +78,20 @@ thumbnail: https://thmb.techidaily.com/3f687d67d9383763ba88f12d8075ae8aa6427188f
 2. Click**Windows Update** on the right.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![win 11 update windows 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-update-windows-1.jpg)
 3. Then click**Check for updates** . Windows will then check if there are any newly released updates. If so, it will automatically download and install the updates for you. It might take some time.  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-update-windows-2.jpg)
 4. You may repeat these steps until it prompts**You’re up to date** when you click**Check for updates** to make sure you have all the updates installed. Restart your computer when it’s done.
@@ -113,19 +105,33 @@ thumbnail: https://thmb.techidaily.com/3f687d67d9383763ba88f12d8075ae8aa6427188f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a167ac767596.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a167b717a88d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Install updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a167d918e4c5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) After Windows has installed all the updates, restart your computer and try to print a file to see if your printer works.
 
@@ -150,22 +156,17 @@ thumbnail: https://thmb.techidaily.com/3f687d67d9383763ba88f12d8075ae8aa6427188f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-crafting-an-impressive-online-brand-presence/"><u>[New] Crafting an Impressive Online Brand Presence</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-frequency-capture-digital-sound-files/"><u>[Updated] 2024 Approved Frequency Capture Digital Sound Files</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-ipados-masterpieces-best-pencil-programs/"><u>[Updated] IPadOS Masterpieces Best Pencil Programs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/before-you-fly-drone-purchase-tips-and-considerations-for-2024/"><u>Before You Fly Drone Purchase Tips and Considerations for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brother-wireless-setup-cdw-version/"><u>Brother Wireless Setup: CDW Version</u></a></li>
-<li><a href="https://win11.techidaily.com/bypass-access-denied-window-issues-steps-and-tips/"><u>Bypass 'Access Denied' Window Issues: Steps and Tips</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/correcting-hp-printers-critical-error-0xoxc4eb827f/"><u>Correcting HP Printer's Critical Error 0xOXC4EB827F</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/eliminating-ghost-bars-in-hp-printers-output/"><u>Eliminating Ghost Bars in HP Printer's Output</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 12 mini? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-inkjet-not-printing-now-good-to-go/"><u>HP Inkjet Not Printing, Now Good to Go</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-honor-magic-5-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Honor Magic 5 Pro Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/in-2024-unleashing-your-smartphones-potential-mastering-voice-recording-on-samsung-galaxy-s10s9/"><u>In 2024, Unleashing Your Smartphones Potential Mastering Voice Recording on Samsung Galaxy S10/S9</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-every-page-without-a-glitch-now/"><u>Print Every Page without a Glitch, Now!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/search-unsuccessful-for-windows-printer-driver/"><u>Search Unsuccessful for Windows Printer Driver</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-missing-printers-from-the-network/"><u>Troubleshooting Missing Printers From the Network</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/upgrade-printer-drivers-for-better-output-win10-edition/"><u>Upgrade Printer Drivers for Better Output, WIN10 Edition</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-study-aids-top-10-educational-history-channels/"><u>[New] 2024 Approved Study Aids Top 10 Educational History Channels</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-epson-printer-printing-blank-pages/"><u>[SOLVED] Epson Printer Printing Blank Pages</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-enhancing-gopro-footage-minimizing-motion-blur/"><u>[Updated] 2024 Approved Enhancing GoPro Footage Minimizing Motion Blur</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-maximizing-video-quality-enabling-av1-on-youtube-for-2024/"><u>[Updated] Maximizing Video Quality Enabling AV1 on YouTube for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/flawless-addition-of-new-printer-to-system/"><u>Flawless Addition of New Printer to System</u></a></li>
+<li><a href="https://some-skills.techidaily.com/global-rollout-of-googles-contentious-search-functionality-sparks-debate/"><u>Global Rollout of Google's Contentious Search Functionality Sparks Debate</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-smart-7-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Smart 7 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mf4770n-firmware-update-for-improved-windows-use/"><u>MF4770n Firmware Update for Improved WIndows Use</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-terraria-connections-errors-with-these-proven-techniques/"><u>Overcoming Terraria Connections Errors with These Proven Techniques</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/remedying-non-communicating-hp-inkjets/"><u>Remedying Non-Communicating HP Inkjets</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-shared-printer-usage-concern/"><u>Resolved: Shared Printer Usage Concern</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-premier-selection-of-11-costless-yt-moniker-makers-for-2024/"><u>The Premier Selection of 11 Costless YT Moniker Makers for 2024</u></a></li>
 </ul></div>
 

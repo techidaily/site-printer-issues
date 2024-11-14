@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Resolve the Persona 5 Strikers' Black Screen Problem"
-date: 2024-11-10T18:13:56.202Z
-updated: 2024-11-13T18:05:12.573Z
+date: 2024-11-09T00:29:44.818Z
+updated: 2024-11-14T03:36:36.615Z
 tags:
   - win11
   - win10
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 2. **[Run Apex Legends as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Verify game files](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Edit registry](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Update the graphics driver
 
@@ -72,10 +65,10 @@ Here is how to grant administrative privileges to Apex Legends:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-564.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In File Explorer, right click on **Apex Legends .exe**  and click **Properties** .
@@ -88,6 +81,13 @@ Here is how to grant administrative privileges to Apex Legends:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Verify game files
 
  You should also check the integrity of the game files to see if any of them are corrupt or missing.
@@ -98,25 +98,33 @@ Here is how to verify game files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-439-1024x522.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Right-click on**Apex Legends** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-561.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Wait until the repair process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Once done, run Apex Legends and check if the engine error is fixed. If yes, then great! If the issue persists, please move on to**Fix 4** , below.
@@ -135,13 +143,6 @@ Here are the steps to add the command line:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-474.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) Add the following command to the text document.
 
 Windows Registry Editor Version 5.00
@@ -149,13 +150,6 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers] "TdrDelay"=hex(b):08,00,00,00,00,00,00,00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-475.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**File** \>**Save as…**
 
@@ -191,20 +185,20 @@ Windows Registry Editor Version 5.00
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-video-magic-techniques-to-elevate-your-social-media-impact/"><u>[New] In 2024, Instagram Video Magic Techniques to Elevate Your Social Media Impact</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-love-ballads-ideal-tunes-for-a-heartfelt-proposal/"><u>[New] Ultimate Love Ballads Ideal Tunes for a Heartfelt Proposal</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-micro-business-video-advertising-insights/"><u>[Updated] 2024 Approved Micro-Business Video Advertising Insights</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/best-portable-dvd-players-on-the-market-top-picks-for-your-next-road-trip/"><u>Best Portable DVD Players on the Market: Top Picks for Your Next Road Trip</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/cannot-load-printer-driver-not-detected-by-win/"><u>Cannot Load Printer: Driver Not Detected by Win</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-epson-no-more-blank-documents/"><u>Fixed [Epson]: No More Blank Documents</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-scan-and-print-unit-fixed-no-more-delays/"><u>HP Scan & Print Unit Fixed - No More Delays</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mf4770n-updates-for-streamlined-windows-functionality/"><u>MF4770n Updates for Streamlined Windows Functionality</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resetting-failed-printer-defaults-error-code-0x00000709-overcome/"><u>Resetting Failed Printer Defaults: Error Code 0X00000709 Overcome</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-hp-printer-connectivity-issues/"><u>Resolving HP Printer Connectivity Issues</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211150461-9781977269584-the-bible-of-the-pure-soul-and-mind/"><u>The Bible of the Pure Soul and Mind | Free Book</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-launch-samsung-gears-up-a-direct-challenge-to-the-apple-vision-pro-exclusive-insights-awaiting/"><u>Upcoming Launch: Samsung Gears Up a Direct Challenge to the Apple Vision Pro - Exclusive Insights Awaiting</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-how-to-make-a-flv-photo-slideshow-with-music/"><u>Updated 2024 Approved How to Make a FLV Photo Slideshow with Music</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-xiaomi-redmi-note-12-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Xiaomi Redmi Note 12 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win-removal-guide-for-external-devices/"><u>Win Removal Guide for External Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-capture-android-the-ultimate-recorder-at-no-cost/"><u>[New] 2024 Approved Capture Android The Ultimate Recorder at No Cost</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-thriving-through-thoughts-transforming-video-into-cash/"><u>[New] In 2024, Thriving Through Thoughts Transforming Video Into Cash</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-pros-guide-to-free-screen-recording-on-mac-devices/"><u>[Updated] 2024 Approved Pro's Guide to FREE Screen Recording on Mac Devices</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-jujutsu-kaisen-making-waves-tiktok-edition/"><u>2024 Approved Jujutsu Kaisen Making Waves TikTok Edition</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canon-printer-issue-mp620-not-detected-by-win11/"><u>Canon Printer Issue: MP620 Not Detected by Win11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/drawdeck-master-review-and-teaching-companion-2024/"><u>DrawDeck Master Review & Teaching Companion 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eliminating-xerox-paper-jam-issues/"><u>Eliminating Xerox Paper Jam Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/getting-started-cdw-duo-driver-installation/"><u>Getting Started: CDW Duo Driver Installation</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-s24plus-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy S24+ to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-video-calls-with-zoom-in-gmail-platform/"><u>In 2024, Unlocking Video Calls with Zoom in Gmail Platform</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/integrate-hp-printer-seamlessly-in-windows-environment/"><u>Integrate HP Printer Seamlessly in Windows Environment</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/new-releases-dell-v305-driver-and-utility-supports-win7/"><u>New Releases: Dell V305 Driver & Utility Supports Win7</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/photo-gymnastics-mastering-the-art-of-pictorial-twists/"><u>Photo Gymnastics Mastering the Art of Pictorial Twists</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/regain-access-sister-brother-printer-offline-fix-guide/"><u>Regain Access: Sister-Brother Printer Offline Fix Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-microsoft-edge-closing-issue-in-windows-10-environments/"><u>Resolving the Microsoft Edge Closing Issue in Windows 10 Environments</u></a></li>
 </ul></div>
 

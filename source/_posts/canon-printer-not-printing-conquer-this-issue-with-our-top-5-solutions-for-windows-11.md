@@ -1,7 +1,7 @@
 ---
 title: Canon Printer Not Printing? Conquer This Issue with Our Top 5 Solutions for Windows 11
-date: 2024-11-08T19:10:37.071Z
-updated: 2024-11-13T19:48:55.193Z
+date: 2024-11-07T10:29:49.001Z
+updated: 2024-11-14T04:38:27.818Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ If your problem persists, try the fixes below.
 4. **[Set Canon as the default printer](#fix4)**
 5. **[Delete print jobs from the print queue](#fix5)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check the connection status
 
  Difficulty printing from your PC can occur for various reasons. The most common reason is because the connection between the computer and the machine is lost. So before heading into the more complicated fixes, you need to take some basic troubleshooting steps to resolve the issue.
@@ -59,6 +66,13 @@ If your printer is still not working properly, proceed to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Temporarily disable the firewall
 
  Firewall software helps block threats from outside your network, but some settings or configurations can block communication with your printer and may reject the connection needed for your machine to work properly. To resolve this, disable the firewall from your computer and try to print again.
@@ -69,13 +83,6 @@ If your printer is still not working properly, proceed to the next fix.
   
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/windows-defender-firewall.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the left side of the window, click**Turn Windows Defender Firewall on or off** .  
   
 ![disable Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/turn-Windows-Defender-Firewall-on-or-off.png)
@@ -83,19 +90,6 @@ If your printer is still not working properly, proceed to the next fix.
  3) Tick**Turn off Windows Defender Firewall** for both public and private networks. Then click**OK** to confirm the changes.  
   
 ![turn off windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/turn-off-windows-defender-firewall-1.png)
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **To configure firewall settings in other security software:**
 
@@ -121,13 +115,6 @@ You can disable the firewall in software by clicking the link below.
 
  Since Canon has several official websites like [Canon UK](https://www.canon.co.uk/) ,[Canon USA](https://www.usa.canon.com/) ,[Canon Europe](https://www.canon-europe.com/) , etc., they may not share the same model. So you can use the browser to search for the specific driver directly. Or you can go to the Support Center, enter the model of your device in the search field, and follow the instructions to download and install the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 2: Automatically update your printer driver (recommended)
 
  If you don’t have the time, patience or computer skills to update drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -148,6 +135,13 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Canon-G7020-1200x900.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -156,10 +150,10 @@ Here’s how you can update your drivers with Driver Easy:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Set Canon as the default printer
@@ -173,6 +167,19 @@ Here’s how you can update your drivers with Driver Easy:
  2) Type **control** in the field and press**Enter** to open the Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Select **Small icons** from the drop-down menu next to **View by** . Then, click **Devices and Printers** .  
   
@@ -208,13 +215,6 @@ Now perform printing tasks to check if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/services-msc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) In the Services window, scroll down to the**Print Spooler** . Right-click it and select**Stop** .
 
 ![stop the Print Spooler](https://images.drivereasy.com/wp-content/uploads/2021/01/stop-the-printing-service.png)
@@ -230,10 +230,10 @@ Now perform printing tasks to check if it works.
 ![open the printers folder](https://images.drivereasy.com/wp-content/uploads/2021/01/printers-folder.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6) Delete any files in this folder.
@@ -245,10 +245,10 @@ Now perform printing tasks to check if it works.
 ![start the printing services](https://images.drivereasy.com/wp-content/uploads/2021/01/start-printing-services.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now attempt a test print to check if it brings your printer back to normal state.
@@ -274,16 +274,19 @@ Now perform printing tasks to check if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-ideal-steadicams-for-captivating-high-quality-shoots-on-your-dslr-camera/"><u>[New] Ideal Steadicams for Captivating, High-Quality Shoots on Your DSLR Camera</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-pic-tastic-top-20-ideas-to-energize-your-feed/"><u>[Updated] 2024 Approved Pic-Tastic! Top 20 Ideas to Energize Your Feed</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-lava-blaze-2-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Lava Blaze 2 without App | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/effortlessly-navigate-canons-wireless-print-setup/"><u>Effortlessly Navigate Canon's Wireless Print Setup</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/get-your-canon-printer-working-again-find-5-fixes-for-the-non-prints-in-windows-11/"><u>Get Your Canon Printer Working Again! Find 5 Fixes for the Non-Prints in Windows 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/has-your-ipad-become-an-outdated-tech-relic/"><u>Has Your iPad Become an Outdated Tech Relic?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-free-thumbnail-extract-from-youtube-videos-today/"><u>In 2024, Free Thumbnail Extract From YouTube Videos Today!</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-budget-friendly-filmmaking-essentials-8-must-know-software/"><u>New In 2024, Budget-Friendly Filmmaking Essentials 8 Must-Know Software</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcome-paper-jamming-problem/"><u>Overcome Paper Jamming Problem</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/rescue-mission-for-my-non-reactive-printer/"><u>Rescue Mission for My Non-Reactive Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restoring-scanner-integrity-on-windows-11/"><u>Restoring Scanner Integrity on Windows 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-gifs-to-glam-a-complete-guide-to-creating-emojis-on-telegram-and-whatsapp-for-2024/"><u>[New] GIFs-to-Glam A Complete Guide to Creating Emojis on Telegram & WhatsApp for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-science-behind-catching-fire-on-instagram/"><u>[New] The Science Behind Catching Fire on Instagram</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-innovating-with-youtube-studio-editor-for-next-gen-videos/"><u>[Updated] 2024 Approved Innovating with YouTube Studio Editor for Next-Gen Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-how-to-get-more-instagram-video-views/"><u>2024 Approved How to Get More Instagram Video Views</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/amazons-latest-gadget-unveiled-the-echo-show-10-gen-3-review-bringing-automation-to-room-navigation/"><u>Amazon's Latest Gadget Unveiled - The Echo Show 10 (Gen 3) Review: Bringing Automation to Room Navigation</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1722998730569-constraint-a-use-only-the-c-major-scale-for-representation/"><u>Constraint A: Use only the C-Major Scale for Representation</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/empower-your-productivity-a-critical-look-at-the-onetastic-addition-to-ms-onenote-workflow/"><u>Empower Your Productivity: A Critical Look at the Onetastic Addition to MS OneNote Workflow</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/explore-the-user-friendly-features-of-mods-innovative-sidecar-e-bike-model/"><u>Explore the User-Friendly Features of Mod's Innovative Sidecar E-Bike Model</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-the-2020s-new-apple-macbook-pro-m1-13-redefines-performance-in-the-laptop-arena-comprehensive-review/"><u>How the 2020'S New Apple MacBook Pro (M1, 13) Redefines Performance in the Laptop Arena: Comprehensive Review</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-how-to-grow-youtube-subscriber/"><u>In 2024, How to Grow Youtube Subscriber</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-revolutionary-q500-the-ultimate-4k-bird/"><u>In 2024, Revolutionary Q500 The Ultimate 4K Bird</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-insider-guide-elevating-your-instagram-imagery/"><u>The Insider Guide Elevating Your Instagram Imagery</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/the-sony-xperia-5-unveiled-balancing-diminutive-design-with-expensive-tags/"><u>The Sony Xperia 5 Unveiled: Balancing Diminutive Design with Expensive Tags</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-steps-for-armored-core-vi-fires-of-rubicon-failed-startup-issues/"><u>Troubleshooting Steps for Armored Core VI - Fires of Rubicon Failed Startup Issues</u></a></li>
 </ul></div>
 

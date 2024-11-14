@@ -1,7 +1,7 @@
 ---
 title: "Simple Steps to Unlock Printer Output: Easy Fixes for Canon on Windows 11"
-date: 2024-11-11T16:54:19.801Z
-updated: 2024-11-13T17:04:23.252Z
+date: 2024-11-13T05:27:56.278Z
+updated: 2024-11-14T09:12:31.347Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ If your problem persists, try the fixes below.
 4. **[Set Canon as the default printer](#fix4)**
 5. **[Delete print jobs from the print queue](#fix5)**
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check the connection status
 
  Difficulty printing from your PC can occur for various reasons. The most common reason is because the connection between the computer and the machine is lost. So before heading into the more complicated fixes, you need to take some basic troubleshooting steps to resolve the issue.
@@ -59,6 +66,13 @@ If your printer is still not working properly, proceed to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Temporarily disable the firewall
 
  Firewall software helps block threats from outside your network, but some settings or configurations can block communication with your printer and may reject the connection needed for your machine to work properly. To resolve this, disable the firewall from your computer and try to print again.
@@ -68,13 +82,6 @@ If your printer is still not working properly, proceed to the next fix.
  1) In the Search bar, type**windows defender firewall** . Then click**Windows Defender Firewall** from the results.  
   
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/windows-defender-firewall.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) On the left side of the window, click**Turn Windows Defender Firewall on or off** .  
   
@@ -96,31 +103,24 @@ You can disable the firewall in software by clicking the link below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Update your printer driver
 
  After connecting your Canon printer to Windows, to ensure it works properly, you need to install a proper driver. But if your printer driver is faulted or outdated, issues like printer not printing will arise. So if you can’t remember when was the last time you updated your printer driver, do it now as it may fix your issue right away.
 
  There are mainly two ways you can update your printer driver:[manually](#option1) and [automatically](#option2) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Manually update your printer driver
 
  Canon’s website is available to download Canon product drivers. You can go to their website to find and download the driver you need. Below, you’ll find out how to download and install the driver from the official website.
 
  Since Canon has several official websites like [Canon UK](https://www.canon.co.uk/) ,[Canon USA](https://www.usa.canon.com/) ,[Canon Europe](https://www.canon-europe.com/) , etc., they may not share the same model. So you can use the browser to search for the specific driver directly. Or you can go to the Support Center, enter the model of your device in the search field, and follow the instructions to download and install the driver.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your printer driver (recommended)
 
@@ -136,11 +136,25 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![update drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Canon-G7020-1200x900.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -161,38 +175,24 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Select **Small icons** from the drop-down menu next to **View by** . Then, click **Devices and Printers** .  
   
 ![set Canon printer as the default printer](https://images.drivereasy.com/wp-content/uploads/2021/01/in-the-control-panel.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Right-click your Canon printer and select**Set as default printer** from the list.  
   
 ![set Canon printer as the default printer](https://images.drivereasy.com/wp-content/uploads/2021/01/set-as-default-printer.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now perform printing tasks to check if it works.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Delete print jobs from the print queue
 
@@ -231,10 +231,10 @@ Now perform printing tasks to check if it works.
 ![open the printers folder](https://images.drivereasy.com/wp-content/uploads/2021/01/printers-folder.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6) Delete any files in this folder.
@@ -268,16 +268,22 @@ Now perform printing tasks to check if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-complete-insights-into-the-updated-videoshow-app-for-24/"><u>[New] Complete Insights Into the Updated VideoShow App for '24</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-recording-live-videos-on-periscope-with-maximum-quality/"><u>[New] In 2024, Recording Live Videos on Periscope with Maximum Quality</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-breaking-through-with-stunning-hdr-portrait-shots/"><u>[Updated] In 2024, Breaking Through with Stunning HDR Portrait Shots</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-cutting-techniques-for-photos-exclude-unwanted-edges/"><u>2024 Approved Cutting Techniques for Photos Exclude Unwanted Edges</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/blank-page-problem-persists-on-new-epson-printer-model/"><u>Blank Page Problem Persists on New Epson Printer Model</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/easy-canon-printer-setup-instructions/"><u>Easy Canon Printer Setup Instructions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-achieving-broadcast-excellence-from-recordings-to-livestreams-on-obs/"><u>In 2024, Achieving Broadcast Excellence From Recordings to Livestreams on OBS</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/no-color-in-black-and-white-outputs/"><u>No Color in Black and White Outputs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/paper-jam-resolved-on-dual-sided-hp-printer/"><u>Paper Jam Resolved on Dual-Sided HP Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/successful-fix-for-offline-hp-desktop/"><u>Successful Fix for Offline HP Desktop</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/wmaflacweb-moveit/"><u>WMAからFLACへのコストフリーWeb変換サービス - MoveIt</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-straightforward-route-scrolling-through-popular-youtube-feedbacks/"><u>[New] The Straightforward Route Scrolling Through Popular YouTube Feedbacks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-breaking-down-average-podcaster-salary/"><u>2024 Approved Breaking Down Average Podcaster Salary</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-learn-smart-circumventing-edgenuity-video-lessons-quickly/"><u>2024 Approved Learn Smart Circumventing Edgenuity Video Lessons Quickly</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-superior-viewing-experience-essentials-of-4k-downloading/"><u>2024 Approved Superior Viewing Experience Essentials of 4K Downloading</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/active-directory-down-print-operation-fails/"><u>Active Directory Down - Print Operation Fails</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-civi-3-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Civi 3</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mystery-machine-paper-trail-exposed/"><u>Mystery Machine Paper Trail Exposed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/preventing-disruptive-print-spooler-failures-on-pcs/"><u>Preventing Disruptive Print Spooler Failures on PCs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-out-solutions-for-unprinted-sheets-dilemma/"><u>Print Out Solutions for Unprinted Sheets Dilemma</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-error-resolved-on-windows-7-laptop/"><u>Printer Error Resolved on Windows 7 Laptop</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/revolutionize-mobile-broadcasting-integrating-obs-studio-into-android/"><u>Revolutionize Mobile Broadcasting Integrating OBS Studio Into Android</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/seamless-wireless-hookup-for-canon-devices/"><u>Seamless Wireless Hookup for Canon Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/smooth-operations-hp-officejet-pro-8600-windows-printer-driver/"><u>Smooth Operations: HP Officejet Pro 8600 Windows Printer Driver</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210418466-9781739857325-the-1-mindset/"><u>The 1% Mindset | Free Book</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unlock-the-power-of-speech-recognition-for-effective-office-documentation-in-microsoft-word/"><u>Unlock the Power of Speech Recognition for Effective Office Documentation in Microsoft Word</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/usb-print-malfunction-in-sleep-state-w7/"><u>USB Print Malfunction in Sleep State, W7</u></a></li>
 </ul></div>
 

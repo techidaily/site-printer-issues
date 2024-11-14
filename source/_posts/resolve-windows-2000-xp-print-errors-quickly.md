@@ -1,7 +1,7 @@
 ---
 title: Resolve Windows 2000 XP Print Errors Quickly
-date: 2024-11-08T19:40:02.972Z
-updated: 2024-11-13T18:49:36.610Z
+date: 2024-11-12T21:30:18.145Z
+updated: 2024-11-13T19:52:06.795Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
  Additionally, you can also try**restarting** all devices related to printing jobs. They include your**printer, computer, and WiFi router** (if your printer use wireless connection). You should shut them down completely, leave them for a while, and then power them on again. After that you can print something to see if this fixes the problem.  
   
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2) Run printer troubleshooter
 
  Windows system has a built-in printer troubleshooter that can diagnose your printer issues. You can run this tool as a way to help you fix the printer not responding error.
@@ -56,27 +49,20 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595469d0b5f8f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **b)**  If you are using**Windows 10** , click on**Printer** and then on**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59546a6bbf65e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **c)**  For**Windows 7** , click on**Use a printer** under**Hardware and Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59546b2cb2dc0.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **d)**  Follow the on-screen instruction to complete the troubleshooting. If the troubleshooter is able to find some issues, you may need to fix them with this tool or seek for solutions from other sources.  
   
@@ -96,25 +82,25 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595471a35b437.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **c)**  Click on**Stop** button under**Service status** and then on**Start** . (If the Service status is**Stopped** , then directly hit the**Start** button.) After that, hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5954724027192.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **d)**  You have just restarted Print Spooler service. Now try your printer and see if the not responding error is gone.  
   
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4) Configure to correct port
 
@@ -124,31 +110,31 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595476501c3bd.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **b)**  Click on**Devices and Printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595476948d409.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **c)**  In**Printers** section, right click on your printer and then select**Printer properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595477595478e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **d)**  Select**Change properties**  on**General** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595478ceef471.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **e)**  Go to**Ports** tab. Under**Print to the following port(s)** , **tick**  the port that contains**the name of your printer** . You should note that the**Description** of the port should include**USB** or**DOT4** if you are using**USB connection** , or**WSD** ,**network** or**IP** if**network connection** is used. After choosing the port, hit**Apply** .
 
@@ -157,6 +143,13 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 **f)**  Go back to**General** tab. Click on**Print Test Page** to perform a printing test in order to check if you choose the right port.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59547e1a648fd.png)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **g)**  You may need to repeat step**e** and**f**  until you can confirm you have applied the right change.  
   
@@ -183,6 +176,13 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59549fa515490.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In fact, Driver Easy Pro also contains**powerful features** , such as driver backup and restore. They can help you deal with various driver issues. And they are all very**easy to use** . Plus, you can enjoy**experienced technical support** if you go Pro. It is a**convenient** tool that can**keep your computer healthy** .  
   
  If all the methods above do not help you fix the issue, it is possible that it is a hardware problem, either from your printer or from your computer. In this case, it is suggested that you contact your device manufacturer for further assistance.
@@ -204,24 +204,24 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-augmenting-creativity-with-the-best-ai-for-podcast-names/"><u>[New] 2024 Approved Augmenting Creativity with the Best AI for Podcast Names</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-whats-grabbing-twitter-users-attention/"><u>[New] 2024 Approved What's Grabbing Twitter Users' Attention</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-boosting-reach-transferring-fb-videos-on-whatsapp-efficiently-for-2024/"><u>[New] Boosting Reach Transferring FB Videos on WhatsApp Efficiently for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-epson-error-code-0xf1/"><u>[SOLVED] Epson Error Code 0Xf1</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-androids-mobas-unveiling-the-top-ten/"><u>2024 Approved Android's MOBAs Unveiling the Top Ten</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/a-guide-to-smoothly-linking-canon-printers/"><u>A Guide to Smoothly Linking Canon Printers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/best-platforms-for-immersive-full-sphere-vids-start-your-virtual-journey-today/"><u>Best Platforms for Immersive Full-Sphere Vids – Start Your Virtual Journey Today!</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-htc-u23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/dont-miss-out-save-massively-with-our-picked-selection-of-best-in-class-tribit-audio-devices-and-affordable-in-ear-headsets-on-prime-day/"><u>Don't Miss Out: Save Massively with Our Picked Selection of Best-in-Class Tribit Audio Devices and Affordable In-Ear Headsets on Prime Day!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/expert-advice-swiftly-dealing-with-pcl-xl-fails/"><u>Expert Advice: Swiftly Dealing with PCL XL Fails</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-printing-speed-and-accuracy-on-windows-11/"><u>Fix Printing Speed and Accuracy on Windows 11</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-translate-videos-in-tamil-for-a-wider-reach/"><u>How To Translate Videos in Tamil for a Wider Reach</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ignoring-my-printer-what-to-do/"><u>Ignoring My Printer - What to Do?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/non-reactivity-in-canon-printer-mode/"><u>Non-Reactivity in Canon Printer Mode</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reinforce-win10s-networked-printer-setup/"><u>Reinforce WIN10's Networked Printer Setup</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reset-scanner-connection-status-on-pc-windows-10/"><u>Reset Scanner Connection Status on PC, Windows 10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tackle-printer-connectivity-issues-in-w11/"><u>Tackle Printer Connectivity Issues in W11</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-gamers-guide-to-boosting-pc-speed-controls/"><u>The Gamer's Guide to Boosting PC Speed Controls</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-methods-how-you-can-use-gpt-4-at-no-cost/"><u>Top 5 Methods: How You Can Use GPT-4 at No Cost</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-obs-video-magic-top-5-editing-secrets-revealed/"><u>[New] 2024 Approved OBS Video Magic Top 5 Editing Secrets Revealed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-cant-access-video-feature-on-sony-a6400-camera/"><u>2024 Approved Can't Access Video Feature on Sony A6400 Camera</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-exploring-easy-to-use-game-recording-and-edit-software/"><u>2024 Approved Exploring Easy-to-Use Game Recording & Edit Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-top-tier-no-cost-webm-video-streamers-for-browsers/"><u>2024 Approved Exploring Top-Tier, No-Cost WebM Video Streamers for Browsers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-titling-techniques-to-explore/"><u>2024 Approved Innovative Titling Techniques to Explore</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-windows-10-indispensable-hacks-and-fixes/"><u>2024 Approved Unlocking Windows 10 Indispensable Hacks & Fixes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/brisk-release-from-print-waitlist/"><u>Brisk Release From Print Waitlist</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-dark-side-three-major-privacy-issues-with-ai-chatbots/"><u>Exploring the Dark Side: Three Major Privacy Issues with AI Chatbots</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-hp-printer-no-output-issue/"><u>Fixed HP Printer No Output Issue</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-a79-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo A79 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-connect-unplugged-printer-fixed/"><u>Quick Connect: Unplugged Printer Fixed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-guide-setting-up-a-canon-printer/"><u>Quick Guide: Setting Up a Canon Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/repaired-noise-level-fluctuation-in-hp-officejet-pro-x100/"><u>Repaired Noise Level Fluctuation in HP Officejet Pro X100</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/successfully-addressed-print-nozzle-issue/"><u>Successfully Addressed Print Nozzle Issue</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-rated-free-web-based-animation-tools-a-comprehensive-guide/"><u>Top-Rated Free Web-Based Animation Tools: A Comprehensive Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-steps-for-stubborn-printer/"><u>Troubleshooting Steps for Stubborn Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-printer-disconnected-from-network/"><u>Troubleshooting: Printer Disconnected From Network</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-problems-no-access-to-hp-printer-drivers/"><u>Windows Problems: No Access to HP Printer Drivers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcome Printing Failure in HP Model XYZ
-date: 2024-11-08T19:43:14.326Z
-updated: 2024-11-13T19:10:30.467Z
+date: 2024-11-09T08:07:57.893Z
+updated: 2024-11-14T06:26:55.886Z
 tags:
   - win11
   - win10
@@ -48,18 +48,18 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/10/de-update-all-hp-printer.jpg)
 4. After updating, restart your computer to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Set your printer as default
 
@@ -78,32 +78,19 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 4. There is now a tick below the icon of your HP printer. That means it is now set as the default printer.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5fe2a9b6.png)
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Cancel all print jobs
@@ -118,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 3. Open the**Printer** menu and then select**Open As Administrator** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea27610b0.png)
@@ -131,10 +118,10 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 5. **Confirm** your action.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987eaa0030f9.png)
@@ -167,6 +154,13 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 4. If you need to proceed with the repair function, you’ll be required to purchase the full version.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Restart your computer for the changes to take effect.
 
  The full version of Fortect comes with a 60-day money-back guarantee and full customer support. If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact their support team.
@@ -186,10 +180,10 @@ Check your computer to see if your printer works properly.
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
@@ -212,18 +206,17 @@ Check your computer to see if your printer works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/alert-windows-10-print-queue-offline/"><u>[ALERT] Windows 10: Print Queue Offline</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-can-i-browse-through-all-my-contacts-shared-videos-and-photos/"><u>[New] Can I Browse Through All My Contact's Shared Videos & Photos?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-restoring-windows-photo-viewer-in-windows-10-step-by-step-guide/"><u>[New] Restoring Windows Photo Viewer in Windows 10 Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-revolutionize-your-editing-approach-with-these-top-methods-in-obs-studio/"><u>[Updated] In 2024, Revolutionize Your Editing Approach with These Top Methods in OBS Studio</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/connectivity-woes-solve-offline-canon-printer-issues/"><u>Connectivity Woes? Solve Offline Canon Printer Issues</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-itel-a05s-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Itel A05s PC | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-a-beginners-guide-to-vimeo-caption-addition/"><u>In 2024, A Beginner's Guide to Vimeo Caption Addition</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reconnect-your-silent-canon-printer-now/"><u>Reconnect Your Silent Canon Printer Now!</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/resolving-the-issue-of-vanished-desktop-icons-following-a-windows-11-system-update/"><u>Resolving the Issue of Vanished Desktop Icons Following a Windows 11 System Update</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-elite-list-of-win11s-screen-recording-apps-for-2024/"><u>The Elite List of Win11's Screen Recording Apps for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unraveling-hp-printer-writes-error-oxc4eb827f/"><u>Unraveling HP Printer' Writes Error OXC4EB827F</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-innovating-tiktok-posts-for-twitters-platform/"><u>[New] 2024 Approved Innovating TikTok Posts for Twitter's Platform</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-maximizing-video-impact-with-zoom-in-tiktok/"><u>[New] Maximizing Video Impact with Zoom in TikTok</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-exploring-the-asus-proart-329q-4k-monitor-capabilities-for-2024/"><u>[Updated] Exploring the Asus ProArt 329Q 4K Monitor Capabilities for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-stand-out-with-custom-youtube-imagery/"><u>[Updated] Stand Out with Custom YouTube Imagery</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canon-printer-installation-made-simple-image-driven/"><u>Canon Printer Installation Made Simple (Image-Driven)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/effortless-solution-to-pcl-xl-problems/"><u>Effortless Solution to PCL XL Problems</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-samsung-galaxy-a23-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Samsung Galaxy A23 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/post-hibernate-usb-print-issues-on-windows-7-devices/"><u>Post-Hibernate USB Print Issues on Windows 7 Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolve-print-spooler-problems-in-win10/"><u>Resolve Print Spooler Problems in WIN10</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/out-sites-that-connect-you-to-youtube-revenue-models/"><u>Seek Out Sites That Connect You to YouTube Revenue Models</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-your-microsoft-outlooks-faulty-spellcheck-issues/"><u>Solving Your Microsoft Outlook's Faulty Spellcheck Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-four-reasons-holding-me-back-from-upgrading-to-an-iphone-16-pro-a-detailed-review-by-zdnet/"><u>Top Four Reasons Holding Me Back From Upgrading to an iPhone 16 Pro - A Detailed Review by ZDNET</u></a></li>
 </ul></div>
 

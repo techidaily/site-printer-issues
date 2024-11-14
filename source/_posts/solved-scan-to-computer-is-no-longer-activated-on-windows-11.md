@@ -1,7 +1,7 @@
 ---
 title: "Solved: Scan to Computer Is No Longer Activated on Windows 11"
-date: 2024-11-09T17:07:52.377Z
-updated: 2024-11-13T16:59:29.456Z
+date: 2024-11-12T18:53:04.968Z
+updated: 2024-11-13T16:44:19.905Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ Read on. 🙂
 2. [**Reinstall your printer driver**](#m2)
 3. [**Get rid of ‘Scan to computer is no longer activated’ error**](#m3)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Check the connection of your Printer
 
  Once the error pops up on your Windows 10, and you cannot print the files with your printer, please check the connection between your printer and computer first.
@@ -41,10 +48,10 @@ Read on. 🙂
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Reinstall your printer driver
@@ -56,13 +63,6 @@ You need to do these steps:
  1) On your keyboard, press the**Windows** logo key +**X** key together to open the quick-access menu. Then click**Device Manager** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf305cb04.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) On the open window, find and expand the**Print queues** catalog. Then right-click on your printer software to choose**Uninstall device** .
 
@@ -84,6 +84,13 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5976a910cca49.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 ---
@@ -97,10 +104,10 @@ You need to do these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee238c2f07.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Find**scanToPCActivationApp** under**Processes** tab. Then right-click on it to choose**End task** .
@@ -110,13 +117,6 @@ You need to do these steps:
  3) Find**scanToPCActivationApp** under**Startup** tab. Then right-click on it to choose**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee2dfcd442.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 That’s all there is to it.
 
@@ -140,15 +140,20 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-identifying-high-growth-youtube-channels-for-personal-development/"><u>[New] In 2024, Identifying High-Growth YouTube Channels for Personal Development</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-seamless-virtual-conferencing-in-gmail-via-zoom-best-practices-for-2024/"><u>[New] Seamless Virtual Conferencing in Gmail via Zoom Best Practices for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-setup-unable-to-locate-hp-driver-winxo/"><u>[Printer Setup] Unable to Locate HP Driver WINXO</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-unable-to-install-printeroperation-could-not-be-completed/"><u>[Solved] Unable to Install Printer.Operation Could Not Be Completed</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-transform-your-snapchat-soundtrack-easy-changes-in-just-two-steps/"><u>[Updated] Transform Your Snapchat Soundtrack Easy Changes in Just Two Steps</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-mastering-live-show-recordings-the-modern-way/"><u>2024 Approved Mastering Live Show Recordings The Modern Way</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-seamless-way-to-capture-your-favorite-pc-games-6-methods/"><u>2024 Approved The Seamless Way to Capture Your Favorite PC Games (6 Methods)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/evaluating-the-autonomous-ergochair-curve-fairly-functional-office-chair-needs-more-cushioning/"><u>Evaluating the Autonomous ErgoChair Curve: Fairly Functional Office Chair Needs More Cushioning</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-scan-to-computer-is-no-longer-activated-on-windows-10/"><u>Solved: Scan to Computer Is No Longer Activated on Windows 10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unable-to-access-printer-driver-in-windows/"><u>Unable to Access Printer Driver in Windows</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-art-of-using-videos-in-education/"><u>[New] The Art of Using Videos in Education</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-a-different-way-to-naming-your-channel-with-filmora/"><u>[Updated] 2024 Approved Finding a Different Way to Naming Your Channel with Filmora</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canon-printer-is-offline-heres-how-to-fix-it/"><u>Canon Printer Is Offline? Here’s How to Fix It</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-windows-brightness-spike/"><u>Correcting Windows Brightness Spike</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/effortless-updates-for-enhanced-hp-officejet-performance/"><u>Effortless Updates for Enhanced HP Officejet Performance</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-note-12-proplus-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi Redmi Note 12 Pro+ 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/immediate-fix-for-unplugged-printer/"><u>Immediate Fix for Unplugged Printer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-tecno-pop-8-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Tecno Pop 8 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/instantly-resume-printer-job-queue-flow/"><u>Instantly Resume Printer Job Queue Flow</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/microsofts-surface-range-outshines-with-ai-powered-computers-sparking-concerns-over-apples-future/"><u>Microsoft's Surface Range Outshines with AI-Powered Computers, Sparking Concerns Over Apple's Future</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-network-issue-resolved-in-win7-pro/"><u>Printer Network Issue Resolved in Win7 Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-visibility-issues-how-to-make-your-hard-drive-accessible-in-windows-10/"><u>Resolving Visibility Issues: How to Make Your Hard Drive Accessible in Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007673609-troubleshooting-masterclass-eliminate-among-us-crashing-problems-in-the-new-year-2024/"><u>Troubleshooting Masterclass: Eliminate 'Among Us' Crashing Problems in the New Year, 2024!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unified-drivers-and-utilities-officejet-pro-8600-for-pc-users/"><u>Unified Drivers & Utilities: OfficeJet Pro 8600 for PC Users</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/urgent-update-switch-from-authy-to-alternative-2fa-solutions-before-deadline-ends-zdnet/"><u>Urgent Update: Switch From Authy to Alternative 2FA Solutions Before Deadline Ends | ZDNet</u></a></li>
 </ul></div>
 

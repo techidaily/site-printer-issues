@@ -1,7 +1,7 @@
 ---
 title: Unhinder Printers at a Gallop
-date: 2024-11-07T16:08:27.874Z
-updated: 2024-11-13T18:56:02.257Z
+date: 2024-11-07T11:38:09.576Z
+updated: 2024-11-13T19:43:22.494Z
 tags:
   - win11
   - win10
@@ -29,10 +29,10 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
 * **Fix 2 –[Reinstall your printer driver](#m2)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Clear the print queue
@@ -46,26 +46,12 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/services-run-box.jpg)
 3. Scroll down to**Print Spooler** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Right-click**Print Spooler** and select**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/stop-the-service.jpg)
 5. Navigate to**C:\\Windows\\System32\\spool\\PRINTERS** and delete all files in the folder. (Do NOT delete the folder itself.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/delete.jpg)
 6. In the Services window, right-click**Print Spooler** and select**Start** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/start-service.jpg)
 7. Go back to the**Print Job** queue. All print jobs should have been removed now and you can start printing again normally.
@@ -104,19 +90,19 @@ This will clear all of your print jobs stuck in a queue.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/note.jpg)
 3. Then click**File** \>**Save as…**  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    * Change the file type to**All files**  
    * Name your file whatever you want, but add a**.bat** suffix.  
    * Make sure the Encoding type is**ANSI** .  
    * Save the file. (Note where the file is saved.)  
    ![](https://images.drivereasy.com/wp-content/uploads/2020/01/batch-file.jpg)
 4. Double-click the batch file to clear the print queue anytime you want.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Reinstall the printer driver
 
@@ -149,9 +135,23 @@ This will clear all of your print jobs stuck in a queue.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now-1.png)
 3. Click the Update button next to your sound card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **OR** click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-1.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Try printing again. Your printer should be working properly now.
 
@@ -180,21 +180,22 @@ Feel free to drop us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-premiere-reviews-exploring-the-best-8k-cameras/"><u>[New] In 2024, Premiere Reviews Exploring the Best 8K Cameras</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tech-support-unsuccessful-print-driver-installation-across-windows-versions/"><u>[Tech Support] Unsuccessful Print Driver Installation Across Windows Versions</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-charting-the-course-with-youtubes-top-makeup-influencers/"><u>[Updated] 2024 Approved Charting the Course with YouTube's Top Makeup Influencers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-master-your-fb-video-archive-with-1-5-choices/"><u>[Updated] 2024 Approved Master Your FB Video Archive with #1-5 Choices</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-success-the-leading-25-tagging-tactics/"><u>[Updated] Instagram Success The Leading 25 Tagging Tactics</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-apple-iphone-12-pro-fix-now-drfone-by-drfone-virtual-ios/"><u>3uTools Virtual Location Not Working On Apple iPhone 12 Pro? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/alleviated-printer-network-disconnect/"><u>Alleviated Printer Network Disconnect</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/compatibility-hurdle-installation-of-hp-d1360-printer-drivers/"><u>Compatibility Hurdle: Installation of HP D1360 Printer Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-hp-deskjet-inkjet-printer-driver-v3689-for-windows-11-10-8-and-7/"><u>Download HP Deskjet Inkjet Printer Driver v3.6.89 for Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/eradicating-printer-latency-issues/"><u>Eradicating Printer Latency Issues</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-connectivity-issue-sorted-out/"><u>HP Printer Connectivity Issue Sorted Out</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-expand-your-library-prime-10-ps5-extra-drives/"><u>In 2024, Expand Your Library Prime 10 PS5 Extra-Drives</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-streamlining-minecraft-by-boosting-ram-capacity/"><u>In 2024, Streamlining Minecraft by Boosting RAM Capacity</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/unhindered-video-streaming-with-chromes-performance-fixes/"><u>Unhindered Video Streaming with Chrome's Performance Fixes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unified-printer-software-solution-officejet-pro-8600-for-windows-pcs/"><u>Unified Printer Software Solution: Officejet Pro 8600 for Windows PCs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/updating-mf4770n-drivers-in-win11win8win7/"><u>Updating MF4770n Drivers in Win11/Win8/Win7</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-engineering-superior-canon-time-lapse-works-for-2024/"><u>[Updated] Engineering Superior Canon Time-Lapse Works for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-idea-to-airwaves-crafting-compelling-podcast-scripts/"><u>[Updated] From Idea to Airwaves Crafting Compelling Podcast Scripts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-vrs-immersive-visual-experience/"><u>2024 Approved Unveiling VR's Immersive Visual Experience</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-dreame-bot-l10-pro-revolutionizing-home-cleaning-with-mopping-and-vacuuming-capabilities/"><u>Comprehensive Review: Dreame Bot L10 Pro – Revolutionizing Home Cleaning with Mopping and Vacuuming Capabilities</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/from-frustration-to-functionality-blank-page-cured/"><u>From Frustration to Functionality: Blank Page Cured</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-disconnecting-wireless-networks-using-windows-11-settings/"><u>Guide: Disconnecting Wireless Networks Using Windows 11 Settings</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-reactivate-hp-printer-status/"><u>How to Reactivate HP Printer Status</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-officejet-pro-8600-driver-suite-for-windows-enhancement/"><u>HP Officejet Pro 8600 Driver Suite for Windows Enhancement</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-demographic-relevance-for-higher-youtube-rankings/"><u>In 2024, Demographic Relevance for Higher YouTube Rankings</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/instruction-setting-up-hp-printer-on-pc/"><u>Instruction: Setting Up HP Printer on PC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/navigating-through-windows-setup-for-your-new-hp-device/"><u>Navigating Through Windows Setup for Your New HP Device</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-how-to-translate-video-from-japanese-to-english-online/"><u>New In 2024, How To Translate Video From Japanese to English Online?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/optimize-performance-with-new-hp-officejet-driver/"><u>Optimize Performance with New HP Officejet Driver</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/re-establishing-link-between-printer-and-network/"><u>Re-Establishing Link Between Printer & Network</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/technical-snafu-printer-configuration-gone-awry/"><u>Technical Snafu: Printer Configuration Gone Awry</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-crafting-your-perfect-gaming-environment-with-top-tips-from-tech-experts/"><u>Ultimate Guide: Crafting Your Perfect Gaming Environment with Top Tips From Tech Experts</u></a></li>
 </ul></div>
 

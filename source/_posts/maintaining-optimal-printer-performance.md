@@ -1,7 +1,7 @@
 ---
 title: Maintaining Optimal Printer Performance
-date: 2024-11-10T18:34:38.909Z
-updated: 2024-11-13T18:47:44.227Z
+date: 2024-11-07T00:02:38.591Z
+updated: 2024-11-13T18:54:01.827Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
  You can also**shut down** your computer and printer**completely** , wait for**a couple of minutes** , and then**power them on** again. After that you can try printing something and see if the problem resolves.  
   
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2) Set your printer as default
 
  In normal cases, the computer will assign the printing tasks to**default printer** unless you specify another on purpose. Sometimes your default printer will be changed to another printer due to some reasons. In these cases, you should note that, in the program that you use to print, you have to **correctly select** your printer in order to print with the right one.
@@ -67,6 +60,19 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 **d)**  You printer is now set to default!  
   
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3) Cancel all print jobs
 
  Another reason of printer not printing is that the print queue includes print jobs that has failed. Therefore the printer gets stuck. You need to clean all print jobs in order to get your printer back to normal.
@@ -78,28 +84,15 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59409bcecf2e7.png)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **c)** Open**Printer** menu and then select**Open As Administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940dc98227ab.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **d)** Open**Printer** menu again. Select**Cancel All Documents** .
 
@@ -109,21 +102,15 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a2b245ae5.png)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **f)**  The print queue of your printer is clear. Now check and see if your printer can run normally.  
   
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4) Update printer driver
 
@@ -140,10 +127,10 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59536d887738b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the result, click on the**Update** button next to your printer. Then you can download the**latest and credible** driver for your device. After that you can use the files just downloaded and install the driver on your own.
@@ -154,6 +141,13 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 
  In fact,**Driver Easy Pro** can not only help you**speed up** the update process, but also update**all** the outdated drivers**at once** . In addition, its powerful features can help you deal with**various** driver issues with just**a few** clicks. **This is the tool that can really save you much time and energy!**
   
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5) Check hardware status
 
@@ -180,21 +174,24 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/hardware-setup-cant-get-hp-d1360-to-work-windows-versions-involved/"><u>[Hardware Setup] Can't Get HP D1360 to Work: Windows Versions Involved</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-building-audience-connection-with-empowerment-vlogs/"><u>[New] In 2024, Building Audience Connection with Empowerment Vlogs</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-download-powerhouse-top-free-quick-vids-extraction-for-pinterest-for-2024/"><u>[Updated] Download Powerhouse Top Free, Quick Vids Extraction for Pinterest for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-mp3-extractor-music-from-social-sites/"><u>[Updated] In 2024, Mp3 Extractor Music From Social Sites</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-infusing-energy-into-video-summaries-neon-thumbnail-edges/"><u>[Updated] Infusing Energy Into Video Summaries Neon Thumbnail Edges</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-journey-through-time-a-comprehensive-guide-on-scanning-and-storing-old-prints/"><u>2024 Approved Journey Through Time A Comprehensive Guide on Scanning and Storing Old Prints</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/correcting-common-color-distortion-glitches/"><u>Correcting Common Color Distortion Glitches</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhance-printing-dell-inkjet-driver-upgrade-for-windows-7/"><u>Enhance Printing: Dell Inkjet Driver Upgrade for Windows 7</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Google Pixel 8? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printers-white-sheets-cured-with-new-solution/"><u>HP Printer’s White Sheets Cured with New Solution</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy S24 Ultra</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Xiaomi Civi 3 Disney 100th Anniversary Edition to Gmail | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/instagrams-sideways-video-phenomenon-investigation-required-for-2024/"><u>Instagram's Sideways Video Phenomenon - Investigation Required for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/optimize-win10-printer-performance-and-speed/"><u>Optimize WIN10 Printer Performance and Speed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcome-print-job-queue-freeze/"><u>Overcome Print Job Queue Freeze</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolve-non-print-in-canon-on-windows-with-ease/"><u>Resolve Non-Print in Canon on Windows with Ease</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solution-needed-mp620-printer-not-detected-in-windows-os/"><u>[Solution Needed] MP620 Printer Not Detected in Windows OS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-discover-7-essential-free-audio-tracks-for-youtubers/"><u>[Updated] In 2024, Discover 7 Essential Free Audio Tracks for YouTubers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-experts-choice-aspertronics-for-phones/"><u>[Updated] In 2024, Expert's Choice Aspertronics For Phones</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-novices-pathway-to-writing-youtube-video-plans/"><u>2024 Approved A Novice's Pathway to Writing YouTube Video Plans</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-comprehensive-guide-to-usb-audio-driver-enhancements-for-windows-users-across-multiple-versions/"><u>A Comprehensive Guide to USB Audio Driver Enhancements for Windows Users Across Multiple Versions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/demystifying-paper-jam-symptoms-in-printers/"><u>Demystifying Paper Jam Symptoms in Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhanced-drive-functionality-with-mf4770n-on-windows-oss/"><u>Enhanced Drive Functionality with MF4770n on WIndows OSs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-printer-not-printing-solved/"><u>Epson Printer Not Printing [SOLVED]</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/essential-tips-for-hp-printer-setup-on-windows-os/"><u>Essential Tips for HP Printer Setup on Windows OS</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-fixing-class-not-registered-trouble-on-microsoft-windows/"><u>Expert Advice: Fixing ‘Class Not Registered’ Trouble on Microsoft Windows</u></a></li>
+<li><a href="https://fox-info.techidaily.com/fun-on-a-budget-meme-creators-handbook/"><u>Fun on a Budget – Meme Creator’s Handbook</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-elevate-every-story-prime-video-editor-apps-for-android/"><u>In 2024, Elevate Every Story Prime Video Editor Apps for Android</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-key-steps-to-composing-engaging-youtube-video-plans/"><u>In 2024, The Key Steps to Composing Engaging YouTube Video Plans</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-paper-jam-hp-print-fix-on-os-x/"><u>Overcoming Paper Jam: HP Print Fix on OS X</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-the-fifa-20-gameplay-interruption-caused-by-directx-glitches/"><u>Overcoming the FIFA 20 Gameplay Interruption Caused by DirectX Glitches</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-your-canon-printer-disconnects/"><u>Troubleshooting: Your Canon Printer Disconnects</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-how-to-solve-iphone-not-ringtoning-problem-with-these-simple-tricks/"><u>Ultimate Guide: How to Solve 'iPhone Not Ringtoning' Problem with These Simple Tricks</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unplugged-reset-to-bring-canon-printer-back-online/"><u>Unplugged? Reset to Bring Canon Printer Back Online</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-pixma-mp620-driver-elusive/"><u>Windows 11: Pixma MP620 Driver Elusive</u></a></li>
 </ul></div>
 

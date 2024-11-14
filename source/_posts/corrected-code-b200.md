@@ -1,7 +1,7 @@
 ---
 title: Corrected Code B200
-date: 2024-11-09T18:29:31.804Z
-updated: 2024-11-13T19:34:27.085Z
+date: 2024-11-10T11:34:23.803Z
+updated: 2024-11-14T01:49:34.606Z
 tags:
   - win11
   - win10
@@ -46,22 +46,15 @@ There are two ways you can update your printer driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/b200-error-code-canon-driver-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Enter the name of the serial number of your Canon product and search for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/b200-error-code-canon-driver-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
 
@@ -81,21 +74,22 @@ There are two ways you can update your printer driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-229.png)
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like. But it’s partly manual.
@@ -131,10 +125,10 @@ Make sure your cartridges all work properly, then reinstall it.
  Now, reopen your Canon printer. If your problem still exists, try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Clean the printhead
@@ -177,22 +171,17 @@ The printhead is very delicate. Please proceed with caution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/harting-the-course-for-youtube-music-uploads/"><u>[New] Charting the Course for YouTube Music Uploads</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-update-to-sonys-premium-blu-ray-player/"><u>[Updated] Unveiling the Update to Sony’s Premium Blu-Ray Player</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-essential-tips-for-screen-recording-on-lenovo-devices/"><u>2024 Approved Essential Tips for Screen Recording on Lenovo Devices</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/color-printing-malfunction-detected/"><u>Color Printing Malfunction Detected</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/connectivity-woes-when-print-devices-go-offline/"><u>Connectivity Woes: When Print Devices Go Offline</u></a></li>
-<li><a href="https://facebook.techidaily.com/deconstructing-digital-disguises-on-social-media/"><u>Deconstructing Digital Disguises on Social Media</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhance-device-compatibility-mf4770n-update-in-w11win8w7-os/"><u>Enhance Device Compatibility: MF4770n Update in W11/Win8/W7 OS</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/get-back-to-the-action-with-these-tips-overcoming-rainbow-six-siege-launch-glitches/"><u>Get Back to the Action with These Tips - Overcoming Rainbow Six Siege Launch Glitches</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-cutting-edge-analysis-editpro-x-video-editor-2023/"><u>In 2024, Cutting-Edge Analysis EditPro X - Video Editor 2023</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instructions-installing-hp-officejet-on-pc-interface/"><u>Instructions: Installing HP Officejet on PC Interface</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/rectify-print-job-failures-on-windows-11/"><u>Rectify Print Job Failures on Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-printer-install-errors/"><u>Resolved Printer Install Errors</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revive-dead-printers-on-windows-11-os/"><u>Revive Dead Printers on Windows 11 OS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/strategies-for-leveraging-big-data-in-crisis-management-scenarios-to-maintain-brand-equity-during-challenging-times/"><u>Strategies for Leveraging Big Data in Crisis Management Scenarios to Maintain Brand Equity During Challenging Times.</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-long-to-short-a-simple-guide-to-splitting-videos-in-windows-live-movie-maker/"><u>Updated 2024 Approved From Long to Short A Simple Guide to Splitting Videos in Windows Live Movie Maker</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win11-and-mp620-printer-wheres-the-compatibility/"><u>Win11 & MP620 Printer: Where's the Compatibility?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-comprehensive-checkup-vlle-for-app-health/"><u>[New] 2024 Approved Comprehensive Checkup VLLE for App Health</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-step-up-your-social-game-apply-tiktoks-best-to-instagram-reels/"><u>[New] 2024 Approved Step Up Your Social Game Apply TikTok's Best to Instagram Reels</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-twist-tactics-achieving-angles-that-stand-out-on-social-media/"><u>[New] 2024 Approved Twist Tactics Achieving Angles That Stand Out on Social Media</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-masterclass-in-connecting-ig-and-tiktok-for-2024/"><u>[New] Masterclass in Connecting IG & TikTok for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/begin-immediate-use-top-8-ready-to-run-custom-gpt-models/"><u>Begin Immediate Use: Top 8 Ready-to-Run Custom GPT Models</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/brother-cdw-air-glide-instructions-quickly/"><u>Brother CDW Air-Glide Instructions Quickly</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-15-masterpieces-in-stop-motion-cinema-history/"><u>In 2024, Top 15 Masterpieces in Stop-Motion Cinema History</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/in-depth-installing-and-tweaking-your-hp-printer-on-windows/"><u>In-Depth: Installing and Tweaking Your HP Printer on Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/non-responsive-usb-printers-in-win7-after-hibernate/"><u>Non Responsive USB Printers in Win7 After Hibernate</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-windows-7-printer-unresponsive/"><u>Resolved: Windows 7 Printer Unresponsive</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-connected-status-to-siblings-print-device/"><u>Restoring Connected Status to Sibling's Print Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-to-solving-high-pitched-noises-in-your-pcs-integrated-speakers-windows-107/"><u>Ultimate Guide to Solving High-Pitched Noises in Your PC's Integrated Speakers (Windows 10/7)</u></a></li>
 </ul></div>
 

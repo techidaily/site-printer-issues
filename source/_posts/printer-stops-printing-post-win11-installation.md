@@ -1,7 +1,7 @@
 ---
 title: Printer Stops Printing Post Win11 Installation
-date: 2024-11-10T17:55:57.169Z
-updated: 2024-11-13T19:54:04.009Z
+date: 2024-11-13T07:49:22.044Z
+updated: 2024-11-13T22:00:37.981Z
 tags:
   - win11
   - win10
@@ -66,15 +66,22 @@ Here is how to power cycle your printer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap19-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-188.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -84,13 +91,6 @@ Here is how to power cycle your printer:
 5) Check to see if the printer stopped working issue has been resolved. If yes, then congrats! If the problem still persists, please move on to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reset the print spooler
 
@@ -105,6 +105,13 @@ Here is how to do it:
  2) In the**Services** window, scroll down until you find**Print Spooler** , then right-click on it and click**Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-194.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) On your keyboard, press the**Windows logo key** and**R** at the same time, then type**%WINDIR%\\system32\\spool\\printers** and press**Enter** .
 
@@ -121,10 +128,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-198.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Check to see if your printer works properly. If it still doesn’t work, please move on to**Fix 5** , below.
@@ -139,28 +146,21 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-208.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the**Troubleshoot** window, scroll down to the**Get up and running** section, click on**Printer** \>**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-209.png)
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Wait for Windows to diagnose the problem and follow the on-screen instructions to resolve the printing not working situation.
@@ -186,24 +186,24 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ssential-steps-to-curate-youtube-music-selections-for-2024/"><u>[New] Essential Steps to Curate YouTube Music Selections for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-earn-wisely-the-simple-triad-method-for-scrutinizing-youtube-profits/"><u>[Updated] Earn Wisely The Simple Triad Method for Scrutinizing YouTube Profits</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-reviving-brands-through-customer-video-appeals-for-2024/"><u>[Updated] Reviving Brands Through Customer Video Appeals for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-how-to-add-narration-and-voiceovers-to-your-video/"><u>2024 Approved How to Add Narration and Voiceovers to Your Video</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guide-joining-officejet-8720-to-home-computers/"><u>Guide: Joining OfficeJet 8720 to Home Computers</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 11 Pro Max</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oneplus-ace-2-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/installing-your-canon-printer-an-illustrated-tutorial/"><u>Installing Your Canon Printer - An Illustrated Tutorial</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/peeksnapper-a-critical-examination-of-micro-recording-tools/"><u>PeekSnapper A Critical Examination of Micro-Recording Tools</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-not-responding-to-color-requests/"><u>Printer Not Responding to Color Requests</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restored-printer-link-to-spooler/"><u>Restored PRINTER Link to Spooler</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/simplify-print-setup-wi-fi-connection-for-canon/"><u>Simplify Print Setup: Wi-Fi Connection for Canon</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/strategies-to-forget-a-connected-printer-in-win-1011/"><u>Strategies to Forget a Connected Printer in Win 10/11</u></a></li>
-<li><a href="https://win-info.techidaily.com/top-reliable-free-software-for-seamless-transfer-between-pcs-on-windows-781011-fully-functional-solutions/"><u>Top Reliable Free Software for Seamless Transfer Between PCs on Windows 7/8/10/11 - Fully Functional Solutions</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/troubleshooting-why-iphone-images-wont-show-up-on-your-windows-computer-and-how-to-solve-it/"><u>Troubleshooting: Why iPhone Images Won't Show Up on Your Windows Computer and How to Solve It</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/usb-printer-error-unresponsive-on-win7-restart/"><u>USB Printer Error: Unresponsive on Win7 Restart</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/usb-printer-non-operation-on-windows-7-post-sleep/"><u>USB Printer Non-Operation on Windows 7 Post Sleep</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-wide-applications-mf4770n-firmware-update/"><u>Windows-Wide Applications: MF4770n Firmware Update</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/winxdvd-by-xdcamera-trusted-source-for-dvd-ripping-and-iphone-transfer-solutions/"><u>WinXDVD by XDCAMERA: Trusted Source for DVD Ripping & iPhone Transfer Solutions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-printer-printing-blank-pages/"><u>[Solved] Printer Printing Blank Pages</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-dominating-the-digital-space-5-tips-for-video-visibility-victory/"><u>[Updated] Dominating the Digital Space 5 Tips for Video Visibility Victory</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-essential-retro-effects-and-filters-for-cutting-edge-videos/"><u>[Updated] Essential Retro Effects & Filters for Cutting Edge Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-top-10-windows-film-and-multimedia-editors-reviewed-and-ranked-for-2024/"><u>[Updated] Top 10 Windows Film & Multimedia Editors Reviewed and Ranked for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-5-ios-platforms-for-experiencing-classic-psp-games/"><u>2024 Approved Top 5 iOS Platforms for Experiencing Classic PSP Games</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-downloadable-dvd-decode-software-compatible-with-windows-11-10-8-vista-and-xp/"><u>Free Downloadable DVD Decode Software Compatible with Windows 11, 10, 8, Vista & XP</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-xiaomi-redmi-13c-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Xiaomi Redmi 13C 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-more-blank-pages-on-active-epson/"><u>No More Blank Pages on Active Epson</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-spooler-service-unresponsive-on-pc/"><u>Print Spooler Service Unresponsive on PC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolve-printer-problem-5-quick-steps-to-enable-print-on-canon-and-windows-11-combo/"><u>Resolve Printer Problem: 5 Quick Steps to Enable Print on Canon & Windows 11 Combo</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-w10w7-hp-printer-no-connect/"><u>Resolving W10/W7 HP Printer No-Connect</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-to-stop-resident-evil-4s-revamped-version-from-unexpectedly-stopping/"><u>Step-by-Step Solution to Stop Resident Evil 4'S Revamped Version From Unexpectedly Stopping</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/streamlined-driver-update-win32-officejet-pro-8600-utility-bundle/"><u>Streamlined Driver Update: Win32 Officejet Pro 8600 Utility Bundle</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/systematic-update-for-enhanced-mf4770n-performance-windows/"><u>Systematic Update for Enhanced MF4770n Performance Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unlocking-secrets-to-dell-scanner-issues/"><u>Unlocking Secrets to Dell Scanner Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-10-cant-find-the-pixma-mp620-printer-driver/"><u>Windows 10 Can't Find the Pixma MP620 Printer Driver</u></a></li>
 </ul></div>
 

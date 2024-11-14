@@ -1,7 +1,7 @@
 ---
 title: "Unable To Print: AD Service Interrupted"
-date: 2024-11-11T18:25:17.622Z
-updated: 2024-11-13T18:44:40.451Z
+date: 2024-11-11T19:26:04.364Z
+updated: 2024-11-14T10:27:07.709Z
 tags:
   - win11
   - win10
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/4ba28a3dd24936be14c010b9b472cc28e6164f2dd
  5) Close the Services window and check if you could print files successfully.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Using Registry Editor
@@ -55,15 +55,22 @@ thumbnail: https://thmb.techidaily.com/4ba28a3dd24936be14c010b9b472cc28e6164f2dd
 1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png) and **R**  at the same time to invoke the Run box.
   
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Type **regedit**  and press **Enter** to open Registry Editor.  
   
 **![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-23.jpg)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click **Yes** when prompted by User Account Control,.
@@ -83,23 +90,16 @@ thumbnail: https://thmb.techidaily.com/4ba28a3dd24936be14c010b9b472cc28e6164f2dd
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Do the same settings to give your account full control of **PrinterPorts**  and **Windows** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-12.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Close the Registry Editor window and check to see if you could print files successfully.
 
@@ -120,18 +120,16 @@ thumbnail: https://thmb.techidaily.com/4ba28a3dd24936be14c010b9b472cc28e6164f2dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-mastering-the-art-of-disabling-youtube-shorts/"><u>[New] 2024 Approved Mastering the Art of Disabling YouTube Shorts</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-most-effective-sales-strategies-unveiled-with-these-leading-15-fb-analyzers/"><u>2024 Approved The Most Effective Sales Strategies Unveiled with These Leading 15 FB Analyzers</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-stop-and-repair-spooler-on-windows-versions-7-11/"><u>How to Stop and Repair Spooler on Windows Versions 7-11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/immediate-fixes-for-non-responsive-printer-service-windows/"><u>Immediate Fixes for Non-Responsive Printer Service (Windows)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instantly-rejoined-print-device/"><u>Instantly Rejoined Print Device</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/personal-drones-that-perfectly-trace-their-owners-path/"><u>Personal Drones That Perfectly Trace Their Owner's Path</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/smooth-printing-after-update-woes-ended/"><u>Smooth Printing After Update Woes Ended</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-guide-booting-your-ipad-into-recovery-mode/"><u>Step-by-Step Guide: Booting Your iPad Into Recovery Mode</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/stop-blank-pages-fixing-brother-printer-not-printing-in-win/"><u>Stop Blank Pages: Fixing Brother Printer Not Printing in Win</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721462179944-struggling-with-iphones-home-button-discover-5-swift-repairs/"><u>Struggling with iPhone's Home Button? Discover 5 Swift Repairs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/transform-your-broadcasts-with-manycam-advanced-live-video-solutions-and-digital-camcorder-functionality/"><u>Transform Your Broadcasts with ManyCam: Advanced Live Video Solutions and Digital Camcorder Functionality</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win-10-upgrade-print-says-no/"><u>Win 10 Upgrade - Print Says No</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-syncing-your-soundtrack-import-music-into-inshot/"><u>[Updated] Syncing Your Soundtrack Import Music Into InShot</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/best-performance-for-your-pocket-pc-choosing-the-right-processor/"><u>Best Performance for Your Pocket PC: Choosing the Right Processor</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/from-error-to-accuracy-fixing-hp-printers-blanks/"><u>From Error to Accuracy: Fixing HP Printer's Blanks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-discovering-the-1-songs-of-facebook-video-insights/"><u>In 2024, Discovering the #1 Songs of Facebook Video Insights</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-iphone-15-pro-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On iPhone 15 Pro? Heres the Best Fixes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-oppo-a2-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Oppo A2 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-oppo-a78-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Oppo A78 Android SIM Unlock APK</u></a></li>
+<li><a href="https://facebook.techidaily.com/internet-influence-backs-who-aims-for-covid-19-success/"><u>Internet Influence Backs WHO, Aims for COVID-19 Success</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-spooler-failures-on-windows-7-10-and-11/"><u>Overcoming Spooler Failures on Windows 7, 10 & 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revolutionize-your-workspace-linking-laptop-plus-hp-printer/"><u>Revolutionize Your Workspace: Linking Laptop + HP Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solve-print-queue-problems-on-windows-11/"><u>Solve Print Queue Problems on Windows 11</u></a></li>
 </ul></div>
 

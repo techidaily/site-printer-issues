@@ -1,7 +1,7 @@
 ---
 title: "Setting Primary Printer Failed: Error 0X00000709 Fixed"
-date: 2024-11-09T18:20:53.938Z
-updated: 2024-11-13T18:55:50.391Z
+date: 2024-11-10T03:24:49.666Z
+updated: 2024-11-14T09:36:29.867Z
 tags:
   - win11
   - win10
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
  Email: **<support@fortect.com>**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Modify your registry key
@@ -61,22 +61,21 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/regedit-in-start-panel.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If **User Account Control** comes up, please choose **Yes** at the prompt.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57bbbed40caf2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Follow the path   **HKEY\_CURRENT\_USER\\Software\\Microsoft\\WindowsNT\\CurrentVersion\\Windows** .
 
@@ -96,16 +95,16 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/permission-in-windows-registry.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  b) Tick the box **Allow** for **Full Control** and **Read** , then click **Apply** and click **OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/permissions-for-windows.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Right-click **UserSelectDefault** and click **Rename**  to rename it as your printer name.
 
@@ -124,6 +123,19 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Scan-now-2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update** button next to the printer driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
@@ -146,24 +158,22 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/fixed-printer-not-working-on-windows-11-windows-11-printer-issues/"><u>[FIXED] Printer Not Working on Windows 11? Windows 11 Printer Issues</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-best-practices-choosing-exceptional-cloud-services/"><u>[New] In 2024, Best Practices Choosing Exceptional Cloud Services</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-ultimate-tutorial-mastering-twitter-video-responses/"><u>[New] In 2024, Ultimate Tutorial Mastering Twitter Video Responses</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-the-ultimate-guide-to-silencing-background-sounds-in-audacity-for-2024/"><u>[New] The Ultimate Guide to Silencing Background Sounds in Audacity for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/system-failure-printer-drivers-unavailable-on-pc/"><u>[SYSTEM FAILURE] Printer Drivers Unavailable on PC</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-easy-to-navigate-top-10-youtube-downloader-tools/"><u>[Updated] In 2024, Easy-to-Navigate Top 10 YouTube Downloader Tools</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-honor-90-gt-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Honor 90 GT to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/bypassing-fault-error-eco-error-xf1/"><u>Bypassing Fault: Error #Eco-Error XF1</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/connecting-laptops-with-hp-printers-top-3-improvement-tips/"><u>Connecting Laptops with HP Printers - Top 3 Improvement Tips</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/correct-printing-resumed-on-hp-printer-after-glitch/"><u>Correct Printing Resumed on HP Printer After Glitch</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/error-resolution-restoring-default-windows-printer-0x00000709/"><u>Error Resolution: Restoring Default Windows Printer (0X00000709)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-honor-magic-5-litemirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Honor Magic 5 LiteMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your Apple iPhone 11 Pro?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Life360 Learn How Everything Works On Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-d3d11-gpu-problems-on-windows-1110/"><u>Overcoming D3D11 GPU Problems on Windows 11/10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-setup-software-package-hp-officejet-pro-8600-for-pcs/"><u>Quick Setup Software Package: HP OfficeJet Pro 8600 for PCs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transform-your-videos-seamlessly-with-digiartys-specialized-dvdvideo-conversion-tool/"><u>Transform Your Videos Seamlessly with Digiarty's Specialized DVD/Video Conversion Tool</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-inaccessible-printer-network/"><u>Troubleshooting: Inaccessible Printer Network</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unblocking-hp-printer-issues/"><u>Unblocking HP-Printer Issues</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unveiling-instagram-reels-10-surprising-insights/"><u>[New] In 2024, Unveiling Instagram Reels 10 Surprising Insights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inspire-yourself-a-list-of-10-empowering-movie-experiences/"><u>2024 Approved Inspire Yourself A List of 10 Empowering Movie Experiences</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoid-potential-misinterpretation-with-non-ai-text-summarization/"><u>Avoid Potential Misinterpretation with Non-AI Text Summarization</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/breaking-barriers-reconnecting-brothers-networked-printer/"><u>Breaking Barriers: Reconnecting Brother's Networked Printer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elite-gopro-filmmaking-programs-for-2024/"><u>Elite GoPro Filmmaking Programs for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-found-inkjet-not-printing-epson/"><u>Fix Found: Inkjet Not Printing [Epson]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-archive-support-on-windows-11/"><u>How to Enable Archive Support on Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/interpreting-codes-for-inkjet-problems/"><u>Interpreting Codes for Inkjet Problems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mastering-canon-printer-wi-fi-setup/"><u>Mastering Canon Printer Wi-Fi Setup</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/quick-guide-to-lol-gaming-broadcasts-3-methods-for-2024/"><u>Quick Guide to LOL Gaming Broadcasts (3 Methods) for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reestablish-links-essential-steps-to-solve-printer-woes/"><u>Reestablish Links: Essential Steps to Solve Printer Woes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solving-network-disconnectivity-in-hp-printers/"><u>Solving Network Disconnectivity in HP Printers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-the-youtube-playback-issue-how-to-fix-videos-that-wont-load/"><u>Solving the YouTube Playback Issue: How to Fix Videos That Won't Load</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/step-by-step-tech-merging-8720-printer-into-pc-system/"><u>Step by Step Tech: Merging 8720 Printer Into PC System</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-hp-d1360-print-driver-installation-across-windows-systems/"><u>Troubleshooting HP D1360 Print Driver Installation Across Windows Systems</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/visual-voyages-the-most-motivating-instagram-images-for-2024/"><u>Visual Voyages The Most Motivating Instagram Images for 2024</u></a></li>
 </ul></div>
 

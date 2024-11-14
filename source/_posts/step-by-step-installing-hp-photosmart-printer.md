@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Installing HP PhotoSmart Printer"
-date: 2024-11-10T17:58:53.499Z
-updated: 2024-11-13T18:20:37.494Z
+date: 2024-11-08T11:49:41.286Z
+updated: 2024-11-14T02:22:58.782Z
 tags:
   - win11
   - win10
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/6658e9df1d38e14ee675787c7264985ccf523b4b4
 **[Option](#m5)** **[5\. USB cable connection (printer without display)](#m5)**
 [**Bonus: Troubleshoot problems in hp wireless printer connectivity**](#bonus)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 1: HP auto wireless connect
 
  Some newer printers can connect your printer to your wireless network automatically, but without any cables or enter your wireless network settings. To use this method, not only your printer should be a newer model but also your computer has to meet the following requirements.
@@ -61,13 +54,6 @@ Now let’s start!
 
 **Note** : Part of the setup process requires your computer to be temporarily disconnected from your wireless network. During this time you will not have Internet access. Be sure to save any online work or downloads before continuing with this setup method.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 2: Wireless setup wizard (printer with display)
 
  This method needs you to run from the**printer’s control panel** . So it’s not available for the printer without a touch display.
@@ -85,10 +71,16 @@ Now let’s start!
 **6)** Press**OK** to confirm the settings.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 3: WPS (Wi-Fi Protected Setup)
@@ -100,6 +92,19 @@ Now let’s start!
 **2)** Within 2 minutes, press the WPS button on your wireless router.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/61RSlaVpCJL._SL1500_-746x1024.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 4: Windows setup
 
@@ -117,28 +122,15 @@ Now let’s start!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap42.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Select the printer from the results and click**Add device** . You should be good to go.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap46.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 5: USB cable connection (printer without display)
@@ -156,10 +148,10 @@ Now let’s start!
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap40-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Bonus: Troubleshoot problems in hp wireless printer connectivity
@@ -183,6 +175,13 @@ Now let’s start!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap38.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to the HP printer driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE** version).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) **[version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
@@ -200,6 +199,13 @@ Now let’s start!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -226,20 +232,22 @@ Now let’s start!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-audioscapes-weaving-music-into-imovie-narratives/"><u>[Updated] Audioscapes Weaving Music Into iMovie Narratives</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-beat-hopping-boundaries-linking-service-playlists-together/"><u>[Updated] Beat Hopping Boundaries Linking Service Playlists Together</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-top-8-montage-apps-for-your-androidiphone/"><u>2024 Approved Top 8 Montage Apps for Your Android/iPhone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/adding-a-custom-logo-to-your-e-book-with-flipbuilder-technology/"><u>Adding a Custom Logo to Your E-Book with FlipBuilder Technology</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/black-and-white-only-mode-engaged-by-printer/"><u>Black & White Only Mode Engaged by Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/cannot-find-hp-printer-drivers-on-win1110/"><u>Cannot Find HP Printer Drivers on Win11/10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/error-b200-now-solved/"><u>Error B200 Now Solved</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-scanned-device-connection-issue-on-win10/"><u>Fixing Scanned Device Connection Issue on Win10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-obtain-drivers-for-brother-hl-l2360dw-printer-download-now/"><u>How to Obtain Drivers for Brother HL-L2360DW Printer - Download Now</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-infinix-zero-5g-2023-turbo-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Infinix Zero 5G 2023 Turbo Phone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-motorola-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Motorola FRP</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/paper-predicament-overcome-printer-setup-fix-for-windows-0x00000709/"><u>Paper Predicament Overcome: Printer Setup Fix for Windows (0X00000709)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamlined-connection-solutions-joining-your-laptop-and-hp-printer/"><u>Streamlined Connection Solutions: Joining Your Laptop and HP Printer</u></a></li>
-<li><a href="https://video-capture.techidaily.com/teleconference-recordings/"><u>Teleconference Recordings</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unforeseen-print-malfunction-noted/"><u>Unforeseen Print Malfunction Noted</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-charting-earnings-from-youtube-adsense-what-you-can-expect-per-1000-views/"><u>[New] 2024 Approved Charting Earnings From YouTube AdSense What You Can Expect per 1,000 Views</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/smr-knowledge-beyond-what-you-see-for-2024/"><u>[New] ASMR Knowledge Beyond What You See for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-closer-views-for-efficient-tech-meetings/"><u>[Updated] Navigating Closer Views for Efficient Tech Meetings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-avoid-abrupt-jumps-perfecting-inshot-transitions/"><u>2024 Approved Avoid Abrupt Jumps Perfecting Inshot Transitions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/conquer-print-issues-with-comprehensive-windows-hp-guide/"><u>Conquer Print Issues with Comprehensive Windows HP Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/creative-composition-collage-tips-liven-up-your-surroundings/"><u>Creative Composition Collage Tips Liven Up Your Surroundings</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/domains-offline-causing-printer-errors/"><u>Domains Offline - Causing Printer Errors</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ending-white-sheet-saga-with-hp-printer-fix/"><u>Ending White Sheet Saga with HP Printer Fix</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/farewell-to-printer-frustration-win-10s-solution-found/"><u>Farewell to Printer Frustration: Win 10'S Solution Found</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hidden-network-printer-how-to-find-it-on-your-os/"><u>Hidden Network Printer: How to Find It on Your OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-update-hanging-on-100-completion/"><u>How to Fix Windows Update Hanging on 100% Completion</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installing-the-official-drivers-for-your-epson-wf-2750-printer/"><u>Installing the Official Drivers for Your Epson WF-2750 Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/preventing-continuous-spooler-failures-on-w10w11w7/"><u>Preventing Continuous Spooler Failures on W10/W11/W7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/secure-removal-of-drivers-for-printer-devices/"><u>Secure Removal of Drivers for Printer Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unexpected-print-problem-discovered/"><u>Unexpected Print Problem Discovered</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-video-editing-like-a-pro-expert-techniques-for-jaw-dropping-effects/"><u>Updated 2024 Approved Video Editing Like a Pro Expert Techniques for Jaw-Dropping Effects</u></a></li>
 </ul></div>
 

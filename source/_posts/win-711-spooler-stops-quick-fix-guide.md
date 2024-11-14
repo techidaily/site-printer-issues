@@ -1,7 +1,7 @@
 ---
 title: "Win 7/11 Spooler Stops: Quick Fix Guide"
-date: 2024-11-11T17:11:42.443Z
-updated: 2024-11-13T18:53:43.852Z
+date: 2024-11-08T13:08:53.187Z
+updated: 2024-11-14T01:53:26.993Z
 tags:
   - win11
   - win10
@@ -47,26 +47,19 @@ thumbnail: https://thmb.techidaily.com/ef64597bda93820e24d8ab2d0a8cbf446e80301b9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a515fac43cb.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Check to see if your printer works.
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Check if the Print Spooler service is set to Automatic
 
@@ -80,13 +73,34 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a50a818f88a.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Right-click **Print Spooler** , then click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a54177dc82e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Make sure Startup type is set to **Automatic**  , then click**Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a51825cb795.png)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Check to see if your printer works.
 
@@ -107,10 +121,10 @@ To set it to auto:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a54177dc82e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click **Recovery** , ensure all **three** **failure fields** are set to **Restart the Service**  and click**Apply** \> **OK** .
@@ -118,13 +132,6 @@ To set it to auto:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a51c37d1a84.png)
 
  5) Check to see if your printer works.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Delete your print spooler files
 
@@ -156,6 +163,13 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/empty.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run box.
 
 9) Type control and press**Enter** to open Control Panel:
@@ -170,19 +184,6 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/REMOVE.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  12) Click**Services** icon in your taskbar to return to Services window:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/SETTINGS-WINDOW.jpg)
@@ -191,22 +192,15 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a538386c9a4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  14)Click the **Devices and Printers icon**  in your taskbar to return to the Devices and Printers window:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/PRINTERS-ICON.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  15) **Right-click on the blank area** and click **Add a printer**  , then follow the on-screen instructions to re-add your printer:
@@ -230,10 +224,10 @@ To set it to auto:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975af310cda9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Click the **Update**  button next to a flagged printer driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -261,19 +255,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-embarking-on-a-listening-odyssey-adding-podcasts-to-itunes-via-ios/"><u>[New] Embarking on a Listening Odyssey Adding Podcasts to iTunes via iOS</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-elevating-your-content-creation-leveraging-vimeo-recorder/"><u>2024 Approved Elevating Your Content Creation Leveraging Vimeo Recorder</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enhance-your-beats-free-luts-galore-on-mini-and-air-series/"><u>Enhance Your Beats - Free LUTS Galore on Mini & Air Series</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/get-every-page-printer-release/"><u>Get Every Page Printer Release</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Stop Life360 from Tracking You On Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/installing-and-connecting-printer-error-resolved/"><u>Installing and Connecting Printer Error Resolved</u></a></li>
-<li><a href="https://win-data.techidaily.com/mastering-dual-boots-creating-and-running-a-linux-environment-on-windows-11/"><u>Mastering Dual Boots: Creating and Running a Linux Environment on Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574160377-reconnect-your-silent-canon-printer-now/"><u>Reconnect Your Silent Canon Printer Now</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/repaired-network-communication-issue/"><u>Repaired Network Communication Issue</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-error-on-hp-printer-oxc4eb827f/"><u>Resolving Error on HP Printer: OXC4EB827F</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reviving-brother-printer-no-output/"><u>Reviving Brother Printer No Output</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/simplify-your-multitasking-using-shortcut-keys-for-macs-screen-capture/"><u>Simplify Your Multitasking Using Shortcut Keys for Mac's Screen Capture</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/trailblazers-crafting-immersive-virtual-landscapes/"><u>Trailblazers Crafting Immersive Virtual Landscapes</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-brand-consistency-in-action-inserting-logoswatermarks-into-videos/"><u>[New] 2024 Approved Brand Consistency in Action Inserting Logos/Watermarks Into Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-aerial-adventures-with-husqvarnas-x4-fpv-quadcopter/"><u>[Updated] Aerial Adventures with Husqvarna's X4 FPV Quadcopter</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-printer-error-continuous-sheet-replacement/"><u>Epson Printer Error: Continuous Sheet Replacement</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-unlock-the-secrets-to-12-incredible-gamers-intro-videos-yt-no-cost/"><u>In 2024, Unlock the Secrets to 12 Incredible Gamers' Intro Videos (YT No Cost)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/navigating-non-printing-issues-brother-printer-windows-edition/"><u>Navigating Non-Printing Issues: Brother Printer, Windows Edition</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/navigating-real-time-sharing-with-roku-and-fb-live-for-2024/"><u>Navigating Real-Time Sharing with Roku & FB Live for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210359219-9780578954189-old-crow/"><u>Old Crow | Free Book</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-unlisted-solutions-for-windows-xp-11/"><u>Printer Unlisted: Solutions for Windows XP-11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solving-the-mystery-of-epson-error-0x97/"><u>Solving the Mystery of Epson Error 0X97</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-huawei-nova-y91-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Huawei Nova Y91 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-weather-monitoring-mobile-applications/"><u>Top-Rated Weather Monitoring Mobile Applications</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-guide-flawlessly-handle-pcl-xl-mistakes/"><u>Troubleshooting Guide: Flawlessly Handle PCL XL Mistakes</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/windows-10sd/"><u>Windows 10上でSDカードから消えたファイルを回復する簡単な手順</u></a></li>
 </ul></div>
 

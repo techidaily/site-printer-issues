@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Printer Spits Out Unprinted Sheets"
-date: 2024-11-12T16:31:47.978Z
-updated: 2024-11-13T19:16:18.668Z
+date: 2024-11-13T09:33:12.125Z
+updated: 2024-11-14T05:11:28.298Z
 tags:
   - win11
   - win10
@@ -49,13 +49,6 @@ If the printed output is still missing ink, try the next fix.
 
  The following process may vary depending on different types of printers. If you don’t know how to do it, consult your printer manual for instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Check your ink cartridges
 
  Most printer issues occur when the cartridges installed are not working correctly. To see if that’s the problem for you, follow the instructions below:
@@ -77,6 +70,13 @@ If the printed output is still missing ink, try the next fix.
 If all your cartridges are in good condition, reinstall your cartridges.
 
  Make sure your cartridges all work properly, then try printing a page. If your printer still won’t print, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your printer driver
 
@@ -113,6 +113,13 @@ If all your cartridges are in good condition, reinstall your cartridges.
 
 If your printer still won’t print normally, then try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Run the Windows printer troubleshooter
 
  Windows has built-in troubleshooters for common tech issues. If you run into any printer issues, we recommend that you run the tool to see if it can help you get rid of the problem. Follow the instructions below:
@@ -134,6 +141,13 @@ If your printer still won’t print normally, then try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-30-43.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**  Click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-30-58.jpg)
@@ -152,20 +166,27 @@ If your printer still won’t print normally, then try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-31-53.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click **Printer,**  and then click **Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-32-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Try printing a page after the troubleshooting is complete.
 
 If your problem persists, read on and check the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Configure the Printer Spooler Service
 
@@ -175,13 +196,6 @@ If your problem persists, read on and check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-32-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Select **Services** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-32-30.jpg)
@@ -190,13 +204,6 @@ If your problem persists, read on and check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-857.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Click **Stop** , and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-32-37.jpg)
@@ -204,6 +211,13 @@ If your problem persists, read on and check the fix below.
 **5)**  Open Windows File Explorer (on your keyboard, press the **Windows logo**  key and **E**  at the same time).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-32-56.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Go to **C:\\Windows\\System32\\spool\\PRINTERS** , then delete all files in this folder.
 
@@ -216,35 +230,28 @@ If your problem persists, read on and check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-34-06-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **8)** Double-click **Printer Spooler**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-35-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **9)** Click **Start** . Then, make sure the**Startup type** is set to **Automatic** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-35-29.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **10)** Try printing a page to test your problem.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Repair System Files
 
@@ -261,13 +268,6 @@ If your problem persists, read on and check the fix below.
  4) You can review a summary of the issues detected after the scan is finished. Click **START REPAIR** to start the repair process. This requires the full version – which comes with a **60-day Money-Back Guarantee** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/image-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hopefully, this article helped in resolving your problem. If you have any questions or suggestions, please feel free to leave a comment below.
 
@@ -291,20 +291,19 @@ If your problem persists, read on and check the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-power-players-handbook-secrets-of-successful-instagram-advertising/"><u>[New] 2024 Approved The Power Players' Handbook Secrets of Successful Instagram Advertising</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-issue-fixer-regain-lost-network-print-visibility/"><u>[Print Issue Fixer] Regain Lost Network Print Visibility</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-video-uploads-past-standard-limits-on-instagram/"><u>[Updated] 2024 Approved Mastering Video Uploads Past Standard Limits on Instagram</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-developing-dynamic-instagram-highlight-summaries/"><u>2024 Approved Developing Dynamic Instagram Highlight Summaries</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-infinix-hot-30i-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Infinix Hot 30i by Name | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574061275-b200-bug-fixed-ready-to-go/"><u>B200 Bug Fixed, Ready to Go</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/best-5-youtube-video-editor-alternatives/"><u>Best 5 YouTube Video Editor Alternatives</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719573877149-effortlessly-rectify-canons-no-print-issue-with-these-5-window-11-tips/"><u>Effortlessly Rectify Canon's No-Print Issue with These 5 Window 11 Tips!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-fix-disappearing-printers-in-windows-810/"><u>How to Fix Disappearing Printers in WIndows 8/10</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-tapping-into-youtubes-affiliate-income-streams/"><u>In 2024, Tapping Into YouTube's Affiliate Income Streams</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mastering-the-deletion-of-printers-on-pc/"><u>Mastering the Deletion of Printers on PC</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-not-shown-solutions-for-network-print-issues/"><u>Printer Not Shown: Solutions for Network Print Issues</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solving-officejets-no-print-malaise/"><u>Solving OfficeJet's No Print Malaise</u></a></li>
-<li><a href="https://blog-min.techidaily.com/transformez-vos-audio-aac-en-aiff-sans-frais-via-le-web-guide-complet-pour-movavi/"><u>Transformez Vos Audio AAC en AIFF Sans Frais via Le Web - Guide Complet Pour Movavi</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-the-key-to-success-perfecting-your-online-yt-presence/"><u>[New] 2024 Approved The Key to Success Perfecting Your Online YT Presence</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-comprehensive-guide-to-discovering-dazzling-and-downloadable-images-on-pexels/"><u>[New] A Comprehensive Guide to Discovering Dazzling and Downloadable Images on Pexels</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-achieving-high-view-count-a-youtube-video-guide-for-2024/"><u>[New] Achieving High View Count A YouTube Video Guide for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-seo-for-podcasts-ultimate-guide-to-boost-your-podcast-rankings/"><u>2024 Approved SEO for Podcasts - Ultimate Guide To Boost Your Podcast Rankings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-a2-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from A2.</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-realme-gt-5-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme GT 5 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/comment-commencer-avec-aomei-backupper-standard-gratuit-une-aide-pratique-et-detaillee/"><u>Comment Commencer Avec AOMEI Backupper Standard Gratuit : Une Aide Pratique Et Détaillée</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/effortlessly-establish-canon-printer-link/"><u>Effortlessly Establish Canon Printer Link</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-print-queue-issue-on-win7-pc/"><u>Fixed Print Queue Issue on Win7 PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-tecno-camon-20-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Tecno Camon 20 Data? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mend-w11-printer-communication-errors/"><u>Mend W11 Printer Communication Errors</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-fix-laser-print-nozzle-blockage/"><u>Quick Fix: Laser Print Nozzle Blockage</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-hp-printer-error-oxc4eb827f/"><u>Troubleshooting HP Printer Error OXC4EB827F</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-no-access-to-printer-drivers/"><u>Windows: No Access to Printer Drivers</u></a></li>
 </ul></div>
 

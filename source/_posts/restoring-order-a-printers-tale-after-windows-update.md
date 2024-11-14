@@ -1,7 +1,7 @@
 ---
 title: "Restoring Order: A Printer's Tale After Windows Update"
-date: 2024-11-10T16:53:11.926Z
-updated: 2024-11-13T18:27:28.165Z
+date: 2024-11-10T08:17:19.166Z
+updated: 2024-11-14T03:23:42.063Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/521e77f0b3c0772eff4a23cfd11435c9aec9bd0ff
 4. **[Reset the print spooler](#F4)**
 5. **[Run Windows Troubleshooter](#F5)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Power cycle your printer
 
  Power cycling is often an effective way to fix mysterious glitches on different devices. So you can give it a try to see if this fixes the problem for you.
@@ -50,6 +43,13 @@ Here is how to power cycle your printer:
 4) Test to see if your printer works properly. If yes, then great! If the issue remains, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Make sure your printer is connected
 
@@ -77,13 +77,6 @@ Here is how to power cycle your printer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-188.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -91,13 +84,6 @@ Here is how to power cycle your printer:
 5) Check to see if the printer stopped working issue has been resolved. If yes, then congrats! If the problem still persists, please move on to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reset the print spooler
 
@@ -109,16 +95,22 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-193.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the**Services** window, scroll down until you find**Print Spooler** , then right-click on it and click**Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-194.png)
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) On your keyboard, press the**Windows logo key** and**R** at the same time, then type**%WINDIR%\\system32\\spool\\printers** and press**Enter** .
 
@@ -130,20 +122,27 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-197.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Click**Start** , then in**Startup** **Type** , select**Automatic** and click**OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-198.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Check to see if your printer works properly. If it still doesn’t work, please move on to**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Run Windows Troubleshooter
 
@@ -156,6 +155,13 @@ Here is how to do it:
  2) In the**Troubleshoot** window, scroll down to the**Get up and running** section, click on**Printer** \>**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-209.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Wait for Windows to diagnose the problem and follow the on-screen instructions to resolve the printing not working situation.
 
@@ -180,22 +186,19 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ultimate-gaming-adventure-list-ghost-of-tsushimas-allies/"><u>[New] 2024 Approved Ultimate Gaming Adventure List – Ghost of Tsushima's Allies</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-2-step-plan-to-a-viral-youtube-video/"><u>[Updated] 2024 Approved The 2-Step Plan to a Viral YouTube Video</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-disabling-suggested-podcast-episodes-on-spotify/"><u>[Updated] Disabling Suggested Podcast Episodes on Spotify</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-download-premium-quality-designs-at-no-cost-for-youtube-creators-for-2024/"><u>[Updated] Download Premium-Quality Designs at No Cost – For YouTube Creators for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-journey-beyond-reality-the-best-of-youtubes-virtual-worlds-for-2024/"><u>[Updated] Journey Beyond Reality The Best of YouTube’s Virtual Worlds for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cd-cd/"><u>最高質CDコピー: CDプレーヤー録音技術の基本的な方法</u></a></li>
-<li><a href="https://win-dash.techidaily.com/best-avi-to-iphone-format-transformers-ultimate-guide-for-windows-users/"><u>Best Avi to iPhone Format Transformers: Ultimate Guide for Windows Users</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/defeating-the-bugs-how-to-handle-and-fix-fortnites-ls-0013-problem/"><u>Defeating the Bugs: How to Handle and Fix Fortnite's LS-0013 Problem</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/diagnosing-and-repairing-persistent-bugs-causing-manor-lords-pc-instability/"><u>Diagnosing and Repairing Persistent Bugs Causing Manor Lords PC Instability</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhanced-bioshock-2-fixed-and-updated-version-free-of-crashes/"><u>Enhanced BioShock 2 - Fixed and Updated Version Free of Crashes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-the-issue-how-to-resolve-the-persona-5-strikers-black-screen-problem/"><u>Fixing the Issue: How to Resolve the Persona 5 Strikers' Black Screen Problem</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guilty-gear-strive-troubleshooting-tips-for-keeping-the-fight-going-without-system-crashes/"><u>Guilty Gear Strive Troubleshooting: Tips for Keeping the Fight Going Without System Crashes</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-vivo-x90s-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Vivo X90S ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-6-pillars-of-effective-facebook-live-website-integration/"><u>The 6 Pillars of Effective Facebook Live Website Integration</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/the-great-ai-challenge-which-offers-superior-content-generation/"><u>The Great AI Challenge: Which Offers Superior Content Generation?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-audio-issues-configuring-new-speakers-on-windows-10/"><u>Troubleshooting Audio Issues: Configuring New Speakers on Windows 10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unveiling-the-excellence-of-microsoft-surface-laptop-4-review/"><u>Unveiling the Excellence of Microsoft Surface Laptop 4 Review</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-expertly-selected-best-9-video-conference-apps-for-cross-platform-use/"><u>[Updated] 2024 Approved Expertly Selected Best 9 Video Conference Apps for Cross-Platform Use</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-distance-remote-podcast-broadcast-for-2024/"><u>[Updated] Mastering Distance Remote Podcast Broadcast for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfect-phone-imaging-choose-the-best-camera-additions/"><u>[Updated] Perfect Phone Imaging Choose the Best Camera Additions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-elevate-youtube-video-quality-minimize-distractions/"><u>2024 Approved Elevate YouTube Video Quality, Minimize Distractions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/cure-print-issues-with-windows-11-advice/"><u>Cure Print Issues with Windows 11 Advice</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oppo-a1-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/honeyed-audio-nirvana-at-economical-prices/"><u>Honeyed Audio Nirvana at Economical Prices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-motorola-edge-40-neo-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Motorola Edge 40 Neo to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-installation-for-new-printer-model/"><u>Resolved Installation for New Printer Model</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-post-upgrade-pc-printer-wont-print/"><u>Resolved: Post-Upgrade, PC Printer Won't Print</u></a></li>
+<li><a href="https://article-files.techidaily.com/resonant-revelry-auditory-additions-to-whatsapp-statues-for-2024/"><u>Resonant Revelry Auditory Additions to WhatsApp Statues for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/steps-to-correct-hp-printers-oxc4eb827f-issue/"><u>Steps to Correct HP Printer's OXC4EB827F Issue</u></a></li>
+<li><a href="https://discover-data.techidaily.com/steps-to-retrieve-lost-files-from-your-computers-hard-drive/"><u>Steps to Retrieve Lost Files From Your Computer's Hard Drive</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/usb-printing-issues-post-suspend-with-win7/"><u>USB Printing Issues Post-Suspend with Win7</u></a></li>
 </ul></div>
 

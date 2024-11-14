@@ -1,7 +1,7 @@
 ---
 title: Reviving a Canon Device That Won't React
-date: 2024-11-09T18:27:12.633Z
-updated: 2024-11-13T19:37:36.075Z
+date: 2024-11-06T20:21:03.671Z
+updated: 2024-11-14T01:11:12.165Z
 tags:
   - win11
   - win10
@@ -59,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
  Check your printer manual for information about how to re-pair your printer and your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Run the printer troubleshooter
 
  The Windows built-in troubleshooter can check your Canon printer and fix its issues. To run the printer troubleshooter:
@@ -98,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters-1200x699.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click on the**Run** button next to**Printer** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-Troubleshooter-Printer.jpg)
@@ -105,16 +105,10 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
  Hopefully this will fix your printer. But if not, there are three more fixes for you to try…
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Restart the Print Spooler service
@@ -126,10 +120,10 @@ To reset this service:
 **1)** On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f05e61151ac.png) and **R** at the same time to invoke the Run box.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Type “_**services.msc**_ ” and press**Enter** on your keyboard. This will open the Services window.
@@ -139,6 +133,13 @@ To reset this service:
 **3)** Click **Print Spooler** , then click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320bb1ea13a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Check to see if your printer is able to print.
 
@@ -152,31 +153,31 @@ To reset this service:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f05fa653ea6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Under**View by** , select**Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f05f6349879.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click**Devices and Printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0600edfd3e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Right-click your Canon printer, then click**Printer properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b32122f344d3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Click**Change Properties** .
 
@@ -192,37 +193,24 @@ To reset this service:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b32194502079.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **8)** Click the**General** tab, then click**Print Test Page** to check you’ve made the right change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b321a5ef2bf8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you haven’t, repeat step 7 and 8 until your printer is working properly.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 5: Update your printer driver
@@ -265,24 +253,14 @@ To reset this service:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/compatibility-canon-pixma-mp620-and-windows-11-clash/"><u>[Compatibility] Canon Pixma MP620 and Windows 11 Clash</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixation-local-network-printer-spooler-stuck/"><u>[FIXATION] Local Network Printer Spooler Stuck</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-battle-of-worthies-black-gopros-challenger-is-sony-x1000v/"><u>[New] 2024 Approved Battle of Worthies Black GoPro's Challenger Is Sony X1000V</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-no-copyrights-required-best-10-melodies-for-zen-practice/"><u>[New] No Copyrights Required - Best 10 Melodies for Zen Practice</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-quick-setup-for-hosting-online-seminars-on-pcmac-for-2024/"><u>[New] Quick Setup for Hosting Online Seminars on PC/Mac for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/update-required-mp620-not-recognized-by-windows/"><u>[Update Required] MP620 Not Recognized by Windows</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-precision-screen-capturing-top-tools-reviewed-on-pcmac/"><u>[Updated] In 2024, Precision Screen Capturing Top Tools Reviewed on PC/Mac</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-the-fancy-filter-fest-snapping-with-snapchats-colorful-cartoons/"><u>2024 Approved The Fancy Filter Fest Snapping with Snapchat's Colorful Cartoons</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/acancel-free-setup-for-wi-fi-connected-printers/"><u>Acancel-Free Setup for Wi-Fi Connected Printers</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-honor-x8b-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Honor X8b? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-photo-printer-endless-white-paper-output/"><u>Epson Photo Printer: Endless White Paper Output</u></a></li>
-<li><a href="https://article-helps.techidaily.com/ethical-ambiance-music-streams/"><u>Ethical Ambiance Music Streams</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-nubia-red-magic-9-proplus-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Nubia Red Magic 9 Pro+</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/no-more-white-pages-a-printers-triumph-story/"><u>No More White Pages: A Printer's Triumph Story</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-connect-protocol-printer-online/"><u>Quick Connect Protocol: Printer Online</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlock-the-joy-of-music-with-singing-machine-sml385btbk-a-user-friendly-and-cheerful-review/"><u>Unlock the Joy of Music with Singing Machine SML385BTBK - A User-Friendly & Cheerful Review</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/upgrade-dell-aio-printer-software-in-windows-7/"><u>Upgrade: Dell AIO Printer Software in WIndows 7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/whiteout-printing-issue-plaguing-my-epson-model/"><u>Whiteout Printing Issue Plaguing My Epson Model</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/gear-up-glitch-printer-configuration-error/"><u>Gear Up Glitch: Printer Configuration Error</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-note-12-proplus-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi Note 12 Pro+ 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-investment-in-sound-quality-ranked-list-of-excellent-no-cost-and-full-priced-podcast-editors/"><u>In 2024, The Investment in Sound Quality Ranked List of Excellent, No-Cost and Full-Priced Podcast Editors</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/modern-combat-fixes-eliminating-dev-error-6068-in-call-of-dutys-mw-warzone/"><u>Modern Combat Fixes: Eliminating Dev Error 6068 in Call of Duty's MW Warzone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-dark-mode-clearing-twitch-displays/"><u>Overcoming Dark Mode: Clearing Twitch Displays</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/rapid-recovery-from-common-pcl-xl-failures/"><u>Rapid Recovery From Common PCL XL Failures</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/setup-guide-adding-hp-printer-officejet-pro-to-pc-network/"><u>Setup Guide: Adding HP Printer (Officejet Pro) to PC Network</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-loss-of-printers-internet-connection/"><u>Troubleshooting: Loss of Printer's Internet Connection</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600344854-windows/"><u>Windows用の無料データ回復ツール - ステラデータリカバリ</u></a></li>
 </ul></div>
 

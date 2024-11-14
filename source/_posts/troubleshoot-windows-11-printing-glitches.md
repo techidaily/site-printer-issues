@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Windows 11 Printing Glitches
-date: 2024-11-03T16:58:50.393Z
-updated: 2024-11-04T17:00:34.440Z
+date: 2024-11-06T17:49:44.740Z
+updated: 2024-11-13T16:02:21.378Z
 tags:
   - win11
   - win10
@@ -56,13 +56,6 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970573577e43.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Way 2: Use Windows Update for new drivers**
 
  Please refer to steps below how to use Windows Update in Windows 10 to update drivers.
@@ -71,16 +64,16 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057a9598ee.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In Settings window, click **Update & security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057ddb9441.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) In **UPDATE & SECURITY** , click**Windows Update** in left pane.
 
@@ -89,22 +82,15 @@ For some printers, you need to update the drivers manually step by step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057f2e0efc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click the link that tells you optional updates are available. (If you don’t see this link, it means Windows Update didn’t find any updates for your computer.)
 
  5) Select the driver you want to install, click**OK** , and then click**Install updates** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Way 3: Update your printer driver automatically**
 
@@ -120,11 +106,25 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970588279d8b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the printer driver to automatically download, you can manually install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59705887d6c6d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hopefully you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
@@ -143,16 +143,14 @@ For some printers, you need to update the drivers manually step by step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-navigating-the-maze-mastering-inverted-visual-lookups-in-instagram-photos-for-2024/"><u>[New] Navigating the Maze Mastering Inverted Visual Lookups in Instagram Photos for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/disabling-hp-printers-error-0xoxc4eb827f/"><u>Disabling HP Printer's Error 0xOXC4EB827F</u></a></li>
-<li><a href="https://win11.techidaily.com/dive-into-windows-11-a-guide-to-taskbar-search-functionality/"><u>Dive Into Windows 11: A Guide to Taskbar Search Functionality</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-error-code-b200/"><u>Fixed: Error Code B200</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-deskjet-d1360-driver-compatibility-with-multiple-windows-oses/"><u>HP Deskjet D1360 Driver Compatibility with Multiple Windows OSes</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-6-cost-free-closers-for-your-youtube-video/"><u>In 2024, 6 Cost-Free Closers for Your YouTube Video</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-xcover-7-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Samsung Galaxy XCover 7 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-mastering-speed-easy-steps-to-create-top-notch-slow-motion-on-android/"><u>In 2024, Mastering Speed Easy Steps to Create Top-Notch Slow Motion on Android</u></a></li>
-<li><a href="https://win-latest.techidaily.com/revolutionize-your-music-library-with-these-7-strategies-for-moving-tunes-from-one-iphone-to-another/"><u>Revolutionize Your Music Library with These 7 Strategies for Moving Tunes From One iPhone to Another</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tackle-windows-10-printer-setup-woes/"><u>Tackle Windows 10 Printer Setup Woes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-switching-to-chatgpts-desktop-application-is-a-smart-choice-over-using-its-online-version/"><u>Why Switching to ChatGPT's Desktop Application Is a Smart Choice Over Using Its Online Version</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-essential-steps-for-sifting-through-facebook-videos/"><u>[Updated] Essential Steps for Sifting Through Facebook Videos</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/assisting-with-the-installation-of-hp-officejet-pro-8600/"><u>Assisting with the Installation of HP Officejet Pro 8600</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-reveal-surprisingly-excellent-non-flagship-samsung-tablet-at-unbeatable-price-for-holiday-shoppers-zdnet-insights/"><u>Experts Reveal Surprisingly Excellent Non-Flagship Samsung Tablet at Unbeatable Price for Holiday Shoppers | ZDNET Insights</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Oppo Find X6? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-more-gaps-in-documents-with-new-fixes/"><u>No More Gaps in Documents with New Fixes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcome-print-errors-windows-10-solutions/"><u>Overcome Print Errors: Windows 10 Solutions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/repairing-unresponsive-printers/"><u>Repairing Unresponsive Printers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/google-seo/"><u>ビデオ容量拡大手引きマニュアル - Google SEO対応</u></a></li>
 </ul></div>
 

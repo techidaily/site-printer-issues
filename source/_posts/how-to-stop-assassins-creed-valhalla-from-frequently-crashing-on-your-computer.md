@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Assassin's Creed: Valhalla From Frequently Crashing on Your Computer"
-date: 2024-11-07T16:22:20.553Z
-updated: 2024-11-13T18:48:05.260Z
+date: 2024-11-11T19:16:39.049Z
+updated: 2024-11-13T19:30:11.116Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/8e9871ece440ba59c8d9840801e94460c09fbc87b
 7. **[Check the launcher log](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall Assassin’s Creed Valhalla](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your specs meet the requirements
 
  Just like the notorious Watch Dogs: Legion, Assassin’s Creed Valhalla is one of the best offerings of Ubisoft in 2020\. And when it comes to AAA titles in a Ray Tracing era, having a great gaming setup becomes a must for all the aficionados out there. So before you dive into any advance troubleshooting below, first**make sure your PC specs meets the minimum game requirements** :
@@ -58,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/8e9871ece440ba59c8d9840801e94460c09fbc87b
 
  If you’re sure that your gaming rig is ready for the game, you can take a look at the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  So let’s start from some easy troubleshooting. The in-game crashes or crashing at clicking “New Game” might indicate**an integrity issue with your game files** . It’s a common issue when you encounter network glitches. You can follow these steps to check and repair any corrupted files:
@@ -68,16 +82,10 @@ thumbnail: https://thmb.techidaily.com/8e9871ece440ba59c8d9840801e94460c09fbc87b
 3. Select **Verify files** . Then wait for the checking to complete.  
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
@@ -85,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/8e9871ece440ba59c8d9840801e94460c09fbc87b
  Now you can launch Assassin’s Creed Valhalla and check if it crashes again.
 
  If verifying game files didn’t help your case, simply check out the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -96,13 +111,6 @@ You can use these steps to check for Windows updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . Windows will automatically download and install all the available updates. This might take up to an hour depending on your Internet speed.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  In some cases, you might need to check several times to get all the updates. Simply repeat these steps until it prompts**You’re up to date** when you click**Check for updates** .
@@ -110,6 +118,13 @@ You can use these steps to check for Windows updates manually:
  Once you’ve fully updated your system, restart your PC and check if Assassin’s Creed Valhalla becomes stable.
 
 If the crash happens again, you can take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -146,19 +161,6 @@ If the crash happens again, you can take a look at the next fix.
 
  If the driver update doesn’t do the trick for you, simply continue to the next fix below.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Lower in-game graphics settings
 
  Assassin’s Creed Valhalla offers in-depth customization options, meaning that you can tweak all kinds of settings to make the most of your game and hardware. But new games tend to be buggy. It’s very likely that some settings are still under development. Worst case scenario, they could be the culprit of your crashes.
@@ -178,23 +180,9 @@ If the crash happens again, you can take a look at the next fix.
 
  If disabling peripherals doesn’t work for you, or you’re not using any at the first place, you can take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Check the launcher log
 
  If you’re a tech-savvy player, one effective way to troubleshoot is to check the**launcher\_log.txt** after crashing. The default location to find your log files is:**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\logs** . In the file named**launcher\_log.txt** , you should see what happened exactly. Check if the crash involves certain game files. If yes, delete them and run a**Scan and Repair** to re-download the latest files.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Assassin’s Creed Valhalla
 
@@ -219,16 +207,21 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-exploring-public-domain-art-what-is-it-and-website-recommendations-for-2024/"><u>[New] Exploring Public Domain Art What Is It and Website Recommendations for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/defeating-paper-jams-fixing-spooler-issues-win-1011/"><u>Defeating Paper Jams: Fixing Spooler Issues (Win 10/11)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-fixes-when-watching-paramountplus-on-amazons-firestick-keeps-failing/"><u>Easy Fixes When Watching Paramount+ on Amazon's Firestick Keeps Failing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/enhance-your-windows-11-browsing-with-these-6-key-strategies/"><u>Enhance Your Windows 11 Browsing with These 6 Key Strategies</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-tech-choices-the-definitive-guide-to-buying-the-right-computer-for-your-studies/"><u>Navigating Tech Choices: The Definitive Guide to Buying the Right Computer for Your Studies</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcome-brother-printer-print-failures-on-windows-systems/"><u>Overcome Brother Printer Print Failures on Windows Systems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-service-restored-in-win7/"><u>Print Service Restored in Win7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-for-non-appearing-logins-in-win1011-systems/"><u>Remedy for Non-Appearing Logins in Win10/11 Systems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solve-inkjet-driver-errors-on-w11/"><u>Solve Inkjet Driver Errors on W11</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellar-reinvents-its-data-recovery-software-for-consumers-ease/"><u>Stellar Reinvents Its Data Recovery Software for Consumers' Ease</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/1726026937772-windows/"><u>Windowsパソコン向けビデオのテキスト添加手順</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-cutting-edge-tips-for-professional-lunapic-editing/"><u>[Updated] 2024 Approved Cutting-Edge Tips for Professional LunaPic Editing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premier-promises-the-art-of-the-podcast-prelude/"><u>[Updated] Premier Promises The Art of the Podcast Prelude</u></a></li>
+<li><a href="https://fox-access.techidaily.com/action-cam-faceoff-hero5-black-and-yis-4k-battle-revisited/"><u>Action Cam Faceoff Hero5 Black and Yi's 4K Battle Revisited</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/deciphering-hp-printers-error-code-oxc4eb827f/"><u>Deciphering HP Printer's Error Code OXC4EB827F</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/diagnose-and-cure-win10-print-spooler-hiccups/"><u>Diagnose & Cure WIN10 Print Spooler Hiccups</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/domain-services-unreachable-print-issue/"><u>Domain Services Unreachable, Print Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/dread-hunger-pc-issues-discover-how-to-prevent-unexpected-game-closures/"><u>Dread Hunger PC Issues? Discover How to Prevent Unexpected Game Closures!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-non-responsive-epson-device/"><u>Fixed Non-Responsive Epson Device</u></a></li>
+<li><a href="https://howto.techidaily.com/game-changing-gadget-unveiled-in-depth-look-at-the-ultimate-handheld-device-nintendo-switch/"><u>Game-Changing Gadget Unveiled - In Depth Look at the Ultimate Handheld Device, Nintendo Switch</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/healed-printer-communication-link/"><u>Healed Printer Communication Link</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/install-brother-wireless-9330cdw-fan/"><u>Install Brother Wireless 9330CDW Fan</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016833548-quick-fix-solutions-get-your-world-of-warcraft-voice-back-on-track/"><u>Quick Fix Solutions: Get Your World of Warcraft Voice Back on Track</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-to-get-your-wacom-intuos-pro-driver-running-on-windows-10/"><u>Step-by-Step Tutorial to Get Your Wacom Intuos Pro Driver Running on Windows 10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/successful-installation-of-multi-function-printer/"><u>Successful Installation of Multi-Function Printer</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2562573-9781782797784-the-art-of-ritual/"><u>The Art of Ritual | Free Book</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/ultimate-collection-top-6-fb-lite-vids/"><u>Ultimate Collection #Top 6 FB Lite Vids</u></a></li>
 </ul></div>
 

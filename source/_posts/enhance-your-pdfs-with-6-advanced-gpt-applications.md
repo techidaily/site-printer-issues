@@ -1,7 +1,7 @@
 ---
 title: Enhance Your PDFs with 6 Advanced GPT Applications
-date: 2024-11-08T16:23:07.202Z
-updated: 2024-11-13T17:21:38.501Z
+date: 2024-11-12T12:17:37.414Z
+updated: 2024-11-13T16:09:29.929Z
 tags:
   - chatgpt
   - open-ai
@@ -23,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 * [Upgraded Code Analysis](https://www.makeuseof.com/chatgpt-new-features-spring-update/#upgraded-code-analysis)
 * [Temporary Chat](https://www.makeuseof.com/chatgpt-new-features-spring-update/#temporary-chat)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * ChatGPT now converses with image inputs and outputs, providing accurate results and generated images in its responses.
@@ -37,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 * ChatGPT-4o enables users to engage in multi-modal voice and video interactions, fostering real-time conversations and versatile AI assistance.
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Image Input and Output Capabilities
 
@@ -46,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
 
  Aside from taking images as input, ChatGPT can also generate DALL-E images within the interaction.
@@ -61,15 +54,28 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use[third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Expanded Knowledge Base and Cross-Chat Memory
@@ -105,10 +111,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
@@ -140,22 +146,20 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/driver-update-required-hp-d1360-on-various-windows-platforms/"><u>[Driver Update Required] HP D1360 on Various Windows Platforms</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-exclusive-insight-free-access-to-1-6-video-clips/"><u>[New] Exclusive Insight Free Access to #1-#6 Video Clips</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-pixiz-for-creating-dynamic-photo-videos/"><u>[New] Mastering Pixiz for Creating Dynamic Photo Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-dji-inspire-2s-features/"><u>[New] Unveiling DJI Inspire 2'S Features</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-developing-optimal-canon-chrono-recordings/"><u>[Updated] In 2024, Developing Optimal Canon Chrono Recordings</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-cutting-edge-engines-the-quintessential-qxp-motors-guide/"><u>2024 Approved Cutting-Edge Engines The Quintessential QXP Motors Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/every-game-ever-a-universal-dream-achieved/"><u>Every Game Ever - A Universal Dream Achieved</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/exploring-efficient-methods-printer-and-laptop-harmony-achieved/"><u>Exploring Efficient Methods: Printer & Laptop Harmony Achieved</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/finding-hp-printer-drivers-on-windows-1011/"><u>Finding HP Printer Drivers on Windows 10/11</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-from-hobbyist-to-host-mac-sports-channel-creation/"><u>In 2024, From Hobbyist to Host Mac Sports Channel Creation</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-oppo-find-x7-ultra-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Oppo Find X7 Ultra Lock Screen Password</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reinstating-scan-functionality-in-windows-11/"><u>Reinstating Scan Functionality in Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/silent-shutdown-wake-up-with-these-troubleshooting-steps/"><u>Silent Shutdown? Wake Up With These Troubleshooting Steps</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/speedy-updates-for-sluggish-printers/"><u>Speedy Updates for Sluggish Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/stop-windows-print-service-from-frequently-stopping/"><u>Stop Windows Print Service From Frequently Stopping</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamlining-repairs-for-pcl-xl-glitches/"><u>Streamlining Repairs for PCL XL Glitches</u></a></li>
-<li><a href="https://windows11.techidaily.com/unplugging-and-plugging-in-your-wireless-mouse-quick-fixes/"><u>Unplugging and Plugging In Your Wireless Mouse - Quick Fixes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-phones-as-webcams-tips-and-tricks-for-quality-videos/"><u>[Updated] 2024 Approved Phones as Webcams Tips and Tricks for Quality Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-mastering-media-subtitles-transformation/"><u>[Updated] In 2024, Mastering Media Subtitles Transformation</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-essential-techniques-for-color-enhancement-in-ps/"><u>2024 Approved Essential Techniques for Color Enhancement in PS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eliminate-constant-spooler-pauses-across-win-versions/"><u>Eliminate Constant Spooler Pauses Across Win Versions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-connectivity-now-functional/"><u>Epson Connectivity Now Functional</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guide-rapide-transformation-dun-fichier-vob-en-asf-sans-cout-utilisation-du-convertisseur-video-libre/"><u>Guide Rapide : Transformation D'un Fichier VOB en ASF Sans Coût - Utilisation Du Convertisseur Vidéo Libre</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hasten-printer-job-advancement/"><u>Hasten Printer Job Advancement</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/immaculate-documents-from-hp-printer-post-correction/"><u>Immaculate Documents From HP Printer Post-Correction</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flip-funny-with-zero-cost-createyourmemes/"><u>In 2024, Flip Funny with Zero Cost - CreateYourMemes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/oddity-in-output-multiple-users-on-one-printer/"><u>Oddity in Output: Multiple Users on One Printer</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-itel-a05s-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Itel A05s</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrading-widely-used-directx-classics-through-dxvk/"><u>Upgrading Widely-Used DirectX Classics Through DXVK</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win-711-spooler-stops-quick-fix-guide/"><u>Win 7/11 Spooler Stops: Quick Fix Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/wireless-paper-refilling-for-hp-officejet-pro-m574dw/"><u>Wireless Paper Refilling for HP Officejet Pro M574dw</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quickly Rectify Non-Printing Problem: Top 5 Techniques to Aid Canon Print on Window 11"
-date: 2024-11-11T17:39:57.416Z
-updated: 2024-11-13T16:32:28.148Z
+date: 2024-11-07T06:06:21.417Z
+updated: 2024-11-14T12:09:47.360Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ If your problem persists, try the fixes below.
 4. **[Set Canon as the default printer](#fix4)**
 5. **[Delete print jobs from the print queue](#fix5)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check the connection status
 
  Difficulty printing from your PC can occur for various reasons. The most common reason is because the connection between the computer and the machine is lost. So before heading into the more complicated fixes, you need to take some basic troubleshooting steps to resolve the issue.
@@ -59,6 +66,13 @@ If your printer is still not working properly, proceed to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Temporarily disable the firewall
 
  Firewall software helps block threats from outside your network, but some settings or configurations can block communication with your printer and may reject the connection needed for your machine to work properly. To resolve this, disable the firewall from your computer and try to print again.
@@ -69,40 +83,13 @@ If your printer is still not working properly, proceed to the next fix.
   
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/windows-defender-firewall.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the left side of the window, click**Turn Windows Defender Firewall on or off** .  
   
 ![disable Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/turn-Windows-Defender-Firewall-on-or-off.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Tick**Turn off Windows Defender Firewall** for both public and private networks. Then click**OK** to confirm the changes.  
   
 ![turn off windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/turn-off-windows-defender-firewall-1.png)
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **To configure firewall settings in other security software:**
 
@@ -116,24 +103,18 @@ You can disable the firewall in software by clicking the link below.
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Update your printer driver
 
  After connecting your Canon printer to Windows, to ensure it works properly, you need to install a proper driver. But if your printer driver is faulted or outdated, issues like printer not printing will arise. So if you can’t remember when was the last time you updated your printer driver, do it now as it may fix your issue right away.
 
  There are mainly two ways you can update your printer driver:[manually](#option1) and [automatically](#option2) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Manually update your printer driver
 
@@ -169,10 +150,10 @@ Here’s how you can update your drivers with Driver Easy:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Set Canon as the default printer
@@ -195,15 +176,28 @@ Here’s how you can update your drivers with Driver Easy:
   
 ![set Canon printer as the default printer](https://images.drivereasy.com/wp-content/uploads/2021/01/set-as-default-printer.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now perform printing tasks to check if it works.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Delete print jobs from the print queue
@@ -232,18 +226,18 @@ Now perform printing tasks to check if it works.
 
 ![stop the Print Spooler](https://images.drivereasy.com/wp-content/uploads/2021/01/stop-the-printing-service.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Note: Do not close the Services window, simply minimize it as you’ll go back to it later.
 
  4) After the print spooler service has stopped, press the**Windows logo key** and**R** at the same time to open the Run box. Then type**spool** in the field and press**Enter** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/spool-in-the-run-box.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Open the**PRINTERS** folder.  
   
@@ -280,22 +274,14 @@ Now perform printing tasks to check if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-echoes-unleashed-mac-studio-techniques-for-2024/"><u>[New] Echoes Unleashed Mac Studio Techniques for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-capture-your-music-5-pro-tips-for-streaming-sound-online/"><u>[Updated] Capture Your Music 5 Pro Tips for Streaming Sound Online</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-discovering-your-iphones-top-free-photo-arrangement-and-editing-tools/"><u>[Updated] Discovering Your iPhone's Top Free Photo Arrangement & Editing Tools</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-sharing-sites-guide-for-instagram-story-and-post-links/"><u>[Updated] Sharing Sites Guide for Instagram Story and Post Links</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/active-directory-unavailable-print-error-noted/"><u>Active Directory Unavailable, Print Error Noted</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/affordable-excellence-with-the-apple-watch-se-in-depth-review/"><u>Affordable Excellence with the Apple Watch SE - In-Depth Review</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-oppo-a58-4g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Oppo A58 4G? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/avoiding-printer-isolation-brothers-network-recovery-plan/"><u>Avoiding Printer Isolation: Brother's Network Recovery Plan</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/correct-windows-11-printer-connection-fails/"><u>Correct Windows 11 Printer Connection Fails</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/decoding-pcl-xl-hurdles-quickly-and-smoothly/"><u>Decoding PCL XL Hurdles Quickly and Smoothly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-steps-to-correct-the-absent-msvcr7t16dll-file-warning/"><u>Easy Steps to Correct the Absent Msvcr7t16.dll File Warning</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/optimized-installation-process-hp-officejet-pro-8600-windows-driver/"><u>Optimized Installation Process: HP OfficeJet Pro 8600 Windows Driver</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-printer-disconnection-challenges/"><u>Overcoming Printer Disconnection Challenges</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/seamless-printing-setup-for-hp-and-laptops-immediate-solutions/"><u>Seamless Printing Setup for HP & Laptops - Immediate Solutions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-verdict-on-the-xp-pen-artist-16-pro-professional-digital-canvas-assessment/"><u>The Ultimate Verdict on the XP-Pen Artist 16 Pro - Professional Digital Canvas Assessment</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-6-networks-transforming-how-firms-connect-and-engage/"><u>Top 6 Networks Transforming How Firms Connect and Engage</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win11-rev-fixes-resurrected-non-printing-printer/"><u>Win11 Rev Fixes: Resurrected Non-Printing Printer</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-become-a-social-media-vanguard-top-10-pioneering-igtv-techniques-for-marketing-excellence/"><u>[New] 2024 Approved Become a Social Media Vanguard Top 10 Pioneering IGTV Techniques for Marketing Excellence</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solution-center-finding-hidden-network-devices-in-win-10/"><u>[Solution Center] Finding Hidden Network Devices in Win 10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/convenient-canon-printer-wireless-integration/"><u>Convenient Canon Printer Wireless Integration</u></a></li>
+<li><a href="https://facebook.techidaily.com/cut-off-social-buttons-on-fb-nostalgia-feature/"><u>Cut Off Social Buttons on FB Nostalgia Feature</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eradicating-printers-from-windows-system/"><u>Eradicating Printers From Windows System</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-solutions-for-brother-printer-print-problems-in-windows-1011/"><u>Quick Solutions for Brother Printer Print Problems in Windows 10/11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-multilingual-maven-writes-on-cutting-edge-video-translators-ranked-23-for-2024/"><u>The Multilingual Maven’ Writes On Cutting-Edge Video Translators Ranked 23 for 2024</u></a></li>
 </ul></div>
 

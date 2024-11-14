@@ -1,7 +1,7 @@
 ---
 title: Detroit LLC PC Version - Fixed Issues & Optimal Performance
-date: 2024-11-11T19:33:30.705Z
-updated: 2024-11-13T16:49:24.649Z
+date: 2024-11-13T09:23:18.063Z
+updated: 2024-11-14T01:51:03.720Z
 tags:
   - win11
   - win10
@@ -61,22 +61,15 @@ Here’s how you can download and install Windows updates:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/device-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click on the arrow next to**Display adapters** . Right-click your device and select**Properties** .  
   
 ![how to roll back NVIDIA driver](https://images.drivereasy.com/wp-content/uploads/2021/04/roll-back-your-drivers.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click on the**Driver** tab. Then click**Roll Back Driver** and follow the on-screen instructions to finish the process.  
@@ -101,21 +94,28 @@ Here’s how you can download and install Windows updates:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![AMD driver with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/update-driver-AMD.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Switch to DX11
 
@@ -127,20 +127,33 @@ Here’s how you can do this:
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select the**GENERAL**  tab. Then under the**LAUNCH OPTIONS** section, type**\-force -dx11** in the text field. This command line will allow you to run your game in DX11 mode.  
   
 ![switch to DX11 mode Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/DX11.png)
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After switching to DX11, play Outriders to check if it helps alleviate some stutters during your gameplay.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Verify integrity of game files
 
@@ -151,13 +164,6 @@ To verify the integrity of game files, take these steps:
  1) Open your Steam client. Under LIBRARY, right-click your game title and select **Properties** .  
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Select the **LOCAL FILES**  tab and then click on the **Verify integrity of game files…**  button.
 
@@ -177,27 +183,33 @@ To verify the integrity of game files, take these steps:
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the**GENERAL** tab, uncheck the box next to**Enable the Steam Overlay while in-game** .  
   
 ![disable Steam overlay Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-steam-overlay.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now play Outriders to see if you can get better gaming performance.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Close unnecessary programs
 
@@ -209,16 +221,16 @@ Now play Outriders to see if you can get better gaming performance.
   
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Outriders and select **End task** .
 
 ![disable programs running in the background Call of Duty Black Ops Cold War crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After you’ve done these, play Outriders to check if it should look better.
 
@@ -241,20 +253,18 @@ Now play Outriders to see if you can get better gaming performance.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-quick-click-compilation-top-10-fastest-phone-and-pc-apps/"><u>[New] In 2024, Quick Click Compilation Top 10 Fastest Phone & PC Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-omniimageai-holistic-editing-experience/"><u>[New] OmniImageAI Holistic Editing Experience</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-premiere-visionary-film-glimpses/"><u>[New] Premiere Visionary Film Glimpses</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-upload-videos-to-youtube-a-step-by-step-guide-for-2024/"><u>[Updated] How To Upload Videos to YouTube [a Step-by-Step Guide] for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/advanced-cropping-skills-for-image-clarity-for-2024/"><u>Advanced Cropping Skills for Image Clarity for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/driver-missing-mp620-printer-unresponsive-in-win11/"><u>Driver Missing: MP620 Printer Unresponsive in Win11</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/endless-escapades-top-10-best-freeware-online-rpgs/"><u>Endless Escapades Top 10 Best Freeware Online RPGs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guide-to-reconnecting-overcoming-offline-print-spooler/"><u>Guide to Reconnecting: Overcoming Offline Print Spooler</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-xiaomi-redmi-a2plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-non-response-solved-windows-9x-fix-guide/"><u>HP Printer Non-Response Solved: Windows 9X Fix Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reactivating-scanner-in-upgraded-windows-10-version/"><u>Reactivating Scanner in Upgraded Windows 10 Version</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/speedy-setup-for-rapid-prints/"><u>Speedy Setup for Rapid Prints</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tips-to-restart-stuck-hp-printers/"><u>Tips to Restart Stuck HP Printers</u></a></li>
-<li><a href="https://article-files.techidaily.com/unleashing-time-management-mastery-with-zero-cost-clocks-for-2024/"><u>Unleashing Time Management Mastery with Zero Cost Clocks for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/winnt98-restore-efficient-printer-responsiveness/"><u>WinNT/98: Restore Efficient Printer Responsiveness</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snapshot-savvy-the-gif-journey-on-snapchat/"><u>[New] 2024 Approved Snapshot Savvy The GIF Journey on Snapchat</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-handheld-vr-camera-stability-enhancer/"><u>[Updated] Handheld VR Camera Stability Enhancer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canon-mf4770n-driver-update-in-windows-1187/"><u>Canon MF4770n Driver Update in Windows 11/8/7</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/clearer-sound-with-these-ipad-tips/"><u>Clearer Sound with These iPad Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvd-winx-dvd-copy-pro/"><u>DVDコピーのためのウィンクス - WinX DVD Copy Proの信頼度を知りましょう: 専門家から一般ユーザーへのレビュー比較</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/get-your-printer-back-in-action-on-windows-11/"><u>Get Your Printer Back in Action on Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-8-plus-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-instagrams-new-trends-reels-and-stories-for-2024/"><u>Mastering Instagram’s New Trends Reels and Stories for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-offline-hp-printer-woes/"><u>Overcoming Offline HP Printer Woes</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/photo-perfection-how-to-automatically-save-snaps-from-snapchat/"><u>Photo Perfection How to Automatically Save Snaps From Snapchat</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/restore-deleted-photos-from-xd-memory-cards-with-myrecovery/"><u>Restore Deleted Photos From xD Memory Cards with MyRecovery</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/step-by-step-tutorial-for-integrating-subtitles-into-your-imovie-projects-plus-alternatives/"><u>Step-by-Step Tutorial for Integrating Subtitles Into Your iMovie Projects Plus Alternatives</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-searches-for-non-existent-printer-driver/"><u>Windows Searches for Non-Existent Printer Driver</u></a></li>
 </ul></div>
 

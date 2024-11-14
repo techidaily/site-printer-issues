@@ -1,7 +1,7 @@
 ---
 title: Stop Windows Print Spooler From Freaking Out
-date: 2024-10-31T16:46:11.115Z
-updated: 2024-11-04T16:03:52.415Z
+date: 2024-11-10T21:31:29.255Z
+updated: 2024-11-13T19:29:15.741Z
 tags:
   - win11
   - win10
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/f07bcde69983933cb76ff9d178455e2b69ef74b8f
 ## What’s the print spooler?
 
  The print spooler is a Windows service that manages all the print jobs you send to your printer. If the service isn’t running, your printer won’t work.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How do I fix print spooler keeps stopping?
 
@@ -48,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/f07bcde69983933cb76ff9d178455e2b69ef74b8f
 
 4) Check to see if your printer works.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Check if the Print Spooler service is set to Automatic
 
  If the print spooler service isn’t set to automatic, it won’t turn on when Windows starts, and your printer won’t work until you manually start the service.
@@ -75,13 +75,6 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a51825cb795.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Check to see if your printer works.
 
 ### Method 3: Change the Print Spooler Recovery options
@@ -101,10 +94,10 @@ To set it to auto:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a54177dc82e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click **Recovery** , ensure all **three** **failure fields** are set to **Restart the Service**  and click**Apply** \> **OK** .
@@ -114,10 +107,10 @@ To set it to auto:
  5) Check to see if your printer works.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 4: Delete your print spooler files
@@ -129,6 +122,13 @@ To set it to auto:
 2) Type**services.msc** and press**Enter** to open the**Services** window:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a50a818f88a.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Click **Print Spooler** , then **Stop** .
 
@@ -144,6 +144,13 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/PRINTERS.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re prompted about permission, click **Continue** .
 
  7)**Delete all the files** in PRINTERS folder.You should then see **This folder is empty** :
@@ -156,22 +163,15 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a53a72eb0b7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  10) On the open window, choose to view by**Catalog** . Then click**View devices and printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/control-Panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  11) Right-click on your printer and click **Remove device** :
@@ -190,18 +190,18 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/PRINTERS-ICON.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  15) **Right-click on the blank area** and click **Add a printer**  , then follow the on-screen instructions to re-add your printer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a542a63d1d0.png)
 
 16) Check to see if your printer works.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Update your printer driver
 
@@ -218,10 +218,10 @@ To set it to auto:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975af310cda9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Click the **Update**  button next to a flagged printer driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -249,20 +249,15 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-time-management-mastery-slack-and-filmora-for-productive-team-meetings/"><u>[New] Time Management Mastery Slack & Filmora for Productive Team Meetings</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-harmonious-hits-free-download-zones-for-skype-tunes/"><u>[Updated] 2024 Approved Harmonious Hits Free Download Zones for Skype Tunes</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-zipping-to-captions-direct-method-for-srt-file-creation/"><u>[Updated] 2024 Approved Zipping to Captions Direct Method for .Srt File Creation</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-augment-canon-imagery-unlimited-freebies-and-customized-purchases/"><u>2024 Approved Augment Canon Imagery Unlimited Freebies & Customized Purchases</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-uncomplicated-techniques-reverse-playback-in-vlc-media-player/"><u>2024 Approved Uncomplicated Techniques Reverse Playback in VLC Media Player</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-newest-network-drivers-from-intel-supports-windows-11107/"><u>Download the Newest Network Drivers From Intel - Supports Windows 11/10/7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/error-0x00000709-windows-printer-setup-successfully-fixed/"><u>Error 0X00000709: Windows Printer Setup Successfully Fixed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/high-performance-drivers-hp-officejet-pro-8600-for-windows-pcs/"><u>High-Performance Drivers: HP Officejet Pro 8600 for Windows PCs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-xiaomi-redmi-note-12-4g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Xiaomi Redmi Note 12 4G to Another | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/precision-guided-instructions-your-ultimate-guide-to-hp-printer-installation/"><u>Precision-Guided Instructions: Your Ultimate Guide to HP Printer Installation</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reconciled-printer-not-responding/"><u>Reconciled: Printer Not Responding</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reviving-a-non-responsive-canon-printer/"><u>Reviving a Non-Responsive Canon Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/the-quick-cure-for-common-pcl-xl-discrepancies/"><u>The Quick Cure for Common PCL XL Discrepancies</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/k-the-potential-of-your-video-platform-growth-for-2024/"><u>Unlock the Potential of Your Video Platform Growth for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/why-is-my-printer-black-and-white/"><u>Why Is My Printer Black & White?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-new-dimensions-of-virtual-reality-with-htc-vive-review/"><u>2024 Approved Explore New Dimensions of Virtual Reality with HTC Vive Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/automation-made-easy-ubuntu-plus-gpt-setup/"><u>Automation Made Easy: Ubuntu + GPT Setup</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-clever-design-a-comprehensive-review-of-twelve-south-bookbook-v2-case/"><u>Evaluating the Clever Design: A Comprehensive Review of Twelve South BookBook V2 Case</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-13-ultra-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-infinix-gt-10-pro-by-drfone-android/"><u>How to Show Wi-Fi Password on Infinix GT 10 Pro</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/prompt-recovery-from-idle-printer-job-queue/"><u>Prompt Recovery From Idle Printer Job Queue</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/seamless-setup-with-win32-officejet-pro-8600-drivers/"><u>Seamless Setup with Win32 Officejet Pro 8600 Drivers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/steps-for-reviving-offline-printers/"><u>Steps for Reviving Offline Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/turn-on-offline-hp-desktop-printer-in-wx-2003/"><u>Turn On Offline HP Desktop Printer in WX 2003</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 

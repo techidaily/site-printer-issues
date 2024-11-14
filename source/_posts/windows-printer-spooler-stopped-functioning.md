@@ -1,7 +1,7 @@
 ---
 title: "Windows Printer Spooler: Stopped Functioning"
-date: 2024-11-06T16:19:29.654Z
-updated: 2024-11-13T18:18:24.798Z
+date: 2024-11-07T10:15:00.706Z
+updated: 2024-11-13T23:49:54.065Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/0f3aee40842c77652092959c44bb37ef79d636e0b
 4. [**Install all Windows updates**](#fix4)
 5. **[Check for corrupted system files](#fix5)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1:**Reconfigure the printer service**
 
  First you can start by troubleshooting settings of services. By default the Print Spooler service runs automatically, but you should check to**make sure everything is configured properly** .
@@ -40,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/0f3aee40842c77652092959c44bb37ef79d636e0b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/print-spooler-services-properties.jpg)
 3. Make sure**Startup type** is set to**Automatic** . You can also try to manually start the service by clicking**Start** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/print-spooler-services-properties-2.jpg)
 4. Navigate to the**Recovery** tab. Make sure**First failure** and**Second failure** are set to**Restart the Service** ,**Reset fail count after** is set to**1** days,**Restart service** after**1** minutes. Once completed, click**OK** to save the changes.  
@@ -62,19 +62,20 @@ thumbnail: https://thmb.techidaily.com/0f3aee40842c77652092959c44bb37ef79d636e0b
 5. Restart your PC and check if the Print Spooler service is up and running. If you have access to the printer, give it a reboot as well.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If the error persists, you can check out the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: **Run the troubleshooter**
 
@@ -84,23 +85,30 @@ If the error persists, you can check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/update-and-security.png)
 2. On the left pane, select**Troubleshoot** . Click**Additional troubleshooters** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Select**Printer** . Then follow the on-screen instructions to troubleshoot.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/troubleshooter-printer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the troubleshooter can’t help you fix the issue, take a look at the next method.
@@ -119,21 +127,7 @@ If the error persists, you can check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/device-manager-reinstall-printer-02.jpg)
 4. Click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/device-manager-reinstall-printer-03.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Usually Windows will install the missing printer driver automatically after a reboot. But if it doesn’t, you need to go to**your printer manufacturer’s website** and search for your printer model. Be sure to download the latest correct driver installer that’s compatible with your system. If you’re not familiar with computer drivers, you can use [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) to**repair and update drivers automatically** .
 
@@ -144,6 +138,13 @@ If the error persists, you can check out the next fix.
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de-update-printer-m477.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -178,13 +179,6 @@ If the error persists, you can check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -210,24 +204,14 @@ If the error persists, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/driver-issue-canon-pixma-mp620-unsupported-by-win10/"><u>[Driver Issue] Canon Pixma MP620 Unsupported by WIN10</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-a-comprehensive-guide-to-facebooks-full-screen-feature/"><u>[New] 2024 Approved A Comprehensive Guide to Facebook's Full Screen Feature</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-experience-ultra-clarity-in-xiaomis-screen-capture-technology-for-2024/"><u>[New] Experience Ultra Clarity in Xiaomi's Screen Capture Technology for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-choose-wisely-the-best-10-mac-video-capture-software-reviewed/"><u>[New] In 2024, Choose Wisely The Best 10 Mac Video Capture Software Reviewed</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-quicktakes-why-videos-thrive-on-twitter-writes/"><u>[New] QuickTakes Why Videos Thrive on Twitter' Writes</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-explore-the-best-ps2-emulation-software-for-android/"><u>[Updated] Explore the Best PS2 Emulation Software for Android</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-resonance-of-rhythm-music-that-echoes-films/"><u>2024 Approved The Resonance of Rhythm Music That Echoes Films</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/addressing-clogged-toner-cartridges/"><u>Addressing Clogged Toner Cartridges</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/disconnecting-all-print-devices-at-once-on-pc/"><u>Disconnecting All Print Devices at Once on PC</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enabling-scanner-after-windows-10-update/"><u>Enabling Scanner After Windows 10 Update</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/eradicate-brother-printers-no-print-dilemma-on-windows/"><u>Eradicate Brother Printer's No-Print Dilemma on Windows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/hasten-your-windows-doc-analysis-process/"><u>Hasten Your Windows Doc Analysis Process</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-xiaomi-civi-3-disney-100th-anniversary-edition-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Xiaomi Civi 3 Disney 100th Anniversary Edition to Protect Your Individual Information</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-iphones-best-camera-combo-utilities/"><u>In 2024, IPhone's Best Camera Combo Utilities</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-online-on-windows-7-after-troubleshooting/"><u>Printer Online on Windows 7 After Troubleshooting</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-woes-after-suspend-on-windows-7-systems/"><u>Printer Woes After Suspend on Windows 7 Systems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-scan-to-computer-is-no-longer-activated-on-windows-11/"><u>Solved: Scan to Computer Is No Longer Activated on Windows 11</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-how-to-translate-youtube-videos-to-english-subtitles/"><u>Updated 2024 Approved How to Translate YouTube Videos to English Subtitles</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/winerror-zeroed-out-restoring-printer-setup-0x00000709/"><u>WinError Zeroed Out - Restoring Printer Setup (0X00000709)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-premier-tools-for-video-creation-on-android-and-desktop-oses/"><u>[New] Premier Tools for Video Creation on Android & Desktop OSes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tarting-from-scratch-video-gear-insights/"><u>[New] Starting From Scratch Video Gear Insights</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-connected-successfully/"><u>[PRINT] Connected Successfully</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1728505455722-windows-11-microsoft-store/"><u>如何使Windows 11 Microsoft Store重新開機? 適用三種有效技術解決方案</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/from-traditional-to-split-one-users-journey-on-the-road-to-enhanced-comfort-at-their-workstation-cnet/"><u>From Traditional to Split: One User's Journey on the Road to Enhanced Comfort at Their Workstation | CNET</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-connect-and-configure-hp-wireless-printer/"><u>How to Connect & Configure HP Wireless Printer</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/reshape-your-videos-a-step-by-step-guide/"><u>Reshape Your Videos A Step-by-Step Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/saving-day-printer-function-reclaimed-post-update-crisis/"><u>Saving Day: Printer Function Reclaimed Post-Update Crisis</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/simplified-method-to-install-canon-printer/"><u>Simplified Method to Install Canon Printer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Inactive Scanner on Windows 11
-date: 2024-11-09T19:05:21.772Z
-updated: 2024-11-13T18:21:04.073Z
+date: 2024-11-07T20:24:51.333Z
+updated: 2024-11-14T03:43:35.956Z
 tags:
   - win11
   - win10
@@ -50,9 +50,29 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf305cb04.png)
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the open window, find and expand the**Print queues** catalog. Then right-click on your printer software to choose**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf9b29be7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Restart your computer to let Windows reinstall the printer driver for you automatically.
 
@@ -70,23 +90,9 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5976a910cca49.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Get rid of ‘Scan to computer is no longer activated’ error
 
@@ -96,27 +102,33 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee238c2f07.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Find**scanToPCActivationApp** under**Processes** tab. Then right-click on it to choose**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee29de8213.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Find**scanToPCActivationApp** under**Startup** tab. Then right-click on it to choose**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee2dfcd442.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 That’s all there is to it.
 
@@ -140,24 +152,14 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-visionary-sites-showcasing-immersive-3d-and-glossy-text/"><u>[New] In 2024, Visionary Sites Showcasing Immersive 3D and Glossy Text</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-simplifying-screen-views-during-google-meet-chats/"><u>[New] Simplifying Screen Views During Google Meet Chats</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-pixels-of-reality-navigating-the-world-of-instagram-authenticity/"><u>2024 Approved Pixels of Reality Navigating the World of Instagram Authenticity</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-streamline-your-podcast-with-ease/"><u>2024 Approved Streamline Your Podcast With Ease</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/activating-scanner-on-latest-win11-release/"><u>Activating Scanner on Latest Win11 Release</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ameliorer-la-satisfaction-client-avec-lintelligence-digitale-un-guide-doptimisation/"><u>Améliorer La Satisfaction Client Avec L'intelligence Digitale : Un Guide D'optimisation</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/demystifying-quick-fixes-for-pcl-xl-glitches/"><u>Demystifying Quick Fixes for PCL XL Glitches</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/diy-enthusiast-dream-unleash-ultra-fast-transfer-rates-with-direct-pcie-connectivity-of-mini-pc-to-egpu-beating-thunderbolt-4/"><u>DIY Enthusiast Dream: Unleash Ultra-Fast Transfer Rates with Direct PCIe Connectivity of Mini PC to eGPU Beating Thunderbolt 4</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/effortless-updates-for-enhanced-hp-officejet-performance/"><u>Effortless Updates for Enhanced HP Officejet Performance</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epsons-unprintable-feature-fixed-quickly/"><u>Epson's Unprintable Feature Fixed Quickly</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exclusive-secrets-for-windows-11-mastery-for-2024/"><u>Exclusive Secrets for Windows 11 Mastery for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/immediate-fix-for-unplugged-printer/"><u>Immediate Fix for Unplugged Printer</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-laying-the-groundwork-for-successful-channels/"><u>In 2024, Laying The Groundwork For Successful Channels</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instantly-resume-printer-job-queue-flow/"><u>Instantly Resume Printer Job Queue Flow</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mf4770n-compatibility-upgrade-for-windows-os/"><u>MF4770n Compatibility Upgrade for Windows OS</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/no-obstacles-in-adding-new-printer-to-network/"><u>No Obstacles in Adding New Printer to Network</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-network-issue-resolved-in-win7-pro/"><u>Printer Network Issue Resolved in Win7 Pro</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/techniques-for-steadying-your-motion-sensitive-gopro/"><u>Techniques for Steadying Your Motion-Sensitive GoPro</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-samsung-galaxy-a24-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Samsung Galaxy A24 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-illuminate-play-button-imagery-flashing-borders-added/"><u>2024 Approved Illuminate Play Button Imagery Flashing Borders Added</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/address-ink-level-sensor-failures-in-w11/"><u>Address Ink Level Sensor Failures in W11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/crystalline-speed-highlighting-moments-from-the-coldest-games-on-earth-for-2024/"><u>Crystalline Speed Highlighting Moments From the Coldest Games on Earth for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driving-performance-mf4770n-on-windows-oss/"><u>Driving Performance: MF4770n on Windows OSs</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-5-factors-nostalgic-gamers-retro-handheld-picks/"><u>Essential 5 Factors: Nostalgic Gamers' Retro Handheld Picks</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-deskjet-d1360-print-drivers-troubleshooting-across-windows-versions/"><u>HP Deskjet D1360 Print Drivers: Troubleshooting Across Windows Versions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/joke-factory-imgur-edition-for-2024/"><u>Joke Factory Imgur Edition for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/top-vr-peripherals-and-gadgets-review/"><u>Top VR Peripherals and Gadgets Review</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/zeroing-out-error-0x00000709-for-printer-settings/"><u>Zeroing Out Error 0X00000709 for Printer Settings</u></a></li>
 </ul></div>
 

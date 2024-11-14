@@ -1,7 +1,7 @@
 ---
 title: 2024 | 3 Fixes to Connect HP Printer to Laptop
-date: 2024-11-06T18:01:24.659Z
-updated: 2024-11-13T18:46:02.701Z
+date: 2024-11-11T07:32:52.625Z
+updated: 2024-11-14T04:40:19.394Z
 tags:
   - win11
   - win10
@@ -42,30 +42,36 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
 2. Click**Devices** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2-1.jpg)
 3. Choose the**Printers & scanners** tab on the left and then click**Add a printer or scanner** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/3-1.jpg)  
  Now Windows should be able to detect your printer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click the**name** (printer’s manufacturer name and model number) when it pops up. And complete the installation following the instructions.
@@ -73,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
  After that, your HP printer should be connected to your laptop.**[Keep your printer driver up-to-date](#tip)** before printing away!
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Option 2 – Link HP printer to laptop via wireless network
 
@@ -91,17 +90,17 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/9.png)
 2. Locate your Wi-Fi and enter the network**password** . Now your printer should be connected to the network.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you fail to connect the printer to wireless network, read [How to connect HP printer to WiFi](https://tools.techidaily.com/drivereasy/download/) for more information.
 3. Open your laptop and make sure it connects to the same wireless network. Click the**Windows icon** and select**Settings** on your laptop.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/1-3.jpg)
 4. Click**Devices** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2-1.jpg)
 5. Choose the**Printers & scanners** tab and then click**Add a printer or scanner** .  
@@ -127,14 +126,21 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
 2. Get the security password from the printer control panel.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/7-1.jpg)
 3. On your computer or mobile devices, connect to**Wi-Fi Direct** or**Wireless Direct** the same way you connect to any other wireless network.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/6-1.jpg)
 4. **Fill in the password** you get in step 2 when you’re prompted to enter it. Tap**Join** .  
@@ -197,20 +203,20 @@ Here’s how it works in just 2 clicks:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-assessment-of-vlcs-digital-screen-monitoring/"><u>[New] 2024 Approved Assessment of VLC’s Digital Screen Monitoring</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-crafting-visual-narratives-with-the-leading-frames/"><u>[New] In 2024, Crafting Visual Narratives with the Leading Frames</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/system-issue-unable-to-locate-hp-print-drivers-on-win11/"><u>[System Issue] - Unable to Locate HP Print Drivers on Win11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-analysis-and-methods-with-morphvox-sound-alteration/"><u>2024 Approved In-Depth Analysis and Methods with MorphVOX Sound Alteration</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhancing-mf4770n-performance-in-windows-108/"><u>Enhancing MF4770n Performance in WIndows 10/8</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/how-to-download-and-install-kinemaster-on-your-mac/"><u>How to Download and Install KineMaster on Your Mac</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/installing-canon-printer-step-by-step/"><u>Installing Canon Printer - Step-by-Step</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/july-2024s-fresh-collection-of-standard-user-passwords-for-d-link-devices/"><u>July 2024'S Fresh Collection of Standard User Passwords for D-Link Devices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/local-network-printer-service-in-standby-mode/"><u>Local Network Printer Service in Standby Mode</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-refusing-to-use-all-colors/"><u>Printer Refusing to Use All Colors</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reviving-a-printers-purpose-beyond-empty-pages/"><u>Reviving a Printer's Purpose Beyond Empty Pages</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/scan-functionality-reinstated-in-win11/"><u>Scan Functionality: Reinstated in Win11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-asrock-pg2nqft2a-a-180hz-monitor-for-gamers-speed-quality-and-value-evaluation/"><u>Unveiling the ASRock PG2nQFT2a - A 180Hz Monitor for Gamers: Speed, Quality & Value Evaluation</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/user-perspectives-and-professional-judgement-dissecting-google-voice-phone-system/"><u>User Perspectives & Professional Judgement: Dissecting Google Voice Phone System</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/xbox-series-s-vs-gamestreaming-on-firestick-which-offers-more-value/"><u>Xbox Series S Vs. GameStreaming on Firestick: Which Offers More Value?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-from-memes-to-your-device-iosandroid-gif-collection-tips/"><u>[New] 2024 Approved From Memes to Your Device IOS/Android GIF Collection Tips</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-ethical-download-strategies-for-youtube-to-mp4-files/"><u>[Updated] In 2024, Ethical Download Strategies for YouTube to MP4 Files</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unlocking-iphones-full-podcast-potential/"><u>[Updated] Unlocking iPhone's Full Podcast Potential</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-boosting-engagement-with-effective-youtube-banners-and-thumbnails/"><u>2024 Approved Boosting Engagement with Effective YouTube Banners & Thumbnails</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/corrected-standby-mode-glitch/"><u>Corrected Standby Mode Glitch</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-6s-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 6s Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-tracking-lexmark-printer-updates-made-easy/"><u>Fast-Tracking Lexmark Printer Updates Made Easy</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-fix-a-printer-that-wont-print/"><u>How to Fix a Printer That Won't Print</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209996873-9781529054507-john-hudsons-how-to-survive-a-pandemic/"><u>John Hudson's How to Survive a Pandemic | Free Book</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/maximize-mf4770n-in-windows-1087-systems/"><u>Maximize MF4770n in WIndows 10/8/7 Systems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/navigate-and-rectify-brother-printer-not-print-issue-on-windows-10/"><u>Navigate and Rectify Brother Printer Not Print Issue on Windows 10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/repaired-error-in-epsons-print-function/"><u>Repaired: Error in Epson's Print Function</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revolutionizing-reports-with-paper-less-prints/"><u>Revolutionizing Reports with Paper-Less Prints</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-common-issues-with-phasmophobia-in-virtual-reality/"><u>Troubleshooting Common Issues with Phasmophobia in Virtual Reality</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-oppo-find-n3-flip-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Oppo Find N3 Flip Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhance Printer Velocity Now
-date: 2024-11-08T19:14:40.887Z
-updated: 2024-11-13T19:17:58.645Z
+date: 2024-11-12T07:50:52.161Z
+updated: 2024-11-14T02:52:04.794Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/8ea49d46a7efdbdbce7ce2f715d9bd1879477faba
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/printers-scanners.jpg)
 2. Click your Printer, then click**Manage** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/manage-printer.jpg)
 3. Click**Printing preferences** .  
 
@@ -63,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/8ea49d46a7efdbdbce7ce2f715d9bd1879477faba
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/paper-quality.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### in Windows 11
@@ -76,15 +83,15 @@ thumbnail: https://thmb.techidaily.com/8ea49d46a7efdbdbce7ce2f715d9bd1879477faba
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/win11-Printers-and-scanners-settings.jpg)
 2. Click on your printer.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/win11-Default-printer.jpg)
 3. Select**Printer preferences** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Windows 11 - Check the printer preferences](https://images.drivereasy.com/wp-content/uploads/2021/08/win11-Printer-preferences.jpg)
 4. Under the**Paper/Quality** tab, use the drop-down menu next to**Media** to select the appropriate paper type.  
@@ -94,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/8ea49d46a7efdbdbce7ce2f715d9bd1879477faba
 After applying the changes, test if the print speed goes back to normal.
 
 If your printer still prints very slowly, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your printer driver
 
@@ -132,10 +146,10 @@ Here we list the common printer manufacturers for you:
  After updating your printer driver, try to print. If the issue remains, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Turn off Quiet Mode
@@ -151,6 +165,13 @@ Here we list the common printer manufacturers for you:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/quiet-mode.jpg)
 4. Select**Off** , then click**Apply** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-off-quiet-mode.jpg)
 
@@ -168,6 +189,13 @@ Here we list the common printer manufacturers for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/services-msc.jpg)
 2. In Services, find Print Spooler, right-click on it, and select**Stop** .  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/print-spooler-stop.jpg)  
 **Note** : Do not close the Services window, simply minimize it as you’ll go back to it later.
 
@@ -175,43 +203,28 @@ Here we list the common printer manufacturers for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/spool.jpg)
 4. Open the**PRINTERS** folder.  
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/printers-files.jpg)
 5. Delete all files in this folder, then close it. This is to clear the print queues.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Go back to the Services window, right-click Print Spooler, and select**Start** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/print-spooler-start.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now try your printer to see if the problem is resolved.
 
 If your printer still prints at a slow speed, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Check the network connection
 
@@ -245,13 +258,6 @@ If your network is not the problem, continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Should you require any assistance, feel free to email them at [support@fortect.com](mailto:support@fortect.com) .
 
 ---
@@ -275,24 +281,17 @@ If your network is not the problem, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-guide-shifting-your-profile-picture-on-global-platforms-for-2024/"><u>[New] The Ultimate Guide Shifting Your Profile Picture on Global Platforms for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-essential-tactics-for-adding-vimeo-clips-to-powerpoint-slides/"><u>[Updated] In 2024, Essential Tactics for Adding Vimeo Clips to PowerPoint Slides</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/active-directory-disabled-printer-problem-detected/"><u>Active Directory Disabled - Printer Problem Detected</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/re-clarity-high-quality-screen-recordings-for-youtubers-pcmac/"><u>Capture Clarity High-Quality Screen Recordings for YouTubers (PC/Mac)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-driver-set-for-pci-devices-on-various-windows-platforms-windows-111087/"><u>Comprehensive Driver Set for PCI Devices on Various Windows Platforms: Windows 11/10/8/7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/deactivate-stalled-print-job-queue-fastly/"><u>Deactivate Stalled Print Job Queue Fastly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/effortless-steps-to-tackle-pcl-xl-setbacks/"><u>Effortless Steps to Tackle PCL XL Setbacks</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/how-to-recover-files-from-an-external-hard-drive-on-windows-10-and-macos/"><u>How to Recover Files From an External Hard Drive on Windows 10 & macOS</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-page-failure-resolved/"><u>HP Printer: Page Failure Resolved</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-capturing-time-slowly-tips-for-slow-motion-videos-using-photos-apps/"><u>In 2024, Capturing Time Slowly Tips for Slow-Motion Videos Using Photos Apps</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-zte-nubia-z60-ultra-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For ZTE Nubia Z60 Ultra</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-secrets-to-finding-excellent-economic-pictures-online/"><u>In 2024, Secrets to Finding Excellent, Economic Pictures Online</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-90frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor 90FRP Lock</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-break-free-from-q/"><u>New In 2024, Break Free From Q</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-tips-for-brother-printer-issues-in-win1110/"><u>Quick Tips for Brother Printer Issues in Win11/10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/rectify-cups-errors-streamline-win10-printer-services/"><u>Rectify CUPS Errors: Streamline WIN10 Printer Services</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restoring-sync-with-print-devices/"><u>Restoring Sync with Print Devices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/stop-wasted-time-fixing-windows-78s-non-operational-spooler/"><u>Stop Wasted Time: Fixing Windows 7/8'S Non-Operational Spooler</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tutorial-installing-model-8720-printer-on-your-computer/"><u>Tutorial: Installing Model 8720 Printer on Your Computer</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-beginners-tutorial-setting-up-your-youtube-presence/"><u>[New] In 2024, Beginner's Tutorial Setting Up Your YouTube Presence</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-navigating-the-new-age-of-tiktok-reacts-filmmakers-guide-using-filmora/"><u>[New] Navigating the New Age of TikTok Reacts – Filmmaker's Guide Using Filmora</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-crafting-hashtags-that-capture-attention-and-drive-engagement-on-fb/"><u>[Updated] Crafting Hashtags that Capture Attention and Drive Engagement on FB</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-soundscapes-free-from-restrictions/"><u>2024 Approved Soundscapes Free From Restrictions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/carve-out-your-chatai-masterpiece/"><u>Carve Out Your ChatAI Masterpiece</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/detroit-llc-pc-version-fixed-issues-and-optimal-performance/"><u>Detroit LLC PC Version - Fixed Issues & Optimal Performance</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guilty-gear-strive-troubleshooting-tips-for-keeping-the-fight-going-without-system-crashes/"><u>Guilty Gear Strive Troubleshooting: Tips for Keeping the Fight Going Without System Crashes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-google-pixel-fold-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Google Pixel Fold</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mastering-the-quick-fixes-how-to-successfully-boot-up-warzone-20-on-a-personal-computer-new-guide-for-23/"><u>Mastering the Quick Fixes: How to Successfully Boot Up Warzone 2.0 on a Personal Computer - New Guide for 2^3</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolve-steamvr-problems-instantly-expert-tips-inside/"><u>Resolve SteamVR Problems Instantly – Expert Tips Inside!</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-samsung-galaxy-s23plus-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Samsung Galaxy S23+ Screen | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Brother CDW Wireless Setup: Step by Step"
-date: 2024-11-09T17:54:21.838Z
-updated: 2024-11-13T17:39:38.770Z
+date: 2024-11-10T21:48:15.863Z
+updated: 2024-11-13T16:05:11.574Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
 
 **Option 2 – Automatically (Recommended)** – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Download and install the driver manually
 
  According to Brother’s official website, it’s preferable to uninstall the older driver first before we head to the official website to download & install our driver.
@@ -40,27 +47,20 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-116.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Double click**Print queues** or**Printers** to expand its drop-down list and find your Brother printer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-118.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click**Brother MFC-9330CDW** **printer** and select**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-119.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  By now you’ve finished the uninstall, let’s move on to the next step.
 
@@ -76,27 +76,27 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-122.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Agree to the EULA and Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Download.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Once you’ve downloaded the correct driver file for your system, right-click the downloaded file and select**Run as administrator** . Then follow the on-screen instructions to install the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-127.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Restart your computer to take effect.
 
@@ -148,19 +148,18 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/printer-setup-unable-to-locate-hp-driver-winxo/"><u>[Printer Setup] Unable to Locate HP Driver WINXO</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-unable-to-install-printeroperation-could-not-be-completed/"><u>[Solved] Unable to Install Printer.Operation Could Not Be Completed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-photobooth-recording-stalls-whats-goin-on/"><u>[Updated] Photobooth Recording Stalls What's Goin' On?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-streaming-fb-content-on-apple-tv-a-step-by-step-guide/"><u>[Updated] Streaming FB Content on Apple TV A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-place.techidaily.com/effektives-backup-ihrer-elektronischen-post-auf-synology-nas-die-drei-besten-ansatze-verstehen-und-umsetzen/"><u>Effektives Backup Ihrer Elektronischen Post Auf Synology NAS - Die Drei Besten Ansätze Verstehen Und Umsetzen</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How to Stop My Spouse from Spying on My Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-master-your-youtube-banner-essential-guide-for-creators/"><u>In 2024, Master Your YouTube Banner Essential Guide for Creators</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-white-paper-output-on-hp-printer/"><u>Resolving White Paper Output on HP Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restoring-scanner-activation-for-win10-users/"><u>Restoring Scanner Activation for Win10 Users</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-scan-to-computer-is-no-longer-activated-on-windows-10/"><u>Solved: Scan to Computer Is No Longer Activated on Windows 10</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-into-success-10-pivotal-steps-for-exceptional-smm-achievement-for-2024/"><u>Step Into Success 10 Pivotal Steps for Exceptional SMM Achievement for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-art-of-audio-visual-storytelling-with-iphone-for-2024/"><u>The Art of Audio-Visual Storytelling with iPhone for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-the-premier-selection-of-cost-free-online-daw-software-users/"><u>Updated In 2024, The Premier Selection of Cost-Free Online DAW Software Users</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win7-inkjet-fix-successful/"><u>Win7 Inkjet Fix Successful</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-bringing-your-video-games-to-life-customizable-channel-headers/"><u>[New] 2024 Approved Bringing Your Video Games to Life Customizable Channel Headers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-canon-pixma-mp620-printer-driver-not-found-on-windows-10/"><u>[Solved] Canon Pixma MP620 Printer Driver Not Found on Windows 10</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-essential-list-of-premium-cost-free-webm-streaming-services/"><u>[Updated] In 2024, Essential List of Premium, Cost-Free WebM Streaming Services</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-swift-and-free-eradicate-red-eye-in-iphone-photography-tips/"><u>[Updated] Swift and FREE Eradicate Red-Eye in iPhone Photography Tips</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-perfect-your-video-pacing-with-these-snapchat-tips/"><u>2024 Approved Perfect Your Video Pacing with These Snapchat Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-solving-local-steam-client-process-failures-and-staying-connected/"><u>Expert Tips: Solving Local Steam Client Process Failures and Staying Connected</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-causes-behind-black-ops-4s-unexpected-lag-spikes-and-fps-drops/"><u>Fixing the Causes Behind Black Ops 4'S Unexpected Lag Spikes and FPS Drops</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-s17e-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/local-printer-spooler-service-down-action-required/"><u>Local Printer Spooler Service Down, Action Required</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/maximize-your-zoom-experience-with-top-three-strategies-for-2024/"><u>Maximize Your Zoom Experience with Top Three Strategies for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/my-canon-printing-companion-refuses-to-answer/"><u>My Canon Printing Companion Refuses to Answer</u></a></li>
+<li><a href="https://win-superb.techidaily.com/quick-methods-to-retrieve-lost-publisher-files-a-step-by-step-guide/"><u>Quick Methods to Retrieve Lost Publisher Files: A Step-by-Step Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unstick-print-job-immediately/"><u>Unstick Print Job Immediately</u></a></li>
 </ul></div>
 

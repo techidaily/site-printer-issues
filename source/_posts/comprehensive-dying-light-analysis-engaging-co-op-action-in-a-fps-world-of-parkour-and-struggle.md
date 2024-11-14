@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Dying Light Analysis: Engaging Co-Op Action in a FPS World of Parkour and Struggle"
-date: 2024-11-11T16:53:14.894Z
-updated: 2024-11-13T18:38:23.360Z
+date: 2024-11-07T17:30:59.350Z
+updated: 2024-11-13T19:27:57.968Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Dying Light Analysis: Engaging Co-Op Action in a FPS World of Parkour and Struggle"
@@ -70,10 +70,10 @@ Lifewire / Jeremy Laukkonen
  Luna is an impressive service with what seems like solid underlying tech right out of the gate. The biggest questions seem to be how and when Amazon will go about filling holes in the library, how well the service will work when they eventually roll out 4K streaming, and whether we’ll see better Android support in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Design and Controls: Decent enough app and a nearly flawless controller
@@ -81,6 +81,13 @@ Lifewire / Jeremy Laukkonen
  Luna isn’t a traditional game console, so there isn’t much design to speak of in terms of hardware. The two important elements here are the Luna app, which operates as an Android app on Fire TV and a web app in[Chrome](https://www.lifewire.com/what-is-google-chrome-4687647) and[Safari](https://www.lifewire.com/what-is-safari-4173608) , and the controller that’s technically optional.
 
 ![Amazon Luna](https://www.lifewire.com/thmb/c10USyUEVgaFrdeWRUBgX6MNpOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_05-7314cf2ae25a4f428d93f40cc56fb5d1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -91,6 +98,19 @@ Lifewire / Jeremy Laukkonen
  The controller is similarly unassuming, and Amazon clearly isn’t trying to rock the boat there. It’s extremely similar in profile to an Xbox One controller, right down to the positioning of the offset analog sticks. This configuration has long been my favorite, with the Sony-style side-by-side analogs feeling cramped, so the Luna controller feels instinctually good in my hands. If you’re a fan of the Xbox One controller, you’ll likely feel the same. If you don’t like the Xbox-style design for whatever reason, then you may at least appreciate the fact that the build quality of the controller feels quite solid, and it’s very snappy and responsive in use.
 
 ![Amazon Luna](https://www.lifewire.com/thmb/jNDwaMGOVuF5UIISPsmdb5uQdGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_04-985a4419a93945d2879b09d61fafae5a.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -113,10 +133,10 @@ Lifewire / Jeremy Laukkonen
 ![Amazon Luna](https://www.lifewire.com/thmb/6427gP-MSnqe4st8hfuI-7yxlos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_03-f12a92bc606e43caa77b445a2fdcf1c1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
@@ -126,10 +146,10 @@ Lifewire / Jeremy Laukkonen
  After the initial setup process, your Luna controller is ready to go regardless of platform. Power on the controller, launch the Luna app or website, and everything automatically connects without any additional work or input.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance: Impressive game streaming, but no 4K
@@ -170,13 +190,6 @@ Lifewire / Jeremy Laukkonen
 
  It’s clear that Amazon is working to bring a nice mix of games to the service, but the depth and breadth of the titles you can access with a basic subscription remain the biggest question as Luna moves through beta and toward general launch.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Price: Affordable fee reflects the thin library
 
  Luna comes with a price tag of $4.95 per month during the beta period, with the insinuation that it will increase later on. It’s uncertain as to whether or not the price will actually go up, but right now it’s a pretty good deal. The only real caveat is that the attractive price tag is balanced by a somewhat thin library. Go ahead and check the library before you sign up. If you see more than a handful of games you’re interested in, then Luna is absolutely worth the price of admission.
@@ -200,13 +213,6 @@ Lifewire / Jeremy Laukkonen
 **A solid game streaming service.**
 
  Amazon Luna is an impressive game streaming service that works surprisingly well whether or not you buy the optional controller. It isn’t perfect, and you’re likely to experience hiccups here and there, but it’s an extremely affordable way to experience dozens of games, many of which would otherwise require an expensive gaming PC or console, without any kind of initial investment. The future of the service remains uncertain, and the precedent of locking Ubisoft games behind an expensive additional paywall isn’t a great sign, but Amazon has a chance to make a real splash in the gaming world with Luna.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -244,24 +250,20 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-obs-overpower-vs-streamlabs-supremacy/"><u>[New] In 2024, OBS Overpower Vs. Streamlabs Supremacy</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-premium-steadicam-models-to-transform-your-dslr-filmmaking-experience/"><u>[New] Premium Steadicam Models to Transform Your DSLR Filmmaking Experience</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-top-picks-best-xbox-hdd-models-reviewed-for-2024/"><u>[New] Top Picks Best Xbox HDD Models Reviewed for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-precision-techniques-for-high-quality-console-recordings-on-pcs-for-2024/"><u>[Updated] Precision Techniques for High-Quality Console Recordings on PCs for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-mp620-printer-driver-unavailable-on-windows-10/"><u>Canon MP620 Printer Driver Unavailable on Windows 10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-error-0x97-resolution-found/"><u>Epson Error 0X97: Resolution Found</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/from-unboxed-to-printed-the-complete-win-hp-printer-guidebook/"><u>From Unboxed to Printed: The Complete Win HP Printer Guidebook</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/getting-your-w7s-offline-hp-print-running/"><u>Getting Your W7's Offline HP Print Running</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/identified-non-owner-print-job-intervention/"><u>Identified Non-Owner Print Job Intervention</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-4-ways-to-mirror-apple-iphone-11-pro-max-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Mirror Apple iPhone 11 Pro Max to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-motorola-moto-g-stylus-5g-2023-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Motorola Moto G Stylus 5G (2023)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-secrets-to-using-vivavideo-app/"><u>In 2024, Unveiling the Secrets to Using VivaVideo App</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instruction-adding-officejet-pro-8720-to-computer-setup/"><u>Instruction: Adding OfficeJet Pro 8720 to Computer Setup</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/latest-firmware-for-mf4770n-on-windows-systems/"><u>Latest Firmware for MF4770n on Windows Systems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/live-streaming-mastery-ultimate-guide-to-manycam-and-virtual-cam-tech/"><u>Live Streaming Mastery: Ultimate Guide to ManyCam and Virtual Cam Tech</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-linked-in-seconds/"><u>Printer Linked in Seconds</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/secure-connection-setting-up-hp-laserlife-connectivity/"><u>Secure Connection: Setting Up HP LaserLife Connectivity</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-apple-iphone-14-plus-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile Apple iPhone 14 Plus Before the Plan Expires</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-updated-interview-playbook-for-audience-allure/"><u>[New] In 2024, Updated Interview Playbook for Audience Allure</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-connectivity-win1110-cant-find-hp-driver/"><u>[Printer Connectivity] Win11/10 Can't Find HP Driver</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-periscope-footage-lifesaving-tips-and-tricks/"><u>[Updated] 2024 Approved Periscope Footage Lifesaving Tips & Tricks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-quick-tips-for-seamless-embedding-of-youtube-playlists-on-a-website/"><u>[Updated] Quick Tips for Seamless Embedding of YouTube Playlists on a Website</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-rhythmreviewer-musical-and-conversational-analysis/"><u>[Updated] RhythmReviewer Musical and Conversational Analysis</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-enhanced-mp4-streaming-for-facebook-networks/"><u>2024 Approved Enhanced MP4 Streaming for Facebook Networks</u></a></li>
+<li><a href="https://win-web3.techidaily.com/ejemplo-tutorial-sobre-como-recuperar-y-reconfigurar-su-perfil-de-correo-electronico-en-outlook-2010/"><u>Ejemplo Tutorial Sobre Cómo Recuperar Y Reconfigurar Su Perfil De Correo Electrónico en Outlook 2010</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-online-functionality-regained/"><u>Epson Online Functionality Regained</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-printer-offline-status-on-windows-117-solved/"><u>HP Printer Offline Status on Windows 11/7 [Solved]</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-poco-x5-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Poco X5 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-hiccup-config-settings-amiss/"><u>Printer Hiccup: Config Settings Amiss</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-for-windows-11-error-code-0xc19001e1-bugs-fixes/"><u>Step-by-Step Solution for Windows 11 Error Code 0Xc19001e1 Bugs Fixes</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-unleash-the-power-of-mp4-to-mp3-conversion-on-your-mobile/"><u>Updated In 2024, Unleash the Power of MP4 to MP3 Conversion on Your Mobile</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win7-printer-online-after-repair/"><u>Win7 Printer Online After Repair</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-users-guide-to-hp-printer-installation/"><u>Windows User's Guide to HP Printer Installation</u></a></li>
 </ul></div>
 

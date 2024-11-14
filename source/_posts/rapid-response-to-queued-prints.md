@@ -1,7 +1,7 @@
 ---
 title: Rapid Response to Queued Prints
-date: 2024-11-08T17:40:43.779Z
-updated: 2024-11-13T16:27:16.794Z
+date: 2024-11-07T13:17:35.288Z
+updated: 2024-11-14T11:17:00.824Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
    3. [Create a Bat file for permanent use](#f3)
 * **Fix 2 –[Reinstall your printer driver](#m2)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Clear the print queue
 
  There are three options for you to clear the print queue. You don’t have to try them all; just take your pick.
@@ -50,31 +43,11 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/stop-the-service.jpg)
 5. Navigate to**C:\\Windows\\System32\\spool\\PRINTERS** and delete all files in the folder. (Do NOT delete the folder itself.)  
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/delete.jpg)
 6. In the Services window, right-click**Print Spooler** and select**Start** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/start-service.jpg)
 7. Go back to the**Print Job** queue. All print jobs should have been removed now and you can start printing again normally.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Have trouble deleting the files?**
   
@@ -89,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 1. Type**cmd** in the search box and Run it as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/command-prompt-admin.jpg)
 2. In the Command Prompt window, enter the following commands separately:
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 net stop spooler
 
@@ -111,10 +91,10 @@ This will clear all of your print jobs stuck in a queue.
 3. Then click**File** \>**Save as…**  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    * Change the file type to**All files**  
@@ -142,6 +122,13 @@ This will clear all of your print jobs stuck in a queue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/kisspng-pixel-illustration-printer-5a983b8a6f6aa4.5830009615199261544564.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Option 2: Automatic printer driver update (Recommended)
 
  If you don’t have the time, patience, or computer skills to update your audio driver manually, you can**do it automatically** with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct driver for your device.
@@ -154,6 +141,13 @@ This will clear all of your print jobs stuck in a queue.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now-1.png)
 3. Click the Update button next to your sound card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **OR** click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-1.jpg)
@@ -186,18 +180,18 @@ Feel free to drop us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-reinvent-your-video-storytelling-in-obs-studio-for-2024/"><u>[Updated] Reinvent Your Video Storytelling in OBS Studio for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-free-entertainment-platforms-similar-to-netflix-top-10-picks/"><u>Best Free Entertainment Platforms Similar to Netflix (Top 10 Picks)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/dispelling-hp-printers-fatal-mistake-0xoxc4eb827f/"><u>Dispelling HP Printer's Fatal Mistake 0xOXC4EB827F</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enabling-wireless-connectivity-for-hp-print/"><u>Enabling Wireless Connectivity for HP Print</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expertise-summary-17-preferred-apps-for-quick-photo-editing/"><u>Expertise Summary 17 Preferred Apps for Quick Photo Editing</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574106588-fixing-hp-printer-fatal-error-oxc4eb827f/"><u>Fixing HP Printer Fatal Error: OXC4EB827F</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcome-canon-printer-puzzles-in-windows-11-here-are-five-easy-solutions/"><u>Overcome Canon Printer Puzzles in Windows 11 - Here Are Five Easy Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-smoothly-sync-with-onedrive-even-when-failed-windows-11/"><u>Quick Guide to Smoothly Sync with OneDrive, Even When Failed (Windows 11)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reactivating-scanned-device-on-recent-windows-update/"><u>Reactivating Scanned Device on Recent Windows Update</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/scanner-activation-a-win10-fix-guide/"><u>Scanner Activation: A Win10 Fix Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-future-of-gaming-recordings-via-graphics-processing/"><u>The Future of Gaming Recordings via Graphics Processing</u></a></li>
-<li><a href="https://fox-info.techidaily.com/unleash-your-vision-the-best-tiktok-editing-guide-for-2024/"><u>Unleash Your Vision The Best TikTok Editing Guide for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/when-your-iphone-battery-fails-explore-these-smart-repair-techniques/"><u>When Your iPhone Battery Fails, Explore These Smart Repair Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-expert-insights-on-incorporating-hashtags-for-game-streams/"><u>[New] 2024 Approved Expert Insights on Incorporating Hashtags for Game Streams</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-leading-choices-elite-android-call-alerts/"><u>[New] Leading Choices Elite Android Call Alerts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-htc-u23-pro-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track HTC U23 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/all-pages-printer-output-ready/"><u>All Pages Printer Output Ready</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ceased-printer-standby-mode-in-hp-laserjet-mfp/"><u>Ceased Printer Standby Mode in HP Laserjet MFP</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Motorola Moto G13? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-more-gaps-in-documents-with-new-fixes/"><u>No More Gaps in Documents with New Fixes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/repeated-sheet-fill-up-in-your-epson-printer/"><u>Repeated Sheet Fill-Up in Your Epson Printer</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-0x80072efd-issue-a-comprehensive-guide-for-windows-11-users/"><u>Resolving the 0X80072EFD Issue: A Comprehensive Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-resolving-call-of-duty-vanguard-game-crashes/"><u>Ultimate Guide to Resolving 'Call of Duty: Vanguard' Game Crashes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unveiling-the-secrets-of-efficiently-setting-up-hp-on-pcs/"><u>Unveiling the Secrets of Efficiently Setting Up HP on PCs</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-y78-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo Y78 5G Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

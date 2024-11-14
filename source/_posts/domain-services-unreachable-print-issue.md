@@ -1,7 +1,7 @@
 ---
 title: Domain Services Unreachable, Print Issue
-date: 2024-11-07T19:41:28.071Z
-updated: 2024-11-13T16:17:37.723Z
+date: 2024-11-13T12:30:08.193Z
+updated: 2024-11-14T10:39:56.482Z
 tags:
   - win11
   - win10
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
  5) Close the Services window and check if you could print files successfully.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Using Registry Editor
@@ -55,16 +55,16 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
 1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png) and **R**  at the same time to invoke the Run box.
   
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Type **regedit**  and press **Enter** to open Registry Editor.  
   
 **![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-23.jpg)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click **Yes** when prompted by User Account Control,.
  3) On Registry window, go to **HKEY\_CURRENT\_USER** \> **Software**  \> **Microsoft**  \> **Windows NT**  \> **CurrentVersion** .  
@@ -72,10 +72,16 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Right-click on **Devices**  under **CurrentVersion**  dialog.  
@@ -84,17 +90,17 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-14.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click your account and tick on**Allow** of **Full Control** . Then click **Apply**  \> **OK** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-13.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Do the same settings to give your account full control of **PrinterPorts**  and **Windows** .  
   
@@ -120,24 +126,21 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-unleash-creativity-on-screen-discover-the-best-reactions/"><u>[New] In 2024, Unleash Creativity on Screen Discover the Best Reactions</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-audio-amplified-todays-hits-backdropping-yt-shorts-for-2024/"><u>[Updated] Audio Amplified Today's Hits Backdropping YT Shorts for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-facebook-fix-reappear-hidden-watch-video-icon/"><u>[Updated] Facebook Fix Reappear Hidden Watch Video Icon</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-posting-videos-on-twitter-step-by-step-for-2024/"><u>[Updated] Posting Videos on Twitter Step-by-Step for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-honor-x50i-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Honor X50i to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/corrected-code-b200/"><u>Corrected Code B200</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-epson-out-of-service/"><u>Fixed Epson Out Of Service</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574168670-how-to-fix-a-printer-that-wont-print/"><u>How to Fix a Printer That Won’t Print</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-galaxy-s23plus-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Galaxy S23+.</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/navigating-through-toner-trouble/"><u>Navigating Through Toner Trouble</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-fixed-after-new-windows-version-patch/"><u>Printer Fixed After New Windows Version Patch</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-guide-overcoming-windows-error-code-xffffff/"><u>Quick Guide: Overcoming Windows Error Code XFFFFFF</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/recovering-windows-hp-printer-status/"><u>Recovering Windows HP Printer Status</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-canon-printer-issues-on-windows-10/"><u>Resolving Canon Printer Issues on Windows 10</u></a></li>
-<li><a href="https://extra-information.techidaily.com/speech-to-text-magic-free-edition/"><u>Speech-to-Text Magic Free Edition</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tackling-non-responsive-printer-errors-in-nt-systems/"><u>Tackling Non-Responsive Printer Errors in NT Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-free-video-call-apps-skype-alternatives-you-must-try/"><u>Top Free Video Call Apps : Skype Alternatives You Must Try</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-11s-protective-measures/"><u>Unlocking Windows 11'S Protective Measures</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/visual-installation-guide-for-a-new-canon-printer/"><u>Visual Installation Guide for a New Canon Printer</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-in-depth-analysis-lg-bp350s-visual-clarity-and-color-range/"><u>[New] 2024 Approved In-Depth Analysis LG BP350's Visual Clarity and Color Range</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleash-your-podcast-potential-with-cutting-edge-techniques/"><u>[New] Unleash Your Podcast Potential with Cutting-Edge Techniques</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-3-unconventional-tactics-for-subscriber-growth/"><u>[Updated] 3 Unconventional Tactics for Subscriber Growth</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-transforming-your-brand-with-smart-spotify-marketing/"><u>2024 Approved Transforming Your Brand with Smart Spotify Marketing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Vivo Y200e 5G? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhance-device-interactions-mf4770n-update-in-win11win87-os/"><u>Enhance Device Interactions: MF4770n Update in Win11/Win8/7 OS</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-spark-20-proplus-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Spark 20 Pro+ If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-fix-print-spooler-keeps-stopping-on-windows-11-and-7/"><u>How to Fix Print Spooler Keeps Stopping on Windows 11 & 7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-mend-printer-queue-errors-on-windows-pcs/"><u>How to Mend Printer Queue Errors on Windows PCs</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-poco-c51-by-drfone-android/"><u>How to Show Wi-Fi Password on Poco C51</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/integrate-mf4770n-for-optimal-performance-on-win11-8-7-systems/"><u>Integrate MF4770n for Optimal Performance on Win11, 8, 7 Systems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-hardware-added-without-issues/"><u>Printer Hardware Added Without Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/successfully-installed-network-printer/"><u>Successfully Installed Network Printer</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-your-graphics-driver-to-activate-seamless-screen-mirroring-via-miracast/"><u>Update Your Graphics Driver to Activate Seamless Screen Mirroring via Miracast</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/victory-fixing-print-issues-in-windows-10/"><u>Victory: Fixing Print Issues in Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wireless-vr-a-step-by-step-guide-to-linking-your-ps-vr-headset-with-a-computer/"><u>Wireless VR: A Step-by-Step Guide to Linking Your PS VR Headset with a Computer</u></a></li>
 </ul></div>
 

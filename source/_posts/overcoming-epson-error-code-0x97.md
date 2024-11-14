@@ -1,7 +1,7 @@
 ---
 title: Overcoming Epson Error Code 0X97
-date: 2024-11-08T16:01:32.438Z
-updated: 2024-11-13T19:00:49.823Z
+date: 2024-11-09T07:52:10.258Z
+updated: 2024-11-14T10:14:57.476Z
 tags:
   - win11
   - win10
@@ -33,16 +33,10 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 4. **[Update your printer driver](#d)**
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Reboot your printer
@@ -79,13 +73,6 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 
  Make sure your cartridges all work properly, and then reopen your printer to test your issue. If your problem still exists, check the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Run the Windows printer troubleshooter
 
  Another quick fix to error code 0x97 is running the Windows printer troubleshooter. Here is how to do it:
@@ -102,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-842.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Select **Troubleshooting** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-843.png)
@@ -114,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-845.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for your computer to automatically detect your printer issue, and then follow the on-screen instructions to fix it. If no printer issue is identified, try [**fix 4**](#d) , below.
 
 #### If you’re on Windows 10…
@@ -123,33 +124,19 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-846.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)**  Select **Troubleshooting settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-847.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click **Printer,**  and then click **Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-849.png)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait for the troubleshooting process to be complete, then reopen your printer to check if this fixed your issue. If not, read on and check the fix below.
 
@@ -184,6 +171,13 @@ OR
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the printer driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -220,22 +214,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-ideal-microphones-for-precision-in-4k-video-and-sound-recording/"><u>[New] Ideal Microphones for Precision in 4K Video & Sound Recording</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-navigating-snapback-automatically-adding-snapshots-to-photos-for-2024/"><u>[Updated] Navigating Snapback Automatically Adding Snapshots to Photos for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>3 Things You Must Know about Fake Snapchat Location On Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brisk-release-from-print-waitlist/"><u>Brisk Release From Print Waitlist</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-advice-overcoming-invisible-problems-during-3d-printing-process/"><u>Expert Advice: Overcoming Invisible Problems During 3D Printing Process</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-solutions-reestablishing-audio-output-on-your-conexant-smartaudio-hd-device-with-windows-11/"><u>Expert Solutions: Reestablishing Audio Output on Your Conexant SmartAudio HD Device with Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-hp-printer-no-output-issue/"><u>Fixed HP Printer No Output Issue</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fully-functional-printers-every-page-included/"><u>Fully Functional Printers, Every Page Included</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-compress-oversized-videos-perfectly-before-uploading-to-facebook/"><u>How to Compress Oversized Videos Perfectly Before Uploading to Facebook</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-rectify-cannot-link-with-nvidia-in-windows-11/"><u>How to Rectify Cannot Link with NVIDIA in Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-the-challenge-of-a-missing-ntldr-file-in-windows/"><u>Overcoming the Challenge of a Missing NTLDR File in Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-connect-unplugged-printer-fixed/"><u>Quick Connect: Unplugged Printer Fixed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-guide-setting-up-a-canon-printer/"><u>Quick Guide: Setting Up a Canon Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/repaired-noise-level-fluctuation-in-hp-officejet-pro-x100/"><u>Repaired Noise Level Fluctuation in HP Officejet Pro X100</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-jscriptdll-file-absence-a-comprehensive-guide/"><u>Resolving jScript.dll File Absence: A Comprehensive Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/successfully-addressed-print-nozzle-issue/"><u>Successfully Addressed Print Nozzle Issue</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-printer-disconnected-from-network/"><u>Troubleshooting: Printer Disconnected From Network</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/irst-steps-in-the-digital-dollar-youtube-earning-hacks/"><u>[New] First Steps in the Digital Dollar - YouTube Earning Hacks</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-repaired-connectivity-issue/"><u>[PRINT] Repaired Connectivity Issue</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-defeating-dissidence-a-guide-for-content-makers-for-2024/"><u>[Updated] Defeating Dissidence A Guide for Content Makers for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtube-subscriber-awards-the-play-button-awards-for-creators/"><u>[Updated] In 2024, YouTube Subscriber Awards The Play Button Awards for Creators</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mastering-clear-webcam-footage-recording-and-editing-tips/"><u>2024 Approved Mastering Clear Webcam Footage Recording & Editing Tips</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/boosting-engagement-the-key-to-creating-top-facebook-covers/"><u>Boosting Engagement The Key to Creating Top Facebook Covers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/effortlessly-rectify-canons-no-print-issue-with-these-5-window-11-tips/"><u>Effortlessly Rectify Canon's No-Print Issue with These 5 Window 11 Tips</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eliminating-recurring-printer-crashes-in-windows-systems/"><u>Eliminating Recurring Printer Crashes in Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-non-responsive-mic-issue-on-windows-10-computers/"><u>Fixing a Non-Responsive Mic Issue on Windows 10 Computers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-scanner-disconnection-issue-in-windows-10/"><u>Fixing Scanner Disconnection Issue in Windows 10</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-turn-the-screws-right-youtube-video-rotation-for-all-angles/"><u>In 2024, Turn the Screws Right YouTube Video Rotation for All Angles</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/method-linking-hp-printer-to-personal-computer/"><u>Method: Linking HP Printer to Personal Computer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/smart-strategies-for-effective-windows-based-hp-printer-setups/"><u>Smart Strategies for Effective Windows-Based HP Printer Setups</u></a></li>
 </ul></div>
 

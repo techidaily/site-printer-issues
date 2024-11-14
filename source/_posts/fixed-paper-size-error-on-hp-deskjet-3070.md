@@ -1,7 +1,7 @@
 ---
 title: Fixed Paper Size Error on HP DeskJet 3070
-date: 2024-11-07T19:31:11.460Z
-updated: 2024-11-13T18:03:12.983Z
+date: 2024-11-12T02:44:03.569Z
+updated: 2024-11-14T08:52:52.903Z
 tags:
   - win11
   - win10
@@ -55,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Set your printer as default
@@ -71,46 +71,26 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb867beb0b.png)
 2. In Control Panel select**Devices and Printers** .  
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 3. In the**Printers** section, right-click on your HP printer and then select**Set as default printer** . Click on**Yes** if prompted.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5476a01d.png)
 4. There is now a tick below the icon of your HP printer. That means it is now set as the default printer.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5fe2a9b6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Cancel all print jobs
@@ -121,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 2. Right-click on your HP printer in the**Printers** section and select**See what’s printing** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e955d3a5d.png)
 3. Open the**Printer** menu and then select**Open As Administrator** .  
 
@@ -137,14 +110,21 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea70940b1.png)
 5. **Confirm** your action.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987eaa0030f9.png)
 6. You have canceled all print jobs of your printer. Now check and see if it can run normally.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Check printer status
@@ -174,6 +154,13 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 4. If you need to proceed with the repair function, you’ll be required to purchase the full version.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Restart your computer for the changes to take effect.
 
  The full version of Fortect comes with a 60-day money-back guarantee and full customer support. If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact their support team.
@@ -187,6 +174,13 @@ Check your computer to see if your printer works properly.
 1. On your keyboard, press the**Windows logo key** and type cmd. Then right-click on **Command Prompt** and select **Run as administrator** .  
 ![how to open Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 2. Click**Yes** when prompted to confirm.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/sfc-scannow.jpg)  
@@ -212,21 +206,19 @@ Check your computer to see if your printer works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-unbeatable-video-splitters-to-match-xplit/"><u>[New] Unbeatable Video Splitters to Match Xplit</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-beyond-fun-the-subtle-messages-in-snapchat-emojis-for-2024/"><u>[Updated] Beyond Fun The Subtle Messages in Snapchat Emojis for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-high-speed-fb-video-techniques-for-smooth-playback/"><u>[Updated] High-Speed FB Video Techniques for Smooth Playback</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/conquering-chrome-the-complete-tiktok-video-upload/"><u>Conquering Chrome The Complete TikTok Video Upload</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-14-plus-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 14 Plus</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-toshiba-printer-drivers-on-windows-step-by-step-guide/"><u>How to Install Toshiba Printer Drivers on Windows: Step-by-Step Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hurry-to-reconnect-printer-now/"><u>Hurry to Reconnect Printer Now</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-magix-vpx-a-comprehensive-analysis/"><u>In 2024, Unveiling Magix VPX A Comprehensive Analysis</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/integrating-hp-laser-jet-pro-m128dn-into-home-networks/"><u>Integrating HP Laser Jet Pro M128dn Into Home Networks</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/navigating-through-unresponsive-networked-printers/"><u>Navigating Through Unresponsive Networked Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574110556-printing-woes-config-error-help-needed/"><u>Printing Woes: Config Error, Help Needed!</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-realme-gt-neo-5-se-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Realme GT Neo 5 SE</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/transforming-photos-to-videos-the-leading-snapchat-edit-tools-for-2024/"><u>Transforming Photos to Videos The Leading Snapchat Edit Tools for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win-711-spooler-stops-quick-fix-guide/"><u>Win 7/11 Spooler Stops: Quick Fix Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win107-troubleshooting-steps-to-address-spooler-failures/"><u>Win10/7 Troubleshooting Steps to Address Spooler Failures</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/wireless-paper-refilling-for-hp-officejet-pro-m574dw/"><u>Wireless Paper Refilling for HP Officejet Pro M574dw</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-search-failed-unable-to-locate-hp-winxo/"><u>[Driver Search Failed] - Unable to Locate HP WINXO</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevating-your-artistry-in-lyric-videos-through-lyric-video-maker-mastery/"><u>[New] In 2024, Elevating Your Artistry in Lyric Videos Through Lyric Video Maker Mastery</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-ultimate-6-devices-for-flawless-film-translation/"><u>[New] Ultimate 6 Devices for Flawless Film Translation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-not-found-windows-10-and-pixma-mp620-disconnect/"><u>Driver Not Found: Windows 10 and Pixma MP620 Disconnect</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/elevate-hp-officejet-4630-latest-software-releases/"><u>Elevate HP Officejet 4630: Latest Software Releases</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhance-w11-printer-response-times/"><u>Enhance W11 Printer Response Times</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-offline-workflow-blockage/"><u>Fixed Offline Workflow Blockage</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-ispring-review-a-deep-dive-into-screen-capture/"><u>In 2024, ISpring Review A Deep Dive Into Screen Capture</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-top-16-best-free-movie-makers-easy-to-use/"><u>New Top 16 Best Free Movie Makers Easy to Use</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-x90s-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo X90S Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/egize-your-content-approach-unveil-youtube-metrics-via-social-blade/"><u>Strategize Your Content Approach - Unveil YouTube Metrics via Social Blade</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/top-rated-free-video-to-audio-converters-on-demand-edition/"><u>Top-Rated Free Video-to-Audio Converters On-Demand Edition</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-printer-troubleshooting-guide/"><u>Windows 11 Printer Troubleshooting Guide</u></a></li>
 </ul></div>
 

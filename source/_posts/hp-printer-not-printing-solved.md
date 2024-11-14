@@ -1,7 +1,7 @@
 ---
 title: HP Printer Not Printing [SOLVED]
-date: 2024-11-11T19:30:02.208Z
-updated: 2024-11-13T19:47:56.849Z
+date: 2024-11-13T00:10:52.837Z
+updated: 2024-11-13T20:28:52.697Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
  You can also try restarting your HP printer.**Turn** it**off** completely and**unplug the power cord** , leave it for a couple of minutes, and then**plug** the cord**back** and**power on** the printer. See if your printer can print as normally as before.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Update or reinstall the printer driver
@@ -55,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/10/de-update-all-hp-printer.jpg)
 4. After updating, restart your computer to take effect.
@@ -78,33 +71,20 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb867beb0b.png)
 2. In Control Panel select**Devices and Printers** .  
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 3. In the**Printers** section, right-click on your HP printer and then select**Set as default printer** . Click on**Yes** if prompted.  
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5476a01d.png)
 4. There is now a tick below the icon of your HP printer. That means it is now set as the default printer.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5fe2a9b6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Cancel all print jobs
 
@@ -118,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 3. Open the**Printer** menu and then select**Open As Administrator** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea27610b0.png)
@@ -130,21 +110,28 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea70940b1.png)
 5. **Confirm** your action.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987eaa0030f9.png)
 6. You have canceled all print jobs of your printer. Now check and see if it can run normally.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Check printer status
@@ -188,6 +175,13 @@ Check your computer to see if your printer works properly.
 ![how to open Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 2. Click**Yes** when prompted to confirm.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/sfc-scannow.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -212,18 +206,22 @@ Check your computer to see if your printer works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-from-concept-to-capture-the-breakdown-of-apeaks-recorder-software/"><u>[New] In 2024, From Concept to Capture The Breakdown of Apeak's Recorder Software</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-laugh-ledger-the-ultimate-list-of-hilarious-tweets/"><u>[New] Laugh Ledger The Ultimate List of Hilarious Tweets</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-transforming-gamers-with-funimate-knowledge/"><u>[New] Transforming Gamers with Funimate Knowledge</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-non-printing-usb-printers-after-sleep-in-w7/"><u>[Solved] Non-Printing USB Printers After Sleep in W7</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-scripting-journalisms-closing-statements/"><u>[Updated] Scripting Journalism's Closing Statements</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brew-the-latest-printer-driver-potion-in-windows-7/"><u>Brew the Latest Printer Driver Potion in WIndows 7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/cured-printer-not-printing-on-epson-solved/"><u>Cured: Printer Not Printing on Epson [Solved]</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-error-messages-in-epson-units/"><u>Fixing Error Messages in Epson Units</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-poco-c65-is-unlocked-by-drfone-android/"><u>How To Check if Your Poco C65 Is Unlocked</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printers-lack-of-full-color-capacity/"><u>Printer's Lack of Full Color Capacity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/proactive-policies-for-ai-ceos-insights-and-advocacy/"><u>Proactive Policies for AI: CEO's Insights and Advocacy</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolve-w11-printer-software-problems/"><u>Resolve W11 Printer Software Problems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-difficulty-canon-pixma-mp620-unseen-in-win11/"><u>[Driver Difficulty] Canon Pixma MP620 Unseen in Win11</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-20-best-free-and-paid-gif-software-options-for-2024/"><u>[New] The 20 Best Free and Paid GIF Software Options for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-ultimate-guide-to-polishing-videos-for-youtube-via-windows-pc-for-2024/"><u>[New] The Ultimate Guide to Polishing Videos for YouTube via Windows PC for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-from-periscope-to-pro-livestreaming-basics-for-ios-and-android/"><u>[Updated] In 2024, From Periscope to Pro Livestreaming Basics for iOS and Android</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/warning-print-service-not-starting-correctly/"><u>[WARNING] Print Service Not Starting Correctly</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-vivo-x100-pro-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Vivo X100 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cut-down-windows-11-cpu-overuse-with-wmi-fixes/"><u>Cut Down Windows 11 CPU Overuse with WMI Fixes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/error-code-0x97-the-epson-fix/"><u>Error Code 0X97: The Epson Fix</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/finding-windows-11-support-for-mp620-printer/"><u>Finding Windows 11 Support for MP620 Printer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-oneplus-12-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from OnePlus 12 Phones with/without a PC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mastering-the-installation-of-canon-print-devices/"><u>Mastering the Installation of Canon Print Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-through-androids-brainpower-what-makes-the-system-so-clever/"><u>Navigating Through Android's Brainpower: What Makes the System So Clever?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcome-canons-non-print-dilemma-with-these-quick-fixes-in-windows-11/"><u>Overcome Canon's Non-Print Dilemma with These Quick Fixes in Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/speed-up-stalled-printer-tasks/"><u>Speed Up Stalled Printer Tasks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-steering-clear-from-ai-chatbots-for-key-creation-is-advised/"><u>Why Steering Clear From AI Chatbots for Key Creation Is Advised</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-7-printer-repaired/"><u>Windows 7 Printer Repaired</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-file-finder-the-latest-entries-guide/"><u>Windows File Finder: The Latest Entries Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Repaired HP Photosmart 205N Printer Functions
-date: 2024-11-12T19:42:23.898Z
-updated: 2024-11-13T19:23:17.651Z
+date: 2024-11-11T04:46:28.506Z
+updated: 2024-11-14T07:48:56.866Z
 tags:
   - win11
   - win10
@@ -48,32 +48,24 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/10/de-update-all-hp-printer.jpg)
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Set your printer as default
 
@@ -85,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb867beb0b.png)
 2. In Control Panel select**Devices and Printers** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 3. In the**Printers** section, right-click on your HP printer and then select**Set as default printer** . Click on**Yes** if prompted.  
 
@@ -94,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5fe2a9b6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Cancel all print jobs
@@ -109,20 +108,46 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
 2. Right-click on your HP printer in the**Printers** section and select**See what’s printing** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e955d3a5d.png)
 3. Open the**Printer** menu and then select**Open As Administrator** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea27610b0.png)
 4. Open**Printer** menu again. This time select**Cancel All Documents** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea70940b1.png)
 5. **Confirm** your action.  
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987eaa0030f9.png)
 6. You have canceled all print jobs of your printer. Now check and see if it can run normally.
@@ -154,13 +179,6 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 4. If you need to proceed with the repair function, you’ll be required to purchase the full version.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Restart your computer for the changes to take effect.
 
  The full version of Fortect comes with a 60-day money-back guarantee and full customer support. If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact their support team.
@@ -180,10 +198,10 @@ Check your computer to see if your printer works properly.
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
@@ -206,24 +224,21 @@ Check your computer to see if your printer works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/fixed-turtle-beach-recon-70-mic-not-working/"><u>[FIXED] Turtle Beach Recon 70 Mic Not Working</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-embracing-iphones-shutter-speed-magic-for-dynamic-images/"><u>[New] 2024 Approved Embracing iPhone’s Shutter Speed Magic for Dynamic Images</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/1716069662633-new-integrated-recorder-functions-mate-10-20-and-p-series-p20-p10-phones-for-2024/"><u>[New] Integrated Recorder Functions Mate 10, 20 & P-Series (P20, P10) Phones. For 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-unveiling-the-secrets-of-effective-screencasts/"><u>2024 Approved Unveiling the Secrets of Effective Screencasts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/bold-transformation-of-the-worlds-premier-risc-v-laptop-deepcomputing-overhaul-introduces-eight-faster-cores-and-innovative-artificnial-intelligence-capabil35/"><u>Bold Transformation of the World's Premier RISC-V Laptop: DeepComputing Overhaul Introduces Eight Faster Cores & Innovative Artificnial Intelligence Capabilities for Enhanced Performance</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/boost-your-watch-dogs-legion-experience-solutions-for-higher-fps-and-less-latency/"><u>Boost Your Watch Dogs: Legion Experience – Solutions for Higher FPS and Less Latency</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/effortless-data-cleansing-with-the-stellar-eraser-the-ultimate-mac-and-mobile-solution/"><u>Effortless Data Cleansing with the Stellar Eraser: The Ultimate Mac and Mobile Solution</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-system-interrupt-controller-driver-issue-solved/"><u>Fix System Interrupt Controller Driver Issue [Solved]</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-poco-x5-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Poco X5’s lock screen pattern, PIN or password</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/o-loop-videos-on-iphone-for-2024/"><u>How to Loop Videos on iPhone for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-stop-assassins-creed-valhalla-from-frequently-crashing-on-your-computer/"><u>How to Stop Assassin's Creed: Valhalla From Frequently Crashing on Your Computer</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-tecno-camon-30-pro-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Tecno Camon 30 Pro 5G Devices</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-nubia-z50s-pro-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Nubia Z50S Pro Phones? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-instantaneous-facial-obscuring-technique/"><u>In 2024, Instantaneous Facial Obscuring Technique</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reviving-sound-from-laptop-audio-internal-speakers-step-by-step-tips/"><u>Reviving Sound From Laptop Audio Internal Speakers – Step-by-Step Tips</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/simple-repairs-for-common-winwordexe-application-glitches-a-step-by-step-guide/"><u>Simple Repairs for Common WINWORD.EXE Application Glitches - A Step-by-Step Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solving-iphones-cellular-data-issues-top-10-quick-fixes/"><u>Solving iPhone's Cellular Data Issues: Top 10 Quick Fixes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-guide-resolving-discord-streaming-disruptions/"><u>Troubleshooting Guide: Resolving Discord Streaming Disruptions</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/windowsold-wiederherstellen-mit-effizienten-strategien-fur-windows-nicht-unter-verwendung-einer-cd/"><u>Windows.Old Wiederherstellen Mit Effizienten Strategien Für Windows Nicht Unter Verwendung Einer CD</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-canon-error-code-b200/"><u>[Solved] Canon Error Code B200</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-global-elite-top-12-tools-with-no-time-limit/"><u>[Updated] Global Elite Top 12 Tools With No Time Limit</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-maintaining-image-integrity-effective-instagram-photowatermarking-for-2024/"><u>[Updated] Maintaining Image Integrity Effective Instagram Photowatermarking for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-step-by-step-guide-to-professional-xbox-gameplay-capture/"><u>2024 Approved Step-by-Step Guide to Professional Xbox Gameplay Capture</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574058416-5-easy-ways-to-fix-canon-printer-wont-print-in-windows-10/"><u>5 Easy Ways to Fix Canon Printer Won’t Print in Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/breaking-down-the-latest-windows-system-improvements-in-july-2024/"><u>Breaking Down the Latest Windows System Improvements in July 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/easy-troubleshooting-get-your-canon-printer-printing-on-windows/"><u>Easy Troubleshooting: Get Your Canon Printer Printing on Windows</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138593792-9781452538259-how-i-found-my-true-inner-peace/"><u>How I Found My True Inner Peace | Free Book</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-xiaomi-13t-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Xiaomi 13T to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/macdvdpspmp4avcmp3/"><u>Mac用無料DVDをPSPフォーマットへ変換:MP4、AVC、MP3対応</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-default-disruption-solved-windows-error-0x00000709/"><u>Print Default Disruption Solved: Windows Error (0X00000709)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/seamless-transition-new-driver-for-your-hp-4630/"><u>Seamless Transition: New Driver for Your HP 4630</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-risks-of-automated-text-reduction-by-chatbots-like-gpt/"><u>The Risks of Automated Text Reduction by ChatBots Like GPT</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/triumph-over-the-printer-after-updating-woes/"><u>Triumph over the Printer After Updating Woes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-troubleshoot-printer-hiccups/"><u>Windows 11 Troubleshoot Printer Hiccups</u></a></li>
 </ul></div>
 

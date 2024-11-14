@@ -1,7 +1,7 @@
 ---
 title: Overcome Printing Obstacle with Epson
-date: 2024-11-12T17:29:33.603Z
-updated: 2024-11-13T17:33:09.736Z
+date: 2024-11-12T04:41:10.278Z
+updated: 2024-11-13T23:16:16.932Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 6. [**Use another program to print your document**](#f)
 7. [**Check the status of your printer**](#g)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Check your printer connection
 
  Your Epson printer may not be connected to your computer properly. So it’s worth checking the connection between your printer and your computer.
@@ -61,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 
  Check your printer manual for information about how to re-pair your printer and your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Set your printer as the default printer
 
  Your Epson printer may not be working because it’s not set as the default printer on your computer. To set your Epson printer as your default printer:
@@ -77,16 +77,10 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 2. Under**View by** , select**Large icons** .  
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f05f6349879.jpg)
@@ -95,30 +89,9 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f0600edfd3e.jpg)
 4. Right-click your printer, and select**Set as default printer** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b30c9804bf35.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hopefully, this helps you solve your problem. But if not, there are five more fixes for you to try.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Update your printer driver
 
@@ -140,10 +113,10 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Check the Print Spooler service
@@ -156,14 +129,47 @@ To check this service:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f1bc9808a1b.png)
 2. Double-click**Print Spooler** .  
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f29629de1e9.jpg)
 3. Make sure its Startup type is set to**Automatic** and its Service status is**Running** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f299190ca46.png)
 4. If not, set its Startup type to**Automatic** , and click the**Start** button.  
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f2984ab53d0.png)
 5. Click**OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f29d7e9e7e4.png)
 6. Check to see if your Epson printer is able to print now.
@@ -192,6 +198,19 @@ To clear your print jobs:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f2a36c12e67.jpg)
 5. Copy and paste the address**`%windir%\System32\spool\PRINTERS`** to the address bar and press**Enter** on your keyboard to go to where the print jobs are stored.  
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f2a48b237b4.jpg)
 6. Delete all the files in this folder.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f2ab14ccc48.jpg)
@@ -200,21 +219,14 @@ To clear your print jobs:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f29629de1e9.jpg)
 8. Click the**Start** button. After the service is started, click**OK** to save the change and close this dialog.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f2a9e345daa.png)
 9. Close all the opened windows and turn off your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 10. Turn off your printer and unplug the power cable from it.
@@ -253,22 +265,21 @@ To clear your print jobs:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-chortlechamps-excellent-platforms-for-hilarious-tones/"><u>[New] ChortleChamps Excellent Platforms for Hilarious Tones</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-top-8-immersive-titles-with-oculus-support/"><u>[New] Top 8 Immersive Titles with Oculus Support</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unlocking-green-screen-magic-video-production-tips/"><u>[New] Unlocking Green Screen Magic Video Production Tips</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-capture-your-world-audio-on-windows-10/"><u>[Updated] Capture Your World Audio on Windows 10</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-photographic-advantages-with-quantum-hdr-mastery/"><u>[Updated] Photographic Advantages with Quantum HDR Mastery</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/effortless-setup-for-a-brand-new-canon-printer/"><u>Effortless Setup for a Brand-New Canon Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instructive-blueprint-attaching-hp-printer-8720-to-windows-system/"><u>Instructive Blueprint: Attaching HP Printer 8720 to Windows System</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/master-win11-tips-for-optimal-performance-for-2024/"><u>Master Win11 Tips for Optimal Performance for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-comment-filtering-a-step-by-step-guide-on-searching-within-excel-comments/"><u>Mastering Comment Filtering: A Step-by-Step Guide on Searching Within Excel Comments</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mended-printer-network-error/"><u>Mended Printer Network Error</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/prevent-windows-10-printer-malfunctions-and-fails/"><u>Prevent Windows 10 Printer Malfunctions and Fails</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-connected-problems-resolved-quickly/"><u>Printer Connected, Problems Resolved Quickly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/rapidly-reconnecting-to-your-printer/"><u>Rapidly Reconnecting to Your Printer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/seamlessly-linking-your-beatwave-earbuds-with-windows-10-or-11-troubleshooting-tips-and-solutions/"><u>Seamlessly Linking Your BeatWave Earbuds with Windows 10 or 11 – Troubleshooting Tips and Solutions</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solving-hp-printer-oxc4eb827f-fatality-problem/"><u>Solving HP Printer OXC4EB827F Fatality Problem</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolving-saints-row-pc-startup-issues/"><u>Troubleshooting Steps: Resolving Saints Row PC Startup Issues</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unveiling-the-secret-behind-empty-printouts/"><u>Unveiling the Secret Behind Empty Printouts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-from-snaps-to-savings-on-snapchat/"><u>[New] From Snaps to Savings on Snapchat</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-grid-gurus-the-leading-photo-organizers-reviewed/"><u>[New] Grid Gurus - The Leading Photo Organizers Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-list-of-viral-stock-images-and-stories/"><u>[New] The Ultimate List of Viral Stock Images & Stories</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-best-game-streaming-software-you-should-know/"><u>[Updated] In 2024, Best Game Streaming Software You Should Know</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-blackout-brilliance-minute-edition/"><u>[Updated] In 2024, Blackout Brilliance Minute Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-inside-track-to-superior-srt-upgrades/"><u>2024 Approved Inside Track to Superior SRT Upgrades</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/correct-printer-configuration-errors-in-w11/"><u>Correct Printer Configuration Errors in W11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enabling-hp-printer-on-windows-107/"><u>Enabling HP Printer on Windows 10/7</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-command-line-experience-power-tools-for-windows/"><u>Enhance Your Command-Line Experience: Power Tools for Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-remove-print-spooler-service/"><u>How To Remove Print Spooler Service</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-error-unforeseen-setup-glitch-detected/"><u>Print Error: Unforeseen Setup Glitch Detected</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/rapid-release-of-stuck-prints/"><u>Rapid Release of Stuck Prints</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revive-dead-printers-on-windows-11-os/"><u>Revive Dead Printers on Windows 11 OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tech-giants-join-forces-in-xr-space-anticipation-builds-as-apple-prepares-to-unveil-its-own-headset-according-to-zdnet-reports/"><u>Tech Giants Join Forces in XR Space: Anticipation Builds as Apple Prepares to Unveil Its Own Headset, According to ZDNet Reports</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unable-to-connect-domains-and-printers-offline/"><u>Unable To Connect: Domains and Printers Offline</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upcoming-oneplus-10-unveiled-discover-speculated-price-launch-timeline-key-attributes-and-potential-hints/"><u>Upcoming OnePlus 10 Unveiled! Discover Speculated Price, Launch Timeline, Key Attributes & Potential Hints</u></a></li>
 </ul></div>
 

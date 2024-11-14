@@ -1,7 +1,7 @@
 ---
 title: Techniques for Reviving Inactive HP Copiers
-date: 2024-11-08T19:10:24.804Z
-updated: 2024-11-13T19:35:54.401Z
+date: 2024-11-07T05:15:00.868Z
+updated: 2024-11-14T05:23:02.390Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 4. **[Use the Windows Troubleshooter](#method-4)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1\. Restart the Print Spooler service
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
  1) On your keyboard, press the**Windows + R** key and enter**services.msc** in the Run box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/services.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Scroll down to locate**Printer Spooler** . Right-click it and select**Restart** .
 
@@ -58,16 +65,16 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 
 ![devmgmt.msc](https://images.drivereasy.com/wp-content/uploads/2021/01/devmgmt.msc_.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Expand the**Printers** category. Then right-click your printer and select**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-printer-driver.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Tick the option**Delete the driver software for this device** , and click**Uninstall t** o confirm.
 
@@ -83,16 +90,16 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/printers-and-scanners.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Select your printer, and click**Remove device** . Select**Yes** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/remove-the-current-printer.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Once complete, click**Add a printer a scanner** and select your printer.
 
@@ -108,13 +115,6 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
  10) It’s better for you to reboot your computer for the changes to take full effect.
 
 If this method doesn’t do the trick, you can try the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3\. Use the generic driver
 
@@ -136,6 +136,13 @@ If this method doesn’t do the trick, you can try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/let-me-pick.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Select**Generic printer device** , and click**Nex** t to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/generic-drivers.jpg)
@@ -143,10 +150,10 @@ If this method doesn’t do the trick, you can try the fix below.
  6) Now the driver should be updated to the generic device now. You can check the status of the printer. If you’re still having the HP printer not responding problem, you can perform a Windows Update or try the Windows built-in troubleshooter, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 4\. Use the Windows Troubleshooter
@@ -161,22 +168,15 @@ If this method doesn’t do the trick, you can try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/open-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click your printer, and select**Troubleshoot** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/troubleshoot-printer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Follow on the on-screen instructions to complete the troubleshooting.
@@ -202,17 +202,15 @@ If this method doesn’t do the trick, you can try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/solved-your-printer-has-experienced-an-unexpected-configuration-problem/"><u>[SOLVED] Your Printer Has Experienced an Unexpected Configuration Problem</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-peekcapture-review-of-low-res-screen-grabs/"><u>2024 Approved PeekCapture Review of Low-Res Screen Grabs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-finest-5-ai-prompt-generators-to-maximize-your-use-of-any-ai-device/"><u>Discover the Finest 5 AI Prompt Generators to Maximize Your Use of Any AI Device</u></a></li>
-<li><a href="https://win11.techidaily.com/double-the-fun-with-a-swifter-mouse-click-process/"><u>Double the Fun with a Swifter Mouse Click Process</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/eradicated-canon-error-b200/"><u>Eradicated Canon Error B200</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-six-hubs-where-companies-thrive-socially-and-professionally/"><u>Essential Six Hubs Where Companies Thrive Socially & Professionally</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/premier-graphics-workstation-laptops-comprehensive-evaluation-and-insights-from-specialists-techradar/"><u>Premier Graphics Workstation Laptops: Comprehensive Evaluation & Insights From Specialists | TechRadar</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/preventing-paper-jams-in-copiers/"><u>Preventing Paper Jams in Copiers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/regaining-scanner-link-to-pc-post-update-in-windows-10/"><u>Regaining Scanner Link to PC Post-Update in Windows 10</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-future-of-multi-tasking-can-lenovos-yoga-book-9i-set-a-new-standard-for-dual-display-devices/"><u>The Future of Multi-Tasking: Can Lenovo's Yoga Book 9I Set a New Standard for Dual-Display Devices?</u></a></li>
-<li><a href="https://win-latest.techidaily.com/transfert-securitaire-de-vos-donnees-sur-wd-mycloud-vers-amazon-drive-ou-autres-solutions-cloud/"><u>Transfert Sécuritaire De Vos Données Sur WD MyCloud Vers Amazon Drive Ou Autres Solutions Cloud</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-10-fails-to-recognize-pixma-mp620-printer-driver/"><u>Windows 10 Fails to Recognize Pixma MP620 Printer Driver</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-kickstarting-creativity-an-equipment-guide-for-beginners/"><u>[Updated] Kickstarting Creativity An Equipment Guide for Beginners</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-premier-presentation-planner-prodigy/"><u>[Updated] Premier Presentation Planner Prodigy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-image-editing-ditching-backgrounds-in-affinity-photo/"><u>2024 Approved Streamline Image Editing Ditching Backgrounds in Affinity Photo</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/conquer-no-print-restoring-functionality-of-brother-printer-winoses/"><u>Conquer No-Print: Restoring Functionality of Brother Printer, WinOSes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enabling-access-to-remote-brother-print-device/"><u>Enabling Access to Remote Brother Print Device</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hardware-hiccup-printer-config-issue/"><u>Hardware Hiccup: Printer Config Issue</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-x100-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo X100 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-quick-fixes-with-ios-shortcuts-18-essential-techniques/"><u>Ultimate Guide to Quick Fixes with iOS Shortcuts – 18 Essential Techniques</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unexpected-print-hiccup-discovered/"><u>Unexpected Print Hiccup Discovered</u></a></li>
 </ul></div>
 

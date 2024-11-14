@@ -1,7 +1,7 @@
 ---
 title: Printer Fixed After New Windows Version Patch
-date: 2024-11-07T17:04:37.748Z
-updated: 2024-11-13T16:34:42.079Z
+date: 2024-11-10T19:25:30.089Z
+updated: 2024-11-14T06:52:32.866Z
 tags:
   - win11
   - win10
@@ -45,10 +45,10 @@ Here is how to power cycle your printer:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Make sure your printer is connected
@@ -60,10 +60,10 @@ Here is how to power cycle your printer:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your printer driver
@@ -107,10 +107,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-194.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) On your keyboard, press the**Windows logo key** and**R** at the same time, then type**%WINDIR%\\system32\\spool\\printers** and press**Enter** .
@@ -123,13 +123,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-197.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Click**Start** , then in**Startup** **Type** , select**Automatic** and click**OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-198.png)
@@ -137,6 +130,13 @@ Here is how to do it:
  7) Check to see if your printer works properly. If it still doesn’t work, please move on to**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Run Windows Troubleshooter
 
@@ -151,10 +151,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-209.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Wait for Windows to diagnose the problem and follow the on-screen instructions to resolve the printing not working situation.
@@ -180,17 +180,16 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-from-selfies-to-skies-uncovering-the-intricacies-with-the-dji-spark-for-2024/"><u>[New] From Selfies to Skies Uncovering The Intricacies with the DJI Spark for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-immediate-fixes-for-iphone-blurry-image-problems/"><u>[New] In 2024, Immediate Fixes for iPhone Blurry Image Problems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/a-beginners-guide-to-overcoming-steam-disk-errors-and-resuming-gaming/"><u>A Beginner's Guide to Overcoming Steam Disk Errors and Resuming Gaming</u></a></li>
-<li><a href="https://win-hot.techidaily.com/avoid-compromising-your-mac-understand-the-risks-of-persistent-pop-ups-and-effective-removal-techniques-by-malwarefox-experts/"><u>Avoid Compromising Your Mac: Understand the Risks of Persistent Pop-Ups & Effective Removal Techniques by MalwareFox Experts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banish-flicker-secure-your-display/"><u>Banish Flicker: Secure Your Display</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-scholarly-investigations-the-top-4-benefits-of-leveraging-artifice-intelligence/"><u>Boosting Scholarly Investigations: The Top 4 Benefits of Leveraging Artifice Intelligence</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/clearing-up-hp-printers-blank-sheet-mystery/"><u>Clearing Up HP Printer's Blank Sheet Mystery</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-error-code-b200/"><u>Fixed: Error Code B200</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/image-guide-to-install-and-connect-canon-printers/"><u>Image Guide to Install and Connect Canon Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/missing-printer-driver-on-canon-mp620-help-required-for-win11/"><u>Missing Printer Driver on Canon MP620, Help Required for Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolve-high-lag-in-roblox-pc/"><u>Resolve High Lag in Roblox PC</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tackle-windows-10-printer-setup-woes/"><u>Tackle Windows 10 Printer Setup Woes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-peak-interactive-webcam-fun-fests-for-2024/"><u>[Updated] Peak Interactive Webcam Fun Fests for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/expediting-clogged-print-order/"><u>Expediting Clogged Print Order</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/get-your-canon-printer-working-again-find-5-fixes-for-the-non-prints-in-windows-11/"><u>Get Your Canon Printer Working Again! Find 5 Fixes for the Non-Prints in Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-6-plus-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone 6 Plus?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-ideas-to-boost-package-prelude-joy/"><u>In 2024, Innovative Ideas to Boost Package Prelude Joy</u></a></li>
+<li><a href="https://extra-information.techidaily.com/joyful-journeys-await-best-classic-summer-movies/"><u>Joyful Journeys Await Best Classic Summer Movies</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mitigating-video-distortion-on-newly-updated-systems/"><u>Mitigating VIDEO Distortion on Newly Updated Systems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcome-paper-jamming-problem/"><u>Overcome Paper Jamming Problem</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/rescue-mission-for-my-non-reactive-printer/"><u>Rescue Mission for My Non-Reactive Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-scanner-integrity-on-windows-11/"><u>Restoring Scanner Integrity on Windows 11</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-best-10-chinese-video-to-english-translators/"><u>Updated Best 10 Chinese Video to English Translators</u></a></li>
 </ul></div>
 

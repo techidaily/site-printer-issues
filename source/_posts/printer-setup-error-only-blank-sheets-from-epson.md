@@ -1,7 +1,7 @@
 ---
 title: "Printer Setup Error: Only Blank Sheets From Epson"
-date: 2024-11-08T18:02:04.326Z
-updated: 2024-11-13T17:55:49.973Z
+date: 2024-11-07T19:38:38.456Z
+updated: 2024-11-13T21:55:37.909Z
 tags:
   - win11
   - win10
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 5. Make sure the paper size, orientation, and layout settings in your software are correct.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixes for Epson Printer Printing Blank Pages
@@ -68,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 
 **Note** : This Printhead Cleaning Cycles cannot be used too often. Allow your printer to rest for at least 6 hours after one cycle (recommended by Epson), then go through a cleaning cycle again. Doing this program repeatedly will make your clog worse and use a lot of ink.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your printer driver
 
  Epson printer needs drivers to work properly. If the driver is outdated or wrong, it may cause problems. There are two ways to get the correct driver: manually and automatically.
@@ -93,13 +100,6 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/%E6%96%B0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -119,24 +119,24 @@ Here’s how to use it:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -160,14 +160,16 @@ Here’s how to use it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-threefold-way-to-extract-and-save-youtubes-subtitles-srt/"><u>[New] In 2024, The Threefold Way to Extract and Save YouTube's Subtitles (SRT)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-reveal-hidden-gems-top-12-steps-to-make-your-fb-videos-show-up-for-2024/"><u>[New] Reveal Hidden Gems Top 12 Steps to Make Your FB Videos Show Up for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/drive-upgrade-streamline-mf4770n-in-windows/"><u>Drive Upgrade: Streamline MF4770n in WIndows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhanced-web-analytics-with-the-help-of-cookiebot-technology/"><u>Enhanced Web Analytics with the Help of Cookiebot Technology</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-blank-pages-windows-11-printer-woes/"><u>Fix Blank Pages: Windows 11 Printer Woes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-realme-gt-neo-5-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Realme GT Neo 5 Fingerprint Lock</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-voice-chat-disruptions-in-rainbow-six-siege-after-the-latest-update-of-2024-tips-and-tricks/"><u>Overcoming Voice Chat Disruptions in Rainbow Six Siege After the Latest Update of 2024: Tips & Tricks</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/techniques-bringing-an-isolated-printer-back-onboard/"><u>Techniques: Bringing an Isolated Printer Back Onboard</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-os-struggles-hp-driver-not-available/"><u>Windows OS Struggles: HP Driver Not Available</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/missing-file-cannot-install-printer-driver-for-mp620-in-windows-10/"><u>[Missing File] Cannot Install Printer Driver for MP620 in Windows 10</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-explore-the-best-kept-secrets-ios-10-best-no-cost-collages-and-edits/"><u>[New] 2024 Approved Explore the Best-Kept Secrets IOS' 10 Best, No-Cost Collages & Edits</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-ideal-equipment-for-animation-photography/"><u>[New] In 2024, Ideal Equipment for Animation Photography</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-secret-life-of-instagrams-interrogation-icon-for-2024/"><u>[Updated] The Secret Life of Instagram’s Interrogation Icon for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/clearing-up-laser-print-glitches/"><u>Clearing Up Laser Print Glitches</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/deciphering-epson-inkjet-trouble-codes/"><u>Deciphering Epson Inkjet Trouble Codes</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-wheel-movements-for-xpwin-7/"><u>Efficient Wheel Movements for XP/Win 7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eliminating-hp-printers-error-code-oxc4eb827f/"><u>Eliminating HP Printer's Error Code OXC4EB827F</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-se-2020-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone SE (2020) with iTunes | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guide-to-purge-network-print-settings-on-win-1011/"><u>Guide to Purge Network Print Settings on Win 10/11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-roku-devices-expert-picks-for-the-ultimate-streaming-experience-zdnet/"><u>Top-Ranking Roku Devices: Expert Picks for the Ultimate Streaming Experience - ZDNet</u></a></li>
 </ul></div>
 

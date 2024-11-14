@@ -1,7 +1,7 @@
 ---
 title: Fix Brother Printer Print Malfunction with Simple Steps
-date: 2024-11-11T18:28:45.974Z
-updated: 2024-11-13T19:37:29.434Z
+date: 2024-11-11T07:03:02.533Z
+updated: 2024-11-14T06:17:46.357Z
 tags:
   - win11
   - win10
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 
  There are several reasons that your Brother printer fails to work properly, including**incorrect connectivity** ,**outdated printer driver** and**faulty configurations** . Whatever the cause is, you can fix it in a few steps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Here’re the fixes
 
  You don’t need to try them all. Simply work your way down the list until you find the one that works for you.
@@ -46,20 +39,27 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 
  The screenshots below are from Windows 10, but the fixes also apply to Windows 11, Windows 7 and Windows 8.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1 – Check the connection
 
  It’s necessary for you to do some basic checks before heading into the more complicated fixes. First off, make sure the connection status between the printer and computer is in the normal state.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### If you’re using a USB printer
 
  If you connect the printer to your computer via a USB cable, simply re-plug it and also try another USB port on your computer in case the one you previously used is broken.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### If you’re using a wireless printer
 
@@ -68,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
  If the Brother printer still doesn’t work, try the next method below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2 – Set your Brother printer as the default device
 
@@ -89,6 +82,13 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/2-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now do some prints to test if this method helps. If yes, then congrats! If not, there’re more fixes to try.
 
 ---
@@ -101,20 +101,33 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/3-1.jpg)
 2. Right-click**Print Spooler** . If it isn’t running,**Start** this service; if it’s already started, click**Restart** .  
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/3-2.jpg)
 3. After the Print Spooler service is restarted, right-click**Print Spooler** again and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/3-3-2.jpg)
 4. Set the**Startup type** to**Automatic** . Then, click**OK** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/3-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now see if your Brother printer returns to normal and acts the way it should. If the same problem occurs, the culprit may be your printer driver, and please check out Fix 4.
 
@@ -129,6 +142,13 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
  Brother keeps updating drivers for its printers. You can search for the latest driver on **[Brother’s support website](https://support.brother.com/g/b/productsearch.aspx?c=us%5Fot&lang=en&content=dl)**  , find the one corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download it.
 
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2 – Automatically update the printer driver
 
@@ -147,19 +167,19 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/Brother-MFC-J2340DW-Printer.png)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  If updating the driver couldn’t solve your issue, please move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5 – Clear the print queue
 
@@ -169,19 +189,6 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/4-1-4.jpg)
 2. Right-click**Print Spooler** and click**Stop** . Then, minimize the Services window.  
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/4-2-2.jpg)
 3. On your keyboard, press the**Windows logo key** and**E** at the same time to open the File Explorer.
 
@@ -189,22 +196,8 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/4-3-3.jpg)
 5. Delete all the files in that folder.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Re-open the Services window. Then, click**Print Spooler** and click**Start** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/4-5-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After you finish the steps above, restart your PC for the changes to take effect. Then, test if your Brother printer works as intended. If not, try the next fix.
 
@@ -225,6 +218,13 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Check the status of your Brother printer to see if this method gives you luck. If not, check out the next solution.
 
@@ -265,24 +265,17 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-subtlety-in-sound-decreasing-decibels-in-logic-pro-projects/"><u>[New] 2024 Approved Subtlety in Sound Decreasing Decibels in Logic Pro Projects</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-pushing-the-boundaries-of-titles-in-adobe-ae/"><u>[New] In 2024, Pushing the Boundaries of Titles in Adobe AE</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-failure-no-drive-found-on-win/"><u>[PRINTER FAILURE] No Drive Found on Win</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-tailoring-meet-backdrop-for-enhanced-presentations/"><u>[Updated] Tailoring Meet Backdrop for Enhanced Presentations</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-unlock-fb-story-potential-4-effective-techniques/"><u>[Updated] Unlock FB Story Potential - 4 Effective Techniques</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-elevate-your-digital-footprint-crafting-compelling-shorts-thumbnails/"><u>2024 Approved Elevate Your Digital Footprint Crafting Compelling Shorts Thumbnails</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/achieve-seamless-transition-update-mf4770n-on-w11win8w7/"><u>Achieve Seamless Transition: Update MF4770n on W11/Win8/W7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-print-error-solved-online-and-offline/"><u>HP Print Error: Solved - Online & Offline</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-prints-blank-pages-solved/"><u>HP Printer Prints Blank Pages [SOLVED]</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Oppo Find N3 Flip? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-7-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 7 Passcode without a Computer</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/quickscreenrecorder-easy-captures-anytime/"><u>QuickScreenRecorder Easy Captures, Anytime</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/successful-repair-hp-networking-issue-ended/"><u>Successful Repair: HP Networking Issue Ended</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-selection-of-best-visual-voicemail-solutions/"><u>The Ultimate Selection of Best Visual Voicemail Solutions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/triple-band-speed-unleashed-the-ultimate-netgear-nighthawk-x6-ac3200-router-review/"><u>Triple Band Speed Unleashed: The Ultimate Netgear Nighthawk X6 Ac3200 Router Review</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/triumph-over-print-issue-winerror-0x00000709-remedied/"><u>Triumph Over Print Issue: WinError 0X00000709 Remedied</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ultimate-guide-hp-and-laptop-interaction-3-key-fixes/"><u>Ultimate Guide: HP & Laptop Interaction - 3 Key Fixes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unexpectedly-no-printer-device-on-your-os/"><u>Unexpectedly No Printer Device on Your OS?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unlocking-jammed-printers/"><u>Unlocking Jammed Printers</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-harmonizing-audioscapevisumedia-network/"><u>2024 Approved Harmonizing Audioscape/Visumedia Network</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-the-latest-drivers-for-your-epson-xp-640-on-a-pc-with-windows-os/"><u>How to Install the Latest Drivers for Your Epson XP-640 on a PC with Windows OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hurry-to-reconnect-printer-now/"><u>Hurry to Reconnect Printer Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-xs-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone XS</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-huawei-p60-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Huawei P60</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/integrating-hp-laser-jet-pro-m128dn-into-home-networks/"><u>Integrating HP Laser Jet Pro M128dn Into Home Networks</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574110556-printing-woes-config-error-help-needed/"><u>Printing Woes: Config Error, Help Needed!</u></a></li>
+<li><a href="https://win-superb.techidaily.com/top-ringtones-deletion-apps-eliminate-your-iphone-sounds-effortlessly/"><u>Top Ringtones Deletion Apps: Eliminate Your iPhone Sounds Effortlessly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/video-compression-tips-for-sending-via-email-a-guide-for-mac-and-pc-users/"><u>Video Compression Tips for Sending via Email: A Guide for Mac and PC Users</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win107-troubleshooting-steps-to-address-spooler-failures/"><u>Win10/7 Troubleshooting Steps to Address Spooler Failures</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/wireless-paper-refilling-for-hp-officejet-pro-m574dw/"><u>Wireless Paper Refilling for HP Officejet Pro M574dw</u></a></li>
 </ul></div>
 

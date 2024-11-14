@@ -1,7 +1,7 @@
 ---
 title: Enabling Duplex Printing on Your HP Printer Setup
-date: 2024-11-10T19:12:13.830Z
-updated: 2024-11-13T17:12:42.177Z
+date: 2024-11-08T05:25:08.837Z
+updated: 2024-11-14T04:54:17.612Z
 tags:
   - win11
   - win10
@@ -70,13 +70,6 @@ Now let’s start!
 
 **6)** Press**OK** to confirm the settings.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 3: WPS (Wi-Fi Protected Setup)
 
  This method requires your printer to support WPS pushbutton mode, and your wireless router must have a physical WPS push button.
@@ -87,13 +80,6 @@ Now let’s start!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/61RSlaVpCJL._SL1500_-746x1024.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 4: Windows setup
 
 **1)** On your keyboard, press the**Windows Key** (with Windows logo on it) +**I** together.
@@ -101,13 +87,6 @@ Now let’s start!
 **2)** Click**Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap41.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Turn on the printer and go to its**Network** menu.
 
@@ -118,15 +97,22 @@ Now let’s start!
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap42.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **6)** Select the printer from the results and click**Add device** . You should be good to go.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap46.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 5: USB cable connection (printer without display)
 
@@ -143,10 +129,10 @@ Now let’s start!
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap40-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Bonus: Troubleshoot problems in hp wireless printer connectivity
@@ -170,6 +156,13 @@ Now let’s start!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap38.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to the HP printer driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE** version).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) **[version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
@@ -177,10 +170,10 @@ Now let’s start!
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap42-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Method 2\. Install Reimage
@@ -191,6 +184,13 @@ Now let’s start!
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
@@ -219,24 +219,22 @@ Now let’s start!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-grasp-the-typical-earning-curve-for-podcasters/"><u>[New] In 2024, Grasp the Typical Earning Curve for Podcasters</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-navigating-youtubes-tagging-system-tips-for-finding-prime-video-labels/"><u>[New] Navigating YouTube's Tagging System Tips for Finding Prime Video Labels</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/technical-issue-printer-drivers-failing-on-w7-10-need-solution/"><u>[Technical Issue] Printer Drivers Failing on W7-10, Need Solution</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-hotspots-for-revolutionary-vr-cinema/"><u>[Updated] In 2024, Hotspots for Revolutionary VR Cinema</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-safe-sharing-safe-viewing-tips-for-hiding-online-images/"><u>2024 Approved Safe Sharing, Safe Viewing Tips for Hiding Online Images</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-latest-drivers-for-radeon-rx-470-gpus-simplified-process/"><u>Download & Update: Latest Drivers for Radeon RX 470 GPUs - Simplified Process</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/elevate-mf4770n-integration-on-windows-platforms/"><u>Elevate MF4770n Integration on Windows Platforms</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/exploring-different-approaches-to-game-playback-for-2024/"><u>Exploring Different Approaches to Game Playback for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-hp-printer-disconnect-issue/"><u>Fixing HP Printer Disconnect Issue</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/from-sheetless-anxiety-to-confident-printing/"><u>From Sheetless Anxiety to Confident Printing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-redmi-a2-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Redmi A2?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-k11-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo K11 5G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mf4770n-drivers-windows-11-8-7-upgrade-guide/"><u>MF4770n Drivers - Windows 11, 8, 7 Upgrade Guide</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-mobile-reaction-video-studios-top-ios-and-android-apps-for-2024/"><u>New Mobile Reaction Video Studios Top iOS and Android Apps for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/play-together-mastering-the-art-of-sharing-games-on-sonys-next-gen-console/"><u>Play Together: Mastering the Art of Sharing Games on Sony's Next-Gen Console</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolve-lan-configuration-for-w11-printers/"><u>Resolve LAN Configuration for W11 Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-network-print-problems/"><u>Resolving Network Print Problems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-printer-halt-after-update-successfully/"><u>Resolving Printer Halt After Update Successfully</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unclog-print-issues-resolving-brother-printer-errors-win1011/"><u>Unclog Print Issues: Resolving Brother Printer Errors, Win10/11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-exploring-mobile-youtube-usage-on-different-oses/"><u>2024 Approved Exploring Mobile YouTube Usage on Different OSes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canon-pixma-mp620-driver-windows-11-refuses-to-connect/"><u>Canon Pixma MP620 Driver: Windows 11 Refuses to Connect</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/connect-and-print-with-hp-deskjet-2630-remote/"><u>Connect & Print with HP DeskJet 2630 Remote</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/explore-the-world-of-streaming-with-roku-express-top-reviews-on-quality-and-savings/"><u>Explore the World of Streaming with Roku Express - Top Reviews on Quality & Savings</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/from-unboxed-to-printed-the-complete-win-hp-printer-guidebook/"><u>From Unboxed to Printed: The Complete Win HP Printer Guidebook</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-fix-the-printer-not-printing-issue/"><u>How to Fix the Printer Not Printing Issue</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/identified-non-owner-print-job-intervention/"><u>Identified Non-Owner Print Job Intervention</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/instruction-adding-officejet-pro-8720-to-computer-setup/"><u>Instruction: Adding OfficeJet Pro 8720 to Computer Setup</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721448580432-lost-iconography-across-ios-applications-uncover-proven-remedies-now/"><u>Lost Iconography Across iOS Applications? Uncover Proven Remedies Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pondering-the-plodding-progress-chatgpt-4-versus-35/"><u>Pondering the Plodding Progress: ChatGPT-4 Versus 3.5</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-unresponsive-due-to-missing-os-driver/"><u>Printer Unresponsive Due to Missing OS Driver</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revive-offline-canon-printer-immediately/"><u>Revive Offline Canon Printer Immediately</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-blueprint-for-channel-empowerment-via-studio-mastery/"><u>The Blueprint for Channel Empowerment via Studio Mastery</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-bargains-for-high-quality-3d-printers/"><u>Unbeatable Bargains for High-Quality 3D Printers</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-ultimate-collection-top-20-free-adobe-premiere-title-and-intro-templates/"><u>Updated In 2024, The Ultimate Collection Top 20 Free Adobe Premiere Title and Intro Templates</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: B200 Fix Achieved
-date: 2024-11-11T16:47:41.984Z
-updated: 2024-11-13T18:03:33.100Z
+date: 2024-11-08T22:01:23.714Z
+updated: 2024-11-13T23:42:54.441Z
 tags:
   - win11
   - win10
@@ -28,6 +28,19 @@ thumbnail: https://thmb.techidaily.com/19a61f5995d579c8b7ad201fc517afd84cc338957
 2. **[Check your ink cartridges](#b)**
 3. **[Clean the printhead](#c)**
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your printer driver
 
  When something goes wrong with your Canon printer, updating its driver should always be your go-to option. Most printer issues, such as blank page printing, error code messages, and printer not responding, are often caused by a faulty printer driver.
@@ -50,10 +63,10 @@ There are two ways you can update your printer driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/b200-error-code-canon-driver-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
@@ -83,10 +96,16 @@ There are two ways you can update your printer driver:
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](mailto:support@drivereasy.com) .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Check your ink cartridges
@@ -101,13 +120,6 @@ There are two ways you can update your printer driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/toner-581905_1920-1024x768.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Check the ink levels on your printer
 
  Check the ink levels on your Canon printer and replace your cartridges if necessary.
@@ -121,10 +133,16 @@ There are two ways you can update your printer driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/cartridges-828195_1920-1-1024x981.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Make sure your cartridges all work properly, then reinstall it.
@@ -171,21 +189,22 @@ The printhead is very delicate. Please proceed with caution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-simplest-way-to-understand-and-apply-discord-spoilers/"><u>[Updated] 2024 Approved The Simplest Way to Understand and Apply Discord Spoilers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-vivid-images-ps-hue-harmony-tips/"><u>[Updated] Crafting Vivid Images PS Hue Harmony Tips</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-effortless-time-lapse-cinematography-with-samsung-for-2024/"><u>[Updated] Effortless Time-Lapse Cinematography with Samsung for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/amplify-printing-prowess-aio-upgrades-for-windows-7/"><u>Amplify Printing Prowess: AIO Upgrades for WIndows 7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/b200-error-now-corrected/"><u>B200 Error: Now Corrected</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-inkjet-and-laser-issues-win10-style/"><u>Fix Inkjet & Laser Issues, Win10 Style</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/free-screen-recorder-apowersoft-evaluation/"><u>Free Screen Recorder Apowersoft Evaluation</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-fix-brother-printer-not-printing-on-windows-1110/"><u>How to Fix Brother Printer Not Printing on Windows 11/10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-samsung-galaxy-f34-5g-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Samsung Galaxy F34 5G?</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Vivo V30? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-iphone-15-pro-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off iPhone 15 Pro without Password</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/optimize-clarity-mastering-close-up-techniques-in-videoleap-for-2024/"><u>Optimize Clarity Mastering Close-Up Techniques in Videoleap for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/paper-printed-properly-post-hp-printer-glitch-resolution/"><u>Paper Printed Properly Post-HP Printer Glitch Resolution</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/successfully-installed-printer/"><u>Successfully Installed Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/technical-tangle-printer-reconfigured-incorrectly/"><u>Technical Tangle: Printer Reconfigured Incorrectly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-solution-resolving-battlefield-5-not-starting-problem/"><u>Ultimate Solution: Resolving 'Battlefield 5 Not Starting' Problem</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-comprehensive-guide-to-embedding-multiple-youtube-playlists-in-websites-for-2024/"><u>[New] Comprehensive Guide to Embedding Multiple YouTube Playlists in Websites for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-professional-grade-grid-tools-for-striking-instagram-posts-for-2024/"><u>[New] Professional-Grade Grid Tools for Striking Instagram Posts for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-setup-unable-to-locate-hp-driver-winxo/"><u>[Printer Setup] Unable to Locate HP Driver WINXO</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-unable-to-install-printeroperation-could-not-be-completed/"><u>[Solved] Unable to Install Printer.Operation Could Not Be Completed</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-building-a-solid-foundation-for-great-interviews/"><u>[Updated] In 2024, Building A Solid Foundation For Great Interviews</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dealing-with-hdcp-errors-effective-diagnosis-and-troubleshooting-techniques/"><u>Dealing with HDCP Errors: Effective Diagnosis and Troubleshooting Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-advanced-ai-with-these-5-free-ways-to-use-gpt/"><u>Explore Advanced AI with These 5 FREE Ways to Use GPT-지</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-14-pro-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone 14 Pro to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-se-2020-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone SE (2020) without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-more-ghost-printouts-hp-printer-armored-against-errors/"><u>No More Ghost Printouts: HP Printer Armored Against Errors</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-internet-connectivity-to-printers/"><u>Restoring Internet Connectivity to Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-scan-to-computer-is-no-longer-activated-on-windows-10/"><u>Solved: Scan to Computer Is No Longer Activated on Windows 10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/streamlined-device-management-officejet-pro-8600-drivers-pc-friendly/"><u>Streamlined Device Management: Officejet Pro 8600 Drivers, PC-Friendly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/systematic-mf4770n-software-enhancement-windows-wise/"><u>Systematic MF4770n Software Enhancement Windows-Wise</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-5-tracking-apps-to-track-apple-iphone-11-pro-max-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>Top 5 Tracking Apps to Track Apple iPhone 11 Pro Max without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unable-to-access-printer-driver-in-windows/"><u>Unable to Access Printer Driver in Windows</u></a></li>
 </ul></div>
 

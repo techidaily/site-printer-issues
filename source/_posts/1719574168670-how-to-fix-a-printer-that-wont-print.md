@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Printer That Won’t Print
-date: 2024-11-12T19:05:54.212Z
-updated: 2024-11-13T17:21:16.589Z
+date: 2024-11-07T04:06:07.478Z
+updated: 2024-11-14T03:13:52.362Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
  You can also**shut down** your computer and printer**completely** , wait for**a couple of minutes** , and then**power them on** again. After that you can try printing something and see if the problem resolves.  
   
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2) Set your printer as default
 
  In normal cases, the computer will assign the printing tasks to**default printer** unless you specify another on purpose. Sometimes your default printer will be changed to another printer due to some reasons. In these cases, you should note that, in the program that you use to print, you have to **correctly select** your printer in order to print with the right one.
@@ -53,32 +60,25 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **c)**  In**Printers** section, right click on your printer and then select**Set as default printer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593fb95ba1bf4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **d)**  You printer is now set to default!  
   
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3) Cancel all print jobs
 
@@ -95,28 +95,15 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940dc98227ab.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **d)** Open**Printer** menu again. Select**Cancel All Documents** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a25f033a4.png)
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **e)** **Confirm** your action.
 
@@ -124,6 +111,13 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
 **f)**  The print queue of your printer is clear. Now check and see if your printer can run normally.  
   
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4) Update printer driver
 
@@ -143,17 +137,17 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59537ca159019.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  But if you want the program to**complete the whole update process** for you, you can upgrade it to [**Pro version**](https://tools.techidaily.com/drivereasy/download/) .
 
  In fact,**Driver Easy Pro** can not only help you**speed up** the update process, but also update**all** the outdated drivers**at once** . In addition, its powerful features can help you deal with**various** driver issues with just**a few** clicks. **This is the tool that can really save you much time and energy!**
   
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5) Check hardware status
 
@@ -180,22 +174,19 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-pro-mac-photography-discovering-the-best-5-screen-shots-ways/"><u>[New] In 2024, Pro Mac Photography Discovering the Best 5 Screen Shots Ways</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-hp-deskjet-d1360-printer-drivers-wont-install-in-windows-7-8-8110/"><u>[Resolved] HP Deskjet D1360 Printer Drivers Won’t Install in Windows 7, 8, 8.1,10</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-how-to-add-music-to-instagram-videos-and-stories-for-2024/"><u>[Updated] How to Add Music to Instagram Videos and Stories for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-detailed-insights-into-youtubes-monthly-income-model/"><u>[Updated] In 2024, Detailed Insights Into YouTube's Monthly Income Model</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/dell-v305-aio-printer-driver-update-in-windows-7/"><u>Dell V305 AIO Printer Driver Update in Windows 7</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-tecno-spark-20c-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Tecno Spark 20C to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-amplify-audience-response-with-unique-instagram-quiz-features/"><u>In 2024, Amplify Audience Response with Unique Instagram Quiz Features</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-maximizing-impact-the-best-instagram-hashtag-list/"><u>In 2024, Maximizing Impact The Best Instagram Hashtag List</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instantly-resolve-printer-disconnection/"><u>Instantly Resolve Printer Disconnection</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/local-printer-spooler-not-responding-help/"><u>Local Printer Spooler Not Responding, Help</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/networking-issues-fixed-win7-printer-online/"><u>Networking Issues Fixed: Win7 Printer Online</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-unleash-creativity-top-10-must-have-plugins-for-final-cut-pro-x-users-for-2024/"><u>New Unleash Creativity Top 10 Must-Have Plugins for Final Cut Pro X Users for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-recovery-steps/"><u>Printer Recovery Steps</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-remedies-for-slow-printers/"><u>Quick Remedies for Slow Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unable-to-locate-canon-pixma-mp620-drivers-on-win10/"><u>Unable to Locate Canon Pixma MP620 Drivers on WIN10</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/in-or-out-tailoring-your-youtube-viewing-pace/"><u>Zoom in or Out? Tailoring Your YouTube Viewing Pace</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-license-agreement-terms-and-conditions-digiarty-softwares-ultimate-guide-to-winxdvd-use/"><u>1. License Agreement Terms & Conditions: Digiarty Software's Ultimate Guide to WinXDVD Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-reasons-excluding-gpt-from-cryptographic-research/"><u>5 Reasons: Excluding GPT From Cryptographic Research</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/etic-alchemy-transforming-youtube-videos-for-2024/"><u>Aesthetic Alchemy Transforming YouTube Videos for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhance-printer-velocity-now/"><u>Enhance Printer Velocity Now!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-4-vs-gpt-35-unveiled-analyzing-their-five-main-differences/"><u>GPT-4 Vs. GPT-3.5 Unveiled: Analyzing Their Five Main Differences</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/immediate-actions-for-a-disconnected-printer/"><u>Immediate Actions for a Disconnected Printer</u></a></li>
+<li><a href="https://win11.techidaily.com/lockdown-windows-7-ways-to-secure-your-system/"><u>Lockdown Windows: 7 Ways to Secure Your System</u></a></li>
+<li><a href="https://driver-download.techidaily.com/nahimic-sound-enhancement-simple-and-fast-installation-guide/"><u>Nahimic Sound Enhancement: Simple and Fast Installation Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overhauling-hp-printers-error-code-oxc4eb827f/"><u>Overhauling HP Printer's Error: Code OXC4EB827F</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-not-showing-up-a-guide-for-windows-users/"><u>Printer Not Showing Up: A Guide for Windows Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reactivating-your-disabled-apple-device-a-step-by-step-guide/"><u>Reactivating Your Disabled Apple Device: A Step-by-Step Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/saving-photo-printouts-from-failures/"><u>Saving Photo Printouts From Failures</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unblocking-printer-service-on-windows-10-11-7/"><u>Unblocking Printer Service on Windows 10, 11, 7</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/who-emerges-as-superior-in-ai-speech-gpt-or-huggingchat/"><u>Who Emerges as Superior in AI Speech, GPT or HuggingChat?</u></a></li>
 </ul></div>
 

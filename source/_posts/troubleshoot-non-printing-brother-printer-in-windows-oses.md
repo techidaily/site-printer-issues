@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Non-Printing Brother Printer in Windows OSes
-date: 2024-11-09T16:33:42.632Z
-updated: 2024-11-13T19:34:47.044Z
+date: 2024-11-10T21:00:12.470Z
+updated: 2024-11-13T21:04:04.701Z
 tags:
   - win11
   - win10
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 ## Why is my Brother printer not printing?
 
  There are several reasons that your Brother printer fails to work properly, including**incorrect connectivity** ,**outdated printer driver** and**faulty configurations** . Whatever the cause is, you can fix it in a few steps.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Here’re the fixes
 
@@ -46,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 ### If you’re using a USB printer
 
  If you connect the printer to your computer via a USB cable, simply re-plug it and also try another USB port on your computer in case the one you previously used is broken.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### If you’re using a wireless printer
 
@@ -72,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3 – Restart the Print Spooler service
 
  Your computer won’t send the print jobs to your Brother printer if the Print Spooler service is not working properly. To get your printer back to running, you can simply restart this service.
@@ -88,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 2. Right-click**Print Spooler** . If it isn’t running,**Start** this service; if it’s already started, click**Restart** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/3-2.jpg)
@@ -100,14 +107,14 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/3-3-2.jpg)
 4. Set the**Startup type** to**Automatic** . Then, click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/3-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now see if your Brother printer returns to normal and acts the way it should. If the same problem occurs, the culprit may be your printer driver, and please check out Fix 4.
 
@@ -124,10 +131,10 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2 – Automatically update the printer driver
@@ -154,13 +161,6 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 5 – Clear the print queue
 
  A failed or stuck print queue will also prevent your Brother printer from functioning smoothly. If so, clearing the queued output jobs can resume the printing process right away.
@@ -172,9 +172,23 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/4-2-2.jpg)
 3. On your keyboard, press the**Windows logo key** and**E** at the same time to open the File Explorer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Copy the address_**%windir%\\System32\\spool\\PRINTERS**_ and paste it to the address bar. Then, press**Enter** on your keyboard.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/4-3-3.jpg)
 5. Delete all the files in that folder.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Re-open the Services window. Then, click**Print Spooler** and click**Start** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/4-5-1.jpg)
@@ -182,13 +196,6 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
  After you finish the steps above, restart your PC for the changes to take effect. Then, test if your Brother printer works as intended. If not, try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6 – Check for damaged system files
 
@@ -210,19 +217,6 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 7 – Print from other programs
 
  Sometimes, the Brother printer not printing issue only happens with certain programs. You can test the printer by**printing from another program** . If it works well, the problem lies in the application you run and you should contact its vendor or developer for further assistance. But if the problem remains, please proceed to the last fix.
@@ -230,10 +224,10 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 8 – Factory reset your Brother printer
@@ -265,20 +259,18 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-contrast-in-colors-crafting-cinematic-moods/"><u>[Updated] Contrast in Colors Crafting Cinematic Moods</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-navigating-twitter-video-submission-protocols-for-2024/"><u>[Updated] Navigating Twitter Video Submission Protocols for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-palette-proficiency-expertise-through-experience/"><u>[Updated] Palette Proficiency Expertise Through Experience</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-ultimate-choices-top-laptops-pro-video-editing-in-4k-for-2024/"><u>[Updated] Ultimate Choices Top Laptops Pro Video Editing in 4K for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-lava-blaze-curve-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Lava Blaze Curve 5G Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brother-cdw-duo-fan-setup-instructions/"><u>Brother CDW Duo Fan Setup Instructions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/efficient-strategies-for-streamlining-ai-expertise-acquisition-insights-from-zdnet/"><u>Efficient Strategies for Streamlining AI Expertise Acquisition: Insights From ZDNet</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/end-repeated-print-job-failures-guide-for-windows-107-users/"><u>End Repeated Print Job Failures: Guide for Windows 10/7 Users</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhance-your-printing-experience-with-canon-windows-10-tips/"><u>Enhance Your Printing Experience with Canon, Windows 10 Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expertly-curated-phone-buying-destinations-find-your-perfect-device/"><u>Expertly Curated Phone Buying Destinations: Find Your Perfect Device</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hack-your-way-through-pcl-xl-troubles/"><u>Hack Your Way Through PCL XL Troubles</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/immediate-action-on-queued-printer-work/"><u>Immediate Action on Queued Printer Work</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-expert-tips-on-producing-high-quality-facebook-video/"><u>In 2024, Expert Tips on Producing High-Quality Facebook Video</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/monochrome-output-despite-color-settings/"><u>Monochrome Output Despite Color Settings</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/compatibility-problem-windows-10-cant-find-mp620-drivers/"><u>[Compatibility Problem] Windows 10 Can't Find MP620 Drivers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-the-best-cameras-for-youtube-from-beginners-to-professionals/"><u>[New] In 2024, The Best Cameras for YouTube From Beginners to Professionals</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-innovative-strategies-for-youtube-video-closures/"><u>[Updated] Innovative Strategies for YouTube Video Closures</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-xiaomi-redmi-12-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/compreeed-software-bundle-officejet-pro-8600-windows-integration/"><u>Compreeed Software Bundle: OfficeJet Pro 8600, Windows Integration</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/end-of-missing-pages-with-new-tech-update/"><u>End of Missing Pages with New Tech Update</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/from-blank-to-brilliant-overcoming-print-troubles/"><u>From Blank to Brilliant: Overcoming Print Troubles</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-after-deleting-from-recently-deleted-on-iphone-12-mini-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover deleted photos after deleting from Recently Deleted on iPhone 12 mini | Stellar</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-nokia-c22-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Nokia C22 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/investigating-xbox-online-problems-determining-if-its-just-user-specific-issues-or-an-actual-service-interruption/"><u>Investigating Xbox Online Problems: Determining if It's Just User-Specific Issues or an Actual Service Interruption.</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/navigating-through-troubled-waters-instagram-videos-guide-for-2024/"><u>Navigating Through Troubled Waters Instagram Videos Guide for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-fixing-a-non-responsive-corsair-audio-device/"><u>Troubleshooting Tips: Fixing a Non-Responsive Corsair Audio Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-meta-vision-pro-a-virtual-reality-experience-with-innovative-apple-inspired-technology-zdnet-coverage/"><u>Unveiling the Meta Vision Pro: A Virtual Reality Experience with Innovative Apple-Inspired Technology - ZDNet Coverage</u></a></li>
 </ul></div>
 

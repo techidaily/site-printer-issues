@@ -1,7 +1,7 @@
 ---
 title: Can't Get My Canon Printer on Board
-date: 2024-11-11T19:30:54.895Z
-updated: 2024-11-13T17:20:40.435Z
+date: 2024-11-09T07:24:02.284Z
+updated: 2024-11-14T07:54:12.493Z
 tags:
   - win11
   - win10
@@ -59,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
 
  Check your printer manual for information about how to re-pair your printer and your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Run the printer troubleshooter
 
  The Windows built-in troubleshooter can check your Canon printer and fix its issues. To run the printer troubleshooter:
@@ -79,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b3207300145c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)**  Open the troubleshooter:
@@ -90,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
  Click **Printer** and then **Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b32079041de8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Follow the on-screen instructions to complete the troubleshooting.
 
@@ -108,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot-1200x699.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click**Other troubleshooters** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters-1200x699.jpg)
@@ -117,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-Troubleshooter-Printer.jpg)
 
  Hopefully this will fix your printer. But if not, there are three more fixes for you to try…
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Restart the Print Spooler service
 
@@ -137,31 +123,11 @@ To reset this service:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f1bc9808a1b.png)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click **Print Spooler** , then click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320bb1ea13a.jpg)
 
 **4)** Check to see if your printer is able to print.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Configure the correct printer port for your printer
 
@@ -169,16 +135,16 @@ To reset this service:
 
 **1)** On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f05e61151ac.png) and **R**  on your keyboard at the same time to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Type “_**control**_ ” and press**Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f05fa653ea6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Under**View by** , select**Large icons** .
 
@@ -188,13 +154,34 @@ To reset this service:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0600edfd3e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Right-click your Canon printer, then click**Printer properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b32122f344d3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Click**Change Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b321538f2ef1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **7)** Click the**Port** tab, then check the port that:
 
@@ -211,10 +198,10 @@ To reset this service:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b321a5ef2bf8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you haven’t, repeat step 7 and 8 until your printer is working properly.
@@ -232,6 +219,13 @@ To reset this service:
 **2)** Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b02a3b249666.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Click the **Update**  button next to_your Canon printer_ to download the latest and correct driver for it, then you can install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
@@ -259,19 +253,22 @@ To reset this service:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/driver-search-problem-windows-10-cant-find-mp620-printer-driver/"><u>[Driver Search] Problem: Windows 10 Can't Find MP620 Printer Driver</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-dispatching-dreadful-green-screen-distortion-on-mac-editing-sessions/"><u>[New] 2024 Approved Dispatching Dreadful Green Screen Distortion on Mac-Editing Sessions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enjoy-your-favorite-songs-anytime-convert-youtube-to-mp3-now/"><u>[New] 2024 Approved Enjoy Your Favorite Songs Anytime Convert YouTube to MP3 Now</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-from-first-use-to-expertise-a-comprehensive-fcp-guidebook/"><u>[New] From First Use to Expertise A Comprehensive FCP Guidebook</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-quick-methods-for-saving-google-voice-communication/"><u>[Updated] In 2024, Quick Methods for Saving Google Voice Communication</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-securing-your-anonymity-during-instagrams-live-feature/"><u>[Updated] Securing Your Anonymity During Instagram's Live Feature</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-rhythmic-resonance-select-sites-for-downloading-tones/"><u>2024 Approved Rhythmic Resonance Select Sites for Downloading Tones</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-seconds-for-a-high-quality-20mb-video/"><u>2024 Approved Seconds for a High-Quality 20MB Video</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/excessive-blank-sheets-on-new-epson-multifunction-product/"><u>Excessive Blank Sheets on New Epson Multifunction Product</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574049626-fix-print-job-stuck-in-queue-quickly/"><u>Fix 'Print Job Stuck in Queue' Quickly</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-essential-handbook-for-incorporating-music-into-ppt/"><u>In 2024, The Essential Handbook for Incorporating Music Into PPT</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mastering-quick-fixes-for-pcl-xl-errors/"><u>Mastering Quick Fixes for PCL XL Errors</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/no-errors-in-connecting-printer-to-pc/"><u>No Errors in Connecting Printer to PC</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reclaiming-internet-connectivity-for-brother-printer/"><u>Reclaiming Internet Connectivity for Brother Printer</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rofessionally-impressive-quick-made-valorant-game-thumbnails/"><u>[New] Professionally Impressive, Quick-Made Valorant Game Thumbnails</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/deciphering-printer-alert-xf1/"><u>Deciphering Printer Alert #XF1</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/disconnecting-all-print-devices-at-once-on-pc/"><u>Disconnecting All Print Devices at Once on PC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/discover-hidden-printer-devices-in-windows-710/"><u>Discover Hidden Printer Devices in WIndows 7/10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-to-address-lg-display-driver-concerns-across-windows-11-8-and-7-systems/"><u>Expert Tips to Address LG Display Driver Concerns Across Windows 11, 8, and 7 Systems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-solve-brother-printer-offline-problem/"><u>How to Solve Brother Printer Offline Problem</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-8-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 8 to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/masterful-rhythm-gaming-with-graphic-pads/"><u>Masterful Rhythm Gaming with Graphic Pads</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mysterious-printer-misfit-found/"><u>Mysterious Printer Misfit Found</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-obstacle-of-error-0x800705b4-in-updating-your-windows-11-system/"><u>Overcoming the Obstacle of Error 0X800705B4 in Updating Your Windows 11 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-usb-connection-problems-effective-solutions-for-device-descriptor-request-failed-error/"><u>Overcoming USB Connection Problems: Effective Solutions for 'Device Descriptor Request Failed' Error</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-woes-after-suspend-on-windows-7-systems/"><u>Printer Woes After Suspend on Windows 7 Systems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-scan-to-computer-is-no-longer-activated-on-windows-11/"><u>Solved: Scan to Computer Is No Longer Activated on Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-blueprint-of-youtubes-innovative-shorts-economy-model-for-2024/"><u>The Blueprint of YouTube's Innovative Shorts Economy Model for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-iphone-15-pro-max-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass iPhone 15 Pro Max Activation Lock</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-solution-to-d3d9dll-not-detected-issues-in-windows/"><u>The Ultimate Solution to d3d9.dll Not Detected Issues in Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win11s-online-scanning-no-longer-inactive/"><u>Win11's Online Scanning No Longer Inactive</u></a></li>
 </ul></div>
 

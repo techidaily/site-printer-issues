@@ -1,7 +1,7 @@
 ---
 title: Print Issue Due to Current Domain Services Outage
-date: 2024-11-12T19:09:19.623Z
-updated: 2024-11-13T18:54:17.999Z
+date: 2024-11-12T19:40:38.733Z
+updated: 2024-11-14T00:35:55.887Z
 tags:
   - win11
   - win10
@@ -48,16 +48,16 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png) and **R**  at the same time to invoke the Run box.
   
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) Type **regedit**  and press **Enter** to open Registry Editor.  
   
 **![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-23.jpg)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click **Yes** when prompted by User Account Control,.
  3) On Registry window, go to **HKEY\_CURRENT\_USER** \> **Software**  \> **Microsoft**  \> **Windows NT**  \> **CurrentVersion** .  
@@ -71,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Click your account and tick on**Allow** of **Full Control** . Then click **Apply**  \> **OK** .  
@@ -83,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Do the same settings to give your account full control of **PrinterPorts**  and **Windows** .  
@@ -95,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Close the Registry Editor window and check to see if you could print files successfully.
@@ -120,22 +120,21 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-sharp-focus-tech-best-4k-camera-phones-of-the-genre-for-2024/"><u>[New] Sharp Focus Tech Best 4K Camera Phones of the Genre for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-efficient-content-curation-steps-towards-a-well-organized-watch-later-playlist/"><u>[Updated] 2024 Approved Efficient Content Curation Steps Towards a Well-Organized 'Watch Later' Playlist</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-capture-every-word-in-meetings-the-top-10-free-recorders-for-slack-for-2024/"><u>[Updated] Capture Every Word in Meetings - The Top 10 Free Recorders for Slack for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-exclusive-reveal-top-downloading-tools-for-fans-of-apples-ios-and-facebook/"><u>[Updated] In 2024, Exclusive Reveal Top Downloading Tools for Fans of Apple's iOS and Facebook</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guidance-to-youtube-music-mix/"><u>[Updated] In 2024, Guidance to YouTube Music Mix</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/a-printers-victory-over-the-white-paper-plague/"><u>A Printer's Victory Over the White Paper Plague</u></a></li>
-<li><a href="https://apple-account.techidaily.com/audio-selection-at-your-fingertips-with-an-audible-membership/"><u>Audio Selection at Your Fingertips with an Audible Membership</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/boost-efficiency-install-dell-printer-driver-update-in-win7/"><u>Boost Efficiency: Install Dell Printer Driver Update in Win7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/breathe-new-life-into-non-printing-brother-printer-in-windows-1011/"><u>Breathe New Life Into Non-Printing Brother Printer in Windows 10/11</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oppo-a58-4g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Oppo A58 4G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-installation-issue-for-laser-printer/"><u>Fixed Installation Issue for Laser Printer</u></a></li>
-<li><a href="https://win-blog.techidaily.com/improve-your-gaming-experience-overcoming-stutter-and-boosting-fps-on-red-dead-redemption-2/"><u>Improve Your Gaming Experience: Overcoming Stutter and Boosting FPS on Red Dead Redemption 2</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/installing-printer-successfully-confirmed/"><u>Installing Printer Successfully Confirmed</u></a></li>
-<li><a href="https://techidaily.com/is-your-nubia-z50s-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nubia Z50S Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mf4770n-driver-upgrade-for-w11w8w7/"><u>MF4770n Driver Upgrade for W11/W8/W7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reconnect-scanner-windows-10-troubleshooting-tips/"><u>Reconnect Scanner: Windows 10 Troubleshooting Tips</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolve-print-queue-hang-up-promptly/"><u>Resolve Print Queue Hang-Up Promptly</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-the-rise-and-reality-of-magix-paintbox/"><u>[New] 2024 Approved The Rise and Reality of MAGIX Paintbox</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-premier-avi-media-player-for-all-platforms/"><u>[New] Premier AVi Media Player for All Platforms</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-vlogging-made-simple-top-30-video-concepts/"><u>[Updated] Vlogging Made Simple Top 30 Video Concepts</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/bringing-a-siblings-printer-out-of-network-hibernation/"><u>Bringing a Sibling's Printer Out of Network Hibernation</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-scannerprinter-blank-page-mystery-solved/"><u>Epson Scanner/Printer Blank Page Mystery Solved</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-iphone-11-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on iPhone 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-integrating-soundscape-and-aesthetics-in-windows-photos-app/"><u>In 2024, Integrating Soundscape and Aesthetics in Windows Photos App</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-motorola-edgeplus-2023-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Motorola Edge+ (2023) Device</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-ultimate-meme-playbook-no-10-essentials/"><u>In 2024, The Ultimate Meme Playbook No. 10 Essentials</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/personal-ai-showdown-determining-if-alexa-or-google-assistant-matches-your-lifestyle/"><u>Personal AI Showdown: Determining If Alexa or Google Assistant Matches Your Lifestyle</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-post-update-printer-crash/"><u>Resolved: Post-Update Printer Crash</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/stepwise-integration-merging-hp-officejet-8720-with-pcs/"><u>Stepwise Integration: Merging HP Officejet 8720 with PCs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/triumph-over-printer-woes-with-windows-10-update-fix/"><u>Triumph Over Printer Woes with Windows 10 Update Fix</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unlocking-your-canons-wireless-capability/"><u>Unlocking Your Canon's Wireless Capability</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-unblocked-scan-functionality/"><u>Windows 11: Unblocked Scan Functionality</u></a></li>
+<li><a href="https://facebook.techidaily.com/your-whereabouts-shared-in-seconds-with-fbmessenger/"><u>Your Whereabouts, Shared in Seconds with FBMessenger</u></a></li>
 </ul></div>
 

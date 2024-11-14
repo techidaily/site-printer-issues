@@ -1,7 +1,7 @@
 ---
 title: Fixing Dead Paper Output in HP Printers
-date: 2024-11-11T18:58:34.010Z
-updated: 2024-11-13T18:47:58.612Z
+date: 2024-11-12T19:28:45.441Z
+updated: 2024-11-14T04:33:06.702Z
 tags:
   - win11
   - win10
@@ -37,16 +37,16 @@ thumbnail: https://thmb.techidaily.com/45a1f9697d2bdeb16116c56d8bb656d37d6c88757
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/services.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Scroll down to locate**Printer Spooler** . Right-click it and select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/restart-services.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Check if your HP printer is able to print now.
 
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/45a1f9697d2bdeb16116c56d8bb656d37d6c88757
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-printer-driver.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Tick the option**Delete the driver software for this device** , and click**Uninstall t** o confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/confirm-deletetion.jpg)
@@ -72,22 +79,15 @@ thumbnail: https://thmb.techidaily.com/45a1f9697d2bdeb16116c56d8bb656d37d6c88757
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/devices.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) On the left pane, select**Printers & scanners** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/printers-and-scanners.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Select your printer, and click**Remove device** . Select**Yes** to confirm.
@@ -102,19 +102,19 @@ thumbnail: https://thmb.techidaily.com/45a1f9697d2bdeb16116c56d8bb656d37d6c88757
 
 ![update audio technica driver automatically](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-now.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  10) It’s better for you to reboot your computer for the changes to take full effect.
 
 If this method doesn’t do the trick, you can try the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3\. Use the generic driver
 
@@ -124,31 +124,31 @@ If this method doesn’t do the trick, you can try the fix below.
 
 ![devmgmt.msc](https://images.drivereasy.com/wp-content/uploads/2021/01/devmgmt.msc_.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Expand the**Printers** category. Then right-click your printer and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-printer-driver.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Select**Browse my computer for drivers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/browse-my-computer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Choose**Let me pick from a list of available drivers on my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/let-me-pick.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Select**Generic printer device** , and click**Nex** t to continue.
 
@@ -173,10 +173,10 @@ If this method doesn’t do the trick, you can try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/troubleshoot-printer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Follow on the on-screen instructions to complete the troubleshooting.
@@ -202,24 +202,24 @@ If this method doesn’t do the trick, you can try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/tech-support-tip-reveal-hidden-printer-on-your-pc/"><u>[Tech Support Tip] Reveal Hidden Printer on Your PC</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-quick-steps-to-capture-ios-audio-files/"><u>[Updated] 2024 Approved Quick Steps to Capture iOS Audio Files</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-idea-ink-the-top-10-iosandroid-image-writing-tools/"><u>[Updated] Idea Ink The Top 10 iOS/Android Image-Writing Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-reel-motivation-a-curated-list-of-top-10-film-titles/"><u>2024 Approved Reel Motivation A Curated List of Top 10 Film Titles</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/automatisiertes-backup-handbuch-fur-windows-7-die-besten/"><u>Automatisiertes Backup-Handbuch Für Windows 7 - Die Besten</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-mf4770n-driver-update-in-windows-1187/"><u>Canon MF4770n Driver Update in Windows 11/8/7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-unresponsive-xp-printer-jobs-without-delay/"><u>Fix Unresponsive XP Printer Jobs Without Delay</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/get-your-printer-back-in-action-on-windows-11/"><u>Get Your Printer Back in Action on Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-realme-note-50-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Realme Note 50 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-best-practices-for-youtube-to-mpeg-format-switching/"><u>In 2024, Best Practices for YouTube to MPEG Format Switching</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-12-proplus-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-offline-hp-printer-woes/"><u>Overcoming Offline HP Printer Woes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-fixes-for-suddenly-offline-printers/"><u>Quick Fixes for Suddenly Offline Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reactivate-idle-printing-queue-task/"><u>Reactivate Idle Printing Queue Task</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolve-page-missing-issue-with-printers/"><u>Resolve Page Missing Issue with Printers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformer-un-fichier-swf-en-format-avi-gratuitement-sur-la-toile-guide-par-movavi/"><u>Transformer Un Fichier SWF en Format AVI Gratuitement Sur La Toile - Guide Par Movavi</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-10-sound-issues-a-complete-guide/"><u>Troubleshooting Windows 10 Sound Issues: A Complete Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/twitter-strategies-for-prosperity-a-comprehensive-guide-to-securing-expert-crypto-insights/"><u>Twitter Strategies for Prosperity: A Comprehensive Guide to Securing Expert Crypto Insights</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-searches-for-non-existent-printer-driver/"><u>Windows Searches for Non-Existent Printer Driver</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-issue-windows-11-not-supporting-canon-mp620/"><u>[Driver Issue] Windows 11 Not Supporting Canon MP620</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1716069051173-new-2024-approved-top-15-open-world-games-to-beat-the-climb/"><u>[New] 2024 Approved Top 15 Open World Games to Beat the Climb!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-cutting-edge-drone-footage-for-movies-and-tv/"><u>[New] In 2024, Cutting-Edge Drone Footage for Movies and TV</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-role-of-b-roll-in-professional-editing/"><u>[New] In 2024, The Role of B Roll in Professional Editing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-find-the-perfect-video-collaboration-app-our-choice-of-10-free-tools/"><u>[Updated] 2024 Approved Find the Perfect Video Collaboration App Our Choice of 10 Free Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apples-guide-to-authentic-chatgpt-software/"><u>Apple's Guide to Authentic ChatGPT Software</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/brother-cdw-duo-fan-setup-instructions/"><u>Brother CDW Duo Fan Setup Instructions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/chinas-homegrown-processor-visionary-fuels-lenovos-new-pc-portfolio-other-oems-follow-suit-with-zhoaxin-driven-products/"><u>China's Homegrown Processor Visionary Fuels Lenovo's New PC Portfolio; Other OEMs Follow Suit With Zhoaxin-Driven Products</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/end-repeated-print-job-failures-guide-for-windows-107-users/"><u>End Repeated Print Job Failures: Guide for Windows 10/7 Users</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhance-your-printing-experience-with-canon-windows-10-tips/"><u>Enhance Your Printing Experience with Canon, Windows 10 Tips</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oppo-reno-9a-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Oppo Reno 9A FRP Locks</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hack-your-way-through-pcl-xl-troubles/"><u>Hack Your Way Through PCL XL Troubles</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-fix-slow-printing-easily-and-quickly/"><u>How to Fix Slow Printing [Easily & Quickly]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-stop-your-computer-from-crashing-with-bsod-errors/"><u>How To Stop Your Computer From Crashing with BSOD Errors</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/idvd-conversion-essentials-how-to-digitize-and-duplicate-dvd-media-for-use-on-apples-ipad-devices/"><u>IDVD Conversion Essentials: How to Digitize and Duplicate DVD Media for Use on Apple's iPad Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/immediate-action-on-queued-printer-work/"><u>Immediate Action on Queued Printer Work</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/monochrome-output-despite-color-settings/"><u>Monochrome Output Despite Color Settings</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tips-for-restarting-non-functional-hp-photo-units/"><u>Tips for Restarting Non-Functional HP Photo Units</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-stuck-iphones-four-effective-methods-to-restart-your-device/"><u>Troubleshoot Stuck iPhones: Four Effective Methods to Restart Your Device</u></a></li>
 </ul></div>
 

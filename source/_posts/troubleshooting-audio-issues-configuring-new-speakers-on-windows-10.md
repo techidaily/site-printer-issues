@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Audio Issues: Configuring New Speakers on Windows 10"
-date: 2024-11-12T19:11:11.288Z
-updated: 2024-11-13T16:46:11.910Z
+date: 2024-11-08T07:07:21.203Z
+updated: 2024-11-14T08:01:55.045Z
 tags:
   - win11
   - win10
@@ -36,10 +36,10 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b5314e30c21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 3, check the volume settings
@@ -52,10 +52,10 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 3. In Control Panel, view by Category, click **Hardware and Sound** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a37a0193f08b.jpg)
@@ -70,10 +70,10 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
  If the problem still cannot be resolved, try solutions below. Sound setting issues or driver issues may also cause this problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Set Speakers as Default
@@ -83,6 +83,13 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 1. Right-click the speaker icon at the bottom right corner of the desktop and click on**Playback devices** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b11f3def8f1.png)
 2. Highlight**Speakers** or**Speakers /Headphones** and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/set-as-default.jpg)
 
@@ -94,14 +101,14 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
 ![enable speakers](https://images.drivereasy.com/wp-content/uploads/2016/08/enable-speakers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The problem also can be caused by outdated or missing audio drivers. So try to fix audio drivers.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Uninstall the Audio Driver
 
@@ -112,31 +119,24 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57354ce2ad87d.png)
 3. In Device Manager, double-click**Sound, video and game controllers** and right-click your sound card. A context menu will pop up. Then select**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. Tick the box for**Delete the driver software for this device** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Reboot your PC and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Update the Audio Driver
@@ -172,20 +172,16 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-flavorful-filmmaking-top-7-strategies-for-culinary-videos/"><u>[Updated] 2024 Approved Flavorful Filmmaking Top 7 Strategies for Culinary Videos</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-architects-crafting-fantasy-realms-for-marvel-for-2024/"><u>[Updated] Architects Crafting Fantasy Realms for Marvel for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-ideal-mac-video-logic-tool/"><u>[Updated] Ideal Mac Video Logic Tool</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-essential-guide-to-embedding-youtube-into-gslides-for-2024/"><u>[Updated] The Essential Guide to Embedding YouTube Into GSlides for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/evaluating-generative-ai-in-chat-services-uncovering-7-compelling-concerns/"><u>Evaluating Generative AI in Chat Services: Uncovering 7 Compelling Concerns</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/finding-the-right-hp-d1360-print-drivers-in-windows-ecosystems/"><u>Finding the Right HP D1360 Print Drivers in Windows Ecosystems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixation-on-pcl-xl-a-handy-manual/"><u>Fixation on PCL XL: A Handy Manual</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-avoid-and-reverse-strikes-on-your-youtube-channel/"><u>In 2024, How to Avoid and Reverse Strikes on Your YouTube Channel</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mastering-printer-fault-resolutions/"><u>Mastering Printer Fault Resolutions</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/not-all-colors-printing-as-expected/"><u>Not All Colors Printing as Expected</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/perfecting-zooms-capabilities-for-effective-facebook-live/"><u>Perfecting Zoom's Capabilities for Effective Facebook LIVE</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574064539-post-update-printer-problem-resolved-and-happy-again/"><u>Post-Update Printer Problem: Resolved and Happy Again</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printers-now-consistently-full-page-output/"><u>Printers Now Consistently Full-Page Output</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-dilemma-resolving-error-0x800f081f-during-net-framework-35-setup/"><u>Solving the Dilemma: Resolving Error 0X800F081F During .NET Framework 3.5 Setup</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/trustworthy-source-fetch-your-eveo-bluetooth-connectivity-driver-for-immediate-use/"><u>Trustworthy Source: Fetch Your EVEO Bluetooth Connectivity Driver for Immediate Use</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-fbstream-viewer-extractor/"><u>[New] In 2024, FbStream Viewer Extractor</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-premier-meme-editing-software/"><u>[New] In 2024, Premier Meme Editing Software</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-step-by-step-designing-aplus-cover-photos-for-your-insta-highlights/"><u>[New] Step-by-Step Designing A+ Cover Photos for Your Insta Highlights</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-flip-clips-android-reversal-technique/"><u>[Updated] 2024 Approved Flip Clips Android Reversal Technique</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-tiktok-creator-fund-how-to-join-it-and-make-money/"><u>[Updated] In 2024, TikTok Creator Fund How to Join It and Make Money</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guida-passo-passo-converti-gratuitamente-i-file-mpeg-in-mp4-per-windows-1011-e-mac/"><u>Guida Passo-Passo: Converti Gratuitamente I File MPEG in MP4 per Windows 10/11 E Mac</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-quickly-link-canon-devices-on-wi-fi/"><u>How to Quickly Link Canon Devices on Wi-Fi</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-all-in-one-printers-connectivity-armored-up/"><u>HP All-in-One Printer's Connectivity Armored Up</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-apowersoft-reviewed-a-guide-to-pc-screen-capture/"><u>In 2024, Apowersoft Reviewed A Guide to PC Screen Capture</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mastering-the-connection-process-of-hp-photosmart-all-in-one/"><u>Mastering the Connection Process of HP PhotoSmart All-In-One</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/step-by-step-installing-hp-photosmart-printer/"><u>Step-by-Step: Installing HP PhotoSmart Printer</u></a></li>
 </ul></div>
 

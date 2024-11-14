@@ -1,7 +1,7 @@
 ---
 title: Fast-Track Prints in Queue
-date: 2024-11-09T17:55:41.733Z
-updated: 2024-11-13T18:15:09.843Z
+date: 2024-11-08T06:41:13.148Z
+updated: 2024-11-14T12:17:39.161Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
    3. [Create a Bat file for permanent use](#f3)
 * **Fix 2 –[Reinstall your printer driver](#m2)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Clear the print queue
 
  There are three options for you to clear the print queue. You don’t have to try them all; just take your pick.
@@ -38,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 2. In the Run window, type**services.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/services-run-box.jpg)
 3. Scroll down to**Print Spooler** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Right-click**Print Spooler** and select**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/stop-the-service.jpg)
@@ -90,6 +90,13 @@ This will clear all of your print jobs stuck in a queue.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/note.jpg)
 3. Then click**File** \>**Save as…**  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * Change the file type to**All files**  
    * Name your file whatever you want, but add a**.bat** suffix.  
    * Make sure the Encoding type is**ANSI** .  
@@ -98,10 +105,16 @@ This will clear all of your print jobs stuck in a queue.
 4. Double-click the batch file to clear the print queue anytime you want.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Reinstall the printer driver
@@ -122,6 +135,13 @@ This will clear all of your print jobs stuck in a queue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/kisspng-pixel-illustration-printer-5a983b8a6f6aa4.5830009615199261544564.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Option 2: Automatic printer driver update (Recommended)
 
  If you don’t have the time, patience, or computer skills to update your audio driver manually, you can**do it automatically** with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct driver for your device.
@@ -135,23 +155,9 @@ This will clear all of your print jobs stuck in a queue.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now-1.png)
 3. Click the Update button next to your sound card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **OR** click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-1.jpg)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Try printing again. Your printer should be working properly now.
 
@@ -180,17 +186,14 @@ Feel free to drop us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-wholesome-wisdom-videographically-cooking-up-dishes/"><u>[New] 2024 Approved Wholesome Wisdom Videographically Cooking Up Dishes</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-step-by-step-guide-for-font-integration-in-ae/"><u>[New] Step-by-Step Guide for Font Integration in AE</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/apple-vs-fitbit-an-in-depth-review-of-the-apple-watch-series-9-and-fitbit-charge-6/"><u>Apple vs Fitbit: An In-Depth Review of the Apple Watch Series 9 and Fitbit Charge 6</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cutest-drone-companions-for-little-ones/"><u>Cutest Drone Companions for Little Ones</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/gone-are-the-days-of-missing-printer-pages/"><u>Gone Are The Days of Missing Printer Pages</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-setup-missing-driver-in-windows-os/"><u>HP Printer Setup: Missing Driver in Windows OS</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-newest-realtek-rtl81email-protectedu-drivers-for-improved-network-support-on-pcs-with-windows-10-or-7/"><u>Install Newest Realtek RTL81([email Protected])u Drivers for Improved Network Support on PCs with Windows 10 or 7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/post-upgrade-inkjet-printer-unresponsive/"><u>Post Upgrade, Inkjet Printer Unresponsive</u></a></li>
-<li><a href="https://driver-download.techidaily.com/reviving-your-audio-output-device-a-guide-to-updating-the-usb-drivers-on-windows-version-11-10-and-7/"><u>Reviving Your Audio Output Device: A Guide to Updating the USB Drivers on Windows (Version 11, 10 & 7)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solutions-for-inactive-print-devices/"><u>Solutions for Inactive Print Devices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unleash-full-capacity-in-hp-officejet-4630-with-update/"><u>Unleash Full Capacity in HP Officejet 4630 with Update</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/apturing-the-globe-from-novice-to-experienced-travel-videographer/"><u>[New] Capturing the Globe From Novice to Experienced Travel Videographer</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-strategic-playlist-formation-your-guide-to-youtube-mastery/"><u>[New] In 2024, Strategic Playlist Formation Your Guide to YouTube Mastery</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-guide-online-audio-recordings-from-youtube/"><u>[New] The Ultimate Guide Online Audio Recordings From YouTube</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/code-b200-debugged-successfully/"><u>Code B200 Debugged Successfully</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/cure-non-engagement-in-older-windows-versions-printers/"><u>Cure Non-Engagement in Older Windows Versions' Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/from-silence-to-service-restoring-online-status-in-printer/"><u>From Silence to Service: Restoring Online Status in Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/setting-up-your-hp-laserjet-remote-connection/"><u>Setting Up Your HP LaserJet Remote Connection</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/successfully-burning-and-watching-dvds-on-windows-881-a-step-by-step-guide/"><u>Successfully Burning and Watching DVDs on Windows 8/8.1: A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/swift-guide-to-screenshots-via-ipados/"><u>Swift Guide to Screenshots via iPadOS</u></a></li>
 </ul></div>
 

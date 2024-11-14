@@ -1,7 +1,7 @@
 ---
 title: "Solved: Inkjet HP Not Printing Error"
-date: 2024-11-07T18:54:46.707Z
-updated: 2024-11-13T18:16:18.100Z
+date: 2024-11-13T08:35:51.957Z
+updated: 2024-11-14T01:05:52.936Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
  You can also try restarting your HP printer.**Turn** it**off** completely and**unplug the power cord** , leave it for a couple of minutes, and then**plug** the cord**back** and**power on** the printer. See if your printer can print as normally as before.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Update or reinstall the printer driver
 
  In many cases, the printer won’t print issue comes from faulty drivers. You may need to update or reinstall the printer driver to fix your HP printer, not the printing issue.
@@ -52,21 +59,7 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 ![](https://www.drivereasy.com/wp-content/uploads/2021/10/de-update-all-hp-printer.jpg)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Set your printer as default
 
@@ -78,27 +71,20 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb867beb0b.png)
 2. In Control Panel select**Devices and Printers** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 3. In the**Printers** section, right-click on your HP printer and then select**Set as default printer** . Click on**Yes** if prompted.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5476a01d.png)
 4. There is now a tick below the icon of your HP printer. That means it is now set as the default printer.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5fe2a9b6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Cancel all print jobs
 
@@ -115,30 +101,37 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 4. Open**Printer** menu again. This time select**Cancel All Documents** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea70940b1.png)
 5. **Confirm** your action.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987eaa0030f9.png)
 6. You have canceled all print jobs of your printer. Now check and see if it can run normally.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Check printer status
@@ -182,6 +175,13 @@ Check your computer to see if your printer works properly.
 ![how to open Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 2. Click**Yes** when prompted to confirm.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/sfc-scannow.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -206,22 +206,15 @@ Check your computer to see if your printer works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-elevating-your-creations-with-instagrams-soundtrack-feature-for-2024/"><u>[Updated] Elevating Your Creations with Instagram's Soundtrack Feature for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-adobe-advances-bringing-text-into-three-dimensional-space/"><u>[Updated] In 2024, Adobe Advances Bringing Text Into Three-Dimensional Space</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-fix-stuck-instagram-story-pins/"><u>[Updated] In 2024, Fix Stuck Instagram Story Pins</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-your-path-to-beaming-beauty-expertise-starting-an-online-show-for-2024/"><u>[Updated] Your Path to Beaming Beauty Expertise Starting an Online Show for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-earning-stream-start-small-see-big-on-youtube/"><u>2024 Approved Earning Stream Start Small, See Big on YouTube</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-proven-mac-imaging-comprerante-and-comparing-5-efficient-techniques/"><u>2024 Approved Proven Mac Imaging Comprerante & Comparing 5 Efficient Techniques</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/2024s-guide-to-perfectly-pairing-hp-printer-with-laptops/"><u>2024'S Guide to Perfectly Pairing HP Printer with Laptops</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/celebrating-clear-documentation-with-every-page/"><u>Celebrating Clear Documentation with Every Page</u></a></li>
-<li><a href="https://win-data.techidaily.com/dwa-efektywne-techniki-przesuwac-stara-maszyne-do-najnowszej-podreczny-przewodnik/"><u>Dwa Efektywne Techniki Przesuwać Starą Maszynę Do Najnowszej: Podręczny Przewodnik</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/how-to-say-thank-you-in-30-different-languages/"><u>How to Say Thank You in 30 Different Languages</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/movavi3g2/"><u>Movaviで簡単にオンラインで3G2動画ファイルをリアルタイム変換 - 完全無料</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printing-anomaly-linked-to-unknown-pc/"><u>Printing Anomaly Linked to Unknown PC</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reclaiming-online-status-for-your-printer/"><u>Reclaiming Online Status for Your Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-non-responsive-hp-printers/"><u>Resolving Non-Responsive HP Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamline-prints-new-dell-v305-windows-enhancements/"><u>Streamline Prints: New Dell V305 WIndows Enhancements</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/syncing-devices-to-share-printer-settings/"><u>Syncing Devices to Share Printer Settings</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-pcs-no-printer-icon-heres-what-to-do/"><u>Windows PCs, No Printer Icon? Here's What to Do</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-action-cam-aesthetics-top-15-high-impact-gopro-lut-choices/"><u>2024 Approved Action Cam Aesthetics Top 15 High-Impact GOPRO LUT Choices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/boost-operational-efficiency-with-mf4770n-on-w11w8w7-windows/"><u>Boost Operational Efficiency with MF4770n on W11/W8/W7 Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-multifunction-device-shows-unwanted-emptiness/"><u>Epson Multifunction Device Shows Unwanted Emptiness</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/facebook-news-the-latest-updates-unveiled/"><u>Facebook News The Latest Updates Unveiled</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/fbs-hot-five-most-captivating-vids-for-2024/"><u>FB's Hot Five Most Captivating Vids for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-10-sound-settings-a-guide-to-restoring-volume-functionality/"><u>Fixing Windows 10 Sound Settings: A Guide to Restoring Volume Functionality</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-samsung-galaxy-a05s-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Samsung Galaxy A05s</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/navigating-the-maze-getting-brothers-printer-back-on-line/"><u>Navigating the Maze: Getting Brother's Printer Back on Line</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-the-frequent-failure-of-print-spooler-service/"><u>Resolving the Frequent Failure of Print Spooler Service</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/skys-brilliance-top-10-hd-renditions-websites-for-2024/"><u>Sky's Brilliance Top 10 HD Renditions Websites for 2024</u></a></li>
 </ul></div>
 

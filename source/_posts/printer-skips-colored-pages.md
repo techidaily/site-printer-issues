@@ -1,7 +1,7 @@
 ---
 title: Printer Skips Colored Pages
-date: 2024-11-11T18:16:07.173Z
-updated: 2024-11-13T19:09:09.022Z
+date: 2024-11-12T07:52:03.253Z
+updated: 2024-11-14T01:19:39.913Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/7ca1823a541bb8f1b1b4e3f36dc533291122ea53e
 
 [4: Repair system files](#fix4)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Perform basic troubleshooting
 
  When your printer only prints in black-and-white all of a sudden, the first thing you can do is performing some basic troubleshooting. Sometimes you’ll just need to replace the ink cartridge or adjust a setting, and your printer will work just fine. To perform basic troubleshooting, you can follow these steps:
@@ -49,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/7ca1823a541bb8f1b1b4e3f36dc533291122ea53e
 * Make sure the printer is correctly connected to your device.
 * Restart your printer and test the issue again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Try to print from a different device
 
  If you’ve tested the basics and everything seems just fine, then the problem may be with your PC. You can try to send the print job on another PC, your phone, or tablet, to see if can print your document in color.
@@ -56,16 +56,10 @@ thumbnail: https://thmb.techidaily.com/7ca1823a541bb8f1b1b4e3f36dc533291122ea53e
  If it does, then you may need to [update your driver (see the next fix)](#fix3) . If your printer still won’t print in color, then it could be a hardware issue. Consider seeking help from a printer technician or replace your printer if it’s an old one.
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Update your printer driver
@@ -81,21 +75,15 @@ thumbnail: https://thmb.techidaily.com/7ca1823a541bb8f1b1b4e3f36dc533291122ea53e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_12-11-29.jpg)
 3. Click the **Update**  button next to the flagged printer driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_12-11-25.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](mailto:support@drivereasy.com) .
 
@@ -113,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/7ca1823a541bb8f1b1b4e3f36dc533291122ea53e
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
@@ -144,19 +132,24 @@ thumbnail: https://thmb.techidaily.com/7ca1823a541bb8f1b1b4e3f36dc533291122ea53e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-expert-recommended-6-online-apps-to-delete-background-perfectly/"><u>2024 Approved Expert-Recommended 6 Online Apps to Delete Background Perfectly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epsons-print-problem-decoded-error-x97/"><u>Epson's Print Problem Decoded: Error X97</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/from-broadcasting-basics-to-facebook-live-with-wirecast/"><u>From Broadcasting Basics to Facebook Live with Wirecast</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Tecno Camon 20? | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/maximize-viewership-with-smart-and-stylish-titles/"><u>Maximize Viewership With Smart and Stylish Titles</u></a></li>
-<li><a href="https://win-able.techidaily.com/modern-warfare-2-wont-launch-here-are-solutions-that-worked-for-me/"><u>Modern Warfare 2 Won't Launch? Here Are Solutions that Worked for Me!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/my-canon-printer-wont-respond-what-now/"><u>My Canon Printer Won't Respond, What Now?</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-ultimate-list-of-glitch-video-editors-free-paid-and-online-options/"><u>New 2024 Approved The Ultimate List of Glitch Video Editors Free, Paid, and Online Options</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printing-powerhouse-latest-updates-for-dell-printer-windows-7/"><u>Printing Powerhouse: Latest Updates for Dell Printer WIndows 7</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-rights-to-robot-generated-imagery-who-holds-them/"><u>The Rights to Robot-Generated Imagery: Who Holds Them?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshoot-windows-10-printer-software/"><u>Troubleshoot Windows 10 Printer Software</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshoot-windows-11-printing-glitches/"><u>Troubleshoot Windows 11 Printing Glitches</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-ps5-storage-solutions/"><u>Ultimate PS5 Storage Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-do-we-pay-big-bucks-for-virtual-realities-4-explanations-here/"><u>Why Do We Pay Big Bucks for Virtual Realities? 4 Explanations Here</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/installing-printer-hp-deskjet-d1360-struggles-on-various-windows-platforms/"><u>[Installing Printer]: HP Deskjet D1360 Struggles on Various Windows Platforms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-capture-the-thrill-mastering-4-techniques-of-xbox-screen-recording/"><u>2024 Approved Capture the Thrill Mastering 4 Techniques of Xbox Screen-Recording</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-inside-their-secrets-top-10-youtube-beauty-gurus-you-need-to-see/"><u>2024 Approved Inside Their Secrets Top 10 YouTube Beauty Gurus You Need to See</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-soundtrack-switch-up-effortlessly-moving-your-music-queue/"><u>2024 Approved Soundtrack Switch-Up Effortlessly Moving Your Music Queue</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/bridging-the-gap-how-to-merge-your-laptop-and-hp-printer-quickly/"><u>Bridging the Gap: How to Merge Your Laptop and HP Printer Quickly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-creative-catalyst-for-poetic-works/"><u>ChatGPT as Your Creative Catalyst for Poetic Works</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/colors-missing-in-document-output/"><u>Colors Missing in Document Output</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-snipping-tool-trigger-by-prtscn-in-win-11/"><u>Disabling Snipping Tool Trigger by PrtScn in Win 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/effortless-canon-printer-fixes-for-windows-users/"><u>Effortless Canon Printer Fixes for Windows Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/happy-printing-officejet-pro-drive/"><u>Happy Printing: Officejet Pro Drive</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-fix-print-spooler-keeps-stopping-on-windows-10-and-7/"><u>How to Fix Print Spooler Keeps Stopping on Windows 10 & 7</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gopros-maximized-vision-analyzing-max-360-and-hero-11-video-capabilities/"><u>In 2024, GoPro's Maximized Vision Analyzing Max 360 & Hero 11 Video Capabilities</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-unveiling-secrets-to-pristine-bg-removal-techniques-in-figma/"><u>In 2024, Unveiling Secrets to Pristine BG Removal Techniques in Figma</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/installation-manual-hp-smartoffice-800-series/"><u>Installation Manual: HP SmartOffice 800 Series</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-perfection-achieved-say-goodbye-to-ghosts/"><u>Print Perfection Achieved: Say Goodbye to Ghosts</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-connected-in-minutes-no-problems/"><u>Printer Connected in Minutes, No Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-issue-found-in-oculus-graphics-driver/"><u>Resolved: Issue Found in Oculus Graphics Driver</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/strategies-to-correct-unresponsive-hp-color-copiers/"><u>Strategies to Correct Unresponsive HP Color Copiers</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/transform-your-images-with-photo-8-for-windows-start-your-free-trial/"><u>Transform Your Images with Photo 8 for Windows - Start Your Free Trial!</u></a></li>
 </ul></div>
 

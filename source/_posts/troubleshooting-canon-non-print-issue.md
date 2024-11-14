@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Canon Non-Print Issue
-date: 2024-11-09T17:22:15.924Z
-updated: 2024-11-13T16:40:05.902Z
+date: 2024-11-06T19:52:30.812Z
+updated: 2024-11-14T10:32:04.684Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/00e1438c22966a36d893eecd9042143ec66d34204
 
  If you connect your printer via Bluetooth, make sure you place your printer close enough to your computer. You can also try re-pairing the printer with your computer and see if this fixes your problem. Check your printer manual to know how to re-pair your printer and your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Set your printer as default printer
 
  When your order your computer to print something, it will assign the printing tasks to the default printer unless you specify another. Normally, your printer will be set as default when it is connected to your computer. But sometimes the default printer will be changed due to some reasons and you may not be aware of it. In this case you should make sure you have chosen the correct printer when you try to perform a printing task.
@@ -49,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/00e1438c22966a36d893eecd9042143ec66d34204
  If you want to set your printer as the default printer, you can follow the steps below:
 
 **1)** On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f05e61151ac.png) and **R** at the same time to invoke the Run box.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)**  Type “_**control**_ ” and press**Enter** on your keyboard. This will open Control Panel.
 
@@ -68,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/00e1438c22966a36d893eecd9042143ec66d34204
 
 Your printer has already been set as the default printer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 3: Update your printer driver
 
  In many cases, printer problems stem from out-of-date or wrong printer driver. You can update your printer driver and see if this fixes your printer not printing issue. Updating drivers can sometimes be time-consuming. But you can do it easily and quickly with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -89,29 +96,9 @@ Your printer has already been set as the default printer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f066eb5612c.png)
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the**Update** button next to your printer to download the latest and correct driver for this device. You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click on Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f06a24669a8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Restart your computer, then check to see if your printer is able to print.
 
@@ -123,13 +110,6 @@ To check this service:
 
 **1)** On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f05e61151ac.png) and **R** at the same time to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Type “_**services.msc**_ ” and press**Enter** on your keyboard. This will open the Services window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f1bc9808a1b.png)
@@ -138,9 +118,23 @@ To check this service:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f29629de1e9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Make sure Startup type is set to**Automatic** and Service status is**Running** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f299190ca46.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** If not, set Startup type to**Automatic** , and click the**Start** button to start this service.
 
@@ -160,6 +154,13 @@ To check this service:
 
 **1)** On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f05e61151ac.png) and **R** at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Type “_**services.msc**_ ” and press**Enter** on your keyboard. This will open the Services window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f1bc9808a1b.png)
@@ -174,21 +175,7 @@ To check this service:
 
 **5)** Minimize the Services window. Then open**File Explorer** (on your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f05e61151ac.png)**  and**E**  at the same time).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f2a36c12e67.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)**  Copy and paste the following address to the address bar and press**Enter** on your keyboard to go to this location (where the print jobs is stored).
 
@@ -200,15 +187,28 @@ To check this service:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f2ab14ccc48.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **8)** Restore the Services window. Then double click the**Print Spooler** service.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f29629de1e9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **9)** Click the**Start** button. After the service is started, click**OK** to save the change and close this dialog.
@@ -226,10 +226,10 @@ To check this service:
 **14)** Turn on your computer. Then check to see if you can print your documents with your printer.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 6: Use another program to print your document
@@ -268,20 +268,22 @@ To check this service:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/irect-download-and-mp3-creation-for-streaming-video-files/"><u>[New] Direct Download & MP3 Creation for Streaming Video Files</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-does-imovie-set-dimensions/"><u>[New] How Does iMovie Set Dimensions?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-step-by-step-chroma-mastery-for-green-screen-beginners/"><u>[New] Step-by-Step Chroma Mastery for Green Screen Beginners</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/color-prints-failing-to-appear/"><u>Color Prints Failing to Appear</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ing-the-mystery-of-where-are-my-youtube-comments/"><u>Decoding the Mystery of Where Are My YouTube Comments?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhance-device-performance-with-latest-win1187-drivers/"><u>Enhance Device Performance with Latest Win11/8/7 Drivers</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Samsung Galaxy S24? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/repairing-phantom-error-messages-on-printers/"><u>Repairing Phantom Error Messages on Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restore-printer-connection-swiftly/"><u>Restore Printer Connection Swiftly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restore-scanner-link-to-computer-post-windows-update/"><u>Restore Scanner Link to Computer Post-Windows Update</u></a></li>
-<li><a href="https://facebook.techidaily.com/secure-and-efficient-management-of-social-links-in-fb/"><u>Secure & Efficient Management of Social Links in FB</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unraveling-printer-default-problem-error-0x00000709-fixed/"><u>Unraveling Printer Default Problem - Error 0X00000709 Fixed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-paper-mishap-error-code-0x00000709-solved/"><u>Windows Paper Mishap - Error Code 0X00000709 Solved</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-streamlining-slides-integrating-youtube-content/"><u>[New] 2024 Approved Streamlining Slides Integrating YouTube Content</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-achieving-the-pinnacle-of-color-accuracy-in-11-crucial-edits/"><u>[New] In 2024, Achieving the Pinnacle of Color Accuracy in 11 Crucial Edits</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-htc-vive-a-gateway-to-extraordinary-virtual-realms/"><u>[New] In 2024, HTC Vive A Gateway to Extraordinary Virtual Realms</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-commencing-your-google-meet-experience-for-2024/"><u>[Updated] Commencing Your Google Meet Experience for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/hevch265-windows-10-11/"><u>動画再生エラー HEVC/H.265の原因と解決策: Windows 10, 11用無料ソリューションガイド</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/win11-20/"><u>解決 Win11 無法複製或粘貼的全新方法：20多選項</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guide-joining-officejet-8720-to-home-computers/"><u>Guide: Joining OfficeJet 8720 to Home Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-driver-updates-available-now-download-for-windows-1178-users/"><u>Nvidia Driver Updates Available Now - Download for Windows 11/7/8 Users</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-not-responding-to-color-requests/"><u>Printer Not Responding to Color Requests</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restored-printer-link-to-spooler/"><u>Restored PRINTER Link to Spooler</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/simplify-print-setup-wi-fi-connection-for-canon/"><u>Simplify Print Setup: Wi-Fi Connection for Canon</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/strategies-to-forget-a-connected-printer-in-win-1011/"><u>Strategies to Forget a Connected Printer in Win 10/11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/transforming-tweets-into-audio-based-archives-for-2024/"><u>Transforming Tweets Into Audio-Based Archives for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/usb-printer-error-unresponsive-on-win7-restart/"><u>USB Printer Error: Unresponsive on Win7 Restart</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/usb-printer-non-operation-on-windows-7-post-sleep/"><u>USB Printer Non-Operation on Windows 7 Post Sleep</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/ways-to-watch-facebook-live-on-tv-for-2024/"><u>Ways To Watch Facebook Live On TV for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-wide-applications-mf4770n-firmware-update/"><u>Windows-Wide Applications: MF4770n Firmware Update</u></a></li>
 </ul></div>
 

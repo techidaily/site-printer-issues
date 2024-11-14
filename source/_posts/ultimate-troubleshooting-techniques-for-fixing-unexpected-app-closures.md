@@ -1,7 +1,7 @@
 ---
 title: Ultimate Troubleshooting Techniques for Fixing Unexpected App Closures
-date: 2024-11-06T19:35:51.857Z
-updated: 2024-11-13T19:43:31.823Z
+date: 2024-11-06T21:06:14.716Z
+updated: 2024-11-14T10:14:36.354Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 
  This process will not affect your currently installed games, but you will need to log into Steam afterwards.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2\. Switch to a wired connection
 
  While Destiny can be played with a strong and stable WiFi connection, many players have found that using WiFi can increase the likelihood that they will lose their connection to Destiny’s services. So we recommend a wired connection if possible. In addition, Destiny requires sufficient bandwidth to function at an optimal level.
@@ -87,6 +94,13 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4\. Perform a network reset
 
  Performing a network reset potentially fixes any strange settings that may be preventing you from connecting, thus solve your ‘**You have lost connection to the Destiny 2 servers** ‘ error. Here’s how:
@@ -104,6 +118,13 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2021/07/reset.png)
 4. You’ll need to restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5\. Change your DNS server
 
  Some Destiny players find it helps when they change the DNS server to Google 8.8.8.8 and 4.4.4.4\. Below you’ll find the exact steps to do that:
@@ -116,14 +137,21 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
@@ -132,16 +160,16 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 ![change DNS server](https://images.drivereasy.com/wp-content/uploads/2021/07/following-DNS.jpg)
 6. Click**OK** to apply.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 6\. Enable UPnP or Port Forwarding
 
  If you worked hard through the basic troubleshooting guide but still the error ‘**You have lost connection to the Destiny 2 servers** ‘ persists, you can try setting up UPnP or Port Forwarding (we don’t recommend doing both of them).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1\. Enable UPnP
 
@@ -152,23 +180,9 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 ![default gateway is your router's ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/default-gateway.jpg)
 3. Copy-paste the Default Gateway address into your computer’s browser, and log in with the correct user name and password.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Find the**UPnP** setting, usually located under the “LAN” or “Firewall” category.
 5. Enable UPnP and click**Save** to apply the changes.
 6. Disconnect and reconnect all devices on the network.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2\. Enable Port Forwarding
 
@@ -181,17 +195,17 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/command-prompt.jpg)
 2. Type in **ipconfig /all** and press **Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![ip configuration](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfig.jpg)
 3. Take tote of the following: **IPv4 Address, Subnet Mask, Default Gateway**  and **DNS Servers** .  
 
 ![ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** Default Gateway is your router’s IP Address, which you can copy-paste to your browser’s address bar.
 
@@ -204,23 +218,17 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ncpa.cpl_.jpg)
 2. Right-click your current connection, and select **Properties** .  
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.jpg)
 3. Double-click **Internet Protocol Version 4 (TCP/IPv4)**  from the list.  
 
 ![configure IPV4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPv4-1.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4\. Select **Use the following IP address** , and **Use the following DNS server automatically** , and enter the details you copied from Command Prompt: IP address, subnet mask, default gateway, and DNS servers.  
 ![static ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/ipv.jpg)
@@ -234,23 +242,9 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 ![server](https://images.drivereasy.com/wp-content/uploads/2021/07/servers.jpg)
 4. Enter the IP Address of your PC in the relevant box.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Choose both **TCP** and **UDP**  ports for your games in the appropriate box.  
 ![port forwading ](https://images.drivereasy.com/wp-content/uploads/2021/07/7777.jpg)
 6. Once complete, enable the port forwarding rule with an **Enable** or **On** option.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Ports that should be OPEN
 
@@ -301,18 +295,18 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2023s-best-replacements-for-samsung-gear-360-for-2024/"><u>[New] 2023'S Best Replacements for Samsung Gear 360 for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-breakdown-adding-narrative-pauses-to-your-youtube-projects/"><u>[New] Breakdown Adding Narrative Pauses to Your YouTube Projects</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-leveraging-jump-cuts-to-improve-video-flow/"><u>[New] Leveraging Jump Cuts to Improve Video Flow</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-perfecting-pics-a-full-guide-to-facetune-mastery/"><u>[Updated] Perfecting Pics - A Full Guide to Facetune Mastery</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-noisy-to-neat-cutting-out-clutter-on-photos/"><u>2024 Approved From Noisy to Neat Cutting Out Clutter on Photos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-how-to-use-ez-grabber-software/"><u>2024 Approved How to Use EZ Grabber Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-communicators-contrasted-insights-on-gpt-and-bing/"><u>AI Communicators Contrasted: Insights on GPT & Bing</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/cutting-edge-windows-7-software-for-dell-inkjet-aios/"><u>Cutting Edge: Windows 7 Software for Dell Inkjet AIOs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/driver-not-detected-windows-print-error/"><u>Driver Not Detected: Windows Print Error</u></a></li>
-<li><a href="https://article-tips.techidaily.com/drone-mainteninas-and-care-for-syma-x8c/"><u>Drone Mainteninas and Care for Syma X8C</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-a-print-device-that-wont-blink-back/"><u>Fixing a Print Device That Won't Blink Back</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/from-unprintable-to-perfect-hp-printers-recovery-story/"><u>From Unprintable to Perfect: HP Printer's Recovery Story</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-v27-pro-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/arrowing-down-the-video-platform-wars-youtube-shorts-against-tiktok/"><u>[New] Narrowing Down the Video Platform Wars YouTube Shorts Against TikTok</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/aviation-enthusiasts-pick-blade-e-flite-mcx2-in-focus-the-ultimate-ready-to-fly-rc-helicopter-examination/"><u>Aviation Enthusiasts' Pick: Blade E-Flite mCX^2 in Focus – The Ultimate Ready-To-Fly RC Helicopter Examination</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/efficient-remedies-for-common-pcl-xl-issues/"><u>Efficient Remedies for Common PCL XL Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enabling-printer-services-for-successful-printing/"><u>Enabling Printer Services for Successful Printing</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-apple-iphone-14-pro-fix-now-drfone-by-drfone-virtual-ios/"><u>In 2024, 3uTools Virtual Location Not Working On Apple iPhone 14 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-efficiently-dividing-soundtracks-an-introduction-to-audio-segmentation-tools/"><u>In 2024, Efficiently Dividing Soundtracks An Introduction to Audio Segmentation Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-elevate-your-edits-10-essential-apps-for-instagram-videos/"><u>In 2024, Elevate Your Edits 10 Essential Apps for Instagram Videos</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/re-enabling-online-scanner-in-win11/"><u>Re-Enabling Online Scanner in Win11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/re-engage-withprinter-online-troubleshooting-steps/"><u>Re-Engage Withprinter: Online Troubleshooting Steps</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/setup-pathway-attaching-hp-8720-to-computer-systems/"><u>Setup Pathway: Attaching HP 8720 to Computer Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-restoring-functionality-to-a-broken-backspace-key/"><u>Solution Found: Restoring Functionality to a Broken Backspace Key</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/the-end-of-blank-page-woes-printer-remedy-discovered/"><u>The End of Blank Page Woes: Printer Remedy Discovered</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/unlock-words-full-potential-with-easy-speech-to-text-features/"><u>Unlock Word's Full Potential with Easy Speech-to-Text Features</u></a></li>
 </ul></div>
 

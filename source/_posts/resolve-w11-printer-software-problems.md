@@ -1,7 +1,7 @@
 ---
 title: Resolve W11 Printer Software Problems
-date: 2024-11-07T16:09:30.944Z
-updated: 2024-11-13T19:00:01.800Z
+date: 2024-11-07T00:10:07.174Z
+updated: 2024-11-14T13:19:44.909Z
 tags:
   - win11
   - win10
@@ -56,6 +56,13 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970573577e43.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Way 2: Use Windows Update for new drivers**
 
  Please refer to steps below how to use Windows Update in Windows 10 to update drivers.
@@ -64,23 +71,9 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057a9598ee.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In Settings window, click **Update & security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057ddb9441.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) In **UPDATE & SECURITY** , click**Windows Update** in left pane.
 
@@ -88,16 +81,22 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057f2e0efc.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click the link that tells you optional updates are available. (If you don’t see this link, it means Windows Update didn’t find any updates for your computer.)
 
  5) Select the driver you want to install, click**OK** , and then click**Install updates** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Way 3: Update your printer driver automatically**
 
@@ -113,6 +112,19 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970588279d8b.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the printer driver to automatically download, you can manually install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -120,10 +132,10 @@ For some printers, you need to update the drivers manually step by step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59705887d6c6d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hopefully you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
@@ -143,24 +155,20 @@ For some printers, you need to update the drivers manually step by step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-essential-tips-for-iphone-shadow-photography/"><u>[New] 2024 Approved Essential Tips for iPhone Shadow Photography</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-laugh-labs-free-comedy-creation-for-creative-souls-for-2024/"><u>[New] Laugh Labs Free Comedy Creation for Creative Souls for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-shopback-up-specialists-judgment-for-2024/"><u>[New] ShopBack Up Specialists' Judgment for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-benq-bl2711u-review-the-zenith-of-high-definition-professional-monitors/"><u>2024 Approved BenQ BL2711U Review The Zenith of High-Definition Professional Monitors</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-safe-sharing-safe-viewing-tips-for-hiding-online-images/"><u>2024 Approved Safe Sharing, Safe Viewing Tips for Hiding Online Images</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/addressing-hp-printer-fault-0xoxc4eb827f/"><u>Addressing HP Printer Fault: 0XOXC4EB827F</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/advanced-techniques-to-setup-hp-print-devices-in-win10-os/"><u>Advanced Techniques to Setup HP Print Devices in Win10 OS</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo X90S? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-14-pro-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 14 Pro When You Forget the Passcode?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-rotating-videos-made-simple-with-vlc-player-tricks/"><u>In 2024, Rotating Videos Made Simple with VLC Player Tricks</u></a></li>
-<li><a href="https://driver-install.techidaily.com/installing-nvidia-with-zero-complications/"><u>Installing NVIDIA with Zero Complications</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/new-printer-added-operation-without-issues/"><u>New Printer Added: Operation Without Issues</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcome-non-printing-in-canon-printers-windows-edition/"><u>Overcome Non-Printing in Canon Printers, Windows Edition</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/post-installation-inkjet-printer-error-fixed/"><u>Post Installation, Inkjet Printer Error Fixed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-guide-linking-your-canon-to-wi-fi/"><u>Quick Guide: Linking Your Canon to Wi-Fi</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-tip-uninstalling-default-print-devices/"><u>Quick Tip: Uninstalling Default Print Devices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restoring-link-between-sibling-and-online-printer/"><u>Restoring Link Between Sibling and Online Printer</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/securing-your-microsoft-account-expert-tips-on-protection-against-cyber-threats-zdnet/"><u>Securing Your Microsoft Account: Expert Tips on Protection Against Cyber Threats - ZDNet</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win-11-update-leads-to-non-printer-functionality/"><u>Win 11 Update Leads to Non-Printer Functionality</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-explore-the-richest-historical-content-with-these-top-10-yt-groups/"><u>[New] 2024 Approved Explore the Richest Historical Content with These Top 10 YT Groups</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-effortless-view-growth-uncovering-the-best-video-tips-and-hacks-for-2024/"><u>[Updated] Effortless View Growth Uncovering the Best Video Tips and Hacks for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-photoshop-curves-decoded-a-beginners-guide/"><u>2024 Approved Photoshop Curves Decoded A Beginner's Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/bring-to-life-enable-your-silent-canon-print-spooler/"><u>Bring To Life: Enable Your Silent Canon Print Spooler</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-the-tp-link-re305-range-extender-elevating-your-wireless-experience/"><u>Expert Analysis of the TP-Link RE305 Range Extender - Elevating Your Wireless Experience</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-decoding-the-secrets-of-highly-successful-youtube-shorts-templates/"><u>In 2024, Decoding the Secrets of Highly Successful YouTube Shorts Templates</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/no-money-just-screen-time-how-to-record-youtube-for-2024/"><u>No Money, Just Screen Time How To Record YouTube for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-challenge-of-restarting-windows-sound-on-booting/"><u>Overcoming the Challenge of Restarting Windows Sound on Booting</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/perfect-your-output-inkjet-aio-driver-update-in-windows-7/"><u>Perfect Your Output: Inkjet AIO Driver Update in WIndows 7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/steps-to-recover-an-offline-print-device-from-network/"><u>Steps to Recover an Offline Print Device From Network</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/the-quick-cure-for-common-pcl-xl-discrepancies/"><u>The Quick Cure for Common PCL XL Discrepancies</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unable-to-connect-hp-printer-on-win1110/"><u>Unable to Connect HP Printer on Win11/10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unexpectedly-no-printer-icon-in-win-810-systems/"><u>Unexpectedly No Printer Icon in Win 8/10 Systems</u></a></li>
+<li><a href="https://facebook.techidaily.com/whatsapp-and-facebook-clash-as-germany-imposes-new-data-protection-order/"><u>WhatsApp and Facebook Clash as Germany Imposes New Data Protection Order</u></a></li>
 </ul></div>
 

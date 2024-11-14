@@ -1,7 +1,7 @@
 ---
 title: Overcoming Spooler Failures on Windows 7, 10 & 11
-date: 2024-11-09T19:21:24.048Z
-updated: 2024-11-13T16:02:04.271Z
+date: 2024-11-08T08:43:08.471Z
+updated: 2024-11-14T08:00:39.513Z
 tags:
   - win11
   - win10
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 
  The print spooler is a Windows service that manages all the print jobs you send to your printer. If the service isn’t running, your printer won’t work.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How do I fix print spooler keeps stopping?
 
  Here are 5 solutions you can try to fix this problem. You may not have to try them all; just work your way down the list until you find the one that works.**Note:** The screens shown below are from Windows 10, but all the fixes also apply to Windows 7 too.
@@ -33,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 3. **[Change the Print Spooler Recovery options](#F3)**
 4. **[Delete your print spooler files](#F4)**
 5. **[Update your printer driver](#F5)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Restart the Print Spooler service
 
@@ -55,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 
 4) Check to see if your printer works.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Check if the Print Spooler service is set to Automatic
 
  If the print spooler service isn’t set to automatic, it won’t turn on when Windows starts, and your printer won’t work until you manually start the service.
@@ -74,6 +67,13 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a50a818f88a.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Right-click **Print Spooler** , then click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a54177dc82e.jpg)
@@ -81,13 +81,6 @@ To set it to auto:
  4) Make sure Startup type is set to **Automatic**  , then click**Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a51825cb795.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Check to see if your printer works.
 
@@ -111,14 +104,14 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a51c37d1a84.png)
 
- 5) Check to see if your printer works.  
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ 5) Check to see if your printer works.  
 
 ### Method 4: Delete your print spooler files
 
@@ -129,6 +122,13 @@ To set it to auto:
 2) Type**services.msc** and press**Enter** to open the**Services** window:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a50a818f88a.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Click **Print Spooler** , then **Stop** .
 
@@ -150,6 +150,13 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/empty.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run box.
 
 9) Type control and press**Enter** to open Control Panel:
@@ -160,15 +167,22 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/control-Panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  11) Right-click on your printer and click **Remove device** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/REMOVE.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  12) Click**Services** icon in your taskbar to return to Services window:
@@ -180,10 +194,10 @@ To set it to auto:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a538386c9a4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  14)Click the **Devices and Printers icon**  in your taskbar to return to the Devices and Printers window:
@@ -194,21 +208,7 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a542a63d1d0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 16) Check to see if your printer works.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Update your printer driver
 
@@ -249,18 +249,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/kyrocket-your-youtube-speed-render-and-upload-hacks-for-2024/"><u>[New] Skyrocket Your YouTube Speed - Render and Upload Hacks for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-collaboration-techniques-in-video-making-viewership-up/"><u>[Updated] 2024 Approved Collaboration Techniques in Video Making, Viewership Up</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/eliminate-paperjam-error-by-deleting-printer/"><u>Eliminate PaperJam Error by Deleting Printer</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-nubia-red-magic-8s-proplus-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Nubia Red Magic 8S Pro+</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fresh-output-updated-driver-v305-and-windows-windows-7/"><u>Fresh Output, Updated Driver: V305 and Windows WIndows 7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/handling-printers-gone-dark/"><u>Handling Printers Gone Dark</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-seamlessly-stream-your-laptops-dvd-library/"><u>In 2024, Seamlessly Stream Your Laptop's DVD Library</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-picks-the-ultimate-android-mp3-downloader-collection/"><u>In 2024, Top Picks The Ultimate Android MP3 Downloader Collection</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/luminary-collage-conceptions-aesthetic-illumination-ideas/"><u>Luminary Collage Conceptions Aesthetic Illumination Ideas</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-guide-releasing-a-stuck-printer-from-windows/"><u>Quick Guide: Releasing A Stuck Printer From Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reengage-the-printing-pro-saving-brother-printer-from-isolation/"><u>Reengage the Printing Pro: Saving Brother Printer From Isolation</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-for-when-your-corsair-keyboard-stops-working-correctly/"><u>Solution Steps for When Your Corsair Keyboard Stops Working Correctly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/reconnecting-with-steam-pals-troubleshooting-unavailability-problems/"><u>'Reconnecting with Steam Pals': Troubleshooting Unavailability Problems</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-effortless-podcast-livestream-guide/"><u>[New] In 2024, Effortless Podcast Livestream Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-prime-color-balancer-suite/"><u>[New] Prime Color Balancer Suite</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-enabling-speech-to-text-on-powerpoint-essential-steps/"><u>[Updated] Enabling Speech-to-Text on PowerPoint Essential Steps</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/addressing-lexmark-printer-glitches/"><u>Addressing Lexmark Printer Glitches</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-inkjet-malfunctions-today/"><u>Fixing Inkjet Malfunctions Today</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guide-setting-up-hp-projetronics-with-pc/"><u>Guide: Setting up HP Projetronics with PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-silence-unwanted-sound-interruptions-in-windows-1011/"><u>How to Silence Unwanted Sound Interruptions in Windows 10/11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revive-printing-overcome-windows-11-issues/"><u>Revive Printing: Overcome Windows 11 Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-printer-stopped-working-after-windows-10-update/"><u>SOLVED: Printer Stopped Working After Windows 10 Update</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/video-voyaging-navigating-twittersphere-and-tumbleverse-for-2024/"><u>Video Voyaging Navigating Twittersphere & Tumbleverse for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Conquer Non-Printing on Canon - Uncover 5 Easy Methods for Windows 11 Enthusiasts
-date: 2024-11-11T17:12:19.954Z
-updated: 2024-11-13T17:54:33.125Z
+date: 2024-11-12T17:30:44.476Z
+updated: 2024-11-14T08:27:25.992Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ If your problem persists, try the fixes below.
 4. **[Set Canon as the default printer](#fix4)**
 5. **[Delete print jobs from the print queue](#fix5)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check the connection status
 
  Difficulty printing from your PC can occur for various reasons. The most common reason is because the connection between the computer and the machine is lost. So before heading into the more complicated fixes, you need to take some basic troubleshooting steps to resolve the issue.
@@ -69,34 +76,13 @@ If your printer is still not working properly, proceed to the next fix.
   
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/windows-defender-firewall.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the left side of the window, click**Turn Windows Defender Firewall on or off** .  
   
 ![disable Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/turn-Windows-Defender-Firewall-on-or-off.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Tick**Turn off Windows Defender Firewall** for both public and private networks. Then click**OK** to confirm the changes.  
   
 ![turn off windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/turn-off-windows-defender-firewall-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **To configure firewall settings in other security software:**
 
@@ -117,10 +103,10 @@ You can disable the firewall in software by clicking the link below.
  There are mainly two ways you can update your printer driver:[manually](#option1) and [automatically](#option2) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 1: Manually update your printer driver
@@ -144,10 +130,10 @@ Here’s how you can update your drivers with Driver Easy:
 ![update drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -180,16 +166,10 @@ Here’s how you can update your drivers with Driver Easy:
 ![set Canon printer as the default printer](https://images.drivereasy.com/wp-content/uploads/2021/01/in-the-control-panel.png)
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Right-click your Canon printer and select**Set as default printer** from the list.  
@@ -223,21 +203,35 @@ Now perform printing tasks to check if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/services-msc.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) In the Services window, scroll down to the**Print Spooler** . Right-click it and select**Stop** .
 
 ![stop the Print Spooler](https://images.drivereasy.com/wp-content/uploads/2021/01/stop-the-printing-service.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Note: Do not close the Services window, simply minimize it as you’ll go back to it later.
 
  4) After the print spooler service has stopped, press the**Windows logo key** and**R** at the same time to open the Run box. Then type**spool** in the field and press**Enter** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/spool-in-the-run-box.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Open the**PRINTERS** folder.  
   
@@ -274,21 +268,16 @@ Now perform printing tasks to check if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-great.techidaily.com/accelera-il-tuo-mac-con-strumenti-efficienti-ottime-alternative-al-tradizionale-robocopy/"><u>Accelera Il Tuo Mac Con Strumenti Efficienti: Ottime Alternative Al Tradizionale Robocopy</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/boost-printer-speed-with-simple-fixes/"><u>Boost Printer Speed with Simple Fixes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722985933409-boost-your-drop-rate-successfully-and-swiftly-tricks-unveiled-for-dayz-fps-game/"><u>Boost Your Drop Rate Successfully & Swiftly: Tricks Unveiled for DayZ FPS Game!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatbot-companions-are-they-lifesavers-in-natures-realm/"><u>Chatbot Companions: Are They Lifesavers in Nature's Realm?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easily-retrieve-your-lost-vehicle-using-google-maps-a-step-by-step-guide/"><u>Easily Retrieve Your Lost Vehicle Using Google Maps - A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experience-high-power-audio-with-tribit-xsound-megablast-bluetooth-speaker-featuring-30w-output-and-exceptional-sound-clarity-techradar/"><u>Experience High-Power Audio with Tribit XSound Megablast Bluetooth Speaker, Featuring 30W Output & Exceptional Sound Clarity | TechRadar</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guide-to-restoring-communication-with-printer/"><u>Guide to Restoring Communication with Printer</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-secure-are-your-virtual-trails-on-meta-or-fb/"><u>How Secure Are Your Virtual Trails on Meta or FB?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-reno-11-pro-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oppo-find-n3-flip-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Oppo Find N3 Flip Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printers-unexpected-configuration-blunder/"><u>Printer's Unexpected Configuration Blunder</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-printer-error-no-9008e/"><u>Resolved: Printer Error No. 9008E</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revive-your-brother-printers-print-a-win1011-guide-to-fixing-issues/"><u>Revive Your Brother Printer's Print: A Win10/11 Guide to Fixing Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-list-for-frugal-yet-fun-gameplay/"><u>The Ultimate List for Frugal Yet Fun Gameplay</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unraveling-the-mystery-printer-works-after-win-10-patch/"><u>Unraveling the Mystery: Printer Works After Win 10 Patch</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-11-scanner-no-longer-offline/"><u>Windows 11: Scanner No Longer Offline</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-lost-windows-cant-find-printer-device/"><u>[DRIVER LOST] Windows Can't Find Printer Device</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-how-to-trim-and-cut-vimeo-videos/"><u>[Updated] How to Trim and Cut Vimeo Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-analyzing-the-overhaul-of-sony-s6700/"><u>2024 Approved Analyzing the Overhaul of Sony S6700</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/address-duplex-mismatches-on-windows-11/"><u>Address Duplex Mismatches on Windows 11</u></a></li>
+<li><a href="https://tools.techidaily.com/awario/products/"><u>Awario's Products</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Fixing Foneazy MockGo Not Working On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-logitech-g35-sound-card-software-for-win-7-8-and-10-systems/"><u>Get the Latest Logitech G35 Sound Card Software for Win 7, 8, and 10 Systems</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pickus-triumph-in-android-photo-editing-a-comprehensible-review/"><u>In 2024, PickU's Triumph in Android Photo Editing – A Comprehensible Review</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-epson-error-code-0x97/"><u>Overcoming Epson Error Code 0X97</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-setup-error-only-blank-sheets-from-epson/"><u>Printer Setup Error: Only Blank Sheets From Epson</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/rapid-response-to-queued-prints/"><u>Rapid Response to Queued Prints</u></a></li>
 </ul></div>
 

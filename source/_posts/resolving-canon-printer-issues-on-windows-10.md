@@ -1,7 +1,7 @@
 ---
 title: Resolving Canon Printer Issues on Windows 10
-date: 2024-11-09T19:04:27.406Z
-updated: 2024-11-13T16:03:25.977Z
+date: 2024-11-10T20:01:46.601Z
+updated: 2024-11-14T13:16:47.222Z
 tags:
   - win11
   - win10
@@ -41,10 +41,16 @@ If your problem persists, try the fixes below.
 5. **[Delete print jobs from the print queue](#fix5)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Check the connection status
@@ -66,13 +72,6 @@ If your printer is still not working properly, proceed to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Temporarily disable the firewall
 
  Firewall software helps block threats from outside your network, but some settings or configurations can block communication with your printer and may reject the connection needed for your machine to work properly. To resolve this, disable the firewall from your computer and try to print again.
@@ -83,16 +82,16 @@ If your printer is still not working properly, proceed to the next fix.
   
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/windows-defender-firewall.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the left side of the window, click**Turn Windows Defender Firewall on or off** .  
   
 ![disable Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/turn-Windows-Defender-Firewall-on-or-off.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Tick**Turn off Windows Defender Firewall** for both public and private networks. Then click**OK** to confirm the changes.  
   
@@ -122,13 +121,6 @@ You can disable the firewall in software by clicking the link below.
 
  Since Canon has several official websites like [Canon UK](https://www.canon.co.uk/) ,[Canon USA](https://www.usa.canon.com/) ,[Canon Europe](https://www.canon-europe.com/) , etc., they may not share the same model. So you can use the browser to search for the specific driver directly. Or you can go to the Support Center, enter the model of your device in the search field, and follow the instructions to download and install the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 2: Automatically update your printer driver (recommended)
 
  If you don’t have the time, patience or computer skills to update drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -149,19 +141,25 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Canon-G7020-1200x900.png)
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating your drivers, attempt a test print to check if this action helps you.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Set Canon as the default printer
 
@@ -184,10 +182,10 @@ Here’s how you can update your drivers with Driver Easy:
 ![set Canon printer as the default printer](https://images.drivereasy.com/wp-content/uploads/2021/01/set-as-default-printer.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now perform printing tasks to check if it works.
@@ -227,15 +225,22 @@ Now perform printing tasks to check if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/spool-in-the-run-box.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Open the**PRINTERS** folder.  
   
 ![open the printers folder](https://images.drivereasy.com/wp-content/uploads/2021/01/printers-folder.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6) Delete any files in this folder.
 
@@ -244,6 +249,13 @@ Now perform printing tasks to check if it works.
 8) Go back to the**Services** window. Right click on the**Print Spooler** service and select**Start** .  
   
 ![start the printing services](https://images.drivereasy.com/wp-content/uploads/2021/01/start-printing-services.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now attempt a test print to check if it brings your printer back to normal state.
 
@@ -268,20 +280,24 @@ Now perform printing tasks to check if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-ultimate-list-of-premium-androidpc-video-editors/"><u>[Updated] In 2024, The Ultimate List of Premium Android/PC Video Editors</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-spark-interest-drive-engagement-top-30-video-ideas-for-2024/"><u>[Updated] Spark Interest, Drive Engagement Top 30 Video Ideas for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-disconnect-resolved/"><u>Epson Disconnect Resolved</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/essential-fixes-for-non-starting-print-spooler-on-pcs/"><u>Essential Fixes for Non-Starting Print Spooler on PCs</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-90-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor 90 to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/mac-enhancement-synchronized-screen-plus-audio-tracking-for-2024/"><u>Mac Enhancement Synchronized Screen + Audio Tracking for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/navigating-a-silent-printer-in-office/"><u>Navigating a Silent Printer in Office</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/navigating-epsons-error-0x97-maze/"><u>Navigating Epson's Error 0X97 Maze</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/no-text-only-paper-the-epson-printer-glitch/"><u>No Text, Only Paper: The Epson Printer Glitch</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfecting-the-art-of-zooming-expert-strategies-for-snapchat-users-for-2024/"><u>Perfecting the Art of Zooming Expert Strategies for Snapchat Users for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-not-responding-error-on-windows-fixed/"><u>Printer Not Responding Error on Windows Fixed</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/rise-above-the-rest-enhancing-speech-clarity-and-volume-with-filmora-for-2024/"><u>Rise Above the Rest Enhancing Speech Clarity and Volume with Filmora for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unveiling-iphones-depth-first-recovery-dfu-mode-and-its-uses/"><u>Unveiling iPhone's Depth-First Recovery (DFU) Mode and Its Uses</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-lexmark-printer-driver-easily/"><u>Update Lexmark Printer Driver Easily</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/your-complete-handbook-for-home-charging-solutions-for-electric-cars/"><u>Your Complete Handbook for Home Charging Solutions for Electric Cars</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-speedy-snapshot-and-voice-guided-session-creator/"><u>[New] 2024 Approved Speedy Snapshot & Voice-Guided Session Creator</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-8-best-screen-capture-tools-for-linux/"><u>[New] 8 Best Screen Capture Tools for Linux</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-content-delivery-comparison-vimeo-vs-youtube-vs-dailymotion-for-2024/"><u>[Updated] Content Delivery Comparison Vimeo vs YouTube vs Dailymotion for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-unlock-the-full-potential-of-your-video-with-studio-editor/"><u>2024 Approved Unlock the Full Potential of Your Video with Studio Editor</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-vivo-y200-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Vivo Y200 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/boost-efficiency-install-dell-printer-driver-update-in-win7/"><u>Boost Efficiency: Install Dell Printer Driver Update in Win7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/breathe-new-life-into-non-printing-brother-printer-in-windows-1011/"><u>Breathe New Life Into Non-Printing Brother Printer in Windows 10/11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-inaccessible-for-windows-print/"><u>Driver Inaccessible for Windows Print</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enabling-duplex-print-on-hp-workstation/"><u>Enabling Duplex Print on HP Workstation</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-oppo-find-n3-flip-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Oppo Find N3 Flip without App | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/installing-printer-successfully-confirmed/"><u>Installing Printer Successfully Confirmed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leadership-change-at-openai-ceo-sam-altman-steps-down-consequences-for-ais-communication-frontier-chatgpt/"><u>Leadership Change at OpenAI: CEO Sam Altman Steps Down - Consequences for AI's Communication Frontier, ChatGPT</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mf4770n-driver-upgrade-for-w11w8w7/"><u>MF4770n Driver Upgrade for W11/W8/W7</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/photo-viewer-revival-techniques-for-enhanced-windows-11-experience-for-2024/"><u>Photo Viewer Revival Techniques for Enhanced Windows 11 Experience for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reconnect-scanner-windows-10-troubleshooting-tips/"><u>Reconnect Scanner: Windows 10 Troubleshooting Tips</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolve-print-queue-hang-up-promptly/"><u>Resolve Print Queue Hang-Up Promptly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574161603-successfully-installed-printer/"><u>Successfully Installed Printer.</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-step-structure-for-successful-subscriber-profit-analysis-a-guide-from-google/"><u>The 3-Step Structure for Successful Subscriber Profit Analysis A Guide From Google</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ess-tales-the-ultimate-guide-to-learning-from-history-channels/"><u>Timeless Tales The Ultimate Guide to Learning From History Channels</u></a></li>
 </ul></div>
 

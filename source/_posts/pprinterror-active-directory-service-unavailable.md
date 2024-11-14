@@ -1,7 +1,7 @@
 ---
 title: "PPrintError: Active Directory Service Unavailable"
-date: 2024-11-07T19:07:32.429Z
-updated: 2024-11-13T19:28:56.583Z
+date: 2024-11-08T08:34:48.633Z
+updated: 2024-11-14T08:55:19.941Z
 tags:
   - win11
   - win10
@@ -43,23 +43,16 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
   
  5) Close the Services window and check if you could print files successfully.  
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Using Registry Editor
 
 1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png) and **R**  at the same time to invoke the Run box.
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Type **regedit**  and press **Enter** to open Registry Editor.  
@@ -70,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
  3) On Registry window, go to **HKEY\_CURRENT\_USER** \> **Software**  \> **Microsoft**  \> **Windows NT**  \> **CurrentVersion** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Right-click on **Devices**  under **CurrentVersion**  dialog.  
  Then click **Permissions** .  
@@ -83,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Do the same settings to give your account full control of **PrinterPorts**  and **Windows** .  
@@ -95,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
   
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Close the Registry Editor window and check to see if you could print files successfully.
@@ -120,22 +120,20 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-subject-shine-clearing-backdrop-in-photos/"><u>[New] 2024 Approved Subject Shine Clearing Backdrop in Photos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-multiplatform-vmix-blender/"><u>[New] Multiplatform VMix Blender</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-ultimate-monitor-match-up-recommendations-for-top-tier-xbox-sx-experience-for-2024/"><u>[New] Ultimate Monitor Match-Up Recommendations for Top-Tier Xbox SX Experience for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/os-compatibility-unable-to-connect-to-hp-print-service-on-windows/"><u>[OS Compatibility] - Unable to Connect to HP Print Service on Windows</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-logitechs-4k-webcam-masterclass-a-complete-review/"><u>[Updated] 2024 Approved Logitech’s 4K Webcam Masterclass - A Complete Review</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-the-essentials-to-establish-a-singular-hashtag-on-tiktok/"><u>[Updated] 2024 Approved The Essentials to Establish a Singular Hashtag on TikTok</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-your-gameplay-with-updated-drivers-for-the-dell-g3-laptop/"><u>Boost Your Gameplay with Updated Drivers for the Dell G3 Laptop</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/correct-installation-of-upgraded-printer-drivers/"><u>Correct Installation of Upgraded Printer Drivers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-hp-print-misstep-code-oxc4eb827f/"><u>Fixing HP Print Misstep: Code OXC4EB827F</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-realme-c67-4g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Realme C67 4G?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/missing-printer-device-windows-710-troubleshooting-steps/"><u>Missing Printer Device? Windows 7/10 Troubleshooting Steps</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-hp-printer-lacking-paper-delivery/"><u>Resolved: HP Printer Lacking Paper Delivery</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-laser-print-quality-concerns/"><u>Resolving Laser Print Quality Concerns</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/the-end-of-win-10-printer-disruptions-success-story/"><u>The End of Win 10 Printer Disruptions - Success Story</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-picks-in-photography-tools-a-thorough-review-of-the-anthropics-smart-photo-editor/"><u>Top Picks in Photography Tools - A Thorough Review of the Anthropics Smart Photo Editor</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-guide-to-powerdirector-alternatives-for-mobile-video-editing-for-2024/"><u>Updated The Ultimate Guide to PowerDirector Alternatives for Mobile Video Editing for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/zeroing-in-on-epson-error-code-x97/"><u>Zeroing In on Epson Error Code X97</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-5-streaming-software-that-will-amaze-your-mac-users/"><u>[New] Top 5 Streaming Software That Will Amaze Your Mac Users</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-non-printing-usb-printers-after-sleep-in-w7/"><u>[Solved] Non-Printing USB Printers After Sleep in W7</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-tailored-tips-for-maximizing-vlc-playback-potential/"><u>[Updated] 2024 Approved Tailored Tips for Maximizing VLC Playback Potential</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-gelatogags-humor-graphics-online/"><u>[Updated] GelatoGags Humor Graphics Online</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-quintet-of-premium-picture-and-sound-recording-tools/"><u>2024 Approved Quintet of Premium Picture & Sound Recording Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/cured-printer-not-printing-on-epson-solved/"><u>Cured: Printer Not Printing on Epson [Solved]</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-error-messages-in-epson-units/"><u>Fixing Error Messages in Epson Units</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-poco-m6-pro-4g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Poco M6 Pro 4G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printers-lack-of-full-color-capacity/"><u>Printer's Lack of Full Color Capacity</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolve-w11-printer-software-problems/"><u>Resolve W11 Printer Software Problems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/scanner-restoration-completed-for-win11/"><u>Scanner Restoration Completed for Win11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/usb-serial-converter-driver-update-tutorial-easy-steps-inside/"><u>USB Serial Converter Driver Update Tutorial – Easy Steps Inside</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win-11-update-linked-to-non-operational-printer/"><u>Win 11 Update Linked to Non-Operational Printer</u></a></li>
 </ul></div>
 

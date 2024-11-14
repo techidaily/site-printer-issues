@@ -1,7 +1,7 @@
 ---
 title: Improve Printer's Pace at a Glance
-date: 2024-11-10T19:44:58.387Z
-updated: 2024-11-13T17:52:21.826Z
+date: 2024-11-09T22:03:02.495Z
+updated: 2024-11-14T12:27:51.297Z
 tags:
   - win11
   - win10
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/533236261129cabe3de86d1bef1cbed00a9ea2770
 
  Try printing again. If the print speed is still so slow, go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Check the printer preferences
 
  The print speed can be affected by the print quality since different quality settings use different amounts of ink. Printing in “Best” quality can slow the print speed. So you can set the print quality to Normal or Draft to make your printer print faster. Here’s how:
@@ -64,16 +57,23 @@ thumbnail: https://thmb.techidaily.com/533236261129cabe3de86d1bef1cbed00a9ea2770
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/manage-printer.jpg)
 3. Click**Printing preferences** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/printer-preferences.jpg)
 4. In the pop-up window, navigate to the**Paper/Quality** tab. Select**Plain Paper** in the Media or Paper Type field. Under Quality Settings or Print Quality, select**Draft** ,**Normal** or**Standard** . Then click**OK** to save changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/paper-quality.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### in Windows 11
@@ -84,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/533236261129cabe3de86d1bef1cbed00a9ea2770
 2. Click on your printer.  
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/win11-Default-printer.jpg)
@@ -103,10 +103,10 @@ After applying the changes, test if the print speed goes back to normal.
 If your printer still prints very slowly, continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your printer driver
@@ -141,13 +141,6 @@ Here we list the common printer manufacturers for you:
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/update-all.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating your printer driver, try to print. If the issue remains, move on to the next fix.
@@ -168,18 +161,18 @@ Here we list the common printer manufacturers for you:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-off-quiet-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### **For other printers users:**
 
  You can check your printer’s user manual or visit your printer manufacturer’s official website for help.
 
  After doing that, try your printer again. If this method doesn’t solve your problem, check out the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Restart the print spooler service
 
@@ -190,10 +183,10 @@ Here we list the common printer manufacturers for you:
 2. In Services, find Print Spooler, right-click on it, and select**Stop** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/print-spooler-stop.jpg)  
@@ -202,6 +195,13 @@ Here we list the common printer manufacturers for you:
 3. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box, then type**spool** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/spool.jpg)
 4. Open the**PRINTERS** folder.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/printers-files.jpg)
 5. Delete all files in this folder, then close it. This is to clear the print queues.
@@ -212,13 +212,6 @@ Here we list the common printer manufacturers for you:
 Now try your printer to see if the problem is resolved.
 
 If your printer still prints at a slow speed, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Check the network connection
 
@@ -252,6 +245,13 @@ If your network is not the problem, continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Should you require any assistance, feel free to email them at [support@fortect.com](mailto:support@fortect.com) .
 
 ---
@@ -275,20 +275,19 @@ If your network is not the problem, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-organizing-virtual-gatherings-setting-up-zoom-on-android/"><u>[New] Organizing Virtual Gatherings Setting Up Zoom on Android</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-restored-communication-link/"><u>[PRINT] Restored Communication Link</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cracking-the-updating-dilemma-in-microsoft-flight-simulator-202n-a-comprehensive-guide-to-fix-and-enjoy/"><u>Cracking the 'Updating' Dilemma in Microsoft Flight Simulator 202N: A Comprehensive Guide to Fix and Enjoy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/detailed-walkthrough-of-locating-and-using-component-services/"><u>Detailed Walkthrough of Locating and Using Component Services</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/effortlessly-navigate-canons-wireless-print-setup/"><u>Effortlessly Navigate Canon's Wireless Print Setup</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/halted-epson-printing-now-continues/"><u>Halted Epson Printing, Now Continues</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-infinix-note-30-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Infinix Note 30 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-selecting-snug-winter-scenes-as-video-sets/"><u>In 2024, Selecting Snug Winter Scenes as Video Sets</u></a></li>
-<li><a href="https://extra-information.techidaily.com/live-tv-streaming-guide-the-best-ten-and-their-comparison/"><u>Live TV Streaming Guide The Best Ten and Their Comparison</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/paper-jams-and-ink-issues-now-gone/"><u>Paper Jams and Ink Issues, Now Gone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-hooked-up-instantly-and-easily/"><u>Printer Hooked Up Instantly & Easily</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-offline-not-responding-errors/"><u>Printer Offline, Not Responding Errors</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/revolutionize-online-sessions-with-essential-zoom-transformations/"><u>Revolutionize Online Sessions with Essential Zoom Transformations</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solutions-for-printer-disconnection-problem-on-network/"><u>Solutions for Printer Disconnection Problem on Network</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/top-rated-chromebook-video-editing-software-the-ultimate-guide/"><u>Top-Rated Chromebook Video Editing Software: The Ultimate Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-maximizing-engagement-avoiding-common-youtube-thumbnail-errors/"><u>[New] 2024 Approved Maximizing Engagement Avoiding Common YouTube Thumbnail Errors</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-printer-printing-blank-pages/"><u>[Solved] Printer Printing Blank Pages</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-no-budget-no-problem-heres-your-list-of-free-intra-experts/"><u>[Updated] 2024 Approved No Budget? No Problem! Here's Your List of Free Intra Experts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-using-fbx-for-gamers/"><u>[Updated] 2024 Approved The Ultimate Guide to Using FBX for Gamers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-advice-on-efficiently-locating-luminous-pexels/"><u>[Updated] Expert Advice on Efficiently Locating Luminous Pexels</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-ultimate-selection-top-10-vimeo-download-tools-unveiled/"><u>2024 Approved The Ultimate Selection Top 10 Vimeo Download Tools Unveiled</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-fix-print-spooler-keeps-stopping-on-windows-10-and-7/"><u>How to Fix Print Spooler Keeps Stopping on Windows 10 & 7</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/installieren-sie-den-automatisierten-itunes-organizer-auf-windows-11-and-10/"><u>Installieren Sie Den Automatisierten iTunes Organizer Auf Windows 11 & 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-lamptrons-innovative-cpu-cooler-with-a-six-inch-lcd-as-big-as-the-iphone-15-and-perfect-for-dual-monitor-gaming/"><u>Introducing Lamptron's Innovative CPU Cooler with a Six-Inch LCD - As Big as the iPhone 15 & Perfect for Dual Monitor Gaming</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-itel-p55-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Itel P55 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolve-printer-problem-5-quick-steps-to-enable-print-on-canon-and-windows-11-combo/"><u>Resolve Printer Problem: 5 Quick Steps to Enable Print on Canon & Windows 11 Combo</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/strategies-to-correct-unresponsive-hp-color-copiers/"><u>Strategies to Correct Unresponsive HP Color Copiers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/streamlined-driver-update-win32-officejet-pro-8600-utility-bundle/"><u>Streamlined Driver Update: Win32 Officejet Pro 8600 Utility Bundle</u></a></li>
+<li><a href="https://article-helps.techidaily.com/ultimate-undertaking-decoding-digital-picture-resolutions-for-2024/"><u>Ultimate Undertaking Decoding Digital Picture Resolutions for 2024</u></a></li>
 </ul></div>
 

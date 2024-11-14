@@ -1,7 +1,7 @@
 ---
 title: Resolving No Response From Networked Printer
-date: 2024-11-08T16:16:14.747Z
-updated: 2024-11-13T18:46:42.313Z
+date: 2024-11-09T23:50:29.774Z
+updated: 2024-11-14T08:15:32.369Z
 tags:
   - win11
   - win10
@@ -69,22 +69,22 @@ thumbnail: https://thmb.techidaily.com/c7c73b7c4a7efc6c835802b5aee6775aac1b5aafc
 ![Driver Easy Free Scan Now](https://images.drivereasy.com/wp-content/uploads/2017/02/Driver-Easy-Free-Scan-Now.jpg)
 3. Click the **Update** button next to the flagged printer device to automatically download the correct version of this driver, then you can manually install it (you can do this with the _**FREE**_ version).  
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click _**Update All**_ ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Update-drivers-with-Driver-Easy-Pro-1.jpg)
 4. After updating the printer driver, check to see if the offline problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Check Printing Status
@@ -96,36 +96,44 @@ thumbnail: https://thmb.techidaily.com/c7c73b7c4a7efc6c835802b5aee6775aac1b5aafc
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fbce29ce5.png)
 3. Click**Devices and printers** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fbb2818a8.jpg)
 4. Right-click the icon with a green check-mark and click **See what’s printing** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fc6ee1965.png)
 5. If what you see here is a grey icon without the green check-mark, right-click the icon and click **Set as Default Printer** . Then right-click it and click**See what’s printing** .  
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e9c83c14189.png)
 6. Click**Printer** . If you can see a tick next to the option**Pause printing** and**Use Printer Offline** , click them to remove the ticks.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fc46d664b.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See if you can print now. If this issue persists, try the next fix, below.
 
@@ -137,30 +145,23 @@ thumbnail: https://thmb.techidaily.com/c7c73b7c4a7efc6c835802b5aee6775aac1b5aafc
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e9c9a41d161.png)
 2. On your keyboard, press the**P** key to faster locate**Print Spooler** item. See if its status is**Running** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f1a101e6655.png)
 3. If you can’t see its status here, right-click Print Spooler service and click**Start** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f1a16a7e270.png)
 4. If you like, you can also restart this service: right-click**Print Spooler** and click**Restart** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f1a16a7e270.png)
 5. Close the Properties window.
 
  Check if your printer is online now. If not, move on to the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 5: Add a second printer
 
@@ -183,10 +184,10 @@ thumbnail: https://thmb.techidaily.com/c7c73b7c4a7efc6c835802b5aee6775aac1b5aafc
 5. Select**Standard TCP/IP Port** , then click**New Port** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fd728aa09.png)
@@ -194,13 +195,6 @@ thumbnail: https://thmb.techidaily.com/c7c73b7c4a7efc6c835802b5aee6775aac1b5aafc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fda0e3c3c.png)
 7. Type in the**printer’s IP address** . Click**Next** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fe1829457.png)
 
@@ -229,24 +223,24 @@ Your offline printer should work flawlessly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-tailoring-your-vtubers-tone-best-app-recommendations-unveiled/"><u>[New] Tailoring Your Vtuber's Tone Best App Recommendations Unveiled</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/update-alert-canon-printer-not-detected-in-win10/"><u>[Update Alert] Canon Printer Not Detected in WIN10</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-audience-grade-sound-recording-with-audacity/"><u>[Updated] Audience-Grade Sound Recording with Audacity</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-best-7-multimedia-cameras-for-quality-live-streams-and-video-blogs/"><u>[Updated] Best 7 Multimedia Cameras For Quality Live Streams & Video Blogs</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-revolutionize-your-branding-50-free-youtube-banners-inside/"><u>[Updated] Revolutionize Your Branding - 50 Free YouTube Banners Inside!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-samsung-galaxy-a15-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Samsung Galaxy A15 5G</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-a-blueprint-for-locating-captivating-pexel-visuals/"><u>Crafting a Blueprint for Locating Captivating Pexel Visuals</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ending-unwanted-spooler-pauses-on-windows-devices/"><u>Ending Unwanted Spooler Pauses on Windows Devices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-disconnected-print-service/"><u>Fixing Disconnected Print Service</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-xiaomi-mix-fold-3-frp-by-drfone-android/"><u>Full Guide to Bypass Xiaomi Mix Fold 3 FRP</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-and-easy-the-best-3gp-video-rotators/"><u>In 2024, Free and Easy The Best 3GP Video Rotators</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/insightful-review-on-googles-pixel-5-striking-the-right-balance-between-value-and-luxury/"><u>Insightful Review on Google's Pixel 5: Striking the Right Balance Between Value and Luxury</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instant-printer-setup-with-canon-guided-examples/"><u>Instant Printer Setup with Canon - Guided Examples</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instantaneous-clearance-for-prints/"><u>Instantaneous Clearance for Prints</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/no-more-blank-pages-on-epson/"><u>No More Blank Pages on Epson</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamline-inkjet-workflows-new-printer-software-update-for-windows-7/"><u>Streamline Inkjet Workflows: New Printer Software Update for Windows 7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/success-story-unshackling-printer-from-update-chains/"><u>Success Story: Unshackling Printer From Update Chains</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/swift-printer-performance-tips/"><u>Swift Printer Performance Tips</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-evaluating-hdr-tvs-does-aurora-hit-the-mark/"><u>[Updated] Evaluating HDR TVs Does Aurora Hit the Mark?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-creating-viral-hashtag-campaigns-on-twitter/"><u>2024 Approved Creating Viral Hashtag Campaigns on Twitter</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-multiplayer-metaverse-games-to-share-with-pals-for-2024/"><u>Best Multiplayer Metaverse Games to Share With Pals for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/correcting-scan-failures-with-xerox/"><u>Correcting Scan Failures with Xerox</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/discord-and-gamers-making-sure-youre-heard-clearly-now/"><u>Discord and Gamers: Making Sure You're Heard Clearly Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-your-tf2-up-and-running-fixes-for-starting-issues-on-pc-and-consoles/"><u>Get Your TF2 Up and Running: Fixes for Starting Issues on PC & Consoles</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-hook-up-a-canon-printer-step-by-step-illustration/"><u>How To Hook Up a Canon Printer: Step-by-Step Illustration</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-inkjet-4630-firmware-enhancement-guide/"><u>HP Inkjet 4630 Firmware Enhancement Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superior-routes-converting-pinners-videos-into-music-files/"><u>In 2024, Superior Routes Converting Pinners' Videos Into Music Files</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/integration-manual-connecting-officejet-8720-to-personal-computers/"><u>Integration Manual: Connecting OfficeJet 8720 to Personal Computers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/navigating-digital-memory-lane-with-backward-image-scans-facebook/"><u>Navigating Digital Memory Lane with Backward Image Scans (Facebook)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/rapid-fixation-of-stuck-print-workqueue/"><u>Rapid Fixation of Stuck Print Workqueue</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/utionizing-audience-retention-on-youtube-with-these-top-6-techniques-for-2024/"><u>Revolutionizing Audience Retention on YouTube with These Top 6 Techniques for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/smooth-printing-resumes-after-upgraded-system-changes/"><u>Smooth Printing Resumes After Upgraded System Changes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/step-by-step-installing-hp-printer-in-windows/"><u>Step-by-Step: Installing HP Printer in Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/stepwise-tech-incorporating-hp-printer-into-pc-workflow/"><u>Stepwise Tech: Incorporating HP Printer Into PC Workflow</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-in-computing-with-toms-hardware-wisdom/"><u>Unlocking Performance Secrets in Computing with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-cannot-retrieve-printer-drivers/"><u>Windows Cannot Retrieve Printer Drivers</u></a></li>
 </ul></div>
 

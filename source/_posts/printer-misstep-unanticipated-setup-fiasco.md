@@ -1,7 +1,7 @@
 ---
 title: "Printer Misstep: Unanticipated Setup Fiasco"
-date: 2024-11-07T16:17:35.639Z
-updated: 2024-11-13T19:45:04.958Z
+date: 2024-11-09T10:08:48.137Z
+updated: 2024-11-13T23:37:14.804Z
 tags:
   - win11
   - win10
@@ -36,42 +36,22 @@ Here is how to do it:
 
  1) On your keyboard, press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and**R** at the same time, then type**ms-settings:printers** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-56.png)
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click**the + icon** beside**Add a printer or scanner** . Then wait for your printer to show up again and click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-57.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Now that you have re-added your printer, check your printer to see if you can get it running without error. If yes, then congrats! If the error still pops up, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Make the printer shareable
 
@@ -83,9 +63,23 @@ Here is how to make your printer shareable:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-39.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) When in the**Device and Printers** screen, scroll down to the**Printers** section. Then right-click on**the printer that is giving the error** and click**Printer properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-43-1024x518.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the**Sharing** tab and make sure the box for**Share this printer** is ticked. Then click**OK** to apply the changes.
 
@@ -94,13 +88,6 @@ Here is how to make your printer shareable:
  4) Try printing something and see if the error still pops up. If the error doesn’t occur again, then you’ve solved the problem! If the error still pops up, please try**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your printer driver
 
@@ -144,6 +131,19 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-194.png)
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Keep the Services window open and proceed with the following steps.
 
 #### **Clear Spooler Files**
@@ -157,10 +157,16 @@ Keep the Services window open and proceed with the following steps.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-59-1024x577.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Start Print Spooler
@@ -169,15 +175,22 @@ Keep the Services window open and proceed with the following steps.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-63.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In**Startup type** , select**Automatic** and click**Start** . Then click**OK** to apply the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Restart your computer and test to see if the error is fixed.
@@ -193,13 +206,6 @@ Keep the Services window open and proceed with the following steps.
  1) On your keyboard, press **the Windows logo key** and type **troubleshoo** t, then click on **Troubleshoot settings**  once it pops up as a search result.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-208.png)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In the **Troubleshoot**  window, scroll down to the **Get up and running**  section, click on **Printer** \> **Run the troubleshooter** .
 
@@ -228,18 +234,20 @@ Keep the Services window open and proceed with the following steps.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-exploring-shades-insights-from-the-best-11-color-guides/"><u>[New] Exploring Shades Insights From the Best 11 Color Guides</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-crystal-clear-capture-amping-up-your-home-studio-recordings/"><u>[New] In 2024, Crystal Clear Capture Amping Up Your Home Studio Recordings</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-building-your-brand-on-instagram-the-top-9-actions-of-industry-stars/"><u>[Updated] 2024 Approved Building Your Brand on Instagram The Top 9 Actions of Industry Stars</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-simplified-avatars-navigating-the-metaverse-realm/"><u>[Updated] Simplified Avatars Navigating the Metaverse Realm</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-revised-discussion-prompts-for-enhanced-auditory-experience/"><u>2024 Approved Revised Discussion Prompts for Enhanced Auditory Experience</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-complete-guide-to-utilizing-zoom-in-windows-10/"><u>A Complete Guide to Utilizing Zoom in Windows 10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/disabling-hp-printers-error-0xoxc4eb827f/"><u>Disabling HP Printer's Error 0xOXC4EB827F</u></a></li>
-<li><a href="https://win-webster.techidaily.com/effortless-guide-convert-and-save-your-favorite-songs-the-complete-tutorial-on-downloading-taylor-swifts-music-as-mp3-and-aac/"><u>Effortless Guide: Convert and Save Your Favorite Songs - The Complete Tutorial on Downloading Taylor Swift's Music as MP3 & AAC</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-fix-audio-video-delay-in-vlc-media-player-stellar/"><u>How to Fix Audio Video Delay in VLC Media Player - Stellar</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-deskjet-d1360-driver-compatibility-with-multiple-windows-oses/"><u>HP Deskjet D1360 Driver Compatibility with Multiple Windows OSes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mp620-printer-searching-for-missing-windows-driver/"><u>MP620 Printer: Searching for Missing Windows Driver</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-epsons-lack-of-print-feature/"><u>Overcoming Epson's Lack of Print Feature</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/preventing-continuous-spooler-failures-on-w10w11w7/"><u>Preventing Continuous Spooler Failures on W10/W11/W7</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-examining-the-breadth-of-features-in-obs-studio-for-2024/"><u>[New] Examining the Breadth of Features in OBS Studio for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-grow-to-1k-per-month-master-the-art-of-ig-popularity-for-2024/"><u>[New] Grow to 1K Per Month Master the Art of IG Popularity for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-restored-communication-link/"><u>[PRINT] Restored Communication Link</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-navigating-video-creation-with-the-ultimate-screencast-guidebook/"><u>[Updated] Navigating Video Creation with The Ultimate Screencast Guidebook</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/concoct-a-unique-digital-laugh-stick-for-2024/"><u>Concoct a Unique Digital Laugh Stick for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/effortlessly-navigate-canons-wireless-print-setup/"><u>Effortlessly Navigate Canon's Wireless Print Setup</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/halted-epson-printing-now-continues/"><u>Halted Epson Printing, Now Continues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/launching-the-first-version-of-ethereum-frontier-in-2015-and-its-subsequent-upgrades/"><u>Launching the First Version of Ethereum (Frontier) in 2015 and Its Subsequent Upgrades</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-quik-or-not-a-review-of-gopros-video-editor-and-pc-based-alternatives/"><u>New 2024 Approved Quik or Not? A Review of GoPros Video Editor and PC-Based Alternatives</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/paper-jams-and-ink-issues-now-gone/"><u>Paper Jams and Ink Issues, Now Gone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-hooked-up-instantly-and-easily/"><u>Printer Hooked Up Instantly & Easily</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-offline-not-responding-errors/"><u>Printer Offline, Not Responding Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-missing-thermal-constraint-policy-on-pcs/"><u>Remedy Missing Thermal Constraint Policy on PCs</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-nubia-red-magic-8s-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Nubia Red Magic 8S Pro Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/trasformare-i-file-dpx-in-formato-tiff-gratuitamente-online-con-movavi/"><u>Trasformare I File DPX in Formato TIFF Gratuitamente Online Con Movavi</u></a></li>
 </ul></div>
 

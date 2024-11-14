@@ -1,7 +1,7 @@
 ---
 title: Re-Enabling Online Scanner in Win11
-date: 2024-11-07T17:40:38.899Z
-updated: 2024-11-13T16:09:10.927Z
+date: 2024-11-09T08:42:37.994Z
+updated: 2024-11-13T16:59:11.423Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ Read on. 🙂
 2. [**Reinstall your printer driver**](#m2)
 3. [**Get rid of ‘Scan to computer is no longer activated’ error**](#m3)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Check the connection of your Printer
 
  Once the error pops up on your Windows 10, and you cannot print the files with your printer, please check the connection between your printer and computer first.
@@ -50,15 +57,28 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf305cb04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the open window, find and expand the**Print queues** catalog. Then right-click on your printer software to choose**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf9b29be7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Restart your computer to let Windows reinstall the printer driver for you automatically.
@@ -77,13 +97,6 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5976a910cca49.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 ---
@@ -96,22 +109,15 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee238c2f07.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Find**scanToPCActivationApp** under**Processes** tab. Then right-click on it to choose**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee29de8213.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Find**scanToPCActivationApp** under**Startup** tab. Then right-click on it to choose**Disable** .
@@ -140,18 +146,22 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/utomatic-cycling-of-videos-on-iphone-ease-for-2024/"><u>[New] Automatic Cycling of Videos on iPhone Ease for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-soundscapes-in-action-capturing-music-videos-iphone-style/"><u>[New] In 2024, Soundscapes in Action Capturing Music Videos iPhone Style</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-utilizing-alternate-shots-to-elevate-film-quality/"><u>[New] In 2024, Utilizing Alternate Shots to Elevate Film Quality</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-step-by-step-blueprint-for-impressive-photographic-mosaics/"><u>[New] Step-by-Step Blueprint for Impressive Photographic Mosaics</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-boosting-video-playback-speed-on-instagram/"><u>[Updated] In 2024, Boosting Video Playback Speed on Instagram</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ensuring-regular-maintenayer-print-function/"><u>Ensuring Regular Maintenayer Print Function</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fast-forward-altering-instagram-stories-tempo-for-2024/"><u>Fast-Forward Altering Instagram Stories' Tempo for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-freedomforsounders-review-extraction-excellence/"><u>In 2024, FreedomForSounders Review Extraction Excellence</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/officejet-pro-8600-windows-compatible-driver-release/"><u>Officejet Pro 8600 Windows Compatible Driver Release</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-fix-to-printer-job-backlog/"><u>Quick Fix to Printer Job Backlog</u></a></li>
-<li><a href="https://blog-min.techidaily.com/schneiden-von-videos-im-vlc-media-player-verstehen-professionelle-tipps-fur-die-optimierung/"><u>Schneiden Von Videos Im VLC Media Player Verstehen - Professionelle Tipps Für Die Optimierung</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/stepwise-canon-printer-assembly-and-connection/"><u>Stepwise Canon Printer Assembly and Connection</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-techniques-for-offline-printers/"><u>Troubleshooting Techniques for Offline Printers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-elite-uploader-mp4-files-directly-for-fb/"><u>[Updated] 2024 Approved Elite Uploader MP4 Files Directly for FB</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-film-crafting-from-script-to-screen-for-2024/"><u>[Updated] Film Crafting From Script to Screen for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevating-viewers-prime-video-ideas-for-channels/"><u>[Updated] In 2024, Elevating Viewers Prime Video Ideas for Channels</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-frames-ultimate-guide-to-resolving-low-fps-in-war-thunder/"><u>Boost Your Frames: Ultimate Guide to Resolving Low FPS in War Thunder</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/defeating-paper-jams-fixing-spooler-issues-win-1011/"><u>Defeating Paper Jams: Fixing Spooler Issues (Win 10/11)</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/discover-the-ultimate-selection-of-project-manager-tools-for-your-iphone/"><u>Discover the Ultimate Selection of Project Manager Tools for Your iPhone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/efficiently-manage-hp-officejet-4630-updates/"><u>Efficiently Manage HP Officejet 4630 Updates</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-vivo-y27s-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Vivo Y27s to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-samsung-galaxy-m14-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Samsung Galaxy M14 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/my-print-sentry-refuses-responses/"><u>My Print Sentry Refuses Responses</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcome-brother-printer-print-failures-on-windows-systems/"><u>Overcome Brother Printer Print Failures on Windows Systems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-service-restored-in-win7/"><u>Print Service Restored in Win7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solve-inkjet-driver-errors-on-w11/"><u>Solve Inkjet Driver Errors on W11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/spooler-error-printer-not-initializing-in-windows/"><u>Spooler Error: Printer Not Initializing in Windows</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/top-4-common-misconceptions-about-macos-among-windows-users-insights-from-zdnet/"><u>Top 4 Common Misconceptions About macOS Among Windows Users: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-workouts-explore-the-revolutionary-sports-watch-offering-intelligent-training-sessions-powered-by-ai-technology-similar-to-chatgpt-zdnet-insi206/"><u>Transform Your Workouts: Explore the Revolutionary Sports Watch Offering Intelligent Training Sessions Powered by AI Technology Similar to ChatGPT | ZDNET Insight</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win32-officejet-pro-8600-printer-installation-file/"><u>Win32 Officejet Pro 8600 Printer Installation File</u></a></li>
 </ul></div>
 

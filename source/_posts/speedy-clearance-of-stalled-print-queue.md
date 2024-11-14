@@ -1,7 +1,7 @@
 ---
 title: Speedy Clearance of Stalled Print Queue
-date: 2024-11-11T19:14:39.328Z
-updated: 2024-11-13T19:44:21.943Z
+date: 2024-11-12T18:53:48.529Z
+updated: 2024-11-14T00:36:32.246Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/stop-the-service.jpg)
 5. Navigate to**C:\\Windows\\System32\\spool\\PRINTERS** and delete all files in the folder. (Do NOT delete the folder itself.)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/delete.jpg)
 6. In the Services window, right-click**Print Spooler** and select**Start** .  
 
@@ -56,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 7. Go back to the**Print Job** queue. All print jobs should have been removed now and you can start printing again normally.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Have trouble deleting the files?**
@@ -104,10 +97,10 @@ This will clear all of your print jobs stuck in a queue.
 4. Double-click the batch file to clear the print queue anytime you want.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Reinstall the printer driver
@@ -142,15 +135,22 @@ This will clear all of your print jobs stuck in a queue.
 3. Click the Update button next to your sound card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **OR** click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-1.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Try printing again. Your printer should be working properly now.
 
@@ -179,18 +179,22 @@ Feel free to drop us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-navigating-the-minefield-suddenly-banned-videos-on-social-media/"><u>[Updated] Navigating the Minefield Suddenly Banned Videos on Social Media</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ad-ds-maintenance-causing-print-errors/"><u>AD DS Maintenance Causing Print Errors</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/comprehensive-tutorial-for-recovering-lost-partitions-on-windows-11-systems/"><u>Comprehensive Tutorial for Recovering Lost Partitions on Windows 11 Systems</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-oppo-reno-9a-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Oppo Reno 9A Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-effortlessly-download-and-setup-movie-maker-6/"><u>In 2024, How to Effortlessly Download and Setup Movie Maker 6</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-8-plus-to-windows-10-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 8 Plus to Windows 10? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-realme-12-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Realme 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-white-paper-output-on-hp-printer/"><u>Resolving White Paper Output on HP Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restoring-scanner-activation-for-win10-users/"><u>Restoring Scanner Activation for Win10 Users</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/top-5-superior-anti-malware-solutions-compared-finding-the-best-alternative-to-malwarebytes-on-windows-10/"><u>Top 5 Superior Anti-Malware Solutions Compared: Finding the Best Alternative to Malwarebytes on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-windows-media-connection-issues/"><u>Ultimate Guide: Resolving Windows Media Connection Issues</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win7-inkjet-fix-successful/"><u>Win7 Inkjet Fix Successful</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-facebooks-quintessential-changes-for-enthusiasts/"><u>[New] In 2024, Facebook's Quintessential Changes for Enthusiasts</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-laugh-trails-tracking-popularity-in-tiktok-humor-for-2024/"><u>[Updated] Laugh Trails Tracking Popularity in TikTok Humor for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-30-hashtags-propel-video-views-in-gameplay/"><u>[Updated] Top 30 Hashtags Propel Video Views in Gameplay</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-methods-of-blending-audio-tracks-in-digital-performer/"><u>2024 Approved Methods of Blending Audio Tracks in Digital Performer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/activating-scanner-on-latest-win11-release/"><u>Activating Scanner on Latest Win11 Release</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-14-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone 14</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-top-blade-e-flite-mcx2-rtf-radio-controlled-helicopter-analysis/"><u>Comprehensive Guide: Top Blade E-Flite mCX2 RTF Radio Controlled Helicopter Analysis</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/demystifying-quick-fixes-for-pcl-xl-glitches/"><u>Demystifying Quick Fixes for PCL XL Glitches</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-easy-update-surface-drivers-made-simple/"><u>Download & Easy Update: Surface Drivers Made Simple</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eliminating-ghost-prints-on-monitors/"><u>Eliminating Ghost Prints on Monitors</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epsons-unprintable-feature-fixed-quickly/"><u>Epson's Unprintable Feature Fixed Quickly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-printer-blank-page-problem-solved/"><u>HP Printer Blank Page Problem Solved</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-gamer-friendly-video-capture-apps/"><u>In 2024, Gamer-Friendly Video Capture Apps</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mf4770n-compatibility-upgrade-for-windows-os/"><u>MF4770n Compatibility Upgrade for Windows OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-all-pages-seamlessly/"><u>Print All Pages Seamlessly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/successfully-added-new-printer/"><u>Successfully Added New Printer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-screen-size-oversized/"><u>Windows 11 Screen Size: Oversized?</u></a></li>
 </ul></div>
 
