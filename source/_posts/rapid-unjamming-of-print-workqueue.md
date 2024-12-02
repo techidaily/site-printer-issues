@@ -1,7 +1,7 @@
 ---
 title: Rapid Unjamming of Print Workqueue
-date: 2024-11-22T07:26:53.820Z
-updated: 2024-11-23T19:53:10.356Z
+date: 2024-12-01T11:30:54.995Z
+updated: 2024-12-02T09:22:17.000Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
    3. [Create a Bat file for permanent use](#f3)
 * **Fix 2 –[Reinstall your printer driver](#m2)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Clear the print queue
 
  There are three options for you to clear the print queue. You don’t have to try them all; just take your pick.
@@ -43,23 +39,27 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/services-run-box.jpg)
 3. Scroll down to**Print Spooler** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click**Print Spooler** and select**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/stop-the-service.jpg)
 5. Navigate to**C:\\Windows\\System32\\spool\\PRINTERS** and delete all files in the folder. (Do NOT delete the folder itself.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/delete.jpg)
 6. In the Services window, right-click**Print Spooler** and select**Start** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/start-service.jpg)
 7. Go back to the**Print Job** queue. All print jobs should have been removed now and you can start printing again normally.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Have trouble deleting the files?**
   
@@ -103,7 +103,7 @@ This will clear all of your print jobs stuck in a queue.
 4. Double-click the batch file to clear the print queue anytime you want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Reinstall the printer driver
@@ -124,6 +124,10 @@ This will clear all of your print jobs stuck in a queue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/kisspng-pixel-illustration-printer-5a983b8a6f6aa4.5830009615199261544564.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Option 2: Automatic printer driver update (Recommended)
 
  If you don’t have the time, patience, or computer skills to update your audio driver manually, you can**do it automatically** with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct driver for your device.
@@ -140,10 +144,6 @@ This will clear all of your print jobs stuck in a queue.
 **OR** click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-1.jpg)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Try printing again. Your printer should be working properly now.
 
@@ -172,24 +172,17 @@ Feel free to drop us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-fresh-off-the-press-film-review-and-complementary-options/"><u>[New] In 2024, Fresh-Off-the-Press Film Review and Complementary Options</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-2-step-guide-to-smoothly-record-google-hangoutsmeetings-for-2024/"><u>[New] The 2-Step Guide to Smoothly Record Google Hangouts/Meetings for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-unlock-old-facebook-memories-with-a-click/"><u>[New] Unlock Old Facebook Memories with a Click</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-thrilling-cinematic-selections-our-best-7-4k-options/"><u>[Updated] Thrilling Cinematic Selections Our Best 7 4K Options</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-tweetaudioextractor-quick-sound-maker/"><u>2024 Approved TweetAudioExtractor Quick Sound Maker</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/added-printer-with-successful-operation/"><u>Added Printer with Successful Operation</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/amplify-printing-prowess-aio-upgrades-for-windows-7/"><u>Amplify Printing Prowess: AIO Upgrades for WIndows 7</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-iphone-xs-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On iPhone XS How to Bypass?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/arise-game-bugs-addressed-solutions-unveiled/"><u>Arise Game Bugs Addressed – Solutions Unveiled</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/correct-misaligned-images-from-w11-printers/"><u>Correct Misaligned Images From W11 Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/corrected-printer-error-messages/"><u>Corrected Printer Error Messages</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epsons-white-paper-trap-how-to-prevent-it/"><u>Epson's White Paper Trap: How to Prevent It?</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-the-error-of-invalid-onedrive-blob-tag-presence/"><u>Fixing the Error of Invalid OneDrive Blob Tag Presence</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guidelines-to-reactivate-dormant-hp-printers/"><u>Guidelines to Reactivate Dormant HP Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/lack-of-color-in-produced-documents/"><u>Lack of Color in Produced Documents</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-recognition-failure-hp-driver-missing-in-win1011/"><u>Printer Recognition Failure: HP Driver Missing in WIN10/11</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210146260-9781786785251-raise-your-vibes/"><u>Raise Your Vibes! | Free Book</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revive-your-canon-printers-print-function-with-these-5-windows-11-tricks/"><u>Revive Your Canon Printer's Print Function with These 5 Windows 11 Tricks</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-to-intels-enhanced-uhd-graphics-driver-version-on-your-windows-11-pc/"><u>Update to Intel's Enhanced UHD Graphics Driver Version on Your Windows 11 PC</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-instant-insight-snapshots-for-windows-enthusiasts/"><u>[New] In 2024, Instant Insight Snapshots for Windows Enthusiasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tips-for-adding-personalized-audio-effects-to-windows-10-photos/"><u>[Updated] Tips for Adding Personalized Audio Effects to Windows 10 Photos</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canon-mp620-printer-driver-search-on-win10-unsuccessful/"><u>Canon MP620 Printer Driver Search on WIN10 Unsuccessful</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/capturing-the-joy-of-lol-gameplay-three-effective-methods/"><u>Capturing the Joy of LOL Gameplay - Three Effective Methods</u></a></li>
+<li><a href="https://win-able.techidaily.com/crash-no-more-patching-up-destiny-2s-beyond-light-expansion-for-a-smooth-experience-on-pc/"><u>Crash No More: Patching Up Destiny 2’S Beyond Light Expansion for a Smooth Experience on PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-for-recording-and-archiving-live-online-events-via-webex-webinars-included/"><u>Expert Tips for Recording and Archiving Live Online Events via Webex, Webinars Included</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-motorola-moto-g14-frp-bypass-by-drfone-android/"><u>In 2024, About Motorola Moto G14 FRP Bypass</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/pixma-mp620-drivers-lost-on-win11-systems/"><u>Pixma MP620 Drivers Lost on Win11 Systems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-puzzle-solved-error-avoided/"><u>Printer Puzzle Solved: Error Avoided</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconnecting-to-ea-servers-after-connection-failures-in-windows/"><u>Reconnecting to EA Servers After Connection Failures in Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solve-w11-color-calibration-problems/"><u>Solve W11 Color Calibration Problems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-printer-woes-time-to-act/"><u>Windows 11 Printer Woes? Time to Act</u></a></li>
 </ul></div>
 

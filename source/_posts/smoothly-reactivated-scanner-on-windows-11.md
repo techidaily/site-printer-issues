@@ -1,7 +1,7 @@
 ---
 title: Smoothly Reactivated Scanner on Windows 11
-date: 2024-11-23T03:25:53.686Z
-updated: 2024-11-24T05:41:51.232Z
+date: 2024-11-29T13:09:37.649Z
+updated: 2024-12-01T21:25:07.178Z
 tags:
   - win11
   - win10
@@ -22,15 +22,15 @@ thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a9
 
 Read on. 🙂
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [**Check the connection of your Printer**](#m1)
 2. [**Reinstall your printer driver**](#m2)
 3. [**Get rid of ‘Scan to computer is no longer activated’ error**](#m3)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Check the connection of your Printer
 
@@ -54,13 +54,13 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf305cb04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the open window, find and expand the**Print queues** catalog. Then right-click on your printer software to choose**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf9b29be7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Restart your computer to let Windows reinstall the printer driver for you automatically.
 
@@ -74,16 +74,12 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597af8932fbfe.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5976a910cca49.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -98,17 +94,21 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee238c2f07.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Find**scanToPCActivationApp** under**Processes** tab. Then right-click on it to choose**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee29de8213.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Find**scanToPCActivationApp** under**Startup** tab. Then right-click on it to choose**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee2dfcd442.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 That’s all there is to it.
 
@@ -132,18 +132,15 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-djis-innovation-race-how-mavic-air-shifts-the-scene-against-spark-for-2024/"><u>[New] DJI’s Innovation Race How Mavic Air Shifts the Scene Against Spark for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-from-forgotten-to-found-a-guide-to-using-tiktok-hashtags-right/"><u>[Updated] 2024 Approved From Forgotten to Found A Guide to Using TikTok Hashtags Right</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-effortless-video-segmentation-techniques-for-2024/"><u>[Updated] Effortless Video Segmentation Techniques for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-unlocking-webcam-potential-in-modern-tech/"><u>2024 Approved Unlocking Webcam Potential in Modern Tech</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/all-you-need-to-know-about-the-newly-rumored-samsung-galaxy-z-flip-model-7-cost-projections-launch-date-and-specs-insights/"><u>All You Need to Know About the Newly Rumored Samsung Galaxy Z Flip Model 7: Cost Projections, Launch Date & Specs Insights</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/efficient-fix-disconnected-printer-back-online/"><u>Efficient Fix: Disconnected Printer Back Online</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-w11-scanner-output-issues/"><u>Fix W11 Scanner Output Issues</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/immediate-fixes-for-lags-in-printing/"><u>Immediate Fixes for Lags in Printing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-focal-point-expose/"><u>In 2024, Focal Point Exposé</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/installing-mf4770n-support-software-windows-xp-7/"><u>Installing MF4770n Support Software Windows XP-7</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-g2-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/updated-system-disabled-printer-reports/"><u>Updated System, Disabled Printer Reports</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win711-hp-printer-network-recovery-tips/"><u>Win7/11 HP Printer Network Recovery Tips</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-cutting-edge-video-production-leveraging-windows-11s-features/"><u>[New] 2024 Approved Cutting-Edge Video Production Leveraging Windows 11'S Features</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-preserving-sound-integrity-with-ffmpeg-extract/"><u>[New] 2024 Approved Preserving Sound Integrity with FFmpeg Extract</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamline-your-watch-party-multi-video-views-made-easy/"><u>2024 Approved Streamline Your Watch Party Multi-Video Views Made Easy</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-unplug-the-mystery-behind-canon-printer-offline/"><u>How To Unplug the Mystery Behind Canon Printer Offline</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-laserjet-errors-the-cure-for-windows-xp7/"><u>HP Laserjet Errors: The Cure for Windows XP/7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-print-error-on-hp-deskjet-4120x-resolved/"><u>No-Print Error on HP DeskJet 4120X Resolved</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/post-update-glitch-printer-no-longer-functions/"><u>Post-Update Glitch: Printer No Longer Functions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-us-strikes-back-at-russian-aggression-by-targeting-deepcool-in-the-pc-component-sector/"><u>The U.S. Strikes Back at Russian Aggression by Targeting DeepCool in the PC Component Sector</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210932967-9781855844452-the-world-of-the-senses/"><u>The World of the Senses | Free Book</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/ultimate-step-by-step-tutorial-enhancing-your-surface-pro-x-with-a-new-solid-state-drive/"><u>Ultimate Step-by-Step Tutorial: Enhancing Your Surface Pro X with a New Solid State Drive</u></a></li>
 </ul></div>
 

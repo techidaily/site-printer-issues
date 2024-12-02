@@ -1,7 +1,7 @@
 ---
 title: "Defeating the Bugs: How to Handle and Fix Fortnite's LS-0013 Problem"
-date: 2024-11-22T06:48:40.401Z
-updated: 2024-11-24T09:32:38.149Z
+date: 2024-11-27T06:20:00.694Z
+updated: 2024-12-02T12:08:05.306Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
 Fortnite is not launching because of LS-0013 error? You’re certainly not the only one. Hundreds of Fortnite players are reporting it. The good news is, you can fix it…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes For Fortnite LS-0013 Launching Error
@@ -30,7 +30,7 @@ Fortnite is not launching because of LS-0013 error? You’re certainly not the o
 3. **[Run Epic Games Launcher and Fortnite as administrator](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: **Update your device drivers**
@@ -49,17 +49,9 @@ Fortnite is not launching because of LS-0013 error? You’re certainly not the o
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
 
@@ -82,12 +74,16 @@ Here is how to verify the integrity of Fortnite:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Once completed, click to run Fortnite to see if it launches properly. If yes, then congrats! If the issue still remains, please try **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: **Run Epic Games Launcher and Fortnite as administrator**
 
@@ -98,6 +94,10 @@ Here is how to run Epic Games Launcher as administrator:
  1) On your desktop, right-click on the **Epic Games Launcher icon** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-803.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click the **Compatibility**  tab, tick the box for **Run this program as an administrator**  and click **OK** .
 
@@ -132,24 +132,16 @@ Here is how to run Epic Games Launcher as administrator:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/driver-difficulty-unable-to-locate-hp-driver-on-winxo/"><u>[Driver Difficulty] - Unable to Locate HP Driver on WinXO</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-digital-memory-keepers-taking-screenshots-on-xbox-one/"><u>[New] 2024 Approved Digital Memory Keepers Taking Screenshots on Xbox One</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-2023-complete-guide-twitter-reaction-videos/"><u>[New] In 2024, 2023 Complete Guide | Twitter Reaction Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-unmatched-closure-in-cyberspace-quest/"><u>[New] In 2024, Unmatched Closure in Cyberspace Quest</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-sites-where-virtual-worlds-come-alive/"><u>[New] Sites Where Virtual Worlds Come Alive</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-usb-printers-not-working-after-sleep-in-windows-7/"><u>[Solved] USB Printers Not Working After Sleep in Windows 7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/addsvc-not-responding-printer-error-reported/"><u>ADDSVC Not Responding: Printer Error Reported</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/best-top-15-tools-for-converting-youtube-videos-into-mp3-format/"><u>Best Top 15 Tools for Converting YouTube Videos Into MP3 Format</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574003773-canon-printer-is-offline-heres-how-to-fix-it/"><u>Canon Printer Is Offline? Here's How to Fix It!</u></a></li>
-<li><a href="https://win-unique.techidaily.com/fehlerbehebung-bei-der-datenubertragung-ihres-iphones-ursachen-fur-lese-schreibprobleme-und-deren-losungen/"><u>Fehlerbehebung Bei Der Datenübertragung Ihres iPhones: Ursachen Für Lese-/Schreibprobleme Und Deren Lösungen</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/high-performance-drones-sold-here-for-2024/"><u>High-Performance Drones Sold Here for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ring-youtubes-defense-confronting-critics-for-2024/"><u>Mastering YouTube's Defense Confronting Critics for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/officejet-pro-8600-printer-support-package-windows-based/"><u>Officejet Pro 8600 Printer Support Package, Windows-Based</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-dilemma-ends-after-new-windows-installation/"><u>Print Dilemma Ends After New Windows Installation</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-puzzle-mysterious-setup-error/"><u>Printer Puzzle: Mysterious Setup Error</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/synchronize-printer-settings-across-multiple-devices-win10-style/"><u>Synchronize Printer Settings Across Multiple Devices, Win10 Style</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-notch-mouse-comforts-unveiled/"><u>Top-Notch Mouse Comforts Unveiled</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win-hp-printer-setup-manual/"><u>Win HP Printer Setup Manual</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-windows-7-devices-not-recognizing-post-sleep-usb-printers/"><u>[Fix] Windows 7 Devices Not Recognizing Post Sleep USB Printers</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-revolutionize-tech-connectivity-top-free-speech-conversion-tools-for-macos/"><u>[New] 2024 Approved Revolutionize Tech Connectivity Top Free Speech Conversion Tools for MacOS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-maximize-mobile-viewing-sharper-chromebook-and-phone-videos/"><u>[Updated] 2024 Approved Maximize Mobile Viewing Sharper Chromebook and Phone Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-picture-in-picture-video-integration-for-mac-os-x/"><u>2024 Approved Navigating Picture in Picture Video Integration for Mac OS X</u></a></li>
+<li><a href="https://games-able.techidaily.com/analyzing-the-need-for-anti-ghosting-features-in-gamers-choice/"><u>Analyzing the Need for Anti-Ghosting Features in Gamers' Choice</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-clear-print-head-conflict-on-win-1011/"><u>How To Clear Print Head Conflict on Win 10/11</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-upset-timeline-on-tiktok-retrieve-lost-content/"><u>In 2024, Upset Timeline on TikTok – Retrieve Lost Content</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/my-canon-printer-is-playing-hard-to-respond/"><u>My Canon Printer Is Playing Hard To Respond</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-fixes-top-5-methods-to-resolve-canon-printer-print-issue-in-windows-11/"><u>Quick Fixes: Top 5 Methods to Resolve Canon Printer Print Issue in Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/trouble-printing-on-windows-11-lets-fix-it/"><u>Trouble Printing on Windows 11? Let's Fix It</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/visionary-editing-top-free-enhancement-pages/"><u>Visionary Editing Top Free Enhancement Pages</u></a></li>
 </ul></div>
 

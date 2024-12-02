@@ -1,7 +1,7 @@
 ---
 title: "From Frustration to Functionality: Blank Page Cured"
-date: 2024-11-18T18:36:28.851Z
-updated: 2024-11-23T17:44:46.282Z
+date: 2024-11-29T19:39:46.430Z
+updated: 2024-12-02T08:32:12.462Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 
  Your printer keeps printing blank pages? This is extremely annoying and you’re certainly not the only one who faces this issue! Many Windows users are reporting it. But the good news is that you can fix it. This article gives you 6 solutions to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Table of contents
 
 * [Fix 1: Restart your printer](#a)
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 * [Fix 6: Repair System Files](#h-fix-6-repair-system-files)
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Restart your printer
 
@@ -56,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 If the printed output is still missing ink, try the next fix.
 
  The following process may vary depending on different types of printers. If you don’t know how to do it, consult your printer manual for instructions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Check your ink cartridges
 
@@ -84,7 +72,7 @@ If all your cartridges are in good condition, reinstall your cartridges.
  Make sure your cartridges all work properly, then try printing a page. If your printer still won’t print, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your printer driver
@@ -135,6 +123,10 @@ If your printer still won’t print normally, then try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-30-25.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Select **Troubleshooting** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-30-34.jpg)
@@ -148,7 +140,7 @@ If your printer still won’t print normally, then try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-30-58.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Wait for your computer to automatically detect your printer issue, and then follow the on-screen instructions to fix it. When the troubleshooting process is complete, print a page to see if your printer works correctly.
@@ -162,7 +154,7 @@ If your printer still won’t print normally, then try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-31-44.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Select **Troubleshooting settings** .
@@ -177,6 +169,10 @@ If your printer still won’t print normally, then try the next fix.
 
 If your problem persists, read on and check the fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Configure the Printer Spooler Service
 
  In some cases, damaged Printer Spooler files might be the reason why your printer keeps printing blank pages. If this is your problem, configuring your Printer Spooler service can help. Here is how:
@@ -185,21 +181,21 @@ If your problem persists, read on and check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-32-16.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Select **Services** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-32-30.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Double-click **Printer Spooler.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-857.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Click **Stop** , and then click **OK** .
 
@@ -216,7 +212,7 @@ If your problem persists, read on and check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-33-14.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **7)**  On your keyboard, press the **Windows logo** key. Then type **services** and select **Services** .
@@ -230,6 +226,10 @@ If your problem persists, read on and check the fix below.
 **9)** Click **Start** . Then, make sure the**Startup type** is set to **Automatic** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-35-29.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **10)** Try printing a page to test your problem.
 
@@ -271,22 +271,18 @@ If your problem persists, read on and check the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-negative-space-reverse-video-tricks-for-instagram/"><u>[New] Mastering Negative Space Reverse Video Tricks for Instagram</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/achieve-peak-performance-in-officejets-by-latest-driver-update/"><u>Achieve Peak Performance in Officejets by Latest Driver Update</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-humor-how-chatgpts-joke-crafting-skills-compare-with-human-comedians/"><u>AI Humor: How ChatGPT's Joke-Crafting Skills Compare with Human Comedians</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-cant-start-maplestory-essential-solutions-to-get-your-favorite-game-running-smoothly-again/"><u>Beat 'Can't Start Maplestory': Essential Solutions to Get Your Favorite Game Running Smoothly Again</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fast-and-simple-printer-back-online-now/"><u>Fast & Simple: Printer Back Online Now</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-printer-connectivity-issue-win7/"><u>Fixing Printer Connectivity Issue: Win7</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/fur-optimale-datenaufbewahrung-die-besten-kostenlosen-ssd-backup-losungen-unter-windows-111087-vergleichen/"><u>Für Optimale Datenaufbewahrung: Die Besten Kostenlosen SSD-Backup-Lösungen Unter Windows 11/10/8/7 Vergleichen</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-reactivate-an-idle-brothers-printer-networkly/"><u>How to Reactivate an Idle Brothers Printer Networkly</u></a></li>
-<li><a href="https://win-bits.techidaily.com/how-to-successfully-upgrade-to-windows-11-version-23h2-even-if-your-pc-is-not-officially-supported-two-reliable-methods/"><u>How to Successfully Upgrade to Windows 11 Version 23H2 Even if Your PC Is Not Officially Supported – Two Reliable Methods</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-galaxy-xcover-7-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Galaxy XCover 7 ?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/immediate-help-for-windows-11-printer-problems/"><u>Immediate Help for Windows 11 Printer Problems</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-dynamic-strategies-for-complementary-podcast-consumption/"><u>In 2024, Dynamic Strategies for Complementary Podcast Consumption</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mending-printer-malfunction-code-0x97/"><u>Mending Printer Malfunction: Code 0X97</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-top-5-free-online-tone-tools-for-easy-use-for-2024/"><u>New Top 5 Free Online Tone Tools for Easy Use for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/optimize-functionality-upgrading-mf4770n-on-w11w8w7-os/"><u>Optimize Functionality: Upgrading MF4770n on W11/W8/W7 OS</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reviving-your-non-printing-brother-printer-in-win1011/"><u>Reviving Your Non-Printing Brother Printer in Win10/11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-future-of-finance-emoji-counseling-and-the-threat-of-gpt-ais-whats-next/"><u>The Future of Finance: Emoji Counseling & the Threat of GPT AIs - What's Next?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-vs-video-edition-which-editor-wins-for-filmmaking/"><u>[New] 2024 Approved Vs. Video Edition Which Editor Wins for Filmmaking?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-iphone-x876-owners-must-have-gif-apps-guide/"><u>[Updated] 2024 Approved IPhone X/8/7/6 Owners' Must-Have GIF Apps Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-battling-the-invisible-screen-on-social-media-a-chromesafari-guide/"><u>2024 Approved Battling the Invisible Screen on Social Media A Chrome/Safari Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-highly-compensated-online-visionary-creator/"><u>2024 Approved Highly Compensated Online Visionary Creator</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-want-to-send-snaps-from-camera-roll-see-how-it-is-done/"><u>2024 Approved Want to Send Snaps From Camera Roll? See How It Is Done</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/essential-tips-for-fixing-windows-11-printer/"><u>Essential Tips for Fixing Windows 11 Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-printer-achieves-zero-blank-page-mishaps/"><u>HP Printer Achieves Zero Blank Page Mishaps</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mf4770n-integration-boost-system-software-updates-windows/"><u>MF4770n Integration Boost: System Software Updates Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reconnect-and-resume-a-step-by-step-guide-for-printers/"><u>Reconnect and Resume: A Step-by-Step Guide for Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-clear-document-reception-from-hp-printer/"><u>Restoring Clear Document Reception From HP Printer</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/seamless-mp4-extraction-your-fb-video-fix/"><u>Seamless MP4 Extraction – Your FB Video Fix</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/tackling-systemic-impurity-issues-deciphering-and-mitigating-core-compromises/"><u>Tackling Systemic Impurity Issues: Deciphering and Mitigating Core Compromises</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574150252-unexpected-printer-error-alert/"><u>Unexpected Printer Error Alert!</u></a></li>
 </ul></div>
 

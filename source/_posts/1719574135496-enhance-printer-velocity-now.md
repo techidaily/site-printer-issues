@@ -1,7 +1,7 @@
 ---
 title: Enhance Printer Velocity Now
-date: 2024-11-16T23:02:36.096Z
-updated: 2024-11-23T22:16:08.688Z
+date: 2024-11-28T08:11:14.945Z
+updated: 2024-12-02T12:49:57.977Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/8ea49d46a7efdbdbce7ce2f715d9bd1879477faba
 7. **[Update the printer firmware](#Fix7)**
 8. **[Repair system files](#Fix8)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reset your printer
 
  If your printer has been printing for a long time, the speed may begin to slow to protect the print mechanism from overheating or becoming damaged. To fix it, you’ll need to reset your printer. Here’s how:
@@ -54,21 +58,25 @@ thumbnail: https://thmb.techidaily.com/8ea49d46a7efdbdbce7ce2f715d9bd1879477faba
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/printers-scanners.jpg)
 2. Click your Printer, then click**Manage** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/manage-printer.jpg)
 3. Click**Printing preferences** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/printer-preferences.jpg)
 4. In the pop-up window, navigate to the**Paper/Quality** tab. Select**Plain Paper** in the Media or Paper Type field. Under Quality Settings or Print Quality, select**Draft** ,**Normal** or**Standard** . Then click**OK** to save changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/paper-quality.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### in Windows 11
 
@@ -76,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/8ea49d46a7efdbdbce7ce2f715d9bd1879477faba
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/win11-Printers-and-scanners-settings.jpg)
 2. Click on your printer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/win11-Default-printer.jpg)
 3. Select**Printer preferences** .  
@@ -118,24 +130,16 @@ Here we list the common printer manufacturers for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scannow.jpg)
 3. Click the**Update** button next to the flagged printer driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/update-all.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating your printer driver, try to print. If the issue remains, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Turn off Quiet Mode
 
@@ -151,17 +155,21 @@ Here we list the common printer manufacturers for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/quiet-mode.jpg)
 4. Select**Off** , then click**Apply** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-off-quiet-mode.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-off-quiet-mode.jpg)
 
 #### **For other printers users:**
 
  You can check your printer’s user manual or visit your printer manufacturer’s official website for help.
 
  After doing that, try your printer again. If this method doesn’t solve your problem, check out the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Restart the print spooler service
 
@@ -171,10 +179,6 @@ Here we list the common printer manufacturers for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/services-msc.jpg)
 2. In Services, find Print Spooler, right-click on it, and select**Stop** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/print-spooler-stop.jpg)  
 **Note** : Do not close the Services window, simply minimize it as you’ll go back to it later.
 
@@ -182,15 +186,15 @@ Here we list the common printer manufacturers for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/spool.jpg)
 4. Open the**PRINTERS** folder.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/printers-files.jpg)
 5. Delete all files in this folder, then close it. This is to clear the print queues.
 
 6. Go back to the Services window, right-click Print Spooler, and select**Start** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/print-spooler-start.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now try your printer to see if the problem is resolved.
 
@@ -209,10 +213,6 @@ If your printer still prints at a slow speed, try the next fix below.
 After checking your network connection, try to print again.
 
 If your network is not the problem, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Update the printer firmware
 
@@ -233,7 +233,7 @@ If your network is not the problem, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Should you require any assistance, feel free to email them at [support@fortect.com](mailto:support@fortect.com) .
@@ -259,19 +259,22 @@ If your network is not the problem, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-capture-every-word-a-guide-to-recording-in-google-meet/"><u>[Updated] In 2024, Capture Every Word A Guide to Recording in Google Meet</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/1-successful-steps-to-restore-your-lost-mov-file-a-comprehensive-guide/"><u>1. Successful Steps to Restore Your Lost Mov File: A Comprehensive Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-nubia-z50s-pro-unlock-without-password-by-drfone-android/"><u>5 Solutions For Nubia Z50S Pro Unlock Without Password</u></a></li>
-<li><a href="https://fox-making.techidaily.com/download-and-convert-3d-buzz-media-high-quality-formats-like-mp4-wmv-and-avi-at-your-fingertips/"><u>Download & Convert 3D Buzz Media: High-Quality Formats Like MP4, WMV and AVI at Your Fingertips</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/error-0x00000709-cannot-set-default-printer-on-windows-solved/"><u>Error 0X00000709 Cannot Set Default Printer on Windows [Solved]</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-xs-max-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iPhone XS Max After iOS Update? | Stellar</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-video-editing-freedom-how-to-use-any-app-on-your-chromebook-updated-2023-for-2024/"><u>New Video Editing Freedom How to Use Any App on Your Chromebook (Updated 2023) for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/perfecting-google-meet-ppt-sessions-on-desktoptablet-for-2024/"><u>Perfecting Google Meet PPT Sessions on Desktop/Tablet for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-spooler-service-activated-windows-7/"><u>Print Spooler Service Activated, Windows 7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/repairing-hp-printers-error-code-oxc4eb827f/"><u>Repairing HP Printer's Error: Code OXC4EB827F</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restoring-functionality-in-dormant-hp-multi-function-devices/"><u>Restoring Functionality in Dormant HP Multi-Function Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-stop-code-vein-from-freezing-on-your-console-or-pc/"><u>Troubleshooting Guide: Stop Code Vein From Freezing on Your Console or PC</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-time-efficient-tips-to-purify-audio-from-static-interference/"><u>Updated 2024 Approved Time-Efficient Tips to Purify Audio From Static Interference</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win2k-printer-response-error-resolution-guide/"><u>Win2K Printer Response: Error Resolution Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-innovative-selections-top-10-sports-streaming-apps-soccer-focus/"><u>[New] Innovative Selections Top 10 Sports Streaming Apps, Soccer Focus</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-straightforward-guide-to-photo-uploads-on-instagram/"><u>[Updated] In 2024, The Straightforward Guide to Photo Uploads on Instagram</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-text-transformation-tactics-for-images/"><u>2024 Approved Text Transformation Tactics for Images</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/assessing-the-pros-and-cons-of-lgs-usb-type-c-monitors-for-2024/"><u>Assessing the Pros and Cons of LG's USB Type-C Monitors for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-meizu-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Meizu</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/brother-wireless-setup-cdw-version/"><u>Brother Wireless Setup: CDW Version</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/building-a-brand-with-captivating-haul-videos-and-edits/"><u>Building a Brand with Captivating Haul Videos and Edits</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/drive-upgrade-streamline-mf4770n-in-windows/"><u>Drive Upgrade: Streamline MF4770n in WIndows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eliminating-ghost-bars-in-hp-printers-output/"><u>Eliminating Ghost Bars in HP Printer's Output</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-x-screen-lock-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone X screen lock without Passcode?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-inkjet-not-printing-now-good-to-go/"><u>HP Inkjet Not Printing, Now Good to Go</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-every-page-without-a-glitch-now/"><u>Print Every Page without a Glitch, Now!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-setting-up-your-personalized-email-signature-with-godaddy-mail/"><u>Step-by-Step Tutorial: Setting Up Your Personalized Email Signature with GoDaddy Mail</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/techniques-bringing-an-isolated-printer-back-onboard/"><u>Techniques: Bringing an Isolated Printer Back Onboard</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-missing-printers-from-the-network/"><u>Troubleshooting Missing Printers From the Network</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/upgrade-printer-drivers-for-better-output-win10-edition/"><u>Upgrade Printer Drivers for Better Output, WIN10 Edition</u></a></li>
 </ul></div>
 

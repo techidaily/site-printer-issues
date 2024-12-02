@@ -1,7 +1,7 @@
 ---
 title: Overcoming Inactive Scanner on Windows 11
-date: 2024-11-23T06:28:19.079Z
-updated: 2024-11-23T19:37:21.400Z
+date: 2024-11-30T19:15:40.705Z
+updated: 2024-12-01T16:35:45.522Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ Read on. 🙂
 3. [**Get rid of ‘Scan to computer is no longer activated’ error**](#m3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Check the connection of your Printer
@@ -55,7 +55,7 @@ You need to do these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf305cb04.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the open window, find and expand the**Print queues** catalog. Then right-click on your printer software to choose**Uninstall device** .
@@ -74,21 +74,21 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597af8932fbfe.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5976a910cca49.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Get rid of ‘Scan to computer is no longer activated’ error
 
@@ -102,13 +102,13 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee29de8213.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Find**scanToPCActivationApp** under**Startup** tab. Then right-click on it to choose**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee2dfcd442.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 That’s all there is to it.
 
@@ -132,18 +132,21 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-dji-revolution-air-vs-spark-in-gaming-sphere-for-2024/"><u>[Updated] DJI Revolution Air Vs. Spark in Gaming Sphere for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boost-your-websites-engagement-using-advanced-cookiebot-tracking-technology/"><u>Boost Your Website's Engagement Using Advanced Cookiebot Tracking Technology</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-printer-woes-here-are-your-five-easy-fixes-in-windows-11/"><u>Canon Printer Woes? Here Are Your Five Easy Fixes in Windows 11!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enabling-duplex-print-for-office-hp-devices/"><u>Enabling Duplex Print for Office HP Devices</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/erweiterte-funktionalitaten-durch-die-top-video-editing-software-auf-pcs-mit-betriebssystem-windows-1110-die-besten-losungen-erklart/"><u>Erweiterte Funktionalitäten Durch Die Top-Video-Editing-Software Auf PCs Mit Betriebssystem Windows 11/10 - Die Besten Lösungen Erklärt</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Infinix Smart 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720063158242-how-to-update-focusrite-scarlett-6i6-driver-installation-guide/"><u>How to Update Focusrite Scarlett 6I6 Driver – Installation Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-inshot-app-how-to-integrate-external-songs-easily/"><u>In 2024, InShot App How to Integrate External Songs Easily</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/joining-process-attaching-hp-officejet-to-desktop-pcs/"><u>Joining Process: Attaching HP Officejet to Desktop PCs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/network-services-interrupted-printer-fails/"><u>Network Services Interrupted, Printer Fails</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restored-epson-workflow-flow/"><u>Restored Epson Workflow Flow</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-10-struggles-cannot-find-mp620-printer-drivers/"><u>Windows 10 Struggles: Cannot Find MP620 Printer Drivers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-problem-missing-driver-in-os/"><u>[PRINTER PROBLEM] Missing Driver in OS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-apex-storage-wizards-best-of-android-cloud/"><u>[Updated] 2024 Approved Apex Storage Wizards Best of Android Cloud</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-in-depth-analysis-of-vlc-recorder-app/"><u>[Updated] In 2024, In-Depth Analysis of VLC Recorder App</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-social-media-showdown-twitters-top-tiktok-trends/"><u>2024 Approved Social Media Showdown Twitters' Top TikTok Trends</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/enhancing-facebooks-instream-ad-reach-a-detailed-approach/"><u>Enhancing Facebook's Instream Ad Reach A Detailed Approach</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-code-130-on-steam-heres-how-to-get-it-running-smoothly-again/"><u>Error Code 130 on Steam? Here's How to Get It Running Smoothly Again</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/foreign-system-flagged-for-misused-printer/"><u>Foreign System Flagged for Misused Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-printer-setup-error-cant-find-driver-on-windows-os/"><u>HP Printer Setup Error: Can't Find Driver on Windows OS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-improve-your-zoom-meet-by-sharpening-views/"><u>In 2024, Improve Your Zoom Meet by Sharpening Views</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/intruder-in-network-print-spotlighted/"><u>Intruder in Network Print Spotlighted</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondlys-excellence-recognized-germanys-top-linguistic-haven/"><u>Mondly’s Excellence Recognized - Germany’s Top Linguistic Haven</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-more-lost-pages-thanks-to-new-fixes/"><u>No More Lost Pages, Thanks to New Fixes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overhauling-epsons-error-0x97/"><u>Overhauling Epson's Error 0X97</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-the-application-was-unable-to-start-in-win1011/"><u>Solving The Application Was Unable to Start in Win10/11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Infinix Smart 8? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win11-officejet-paper-jams-step-by-step-solution/"><u>Win11 OfficeJet Paper Jams: Step-by-Step Solution</u></a></li>
 </ul></div>
 

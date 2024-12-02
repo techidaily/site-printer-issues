@@ -1,7 +1,7 @@
 ---
 title: "Constraint A: Use only the C-Major Scale for Representation"
-date: 2024-11-18T18:34:59.945Z
-updated: 2024-11-24T05:19:24.514Z
+date: 2024-11-25T16:29:19.102Z
+updated: 2024-12-02T03:10:08.563Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/de901a9dfeb58de3e9633af24cac79c38827e6567
 ## Trouble Starting Valorant on Your Desktop Computer? Uncover the Latest Solutions
 
 Being the second game from Riot after its blockbuster League of Legends, Valorant is surely a must-play for all the FPS fans. But recently, we received many reports saying that**Valorant won’t start on PC** . If you’re dealing with the same issue, don’t worry. According to our users, you can usually fix it with just a few clicks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Before you start
 
@@ -55,10 +59,6 @@ Being the second game from Riot after its blockbuster League of Legends, Valoran
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_14-42-27.jpg)
 2. Under the**Scale and layout** section, select an option from the drop down menu.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_14-47-42.jpg)
 3. Choose a**lower** resolution.  
 
@@ -88,10 +88,6 @@ Being the second game from Riot after its blockbuster League of Legends, Valoran
 
 If this trick doesn’t work for you, simply try the next one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Run Valorant in compatible mode
 
  Some Windows updates may conflict with Valorant. If that’s the case, you can try to**launch Valorant in compatible mode** . Here’re the steps:
@@ -103,11 +99,11 @@ If this trick doesn’t work for you, simply try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_16-21-11.jpg)
 3. **Restart** your computer and**launch Valorant** .
 
- If this solve your problem, congratulations! If not, you can move on to the next fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If this solve your problem, congratulations! If not, you can move on to the next fix.
 
 ## Fix 4: Run Valorant as an Administrator
 
@@ -120,6 +116,10 @@ If this trick doesn’t work for you, simply try the next one.
 2. On your desktop,**right click** the Valorant icon and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_16-16-07-1.jpg)
 3. Select the**Compatibility** tab. Under**Settings** section,**check** the box before**Run this program as an Administrator** . Click**OK** to finish.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_16-44-49-1.jpg)
 4. Launch Valorant and see if you can log in.
@@ -157,11 +157,11 @@ Here’s an example of how to disable Windows Security:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-windows-defender-3-1.png)
 5. Now test if you can launch Valorant.
 
- If this fix doesn’t help you, turn the antivirus back on and continue to the next method.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If this fix doesn’t help you, turn the antivirus back on and continue to the next method.
 
 ## Fix 7: This game is not available on your operating system
 
@@ -176,14 +176,6 @@ Here’s an example of how to disable Windows Security:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/valorant-purge-config-1.jpg)
 3. Delete all the files in the**Config** and**Logs** folder. Then restart your PC and check if Valorant launches now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 8: Release Standby Memory
 
  One common reason Valorant won’t launch is that your PC doesn’t have the available RAM for the game. Windows uses part of the physical RAM as cache, or what is called**Standby Memory** . The system might run into issues when standby memory isn’t released on time. In that case, you can clear the standby memory manually and see how it goes.
@@ -191,6 +183,10 @@ Here’s an example of how to disable Windows Security:
 1. On your keyboard, press**Ctrl+Shift+Esc** together to open**Task Manager** . Navigate to the**Performance** tab, click**Open Resource Monitor** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-resources-monitor-1.jpg)
 2. In Resource Monitor, navigate to the**Memory** tab. In the**Physical Memory** section, you’ll see the current memory usage. Check if**Standby Memory** is taking up too much of your total RAM.![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-resources-monitor-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. You can empty the standby memory manually.  
 
@@ -207,10 +203,6 @@ Here’s an example of how to disable Windows Security:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/emptystandbylist-3.jpg)
 3. On your keyboard, press**Win+R** to invoke the**Run** box. Type or paste**taskchd.msc** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/taskschd.msc_.jpg)
 4. In the right pane, select**Create Task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-1.jpg)
@@ -220,20 +212,20 @@ Here’s an example of how to disable Windows Security:
 6. In the pop-up window, click**Advanced…** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-4.jpg)
 7. Click**Find Now** . In the search results, select**SYSTEM** . Then click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-5.jpg)
 8. Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-6-2.jpg)
 9. Navigate to the**Actions** tab, click**New…** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-7.jpg)
 10. Browse and select the**EmptyStandbyList.exe** program. Click**OK** .  
@@ -248,7 +240,7 @@ Here’s an example of how to disable Windows Security:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 9: Reinstall Valorant
@@ -259,8 +251,17 @@ Here’s an example of how to disable Windows Security:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_17-45-57.jpg)
 2. Select**Programs and Features** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-10_10-03-56.jpg)
 3. One at a time,**double click** **Valorant and Riot Vanguard** to uninstall them.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_17-52-29.jpg)
 4. Go to the[Valorant official website](https://playvalorant.com/en-us/) and download the latest version.
 
@@ -283,17 +284,21 @@ Here’s an example of how to disable Windows Security:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-debating-platform-preferences-igtv-versus-youtube-video-sharing/"><u>[New] Debating Platform Preferences IGTV Versus YouTube Video Sharing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-professionalising-a-roadmap-in-graphic-design/"><u>[New] The Art of Professionalising A Roadmap in Graphic Design</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-what-is-triller-a-platform-that-challenges-traditional-video-sites/"><u>[Updated] In 2024, What Is Triller? A Platform That Challenges Traditional Video Sites</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Meizu 21 Pro? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/rapid-removal-from-printer-job-backlog/"><u>Rapid Removal From Printer Job Backlog</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revive-print-functionality-top-5-tips-and-tricks-for-a-working-canon-printer-in-windows-11/"><u>Revive Print Functionality: Top 5 Tips & Tricks for a Working Canon Printer in Windows 11</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-importance-of-alt-tags-in-digital-image-sharing/"><u>The Importance of Alt Tags in Digital Image Sharing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-4-technological-tools-revolutionizing-raising-a-puppy-a-guide-by-zdnet/"><u>Top 4 Technological Tools Revolutionizing Raising a Puppy: A Guide by ZDNet</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/top-five-solutions-to-resolve-your-canon-printer-not-printing-issue-in-windows-11/"><u>Top Five Solutions to Resolve Your Canon Printer Not Printing Issue in Windows 11</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/unveiling-of-microsofts-windows-11-se-and-affordable-250-surface-laptop-se-targeting-educators-zdnet-update/"><u>Unveiling of Microsoft's Windows 11 SE and Affordable $250 Surface Laptop SE Targeting Educators – ZDNet Update</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/winning-strategies-for-installing-hp-printer-software/"><u>Winning Strategies for Installing HP Printer Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-visualizing-audio-brilliance/"><u>2024 Approved The Ultimate Guide to Visualizing Audio Brilliance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-logitech-g35-microphone-drivers-for-windows-7-8-and-10/"><u>Download the Latest Logitech G35 Microphone Drivers for Windows 7, 8 & 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/horizon-harmony-best-online-spots-for-high-res-sky-views/"><u>Horizon Harmony Best Online Spots for High-Res Sky Views</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-review-of-apple-studio-display-specifications-capabilities-and-essential-insights-techradar/"><u>In-Depth Review of Apple Studio Display: Specifications, Capabilities & Essential Insights | TechRadar</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/make-windows-11-printer-work-again/"><u>Make Windows 11 Printer Work Again</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/nba-2k24-troubleshooting-guide-solving-the-727e66ac-2024-glitch/"><u>NBA 2K24 Troubleshooting Guide: Solving the 727E66ac-2024 Glitch</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-issues-in-print-device-installation/"><u>No Issues in Print Device Installation</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overhauling-hp-printers-error-code-oxc4eb827f/"><u>Overhauling HP Printer's Error: Code OXC4EB827F</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-infinix-note-30-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Infinix Note 30 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-errors-resolving-them-in-windows-11/"><u>Printer Errors: Resolving Them in Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/repair-printer-driver-glitches-on-win10-pc/"><u>Repair Printer Driver Glitches on WIN10 PC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/saving-photo-printouts-from-failures/"><u>Saving Photo Printouts From Failures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-free-video-rotators-without-watermarks-online-and-offline-options/"><u>Top 10 Free Video Rotators Without Watermarks: Online & Offline Options</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/top-8-best-kept-video-download-secrets-for-2024/"><u>Top 8 Best-Kept Video Download Secrets for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win7-print-problem-devices-unresponsive-post-sleep/"><u>Win7 Print Problem: Devices Unresponsive Post-Sleep</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209954115-9789948374367-somaaa-rohy/"><u>صومعة روحي | Free Book</u></a></li>
 </ul></div>
 

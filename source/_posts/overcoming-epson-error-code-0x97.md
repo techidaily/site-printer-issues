@@ -1,7 +1,7 @@
 ---
 title: Overcoming Epson Error Code 0X97
-date: 2024-11-18T18:10:58.286Z
-updated: 2024-11-23T22:59:37.362Z
+date: 2024-11-29T23:51:55.447Z
+updated: 2024-12-02T11:35:10.263Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 
 **Why do I get the Error Code 0x97?**
  Error code 0x97 is probably caused by a hardware failure. When you get the error code, it’s very likely that certain interior parts of your printer can’t function correctly. But don’t worry! Before you take your printer to a repair store and replace any hardware, try the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -48,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 
 **6)** Release power button, then check your printer to see if you still get the error message.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Check your ink cartridges
 
  This problem might occur when your cartridges are clogged or disconnected from your printer. So, you should check your cartridges.
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
  Make sure your cartridges all work properly, and then reopen your printer to test your issue. If your problem still exists, check the fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Run the Windows printer troubleshooter
@@ -90,21 +90,17 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-842.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Select **Troubleshooting** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-843.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click **Use a printer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-844.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Click **Next** .
 
@@ -161,7 +157,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the printer driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -169,6 +165,10 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-229.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like. But it’s partly manual.
 
@@ -199,22 +199,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-best-youtube-video-converters-for-high-quality-webm/"><u>[New] In 2024, Best YouTube Video Converters for High-Quality WebM</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-high-fidelity-mobile-sound-selector/"><u>2024 Approved High Fidelity Mobile Sound Selector</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/color-output-issue-on-printer/"><u>Color Output Issue on Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhance-printing-efficiency-update-hp-officejet-firmware/"><u>Enhance Printing Efficiency: Update HP Officejet Firmware</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/fastest-ways-to-learn-a-language-quick-language-learning-techniques/"><u>Fastest Ways To Learn A Language - Quick Language Learning Techniques</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guide-merging-hp-printer-with-home-computing-device/"><u>Guide: Merging HP Printer with Home Computing Device</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-6-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock iPhone 6 3 Ways To Unlock</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/installing-and-connecting-printer-error-resolved/"><u>Installing and Connecting Printer Error Resolved</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mfc-9330-cdw-driver-installation-guide/"><u>MFC-9330 CDW Driver Installation Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-disconnected-swift-fix/"><u>Printer Disconnected: Swift Fix</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-error-on-hp-printer-oxc4eb827f/"><u>Resolving Error on HP Printer: OXC4EB827F</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionary-tech-on-display-tecnos-new-lineup-at-ifa/"><u>Revolutionary Tech on Display: Tecno's New Lineup at IFA</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/solutions-faciles-et-rapides-pour-resoudre-erreur-hard-disk-code-303-guide-complet/"><u>Solutions Faciles Et Rapides Pour Résoudre Erreur Hard Disk (Code 303) - Guide Complet</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/step-by-step-tutorial-for-activatingdeactivating-offline-file-functionality-in-windows-10-systems/"><u>Step-by-Step Tutorial for Activating/Deactivating Offline File Functionality in Windows 10 Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-visual-testimonial-advantage-for-2024/"><u>The Visual Testimonial Advantage for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tricks-for-keeping-your-macbook-active-even-when-you-close-the-cover/"><u>Tricks for Keeping Your MacBook Active, Even When You Close the Cover</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tutorial-adding-hp-printer-to-computer-network/"><u>Tutorial: Adding HP Printer to Computer Network</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-iphone-guide-engage-with-audio-content-seamlessly/"><u>[New] 2024 Approved IPhone Guide Engage with Audio Content Seamlessly</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/62018015-updated-in-2024-short-form-content-breakdown-now/"><u>[Updated] In 2024, Short Form Content Breakdown Now</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/boost-print-speed-and-quality-download-hp-officejet-firmware/"><u>Boost Print Speed & Quality - Download HP Officejet Firmware</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/decoding-laser-printer-errors/"><u>Decoding Laser Printer Errors</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enabling-duplex-printing-on-your-hp-printer-setup/"><u>Enabling Duplex Printing on Your HP Printer Setup</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhance-efficiency-printer-software-update-for-dell-and-win7/"><u>Enhance Efficiency: Printer Software Update for Dell & Win7</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-slow-motion-mobile-recording-tools-iosandroid/"><u>In 2024, Optimal Slow Motion Mobile Recording Tools iOS/Android</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleashing-audio-pleasure-your-iphones-podcast-potential/"><u>In 2024, Unleashing Audio Pleasure - Your iPhone’s Podcast Potential</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/new-mf4770n-software-package-for-windows-users/"><u>New MF4770n Software Package for Windows Users</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/posting-vimeo-perfecting-your-instagram-content/"><u>Posting Vimeo Perfecting Your Instagram Content</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-hijacked-multiple-sessions-spotted/"><u>Printer Hijacked? Multiple Sessions Spotted</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solving-the-problem-of-unrecognized-usb-devices-on-your-windows-11-pc/"><u>Solving the Problem of Unrecognized USB Devices on Your Windows 11 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-windows-entry-point-missing-error-fix/"><u>Step-by-Step Solution for Windows 'Entry Point Missing' Error Fix</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synergistic-communication-integrating-chatgpt-with-siri-for-iphones/"><u>Synergistic Communication: Integrating ChatGPT with Siri for iPhones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-vpn-providers-comprehensive-analysis-and-recommendations-by-experts-techadvisor/"><u>Top-Rated VPN Providers : Comprehensive Analysis & Recommendations by Experts | TechAdvisor</u></a></li>
 </ul></div>
 

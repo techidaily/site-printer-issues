@@ -1,7 +1,7 @@
 ---
 title: Fixed Inkjet Non-Operational State
-date: 2024-11-23T07:20:26.097Z
-updated: 2024-11-23T22:53:04.614Z
+date: 2024-11-30T21:11:20.259Z
+updated: 2024-12-02T11:31:31.108Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 2. **[Update your EPSON printer driver](#Fix2)**
 3. **[Reinstall your EPSON printer](#h-fix-3)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Disable the Use Printer Offline feature of your EPSON printer
 
  1) On your keyboard, press the **Windows logo key**  and **R**  at the same time to invoke the Run box.
@@ -34,13 +38,13 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c170e3799.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Devices and Printers**  in **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c1ac9662b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Right-click on your printer and click **See what’s printing** .
 
@@ -51,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6.png)
 
 4) Close the window and check if you’re able to use your printer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your EPSON printer driver
 
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/SCAN.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3)With the Free version: Click the **Update**  button next to the flagged printer driver to automatically download and install the correct version of this driver.
@@ -81,7 +81,7 @@ With the Pro version: click **Update All**  to automatically download and instal
  4) Restart your computer and check if you’re able to use your printer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Reinstall your EPSON printer
@@ -92,11 +92,11 @@ With the Pro version: click **Update All**  to automatically download and instal
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c325e1705.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-click on your EPSON printer device in Printers or Printer queues. Then click **Uninstall** .  
   
@@ -110,13 +110,13 @@ With the Pro version: click **Update All**  to automatically download and instal
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c1ac9662b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Right-click on the blank area and click **Add a printer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c7442faf0.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  8) For Windows 7 users, click   **Add a network, wireless or Bluetooth printer** .
  (For Windows 10 users, please skip to step 9)
@@ -137,6 +137,10 @@ With the Pro version: click **Update All**  to automatically download and instal
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c822a0881.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  12) Restart your computer and check if you’re able to use your printer.
 
 **How to check IP address and port name of printer:**
@@ -144,10 +148,6 @@ With the Pro version: click **Update All**  to automatically download and instal
  1)Right-click on your printer and choose **Printer properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Highlight the checked Port with √ mark in **Ports** , then click **Configure Port…**
  Now you can see the Port name and IP address of your printer on the pop-up window.
@@ -171,22 +171,18 @@ With the Pro version: click **Update All**  to automatically download and instal
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-boost-your-auditory-signature-master-sound-modification-for-zero-cost/"><u>[New] In 2024, Boost Your Auditory Signature Master Sound Modification for Zero Cost</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-dull-to-vivid-practical-steps-to-revitalize-digital-imagery/"><u>2024 Approved From Dull to Vivid Practical Steps to Revitalize Digital Imagery</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-guiding-through-audio-transition-in-ableton-live/"><u>2024 Approved Guiding Through Audio Transition in Ableton Live</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/bridge-connectivity-gaps-for-windows-10-printing-issues/"><u>Bridge Connectivity Gaps for Windows 10 Printing Issues</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-printer-connection-made-easy-images-included/"><u>Canon Printer Connection Made Easy (Images Included)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/cease-print-slowdown-in-winxp-solution-found/"><u>Cease Print Slowdown in WinXP - Solution Found</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhanced-connection-routes-between-hp-printers-and-laptops/"><u>Enhanced Connection Routes Between HP Printers and Laptops</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-ensuring-successful-bluetooth-pairing-on-your-windows-11-device/"><u>Expert Advice : Ensuring Successful Bluetooth Pairing on Your Windows 11 Device</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-non-operational-scanner-on-windows-11/"><u>Fixing Non-Operational Scanner on Windows 11</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/free-and-favorite-watermark-software-options-for-android-devices-top-choices-unveiled/"><u>Free and Favorite Watermark Software Options for Android Devices: Top Choices Unveiled</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-supercomputers-are-pivotal-in-chinas-quest-for-a-revolutionary-digital-metamorphosis/"><u>How Supercomputers Are Pivotal in China's Quest for a Revolutionary Digital Metamorphosis</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-ace-gpodcs-most-popular-shows/"><u>In 2024, Ace GPodC's Most Popular Shows</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722698470071-is-the-samsung-cf591-a-top-contender-in-gaming-displays-our-in-depth-review/"><u>Is the Samsung CF591 a Top Contender in Gaming Displays? Our In-Depth Review!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/paperless-challenges-ended-with-windows-upgrade/"><u>Paperless Challenges Ended with Window's Upgrade</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-duplicate-printer-usage-detection/"><u>Resolved: Duplicate Printer Usage Detection</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/spotify-how-to-halt-default-podcast-additions/"><u>Spotify How to Halt Default Podcast Additions</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/successfully-mended-hp-printer-no-output/"><u>Successfully Mended HP Printer No Output</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-clear-audio-crystal-clear-view-premium-webcams-for-podcasts-for-2024/"><u>[New] Clear Audio, Crystal-Clear View Premium Webcams for Podcasts for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/update-alert-canon-printer-not-detected-in-win10/"><u>[Update Alert] Canon Printer Not Detected in WIN10</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-secure-your-cash-ranking-safe-and-effective-posts-for-2024/"><u>[Updated] Secure Your Cash Ranking Safe & Effective Posts for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-pinnacle-of-visual-expression-best-mac-drawing-tools/"><u>2024 Approved The Pinnacle of Visual Expression - Best Mac Drawing Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-store-walkthrough-scheduling-personalized-assistance/"><u>Apple Store Walkthrough: Scheduling Personalized Assistance</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-brother-printer-print-malfunction-with-simple-steps/"><u>Fix Brother Printer Print Malfunction with Simple Steps</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-disconnected-print-service/"><u>Fixing Disconnected Print Service</u></a></li>
+<li><a href="https://article-files.techidaily.com/lighten-up-your-digital-presence-kapwing-maker-for-2024/"><u>Lighten Up Your Digital Presence - Kapwing Maker for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/noise-cancelled-skype-communication-for-2024/"><u>Noise-Cancelled Skype Communication for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/pprinterror-active-directory-service-unavailable/"><u>PPrintError: Active Directory Service Unavailable</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/stop-the-print-jamming-on-windows-11-now/"><u>Stop the Print Jamming on Windows 11 Now</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/swift-printer-performance-tips/"><u>Swift Printer Performance Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-secrets-behind-my-budget-friendly-surface-pro-ebyte-valuable-lessons-from-a-windows-specialist-zdnet/"><u>Unveiling the Secrets Behind My Budget-Friendly Surface Pro Ebyte: Valuable Lessons From a Windows Specialist | ZDNET</u></a></li>
 </ul></div>
 

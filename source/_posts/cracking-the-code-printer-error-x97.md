@@ -1,7 +1,7 @@
 ---
 title: "Cracking the Code: Printer Error X97"
-date: 2024-11-17T23:00:36.630Z
-updated: 2024-11-23T23:45:15.472Z
+date: 2024-11-29T07:39:59.716Z
+updated: 2024-12-02T09:22:10.918Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 
 **Why do I get the Error Code 0x97?**
  Error code 0x97 is probably caused by a hardware failure. When you get the error code, it’s very likely that certain interior parts of your printer can’t function correctly. But don’t worry! Before you take your printer to a repair store and replace any hardware, try the fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -70,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 
  Make sure your cartridges all work properly, and then reopen your printer to test your issue. If your problem still exists, check the fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Run the Windows printer troubleshooter
 
  Another quick fix to error code 0x97 is running the Windows printer troubleshooter. Here is how to do it:
@@ -90,12 +82,16 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-842.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Select **Troubleshooting** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-843.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click **Use a printer** .
@@ -114,12 +110,16 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-846.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Select **Troubleshooting settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-847.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click **Printer,**  and then click **Run the troubleshooter** .
@@ -129,7 +129,7 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
  Wait for the troubleshooting process to be complete, then reopen your printer to check if this fixed your issue. If not, read on and check the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your printer driver
@@ -199,19 +199,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-image-transformation-with-polarr-editors-power/"><u>[Updated] Ultimate Image Transformation with Polarr Editor's Power</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-unveiling-your-images-true-self-a-canva-step-by-step/"><u>[Updated] Unveiling Your Image’s True Self A Canva Step-by-Step</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-14-plus-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 14 Plus Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/windows-10-11-cmd-usbhdd/"><u>如何使用 Windows 10 或 11 的 CMD 功能重建失效的外部 USB/HDD - 資料救援手冊</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/crafting-and-gauging-the-success-of-fb-instream-ads/"><u>Crafting and Gauging the Success of FB Instream Ads</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-for-post-update-printer-failure/"><u>Fix for Post-Update Printer Failure</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-s23-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-inclusive-dynamic-movement-examination/"><u>In 2024, Inclusive Dynamic Movement Examination</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/open-iphone-sim-card-with-everyday-objects-a-step-by-step-tutorial/"><u>Open iPhone SIM Card with Everyday Objects: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/service-not-active-local-printer-spooler/"><u>Service Not Active: Local Printer Spooler</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/silencing-the-silent-printouts-in-your-device/"><u>Silencing the Silent Printouts in Your Device</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/step-by-step-guide-to-installing-hp-envy-504-printers/"><u>Step-by-Step Guide to Installing HP Envy 504 Printers</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-11-restored-scan-operation/"><u>Windows 11: Restored Scan Operation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-avoiding-aerial-blur-essential-tips-for-choosing-a-drone-gimbal/"><u>[New] Avoiding Aerial Blur Essential Tips for Choosing a Drone Gimbal</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-discovering-snapchats-video-capabilities-with-ease/"><u>[New] Discovering Snapchat's Video Capabilities with Ease</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-trendy-ways-to-save-your-gaming-moments/"><u>[New] In 2024, Trendy Ways to Save Your Gaming Moments</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-elevate-your-account-25-top-instagram-tags-for-maximum-engagement/"><u>[Updated] Elevate Your Account 25 Top Instagram Tags for Maximum Engagement</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canon-correction-b200/"><u>Canon Correction: B200</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canons-code-b200-fixed-now/"><u>Canon's Code B200 Fixed Now</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/firmware-adjustment-mf4770n-windows-compatibility/"><u>Firmware Adjustment: MF4770n Windows Compatibility</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-y36i-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Vivo Y36i</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-reddit-post-playbook-a-methodical-approach-to-engagement/"><u>In 2024, The Reddit Post Playbook A Methodical Approach to Engagement</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-visionary-screens-leading-4k-monitors-for-media-professionals/"><u>In 2024, Visionary Screens Leading 4K Monitors for Media Professionals</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/lg-k92-smartphone-evaluation-is-the-5g-upgrade-enough/"><u>LG K92 Smartphone Evaluation: Is the 5G Upgrade Enough?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-hardware-hunt-cards-for-4k-editors-for-2024/"><u>Premium Hardware Hunt Cards for 4K Editors for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-restoration-of-active-print-queue/"><u>Quick Restoration of Active Print Queue</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-resolving-non-printing-issues/"><u>Troubleshooting: Resolving Non-Printing Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unravel-the-complexities-of-setting-up-a-hp-printer-for-novices/"><u>Unravel the Complexities of Setting Up a HP Printer for Novices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-wont-detect-canon-mp620-printer-what-now/"><u>Windows 11 Won't Detect Canon MP620 Printer, What Now?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Successful Installation of Multi-Function Printer
-date: 2024-11-16T22:21:21.077Z
-updated: 2024-11-23T20:18:45.458Z
+date: 2024-11-27T17:07:04.512Z
+updated: 2024-12-01T19:12:09.596Z
 tags:
   - win11
   - win10
@@ -30,22 +30,18 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57870f53c80aa.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Double-click on**Sprint Spooler** to open the Properties dialog box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57870fec6b0f3.png)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) If the “Service status” is Stopped, click the **Start** button. And make sure the “Startup type” has been set as**Automatic** . After that, click the **OK** button to save the change.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5797242d45d94.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Reboot your PC for the change to take effect.
 
@@ -70,7 +66,7 @@ This should fix the problem. If not, proceed to solution 2.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6276881dc81.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the printer driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
@@ -100,13 +96,13 @@ To delete the printer keys, here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5797354018fd8.png)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **C:\\Windows\\System32\\Spool\\Drivers\\w32x86**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57973526811ea.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Press **Win+R** (Windows logo key and R key) at the same time to invoke the Run box.
 
@@ -122,7 +118,15 @@ To delete the printer keys, here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57972e8c6def5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57972ed64a5f9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 For   **64-bit** operating system:
 
@@ -131,7 +135,7 @@ For   **64-bit** operating system:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57972e8c6def5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57972f5298c63.png)
@@ -139,10 +143,6 @@ For   **64-bit** operating system:
  5) Select this folder and you will see all printer registry entries in right pane. Right-click on the entry and select**Delete** from the context menu. Delete all registry entries here.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57981fd9161d2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Start the “Print Spooler” service.
 
@@ -167,20 +167,24 @@ For   **64-bit** operating system:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-effortless-screen-recording-on-modern-pcs-for-2024/"><u>[New] Effortless Screen Recording on Modern PCs for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-elevate-your-snaps-the-soundtrack-edition/"><u>[Updated] In 2024, Elevate Your Snaps The Soundtrack Edition</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-enhancing-mobile-instagram-videos-velocity-tips/"><u>[Updated] In 2024, Enhancing Mobile Instagram Videos' Velocity (Tips)</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-minimizing-moments-edit-longer-videos-for-youtube/"><u>2024 Approved Minimizing Moments Edit Longer Videos for YouTube</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-react-printer-disconnects-during-print-job/"><u>How To React: Printer Disconnects During Print Job</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-set-up-a-wireless-printer-with-hp-color-life-series/"><u>How To: Set Up a Wireless Printer with HP Color Life Series</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-quick-easy-fun-4-steps-to-showcasing-your-favorite-gifs-on-instagram/"><u>In 2024, Quick, Easy, Fun 4 Steps to Showcasing Your Favorite GIFs on Instagram</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-account-setup-on-the-renamed-twitter-platform-now-x/"><u>Mastering Account Setup on the Renamed Twitter Platform, Now 'X'</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/precision-in-pages-a-success-story-for-printers/"><u>Precision in Pages: A Success Story for Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574178084-printer-woes-in-windows-11-help-needed/"><u>Printer Woes in Windows 11 - Help Needed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/recommendations-for-reactivating-hp-print-headless-systems/"><u>Recommendations for Reactivating HP Print Headless Systems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reignite-your-brother-printers-print-function-on-windows-1011/"><u>Reignite Your Brother Printer's Print Function on Windows 10/11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tackled-ink-cartridge-error/"><u>Tackled Ink Cartridge Error</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-past-strategies-for-tracking-down-erased-contact-information-on-android-devices/"><u>Unveiling the Past: Strategies for Tracking Down Erased Contact Information on Android Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-filmora-fusion-a-comprehensible-comparative-guide/"><u>[New] Filmora Fusion A Comprehensible Comparative Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rom-isolated-viewers-to-shared-experiences-online-for-2024/"><u>[New] From Isolated Viewers to Shared Experiences Online for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-navigating-the-seo-maze-5-tactics-for-top-tier-views/"><u>[Updated] Navigating the SEO Maze 5 Tactics for Top-Tier Views</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-issue-hp-not-found-for-windows-os/"><u>Driver Issue: HP Not Found for Windows OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-scanner-disconnection-issue-in-windows-10/"><u>Fixing Scanner Disconnection Issue in Windows 10</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-novice-to-money-maker-on-youtube-for-2024/"><u>From Novice to Money-Maker on YouTube for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guide-to-fixing-silent-hp-toner-units/"><u>Guide to Fixing Silent HP Toner Units</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-hook-up-a-canon-printer-step-by-step-illustration/"><u>How To Hook Up a Canon Printer: Step-by-Step Illustration</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-inkjet-4630-firmware-enhancement-guide/"><u>HP Inkjet 4630 Firmware Enhancement Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-crafting-compelling-vo-for-visual-storytelling-success/"><u>In 2024, Crafting Compelling VO for Visual Storytelling Success</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-significant-concepts-in-interactive-tale-design/"><u>In 2024, Significant Concepts in Interactive Tale Design</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/integration-manual-connecting-officejet-8720-to-personal-computers/"><u>Integration Manual: Connecting OfficeJet 8720 to Personal Computers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-10-essential-movie-trailer-apps-for-your-iphone-or-ipad/"><u>New 2024 Approved 10 Essential Movie Trailer Apps for Your iPhone or iPad</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/smooth-printing-resumes-after-upgraded-system-changes/"><u>Smooth Printing Resumes After Upgraded System Changes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/step-by-step-installing-hp-printer-in-windows/"><u>Step-by-Step: Installing HP Printer in Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/stepwise-tech-incorporating-hp-printer-into-pc-workflow/"><u>Stepwise Tech: Incorporating HP Printer Into PC Workflow</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-power-of-asus-rog-gt-ac5300-the-ultimate-choice-for-gaming-enthusiasts-and-technophiles/"><u>Unveiling the Power of Asus ROG GT-AC5300: The Ultimate Choice for Gaming Enthusiasts and Technophiles</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-infinix-smart-8-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Infinix Smart 8 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

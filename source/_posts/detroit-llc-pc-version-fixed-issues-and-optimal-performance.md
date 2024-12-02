@@ -1,7 +1,7 @@
 ---
 title: Detroit LLC PC Version - Fixed Issues & Optimal Performance
-date: 2024-11-21T21:45:11.907Z
-updated: 2024-11-23T16:03:18.235Z
+date: 2024-11-29T19:17:35.011Z
+updated: 2024-12-01T16:37:41.731Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ These days, **[Outriders](https://www.epicgames.com/store/en-US/p/outriders?epic
 6. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Install all Windows updates
 
  Outriders has just been out for days. Therefore, it’s not unusual that you’re running into any sorts of issues which can make your game unplayable. But when it comes to troubleshooting the issues, installing the latest Windows updates should be the recommended step you can take. Windows updates bring new features and fix the compatibility issues especially with new titles.
@@ -44,6 +48,10 @@ Here’s how you can download and install Windows updates:
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it.  
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve installed the latest Windows updates, launch Outriders and check if the stutters or freezes are still that noticeable during cutscenes or normal gameplay.
 
@@ -60,10 +68,6 @@ Here’s how you can download and install Windows updates:
  2) Type**devmgmt.msc** and press Enter.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/device-manager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click on the arrow next to**Display adapters** . Right-click your device and select**Properties** .  
   
@@ -91,6 +95,10 @@ Here’s how you can download and install Windows updates:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -99,6 +107,10 @@ Here’s how you can download and install Windows updates:
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Switch to DX11
 
@@ -110,25 +122,17 @@ Here’s how you can do this:
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Select the**GENERAL**  tab. Then under the**LAUNCH OPTIONS** section, type**\-force -dx11** in the text field. This command line will allow you to run your game in DX11 mode.  
   
 ![switch to DX11 mode Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/DX11.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After switching to DX11, play Outriders to check if it helps alleviate some stutters during your gameplay.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Verify integrity of game files
 
@@ -140,16 +144,12 @@ To verify the integrity of game files, take these steps:
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Select the **LOCAL FILES**  tab and then click on the **Verify integrity of game files…**  button.
 
 ![verify integrity of game files Outriders](https://images.drivereasy.com/wp-content/uploads/2021/03/outriders-verify-integrity-of-game-files.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Steam will start verifying your game’s files and this may take several minutes. Simply wait for the process to complete.
@@ -166,6 +166,10 @@ To verify the integrity of game files, take these steps:
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the**GENERAL** tab, uncheck the box next to**Enable the Steam Overlay while in-game** .  
   
 ![disable Steam overlay Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-steam-overlay.png)
@@ -175,7 +179,7 @@ Now play Outriders to see if you can get better gaming performance.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Close unnecessary programs
@@ -191,10 +195,6 @@ Now play Outriders to see if you can get better gaming performance.
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Outriders and select **End task** .
 
 ![disable programs running in the background Call of Duty Black Ops Cold War crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you’ve done these, play Outriders to check if it should look better.
 
@@ -217,20 +217,24 @@ Now play Outriders to see if you can get better gaming performance.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-terrain-trove-top-maps-for-treasure-seeking/"><u>[Updated] 2024 Approved Terrain Trove Top Maps for Treasure Seeking</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-maximizing-efficiency-streamlined-methods-to-download-vimeo-videos-for-2024/"><u>[Updated] Maximizing Efficiency Streamlined Methods to Download Vimeo Videos for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-dial-up-your-visual-storytelling-with-animated-texts-no-cost/"><u>2024 Approved Dial up Your Visual Storytelling with Animated Texts, No Cost</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/accelerate-queued-print-processes/"><u>Accelerate Queued Print Processes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/durable-panasonic-toughbook-g2-evaluation-portable-and-versatile-design-features-insights-from-zdnet/"><u>Durable Panasonic Toughbook G2 Evaluation: Portable & Versatile Design Features - Insights From ZDNet</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enabling-wi-fi-directly-for-canon-printers/"><u>Enabling Wi-Fi Directly for Canon Printers</u></a></li>
-<li><a href="https://media-tips.techidaily.com/get-more-bang-for-your-buck-with-these-5-tips-for-effective-peacock-care/"><u>Get More Bang for Your Buck with These 5 Tips for Effective Peacock Care</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-disguise-your-phones-real-world-geolocation-with-ease/"><u>How To Disguise Your Phone's Real World Geolocation with Ease</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-laserjet-stopped-printing-fixed-now/"><u>HP LaserJet Stopped Printing - Fixed Now</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/kickstarting-your-career-as-a-content-strategist/"><u>Kickstarting Your Career as a Content Strategist</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-inkjet-breakdowns-quickly/"><u>Overcoming Inkjet Breakdowns Quickly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-pc-scanning-disabled-in-windows-11/"><u>Resolved: PC Scanning Disabled in Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resume-printing-with-online-canon-printer-tips/"><u>Resume Printing with Online Canon Printer Tips</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reviving-offline-hp-multi-function-device/"><u>Reviving Offline HP Multi-Function Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-csr8510-a10-graphics-card-problems-on-windows-expert-solutions/"><u>Troubleshooting CSR8510 A10 Graphics Card Problems on Windows: Expert Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-transcoding-approaches-to-boost-zoom-videos/"><u>[Updated] 2024 Approved Top Transcoding Approaches to Boost Zoom Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-make-a-video-meme-for-facebook-and-instagram/"><u>[Updated] How to Make a Video Meme for Facebook and Instagram</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-achieving-video-clarity-with-obs-in-zoom-environments/"><u>[Updated] In 2024, Achieving Video Clarity with OBS in Zoom Environments</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-revolutionize-your-mind-best-15-tech-and-science-channels-for-2024/"><u>[Updated] Revolutionize Your Mind Best 15 Tech & Science Channels for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-pros-technique-for-consolidated-photo-and-video-upload-to-ig/"><u>[Updated] The Pro's Technique for Consolidated Photo and Video Upload to IG</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-tune-into-trends-how-to-mix-music-in-storytelling-for-2024/"><u>[Updated] Tune Into Trends How to Mix Music in Storytelling for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-motorola-edge-2023-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/avoiding-epson-error-codes-halt/"><u>Avoiding Epson Error Codes Halt</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/drive-performance-upgrade-dell-inkjet-aio-on-windows-7/"><u>Drive Performance: Upgrade Dell Inkjet AIO on WIndows 7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fast-forward-stalled-printer-jobs/"><u>Fast-Forward Stalled Printer Jobs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-offline-printer-alert/"><u>Fixing: Offline PRINTER Alert</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-fix-printer-in-error-state/"><u>How to Fix Printer in Error State</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-more-ghost-printouts-hp-printer-armored-against-errors/"><u>No More Ghost Printouts: HP Printer Armored Against Errors</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-internet-connectivity-to-printers/"><u>Restoring Internet Connectivity to Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/seamless-installation-wizard-officejet-pro-8600-windows-printer-suite/"><u>Seamless Installation Wizard: Officejet Pro 8600 Windows Printer Suite</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/streamlined-device-management-officejet-pro-8600-drivers-pc-friendly/"><u>Streamlined Device Management: Officejet Pro 8600 Drivers, PC-Friendly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-verdict-on-android-photo-editing-does-picku-excel/"><u>The Verdict on Android Photo Editing – Does PickU Excel?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-windows-computer-with-new-arduino-usb-software/"><u>Update Your Windows Computer with New Arduino USB Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Identified Interloper on Network Printer
-date: 2024-11-19T08:26:55.115Z
-updated: 2024-11-23T20:01:11.696Z
+date: 2024-11-27T23:33:38.586Z
+updated: 2024-12-02T07:01:08.393Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8904a537ae3.png)
 
 If you get an error message **Another computer is using the printer** when you try to print something, you’re not alone. Many people are reporting it. But the good news is you can fix it. The first step would be —**to try restarting your printer and reconnecting it to your PC.**If it produces no results, don’t worry, this article gives you 6 solutions to try. You may not have to try them all. Just work your way down the list until you find the one that works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -38,12 +42,12 @@ Restarting the Printer Spooler in Services solves most printer issues. To do so,
 1. On your keyboard, press the**Windows** ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ecde832800.png) **key** and**R** at the same time to open the Run box.
 2. Type**services.msc** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8dfc0e6f9a0.png)
 3. Navigate to and select**Print Spooler** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Click**Restart** on the upper left to restart the Printer Spooler service.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8dfd51db2d7.jpg)
@@ -81,17 +85,9 @@ Another solution that works for many users is **turning the computer, printer, a
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e26a4557b9.jpg)
 3. Click the **Update** button next to your printer driver to automatically download the correct version of it, then you can manually install it (you can do this with the FREE version).Or click **Update All** to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e2637d6d6c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your PC to check if the problem is resolved.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 4 – Set your printer as the default printer
 
@@ -110,17 +106,21 @@ Follow me:
 1. Type**printers** in the Windows search box and select**Printers & scanners** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e4898127a3.jpg)
 2. In the right pane, uncheck**Let Windows manage my default printer** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e4b1db6c87.jpg)
 3. Under**Printers & scanners** , select the printer you want to use and click the**Manage** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e4b908f54e.png)
 4. Click**Set as default** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e4bc46d2c4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### **If you’re using Windows 8**
 
@@ -130,7 +130,11 @@ Follow me:
 3. In the**Printers** section,**right-click** on the printer you want to use and select**Set as default printer** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e4e5b47d6c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### **If you’re using Windows 7**
@@ -139,17 +143,17 @@ Follow me:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e4396a8353.jpg)
 2. **Right-click** on the printer you want to use and select**Set as default printer** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e5138866c6.jpg)
 Then, close the window and test if your printer is working now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 5 – Check for Windows updates
@@ -157,10 +161,6 @@ Then, close the window and test if your printer is working now.
 Some users solve their printer issues by updating their system. To do so: type**update**in the Windows search box, and select**Check for updates**or**Windows update**.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 6 – Scan your system
 
@@ -187,16 +187,22 @@ The above are our recommended solutions to the **Another computer is using the p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-decoding-upgrades-to-macos-11-big-surs-core-features/"><u>[New] 2024 Approved Decoding Upgrades to macOS 11 Big Sur's Core Features</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-from-conceptualization-to-connection-stream-your-video-now/"><u>[New] From Conceptualization to Connection Stream Your Video Now</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-glitch-resolution-0x97/"><u>Epson Glitch Resolution: 0X97</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-offline-windows-hp-print-link/"><u>Fixing Offline Windows-HP Print Link</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Realme C51? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-officejet-pro-8600-printer-software-for-windows/"><u>HP OfficeJet Pro 8600 Printer Software for Windows</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-lightrooms-favorite-color-grads-and-luts-compilation/"><u>In 2024, LightRoom's Favorite Color Grads and LUTs Compilation</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-11-pro-5-ways-to-get-into-a-locked-iphone-11-pro-drfone-by-drfone-ios/"><u>Locked Out of iPhone 11 Pro? 5 Ways to get into a Locked iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reigniting-your-silent-printer/"><u>Reigniting Your Silent Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/technical-mishap-printer-setup-misstep/"><u>Technical Mishap: Printer Setup Misstep!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/trim-vlc-videos-on-mac-with-ease-no-quality-loss-guaranteed/"><u>Trim VLC Videos on Mac with Ease No Quality Loss Guaranteed</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-uniting-social-media-and-television-with-fb-live/"><u>[New] 2024 Approved Uniting Social Media & Television with FB Live</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-entry-into-the-world-of-google-meet-webinars/"><u>[New] Entry Into the World of Google Meet Webinars</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-selecting-excellent-steadicams-for-dslr-cinematography/"><u>[New] Selecting Excellent Steadicams for DSLR Cinematography</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-syncing-words-and-images-lyric-video-magic-with-lyric-video-maker/"><u>[Updated] Syncing Words and Images Lyric Video Magic with Lyric Video Maker</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1-ultimate-guide-top-free-movie-player-apps-for-watching-mov-videos-on-pc-and-mac/"><u>1. Ultimate Guide: Top FREE Movie Player Apps for Watching .MOV Videos on PC & Mac</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-10-best-free-luts-roundup-download-links-galore/"><u>2024 Approved 10 Best Free LUTs Roundup - Download Links Galore</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-quick-fixes-top-5-no-download-online-gif-to-video-convertors/"><u>Best Quick Fixes Top 5 No-Download, Online GIF to Video Convertors</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epsons-confounding-error-0x97-explained/"><u>Epson's Confounding Error 0X97 Explained</u></a></li>
+<li><a href="https://media-tips.techidaily.com/exclusive-look-espn-unveils-innovative-sports-live-streaming-platform-at-just-4299month/"><u>Exclusive Look: ESPN Unveils Innovative Sports Live Streaming Platform at Just $42.99/Month</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-wireless-printer-setup-tutorial/"><u>HP Wireless Printer Setup Tutorial</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/rapid-removal-from-printer-job-backlog/"><u>Rapid Removal From Printer Job Backlog</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolve-duplicate-documents-in-w11-printer-spool/"><u>Resolve Duplicate Documents in W11 Printer Spool</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revive-print-functionality-top-5-tips-and-tricks-for-a-working-canon-printer-in-windows-11/"><u>Revive Print Functionality: Top 5 Tips & Tricks for a Working Canon Printer in Windows 11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-complete-guide-to-video-content-creation-for-modern-marketers/"><u>The Complete Guide to Video Content Creation for Modern Marketers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tips-for-restoring-hp-print-functionality/"><u>Tips for Restoring HP Print Functionality</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/top-five-solutions-to-resolve-your-canon-printer-not-printing-issue-in-windows-11/"><u>Top Five Solutions to Resolve Your Canon Printer Not Printing Issue in Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/winning-strategies-for-installing-hp-printer-software/"><u>Winning Strategies for Installing HP Printer Software</u></a></li>
 </ul></div>
 

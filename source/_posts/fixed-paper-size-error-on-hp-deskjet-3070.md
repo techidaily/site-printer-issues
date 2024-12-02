@@ -1,7 +1,7 @@
 ---
 title: Fixed Paper Size Error on HP DeskJet 3070
-date: 2024-11-16T17:31:36.706Z
-updated: 2024-11-24T07:35:52.439Z
+date: 2024-11-30T01:34:23.778Z
+updated: 2024-12-02T08:31:31.594Z
 tags:
   - win11
   - win10
@@ -52,7 +52,15 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 ![](https://www.drivereasy.com/wp-content/uploads/2021/10/de-update-all-hp-printer.jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Set your printer as default
 
@@ -67,17 +75,17 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 3. In the**Printers** section, right-click on your HP printer and then select**Set as default printer** . Click on**Yes** if prompted.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5476a01d.png)
 4. There is now a tick below the icon of your HP printer. That means it is now set as the default printer.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5fe2a9b6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Cancel all print jobs
@@ -89,7 +97,7 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 2. Right-click on your HP printer in the**Printers** section and select**See what’s printing** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e955d3a5d.png)
@@ -98,19 +106,15 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea27610b0.png)
 4. Open**Printer** menu again. This time select**Cancel All Documents** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea70940b1.png)
 5. **Confirm** your action.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987eaa0030f9.png)
 6. You have canceled all print jobs of your printer. Now check and see if it can run normally.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Check printer status
 
@@ -139,6 +143,10 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 4. If you need to proceed with the repair function, you’ll be required to purchase the full version.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Restart your computer for the changes to take effect.
 
  The full version of Fortect comes with a 60-day money-back guarantee and full customer support. If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact their support team.
@@ -153,17 +161,9 @@ Check your computer to see if your printer works properly.
 ![how to open Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 2. Click**Yes** when prompted to confirm.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/sfc-scannow.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the printer works properly.
@@ -185,18 +185,17 @@ Check your computer to see if your printer works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-art-of-transformation-in-tiktok-videos-via-background-shifts/"><u>[New] In 2024, The Art of Transformation in TikTok Videos via Background Shifts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-proven-tactics-for-adjusting-track-pace-on-spotify-app/"><u>[Updated] Proven Tactics for Adjusting Track Pace on Spotify App</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/blank-page-dilemma-hp-printer-now-printing-correctly/"><u>Blank Page Dilemma: HP Printer Now Printing Correctly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719573877149-effortlessly-rectify-canons-no-print-issue-with-these-5-window-11-tips/"><u>Effortlessly Rectify Canon's No-Print Issue with These 5 Window 11 Tips!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-windows-display-upgrade-hp-graphics-drivers/"><u>Enhance Windows Display: Upgrade HP Graphics Drivers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-fix-disappearing-printers-in-windows-810/"><u>How to Fix Disappearing Printers in WIndows 8/10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/network-fix-printer-online-now/"><u>Network Fix: PRINTER Online Now</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/playful-prodigies-the-ultimate-kids-game-compilation-for-2024/"><u>Playful Prodigies The Ultimate Kids' Game Compilation for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-not-shown-solutions-for-network-print-issues/"><u>Printer Not Shown: Solutions for Network Print Issues</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-tutorial-transforming-your-avchd-videos-into-avi-on-a-windows-pc/"><u>Step-by-Step Tutorial: Transforming Your AVCHD Videos Into AVI on a Windows PC</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/techniques-for-eliminating-drivers-without-error/"><u>Techniques for Eliminating Drivers Without Error</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformez-vos-images-webp-en-mode-ligne-sans-frais-avec-movavi/"><u>Transformez Vos Images WEBP en Mode Ligne Sans Frais Avec Movavi</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-the-mystery-of-your-disabled-smartphone-or-tablet-with-these-simple-fixes/"><u>Unlock the Mystery of Your Disabled Smartphone or Tablet with These Simple Fixes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-turtle-beach-recon-70-mic-not-working/"><u>[FIXED] Turtle Beach Recon 70 Mic Not Working</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ractical-steps-for-immediate-deletion-on-youtube-platform-for-2024/"><u>[New] Practical Steps for Immediate Deletion on Youtube Platform for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-dominate-facebook-traffic-with-innovative-video-strategies-for-2024/"><u>[Updated] Dominate Facebook Traffic with Innovative Video Strategies for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-becoming-a-zoom-pro-the-comprehensive-tutorial-for-professional-audio-recordings/"><u>[Updated] In 2024, Becoming a Zoom Pro The Comprehensive Tutorial for Professional Audio Recordings</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/boost-your-watch-dogs-legion-experience-solutions-for-higher-fps-and-less-latency/"><u>Boost Your Watch Dogs: Legion Experience – Solutions for Higher FPS and Less Latency</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-resolving-silent-modems-on-toshiba-laptops/"><u>Expert Advice: Resolving Silent Modems on Toshiba Laptops</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-effortless-advancement-in-pclaptop-edits-using-inshot/"><u>In 2024, Effortless Advancement in PC/Laptop Edits Using Inshot</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-siri-voice-changer-how-to-change-siri-voice/"><u>In 2024, Siri Voice Changer How to Change Siri Voice?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-fallout-76s-optimization-end-the-annoying-freeze-ups/"><u>Mastering Fallout 76'S Optimization - End the Annoying Freeze-Ups!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-sound-from-laptop-audio-internal-speakers-step-by-step-tips/"><u>Reviving Sound From Laptop Audio Internal Speakers – Step-by-Step Tips</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-guide-resolving-discord-streaming-disruptions/"><u>Troubleshooting Guide: Resolving Discord Streaming Disruptions</u></a></li>
 </ul></div>
 

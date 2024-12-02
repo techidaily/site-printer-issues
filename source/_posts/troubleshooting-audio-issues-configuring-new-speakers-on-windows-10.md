@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Audio Issues: Configuring New Speakers on Windows 10"
-date: 2024-11-21T17:20:35.555Z
-updated: 2024-11-24T06:01:54.864Z
+date: 2024-11-28T01:45:34.198Z
+updated: 2024-12-02T04:43:27.230Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
  Try to test your speakers on another device (a computer or a mobile phone would both do) to see if they are working properly. This will help determine if the issue is with the speakers themselves or with your computer.
 
  When the above check is done, and you find the problem on your computer, please move on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 2, make sure the connection between your speakers and computer is good
 
@@ -45,15 +49,11 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 3. In Control Panel, view by Category, click **Hardware and Sound** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a37a0193f08b.jpg)
 4. Under **Sound** , click **Adjust system volume** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-24.png)
 5. If the sound is unmuted, move to the next step.
@@ -62,13 +62,13 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/volume-mixer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the problem still cannot be resolved, try solutions below. Sound setting issues or driver issues may also cause this problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Set Speakers as Default
@@ -79,15 +79,15 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b11f3def8f1.png)
 2. Highlight**Speakers** or**Speakers /Headphones** and click**Set Default** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/set-as-default.jpg)
 
  If you don’t see the speakers in the device list, it may be disabled. In this case, right-click on the blank area and select**Show disabled devices** on the context menu.
 
 ![show disabled device](https://images.drivereasy.com/wp-content/uploads/2016/08/show-disabled-device.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After it is listed, right-click on the speakers and click**Enable** .
 
@@ -96,7 +96,7 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
  The problem also can be caused by outdated or missing audio drivers. So try to fix audio drivers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Uninstall the Audio Driver
@@ -114,10 +114,6 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Reboot your PC and check to see if the problem is resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Update the Audio Driver
 
  The steps above may resolve it, but if they don’t, try to update the audio driver. If you’re not confident playing around with drivers manually,  you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -133,6 +129,10 @@ Follow these steps:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hope the above helps to solve your speakers’ no sound issue in Windows 10\. If you have any other suggestions, please leave a comment below.
 
@@ -151,24 +151,21 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-reimagining-team-call-backdrops-beforeafter-chats/"><u>[New] 2024 Approved Reimagining Team Call Backdrops Before/After Chats</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-effortlessly-blur-your-conference-backgrounds-on-teams/"><u>[New] Effortlessly Blur Your Conference Backgrounds on Teams</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-master-iphones-multi-tasked-capture-feature/"><u>[New] In 2024, Master iPhone's Multi-Tasked Capture Feature</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/update-required-pixma-mp620-drivers-missing-windows-10/"><u>[Update Required] Pixma MP620 Drivers Missing Windows 10</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-essential-guide-to-enhancing-video-content-on-instagram/"><u>2024 Approved Essential Guide to Enhancing Video Content on Instagram</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/accelerate-printer-output-immediately/"><u>Accelerate Printer Output Immediately</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-printer-offline-no-more-windows-7/"><u>Epson Printer Offline No More, Windows 7</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-realme-11-proplus-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Realme 11 Pro+</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-10c-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 10C Phone without Any Data Loss</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/key-considerations-for-selecting-the-ideal-printer-for-your-needs/"><u>Key Considerations for Selecting the Ideal Printer for Your Needs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mastering-fixes-for-epson-error-0x97/"><u>Mastering Fixes for Epson Error 0X97</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/navigating-pcl-xl-complications-swiftly/"><u>Navigating PCL XL Complications Swiftly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-like-a-pro-3-upgrades-to-link-your-printer-and-laptop-seamlessly/"><u>Print Like a Pro: 3 Upgrades to Link Your Printer & Laptop Seamlessly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-guide-hook-up-your-hp-officejet-pro-duo/"><u>Quick Guide: Hook Up Your HP Officejet Pro Duo</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restoring-efficient-data-flow-for-printers/"><u>Restoring Efficient Data Flow for Printers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-selection-top-10-zero-dollar-video-calls/"><u>The Ultimate Selection Top 10 Zero-Dollar Video Calls</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-productive-ipad-applications-streamline-your-task-management-insights/"><u>Top Productive iPad Applications: Streamline Your Task Management - Insights</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/turbocharge-printer-operations/"><u>Turbocharge Printer Operations</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/os-troubleshoot-unseen-network-printer-on-windows-pcs/"><u>[OS Troubleshoot] Unseen Network Printer on Windows PCs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-future-of-music-freedom-an-insightful-review-of-pazera-tools/"><u>[Updated] The Future of Music Freedom An Insightful Review of Pazera Tools</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/addressing-error-xf09-on-epson-devices/"><u>Addressing Error #XF09 on Epson Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/b200-issue-eliminated/"><u>B200 Issue Eliminated</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-9-steps-to-combat-chromes-video-blackout/"><u>In 2024, 9 Steps to Combat Chrome's Video Blackout</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-cinematographer-secrets-for-exceptional-visuals/"><u>In 2024, Top Cinematographer Secrets for Exceptional Visuals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-superior-viewing-with-a-closer-examination-of-p2715q/"><u>In 2024, Unveiling Superior Viewing with a Closer Examination of P2715Q</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-itel-s23plus-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Itel S23+? Fixed | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware-guides/"><u>Navigating the World of Electronics with Tom's Hardware Guides</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimal-handheld-camera-gear-with-smooth-motion-for-2024/"><u>Optimal Handheld Camera Gear with Smooth Motion for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printers-unforeseen-setup-snag-found/"><u>Printer's Unforeseen Setup Snag Found</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printers-wont-print-all-pages-2024-fix/"><u>Printers Won't Print All Pages [2024 Fix]</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-unresponsive-hp-devices/"><u>Troubleshooting Unresponsive HP Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unraveling-printer-malfunction-mystery/"><u>Unraveling Printer Malfunction Mystery</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-5-key-reasons-for-the-corporate-ban-on-chatgpt-services/"><u>Unveiling 5 Key Reasons for the Corporate Ban on ChatGPT Services</u></a></li>
+<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo Y27s | Dr.fone</u></a></li>
 </ul></div>
 

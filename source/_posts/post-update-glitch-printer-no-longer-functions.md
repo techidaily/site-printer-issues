@@ -1,7 +1,7 @@
 ---
 title: "Post-Update Glitch: Printer No Longer Functions"
-date: 2024-11-20T19:58:19.579Z
-updated: 2024-11-23T21:55:14.994Z
+date: 2024-11-27T08:33:13.657Z
+updated: 2024-12-02T05:56:37.339Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/00e6694a6e8523368549c14f60a0299171aaa2659
 
 **Your printer stopped working after Windows 10 Update** ? You’re certainly not alone – hundreds of users are reporting it. The good news is, it’s not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix**printer stopped working after Windows 10 Update**
 
  Here are 5 fixes that have helped other users resolve the**printer stopped working after Windows 10 Update** problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -29,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/00e6694a6e8523368549c14f60a0299171aaa2659
 5. **[Run Windows Troubleshooter](#F5)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Power cycle your printer
@@ -74,10 +78,6 @@ Here is how to power cycle your printer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-188.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -85,10 +85,6 @@ Here is how to power cycle your printer:
 5) Check to see if the printer stopped working issue has been resolved. If yes, then congrats! If the problem still persists, please move on to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reset the print spooler
 
@@ -100,6 +96,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-193.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the**Services** window, scroll down until you find**Print Spooler** , then right-click on it and click**Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-194.png)
@@ -109,7 +109,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-195.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Select**all the files** within the folder and_delete_ them. This is to clear the print queues.
@@ -118,13 +118,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-197.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Click**Start** , then in**Startup** **Type** , select**Automatic** and click**OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-198.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Check to see if your printer works properly. If it still doesn’t work, please move on to**Fix 5** , below.
 
@@ -165,20 +165,15 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/solved-no-print-after-win7-device-suspend/"><u>[Solved] No Print After Win7 Device Suspend</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-eye-popping-360-cameras-deciding-the-best/"><u>[Updated] Eye-Popping 360 Cameras Deciding the Best</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-printer-installation-made-simple-image-driven/"><u>Canon Printer Installation Made Simple (Image-Driven)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-printer-unresponsive-seek-help-fast/"><u>Canon Printer: Unresponsive, Seek Help Fast</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-all-pages-print-glitch/"><u>Fix All-Pages Print Glitch</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-se-2022-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone SE (2022)? Heres the Best Fixes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/high-visibility-features-mastering-snapchats-star-for-2024/"><u>High-Visibility Features Mastering Snapchat's Star for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-discovering-the-best-soil-sprouts-of-valheim/"><u>In 2024, Discovering the Best Soil Sprouts of Valheim</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/new-tool-from-openai-spots-fakes-in-chatgpt-outputs/"><u>New Tool From OpenAI Spots Fakes in ChatGPT Outputs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/quick-fixes-boosting-performance-on-aged-windows-11-and-mac-systems-zdnet/"><u>Quick Fixes: Boosting Performance on Aged Windows 11 and Mac Systems | ZDNet</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolve-print-hang-up-swiftly/"><u>Resolve Print Hang-Up Swiftly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolve-print-spooler-problems-in-win10/"><u>Resolve Print Spooler Problems in WIN10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-screen-hiccups-on-windows-11/"><u>Resolving Screen Hiccups on Windows 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/steam-error-code-130-solved-learn-how-to-correctly-troubleshoot-this-problem/"><u>Steam Error Code 130 Solved! Learn How to Correctly Troubleshoot This Problem</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-dark-side-5-ways-in-which-ai-benefits-cybercriminals/"><u>Unveiling the Dark Side: 5 Ways in Which AI Benefits Cybercriminals</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-epic-battles-and-dynamic-choreography-for-tiktoks/"><u>[New] In 2024, Epic Battles & Dynamic Choreography for TikToks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-guide-to-screenshot-and-record-mastery-on-mi-11-for-2024/"><u>[New] The Ultimate Guide to Screenshot & Record Mastery on Mi 11 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-understanding-luts-to-amplify-your-photo-quality/"><u>[New] Understanding LUTs to Amplify Your Photo Quality</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-starting-simple-how-to-create-your-own-twitter/"><u>[Updated] Starting Simple How to Create Your Own Twitter</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-non-operational-printer-service-spooler-issues/"><u>Fixing Non-Operational Printer Service (Spooler) Issues</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/maximizing-engagement-by-integrating-youtube-videos-into-your-instagram-saga-a-step-by-step-tutorial/"><u>Maximizing Engagement by Integrating YouTube Videos Into Your Instagram Saga - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mended-paper-jamming-concern/"><u>Mended Paper Jamming Concern</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-issue-not-showing-up-in-win-810/"><u>Printer Issue: Not Showing Up in Win 8/10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-link-functional-print-device/"><u>Quick Link: Functional Print Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/revolutionize-gaming-install-funimate-via-apk-method-for-2024/"><u>Revolutionize Gaming - Install Funimate via APK Method for 2024</u></a></li>
 </ul></div>
 

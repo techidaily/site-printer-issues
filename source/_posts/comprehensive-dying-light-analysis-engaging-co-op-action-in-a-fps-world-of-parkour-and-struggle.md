@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Dying Light Analysis: Engaging Co-Op Action in a FPS World of Parkour and Struggle"
-date: 2024-11-17T01:32:37.067Z
-updated: 2024-11-23T19:42:56.292Z
+date: 2024-11-25T09:17:48.436Z
+updated: 2024-12-02T06:42:57.603Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Dying Light Analysis: Engaging Co-Op Action in a FPS World of Parkour and Struggle"
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 4.2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Amazon Luna
@@ -44,13 +44,13 @@ Lifewire / Jeremy Laukkonen
 
 4.2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Amazon Luna
 
 ![Amazon Luna](https://www.lifewire.com/thmb/NT3lnZ3hOwaGUbS2tHARE7zRT1Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_Hero_Square-cced3e5a3d3e4d24af1b85a59c76932d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -77,15 +77,15 @@ Lifewire / Jeremy Laukkonen
 
  Luna is an impressive service with what seems like solid underlying tech right out of the gate. The biggest questions seem to be how and when Amazon will go about filling holes in the library, how well the service will work when they eventually roll out 4K streaming, and whether we’ll see better Android support in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Design and Controls: Decent enough app and a nearly flawless controller
 
  Luna isn’t a traditional game console, so there isn’t much design to speak of in terms of hardware. The two important elements here are the Luna app, which operates as an Android app on Fire TV and a web app in[Chrome](https://www.lifewire.com/what-is-google-chrome-4687647) and[Safari](https://www.lifewire.com/what-is-safari-4173608) , and the controller that’s technically optional.
 
 ![Amazon Luna](https://www.lifewire.com/thmb/c10USyUEVgaFrdeWRUBgX6MNpOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_05-7314cf2ae25a4f428d93f40cc56fb5d1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -109,10 +109,6 @@ Lifewire / Jeremy Laukkonen
 
  Overall, the Luna controller has quickly become one of my favorite alternatives to the Xbox One or Xbox Series X/S controller; the only real issues being the mushy d-pad and the texture of the analog sticks. I ended up snapping on some performance thumb grips, which worked great.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Setup Process: Quick and easy
 
  Luna is just about as easy to use as a gaming service can be. To use Luna, there’s zero setup involved. If you’re playing on Windows, macOS, iOS, or Android, you can just connect a compatible controller, navigate to the Luna website, and start playing. The Fire TV app is similarly easy to get up and running.
@@ -120,6 +116,10 @@ Lifewire / Jeremy Laukkonen
  If you’re using the optional Luna controller, there is a bit of additional setup to work through. You can choose to have your controller automatically linked to your Amazon account when you buy it, which simplifies setup a bit, but it’s a fairly straightforward process either way.
 
 ![Amazon Luna](https://www.lifewire.com/thmb/6427gP-MSnqe4st8hfuI-7yxlos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_03-f12a92bc606e43caa77b445a2fdcf1c1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -147,10 +147,6 @@ Lifewire / Jeremy Laukkonen
 
  If you have a slow internet connection or suffer from poor connectivity, then it’s likely that the brief issues I experienced could be amplified to an unacceptable point. If you have a decent connection, live closer to a major metropolitan area than I do, and have more than 10Mbps of downstream bandwidth available, the service should work just fine.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Software: Dozens of games, but the library is a bit thin with a lot of holes
 
  Luna’s biggest issue, and its biggest question mark going forward, is its streaming library. Amazon is taking a page from Microsoft’s book in that they’re trying to function as a Netflix of game streaming, but Amazon just doesn’t have the same deep library as Microsoft.
@@ -170,7 +166,7 @@ Lifewire / Jeremy Laukkonen
  It’s clear that Amazon is working to bring a nice mix of games to the service, but the depth and breadth of the titles you can access with a basic subscription remain the biggest question as Luna moves through beta and toward general launch.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Price: Affordable fee reflects the thin library
@@ -203,6 +199,10 @@ Lifewire / Jeremy Laukkonen
 * [Sony DualSense Wireless Controller](https://www.lifewire.com/sony-dualsense-wireless-controller-review-feel-the-quality-5101639)
 * [Xbox One Elite Controller](https://www.lifewire.com/xbox-one-elite-controller-review-4770957)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Luna
@@ -233,18 +233,24 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-skyline-spectacular-the-gopro-karma-edition/"><u>[New] Skyline Spectacular The GoPro Karma Edition</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-streamline-your-twitch-live-recordings-today/"><u>[New] Streamline Your Twitch Live Recordings Today</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-guide-to-audiovisual-transmitters/"><u>[Updated] Comprehensive Guide to Audiovisual Transmitters</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-detecting-silent-communication-on-snapstreak/"><u>[Updated] Detecting Silent Communication on Snapstreak</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/curb-intermittent-printer-halt-a-win-guide/"><u>Curb Intermittent Printer Halt: A Win Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unleash-your-youtube-earnings-achieving-prosperity-at-the-50-written-excerpt/"><u>In 2024, Unleash Your YouTube Earnings Achieving Prosperity at the 50 Written Excerpt</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instant-realignment-for-trapped-print-jobs/"><u>Instant Realignment for Trapped Print Jobs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/rectifying-hp-printer-issue-code-oxc4eb827f/"><u>Rectifying HP Printer Issue: Code OXC4EB827F</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolve-paper-jams-and-misprints-on-windows-10/"><u>Resolve Paper Jams & Misprints on Windows 10</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/strategies-for-hiring-superior-cinematographers-for-2024/"><u>Strategies for Hiring Superior Cinematographers for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamline-workflow-download-and-install-new-hp-inkjet-software/"><u>Streamline Workflow: Download & Install New HP Inkjet Software</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/technical-print-mishap-uncovered/"><u>Technical Print Mishap Uncovered</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/unveiling-methods-for-scaling-up-tiktok-video-importation/"><u>Unveiling Methods for Scaling Up TikTok Video Importation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-easy-setup-making-a-direct-path-for-youtube-subscribers/"><u>[New] In 2024, Easy Setup Making a Direct Path for YouTube Subscribers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-screen-surfing-simplified-navigate-with-netflixs-pip/"><u>[New] In 2024, Screen Surfing Simplified Navigate with Netflix's PIP</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-is-splitcam-the-premier-choice-for-video-capture/"><u>2024 Approved Is SplitCam the Premier Choice for Video Capture?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/compact-performance-unleashed-is-the-newly-updated-mac-mini-with-m4-chipset-akin-to-apple-tvs-size/"><u>Compact Performance Unleashed: Is the Newly Updated Mac Mini with M4 Chipset Akin to Apple TV's Size?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/conquer-no-print-restoring-functionality-of-brother-printer-winoses/"><u>Conquer No-Print: Restoring Functionality of Brother Printer, WinOSes</u></a></li>
+<li><a href="https://win-webster.techidaily.com/convert-swf-files-to-avi-format-for-free-online-and-pc-methods/"><u>Convert SWF Files to AVI Format for Free – Online & PC Methods</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enabling-access-to-remote-brother-print-device/"><u>Enabling Access to Remote Brother Print Device</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/enhance-your-presence-how-to-change-voice-effectively-on-ig/"><u>Enhance Your Presence How to Change Voice Effectively on IG</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/expedite-jammed-print-queue/"><u>Expedite Jammed Print Queue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-for-resolving-iphone-13s-six-key-complications/"><u>Expert Tips for Resolving iPhone 13'S Six Key Complications</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hardware-hiccup-printer-config-issue/"><u>Hardware Hiccup: Printer Config Issue</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-honor-x50-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Car Locator Apps for Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printers-colored-output-not-rendered/"><u>Printer's Colored Output Not Rendered</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resetting-scanner-activation-on-windows-10-system/"><u>Resetting Scanner Activation on Windows 10 System</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/service-not-active-local-printer-spooler/"><u>Service Not Active: Local Printer Spooler</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/step-by-step-incorporating-hp-printer-in-pc-network/"><u>Step-by-Step: Incorporating HP Printer in PC Network</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-review-of-jackerys-powerbar-battery-station-a-built-in-ac-adapter-advantage/"><u>Ultimate Review of Jackery's PowerBar Battery Station - A Built-In Ac Adapter Advantage</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unexpected-print-hiccup-discovered/"><u>Unexpected Print Hiccup Discovered</u></a></li>
 </ul></div>
 

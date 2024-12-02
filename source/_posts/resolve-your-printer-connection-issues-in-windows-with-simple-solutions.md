@@ -1,7 +1,7 @@
 ---
 title: Resolve Your Printer Connection Issues in Windows with Simple Solutions
-date: 2024-11-20T02:42:27.928Z
-updated: 2024-11-24T04:32:36.446Z
+date: 2024-11-24T19:19:38.225Z
+updated: 2024-12-02T10:14:53.952Z
 tags:
   - win11
   - win10
@@ -55,13 +55,13 @@ Follow steps below to stop Print Spooler service then start it again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59228346254fb.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4\. Click**Start** button to start the service again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5922837fce75a.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5\. Click**OK** button.
 
@@ -77,21 +77,21 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592284396a5e3.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Click**Add a printer** at the top of the window.**Note:** To continue, you need to login to the computer as an administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592284c312e63.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4\. Select**Add a network, wireless or Bluetooth printer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592285527f2ca.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5\. Select**Create a new port** , change the “Type of port” to**Local Port** then click**Next** button.
 
@@ -100,6 +100,10 @@ Follow these steps:
  6.**Enter a port name** in the box. The port name is the printer’s address. The address format is **\\\\IP address or the Computer Name\\Printer’s Name** (refer to the following screen). Then click**OK** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59228a6291554.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7\. Select the**printer model** from the directory and click**Next** button. 
 
@@ -124,7 +128,7 @@ Follow steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59229062a2cbc.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4\. In the right pane, right-click on the printer driver and click**Delete** on the pop-up menu. 
@@ -142,7 +146,7 @@ Follow steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592292ec90631.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ##  Solution 4: Copy “mscms.dll” Manually
@@ -150,10 +154,6 @@ Follow steps below:
  1\. Open**C:\\Windows\\system32** and find the file “**mscms.dll** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592294768b3e2.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2\. Copy the file to the following path:
 
@@ -201,20 +201,17 @@ Follow steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-mastering-iphones-hdr-a-photography-essential/"><u>[New] 2024 Approved Mastering iPhone's HDR A Photography Essential</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-maximize-lenovos-recording-features-now/"><u>[New] In 2024, Maximize Lenovo's Recording Features Now</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/corrected-issue-code-b200/"><u>Corrected Issue: Code B200</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-oppo-reno-10-pro-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Oppo Reno 10 Pro 5G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-f5-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Poco F5 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/installation-without-hurdles-for-printer/"><u>Installation Without Hurdles for Printer</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-leading-audio-tinkering-tools-ios-and-android-edition-revised/"><u>New In 2024, The Leading Audio Tinkering Tools IOS and Android Edition, Revised</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premium-uav-selection-in-stock-for-2024/"><u>Premium UAV Selection in Stock for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-connectivity-disconnection/"><u>Solved Connectivity Disconnection</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/successfully-overcoming-post-upgrade-prints/"><u>Successfully Overcoming Post-Upgrade Prints</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-lava-yuva-3-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Lava Yuva 3 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-epson-paperless-operation-issue/"><u>Troubleshooting Epson Paperless Operation Issue</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unresponsive-services-printer-cannot-connect/"><u>Unresponsive Services, Printer Cannot Connect</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unveiling-the-secret-behind-empty-printouts/"><u>Unveiling the Secret Behind Empty Printouts</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-streamlining-full-hd-watching-of-twit-videos/"><u>[New] 2024 Approved Streamlining Full HD Watching of Twit Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/issecting-youtubes-criteria-for-featured-community-inputs/"><u>[New] Dissecting YouTube's Criteria for Featured Community Inputs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-maximizing-engagement-with-dual-screen-broadcasting-techniques-in-facebook/"><u>2024 Approved Maximizing Engagement with Dual-Screen Broadcasting Techniques in Facebook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-unleashing-creativity-in-instagram-photography-through-border-use/"><u>2024 Approved Unleashing Creativity in Instagram Photography Through Border Use</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-xiaomi-civi-3-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Xiaomi Civi 3 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/breaking-down-nft-development-simplicity/"><u>Breaking Down NFT Development Simplicity</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/preventing-constant-spooler-crashes-a-guide-for-windows-users/"><u>Preventing Constant Spooler Crashes: A Guide for Windows Users</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ng-boundaries-of-video-production-in-youtube-studio-for-2024/"><u>Pushing Boundaries of Video Production in YouTube Studio for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reactivating-scanner-link-to-computer-post-update/"><u>Reactivating Scanner Link to Computer Post-Update</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-the-full-potential-your-guide-to-ps5s-exclusive-offerings/"><u>Unlocking the Full Potential: Your Guide to PS5's Exclusive Offerings</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unrecognized-print-activity-sheds-light/"><u>Unrecognized Print Activity Sheds Light</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-update-the-silent-printer/"><u>Windows Update: The Silent Printer</u></a></li>
 </ul></div>
 

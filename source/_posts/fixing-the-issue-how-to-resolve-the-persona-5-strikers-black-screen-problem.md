@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Resolve the Persona 5 Strikers' Black Screen Problem"
-date: 2024-11-17T06:50:54.509Z
-updated: 2024-11-24T06:42:00.878Z
+date: 2024-11-29T21:48:24.430Z
+updated: 2024-12-01T23:17:24.027Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 
  Running into an**Apex Legends Engine error** ? Don’t worry. It’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fixes for Apex Legends Engine Error
 
  Here are 4 fixes that have helped other users resolve the Apex Legends Engine error. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -33,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 4. **[Edit registry](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update the graphics driver
@@ -62,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Run Apex Legends as an administrator
 
  This engine error may happen if the game does not have administrative privileges. So you should make sure to run Apex Legends as an administrator to see if it fixes the issue.
@@ -76,19 +68,23 @@ Here is how to grant administrative privileges to Apex Legends:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-564.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In File Explorer, right click on **Apex Legends .exe**  and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-565.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the **Compatibility**  tab. Then check the box next to **Run this program as an administrator** , and click **Apply** .
 
  3) After granting APex Legends administrative privileges, you can run the game again to see if Apex Legends Engine Error still occurs. If it doesn’t, then great! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify game files
 
@@ -105,7 +101,7 @@ Here is how to verify game files:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-561.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Wait until the repair process finishes.
@@ -128,6 +124,10 @@ Here are the steps to add the command line:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-474.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Add the following command to the text document.
 
 Windows Registry Editor Version 5.00
@@ -136,10 +136,6 @@ Windows Registry Editor Version 5.00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-475.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**File** \>**Save as…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-476.png)
@@ -147,6 +143,10 @@ Windows Registry Editor Version 5.00
  4) Save the file name as**fix.reg** and select the type as**All files** . then click Save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-477.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click**Yes** once you’re prompted about the message.
 
@@ -174,24 +174,20 @@ Windows Registry Editor Version 5.00
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/driver-search-failed-unable-to-locate-hp-winxo/"><u>[Driver Search Failed] - Unable to Locate HP WINXO</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-share-with-impact-tiktok-videos-on-twitter/"><u>[New] 2024 Approved Share with Impact TikTok Videos on Twitter</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-tailoring-horizontal-video-footage-for-maximum-impact-on-igtv/"><u>[New] In 2024, Tailoring Horizontal Video Footage for Maximum Impact on IGTV</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-mastering-the-craft-of-digital-cinematography-with-ipad/"><u>[Updated] In 2024, Mastering the Craft of Digital Cinematography with iPad</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-spotlight-on-the-top-8-authentic-video-promotion-methods/"><u>[Updated] In 2024, Spotlight on the Top 8 Authentic Video Promotion Methods</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-intense-action-iphone-tips-for-artistic-motion-blur-photos-for-2024/"><u>[Updated] Intense Action IPhone Tips for Artistic Motion-Blur Photos for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-breaking-news-working-obs-cam/"><u>2024 Approved Breaking News Working OBS Cam</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/driver-not-found-windows-10-and-pixma-mp620-disconnect/"><u>Driver Not Found: Windows 10 and Pixma MP620 Disconnect</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhance-w11-printer-response-times/"><u>Enhance W11 Printer Response Times</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-offline-workflow-blockage/"><u>Fixed Offline Workflow Blockage</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/get-your-brother-printer-back-to-life-fixing-non-print-on-windows/"><u>Get Your Brother Printer Back to Life: Fixing Non-Print on Windows</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-a38-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo A38</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-vivo-v27e-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Vivo V27e FRP Bypass</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-canon-dr-c225-driver-download-instructions-for-windows-operating-systems/"><u>Latest Canon DR-C225 Driver Download Instructions for Windows Operating Systems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/no-problems-in-adding-printer/"><u>No Problems in Adding Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamlined-connection-solutions-joining-your-laptop-and-hp-printer/"><u>Streamlined Connection Solutions: Joining Your Laptop and HP Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unblocked-scanner-operation-in-windows-11-os/"><u>Unblocked Scanner Operation in Windows 11 OS</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-protect-your-videos-with-these-free-watermarking-tools/"><u>Updated Protect Your Videos with These Free Watermarking Tools</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-11-printer-troubleshooting-guide/"><u>Windows 11 Printer Troubleshooting Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-best-alternative-top-10-flv-to-youtube-converter-apps/"><u>[Updated] In 2024, Best Alternative Top 10 FLV to YouTube Converter Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-strategic-use-of-slug-lines-in-blogging/"><u>[Updated] Strategic Use of Slug Lines in Blogging</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-comprehensible-approach-to-multisnapping-videos/"><u>[Updated] The Comprehensible Approach to Multisnapping Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unveiling-the-power-of-reverse-recording-in-phantom-cameras/"><u>[Updated] Unveiling the Power of Reverse Recording in Phantom Cameras</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/address-printer-driver-bugs-in-win10/"><u>Address Printer Driver Bugs in Win10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/bridge-the-gap-reactivate-offline-canon-printer/"><u>Bridge the Gap: Reactivate Offline Canon Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-for-non-operational-post-upgrade-printer/"><u>Fix for Non-Operational Post-Upgrade Printer</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-oneplus-11-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change OnePlus 11 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-spatial-realities-compared-the-meta-and-omni-experience/"><u>In 2024, Spatial Realities Compared The Meta and Omni Experience</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mended-error-code-b200/"><u>Mended Error Code: B200</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mysterious-print-job-by-secondary-computer/"><u>Mysterious Print Job by Secondary Computer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/securing-smooth-visuals-activating-dormant-freesync/"><u>Securing Smooth Visuals: Activating Dormant FreeSync</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/steering-clear-obstacles-onboard-brother-printer-again/"><u>Steering Clear Obstacles: Onboard Brother Printer Again</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-from-selfie-to-toon-top-rated-apps-for-cartoon-style-photos/"><u>Updated 2024 Approved From Selfie to Toon Top-Rated Apps for Cartoon-Style Photos</u></a></li>
 </ul></div>
 

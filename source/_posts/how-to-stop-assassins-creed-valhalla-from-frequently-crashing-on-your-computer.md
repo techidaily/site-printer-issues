@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Assassin's Creed: Valhalla From Frequently Crashing on Your Computer"
-date: 2024-11-19T22:25:49.942Z
-updated: 2024-11-24T07:09:28.812Z
+date: 2024-11-28T08:09:59.608Z
+updated: 2024-12-02T03:47:55.322Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/8e9871ece440ba59c8d9840801e94460c09fbc87b
  And just like what happened with the release of[Watch Dogs: Legion](https://www.epicgames.com/store/en-US/p/watch-dogs-legion?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=0a84818055e740a7be21a2e5b6162703) , many gamers start reporting the**constant crashes with AC Valhalla** . But don’t worry if you happen to be one of them. After some diggings on Reddit and YouTube, we’ve gathered several fixes that worked for many Vikings. Try them and get back to Valhalla right away.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -62,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/8e9871ece440ba59c8d9840801e94460c09fbc87b
 
  If you’re sure that your gaming rig is ready for the game, you can take a look at the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  So let’s start from some easy troubleshooting. The in-game crashes or crashing at clicking “New Game” might indicate**an integrity issue with your game files** . It’s a common issue when you encounter network glitches. You can follow these steps to check and repair any corrupted files:
@@ -77,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/8e9871ece440ba59c8d9840801e94460c09fbc87b
 
  If verifying game files didn’t help your case, simply check out the next method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Install all Windows updates
 
  There’re 2 types of system updates in Windows 10, one addresses security and compatibility issues and another provides a regular feature update.**Keeping you system up to date** could help you avoid loads of stranger things.
@@ -87,11 +95,11 @@ You can use these steps to check for Windows updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . Windows will automatically download and install all the available updates. This might take up to an hour depending on your Internet speed.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In some cases, you might need to check several times to get all the updates. Simply repeat these steps until it prompts**You’re up to date** when you click**Check for updates** .
 
@@ -126,7 +134,7 @@ If the crash happens again, you can take a look at the next fix.
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -137,10 +145,6 @@ If the crash happens again, you can take a look at the next fix.
  Once you’ve updated your graphics driver, restart your PC and test the gameplay in Assassin’s Creed Valhalla.
 
  If the driver update doesn’t do the trick for you, simply continue to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Lower in-game graphics settings
 
@@ -154,7 +158,7 @@ If the crash happens again, you can take a look at the next fix.
 3. Continue your game and check if it crashes again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this trick failed to solve your problem, you can move on to the next one.
@@ -164,10 +168,6 @@ If the crash happens again, you can take a look at the next fix.
  To some pro-gamers, a controller can be a whole lot more comfortable than a mouse and keyboard. While peripherals surely add more fun to games, there have been reports that they can also have compatibility issues with new titles. So if you’re using peripherals (e.g. controllers) in Assassin’s Creed Valhalla, try**returning to the classic mouse and keyboard bundle** and see if it helps.
 
  If disabling peripherals doesn’t work for you, or you’re not using any at the first place, you can take a look at the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Check the launcher log
 
@@ -196,24 +196,24 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/elicious-ideas-top-30-creative-recipe-show-titles/"><u>[New] Delicious Ideas Top 30 Creative Recipe Show Titles</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-exploring-advanced-options-with-gopro-burst-features-for-2024/"><u>[Updated] Exploring Advanced Options with GoPro Burst Features for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-fundamentals-of-sports-video-editing/"><u>[Updated] The Fundamentals of Sports Video Editing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-free-mobile-editing-aids-to-elevate-your-images-quality/"><u>2024 Approved Best FREE Mobile Editing Aids to Elevate Your Image's Quality</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-engage-and-measure-instagram-stories-as-a-data-source/"><u>2024 Approved Engage and Measure Instagram Stories as a Data Source</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-guide-shrinking-and-changing-iphone-video-dimensions/"><u>2024 Approved Quick Guide Shrinking & Changing iPhone Video Dimensions</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/connecting-canon-printer-to-win7-successful/"><u>Connecting Canon Printer to Win7 Successful</u></a></li>
-<li><a href="https://games-able.techidaily.com/controlling-your-way-to-immersive-gameplay-with-ryujinx/"><u>Controlling Your Way to Immersive Gameplay with Ryujinx</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/essential-steps-to-restore-your-canon-printers-function/"><u>Essential Steps to Restore Your Canon Printer's Function</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/help-needed-printers-unplanned-shift/"><u>Help Needed: Printer's Unplanned Shift</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-f04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Vivo Y78 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-price-matrix-top-cloud-storage-firms/"><u>In 2024, The Essential Price Matrix Top Cloud Storage Firms</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mfc-9330-driver-quick-installation-steps/"><u>MFC-9330 Driver: Quick Installation Steps</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reestablish-printer-with-ease-and-speed/"><u>Reestablish Printer with Ease & Speed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamline-printing-speed-today/"><u>Streamline Printing Speed Today</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-inkjet-print-latency/"><u>Troubleshooting Inkjet Print Latency</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unclogging-xerox-paper-path-errors/"><u>Unclogging Xerox Paper Path Errors</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unexpected-printer-error-alert/"><u>Unexpected Printer Error Alert</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/network-problem-unable-to-install-hp-d1360-printer-driver-in-various-oses/"><u>[Network Problem] Unable to Install HP D1360 Printer Driver in Various OSes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-superior-ai-photo-cutting-master/"><u>[Updated] 2024 Approved Superior AI Photo Cutting Master</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-audible-annotators-top-selections-for-offline-text-conversion/"><u>[Updated] Audible Annotators Top Selections for Offline Text Conversion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tidy-up-your-pictures-top-10-online-unblur-tools/"><u>[Updated] Tidy Up Your Pictures Top 10 Online Unblur Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-filming-availability-pledge-downloading-rights/"><u>2024 Approved Filming Availability Pledge Downloading Rights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-report-on-djis-inspire-1-for-2024/"><u>Comprehensive Report on DJI's Inspire 1 for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-hp-printer-offline-in-win7-home/"><u>Fixed HP Printer Offline in Win7 Home</u></a></li>
+<li><a href="https://win-able.techidaily.com/forza-horizon-4-wont-start-master-the-techniques-to-kickstart-your-game/"><u>Forza Horizon 4 Won't Start? Master the Techniques to Kickstart Your Game</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guide-to-reviving-dormant-hp-flexscribe-machines/"><u>Guide to Reviving Dormant HP FlexScribe Machines</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-undo-history-erasing-previous-conversations-with-gpt/"><u>How to Undo History: Erasing Previous Conversations with GPT</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-detailed-pokemon-go-pvp-tier-list-to-make-you-a-pro-trainer-for-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed Pokemon Go PvP Tier List to Make you a Pro Trainer For Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-your-pre-purchase-decisions-unveiling-9-must-ask-questions-for-buying-an-electric-car/"><u>Navigating Your Pre-Purchase Decisions: Unveiling 9 Must-Ask Questions for Buying an Electric Car</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcame-hp-printers-spooler-error/"><u>Overcame HP Printer's Spooler Error</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/preventing-disruptions-from-windows-710s-printer-service/"><u>Preventing Disruptions From Windows 7/10'S Printer Service</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-fix-new-os-upgrade-mishap/"><u>Printer Fix: New OS Upgrade Mishap</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-printer-no-connection-detected/"><u>Resolved: PRINTER No Connection Detected</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/streamlining-print-issues-5-simple-solutions-for-non-printing-canon-devices-in-windows-11/"><u>Streamlining Print Issues: 5 Simple Solutions for Non-Printing Canon Devices in Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-picks-choosing-the-ideal-screen-capture-solution-showmore/"><u>Top Picks Choosing the Ideal Screen Capture Solution - ShowMore</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unavailable-domain-services-printer-malfunction/"><u>Unavailable Domain Services, Printer Malfunction</u></a></li>
 </ul></div>
 

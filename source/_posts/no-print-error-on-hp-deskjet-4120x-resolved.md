@@ -1,7 +1,7 @@
 ---
 title: No-Print Error on HP DeskJet 4120X Resolved
-date: 2024-11-21T04:25:50.183Z
-updated: 2024-11-24T05:02:07.708Z
+date: 2024-11-28T21:24:19.384Z
+updated: 2024-12-02T06:53:20.120Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/5bc10bcfbea3c36ca839a96ba01fc56320fae45e4
 
  You can also try restarting your HP printer.**Turn** it**off** completely and**unplug the power cord** , leave it for a couple of minutes, and then**plug** the cord**back** and**power on** the printer. See if your printer can print as normally as before.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Update or reinstall the printer driver
 
  In many cases, the printer won’t print issue comes from faulty drivers. You may need to update or reinstall the printer driver to fix your HP printer, not the printing issue.
@@ -53,14 +49,22 @@ thumbnail: https://thmb.techidaily.com/5bc10bcfbea3c36ca839a96ba01fc56320fae45e4
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/10/de-update-all-hp-printer.jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Set your printer as default
 
@@ -72,15 +76,15 @@ thumbnail: https://thmb.techidaily.com/5bc10bcfbea3c36ca839a96ba01fc56320fae45e4
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb867beb0b.png)
 2. In Control Panel select**Devices and Printers** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 3. In the**Printers** section, right-click on your HP printer and then select**Set as default printer** . Click on**Yes** if prompted.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5476a01d.png)
 4. There is now a tick below the icon of your HP printer. That means it is now set as the default printer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5fe2a9b6.png)
 
@@ -92,22 +96,22 @@ thumbnail: https://thmb.techidaily.com/5bc10bcfbea3c36ca839a96ba01fc56320fae45e4
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 2. Right-click on your HP printer in the**Printers** section and select**See what’s printing** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e955d3a5d.png)
 3. Open the**Printer** menu and then select**Open As Administrator** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea27610b0.png)
 4. Open**Printer** menu again. This time select**Cancel All Documents** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea70940b1.png)
 5. **Confirm** your action.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987eaa0030f9.png)
 6. You have canceled all print jobs of your printer. Now check and see if it can run normally.
@@ -140,7 +144,7 @@ Here’s how to use Fortect to repair system files on your PC:
 4. If you need to proceed with the repair function, you’ll be required to purchase the full version.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Restart your computer for the changes to take effect.
@@ -156,10 +160,6 @@ Check your computer to see if your printer works properly.
 1. On your keyboard, press the**Windows logo key** and type cmd. Then right-click on **Command Prompt** and select **Run as administrator** .  
 ![how to open Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 2. Click**Yes** when prompted to confirm.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/sfc-scannow.jpg)  
@@ -185,17 +185,24 @@ Check your computer to see if your printer works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/tech-support-unsuccessful-print-driver-installation-across-windows-versions/"><u>[Tech Support] Unsuccessful Print Driver Installation Across Windows Versions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-insight-into-budget-friendly-design-portals/"><u>[Updated] Exclusive Insight Into Budget-Friendly Design Portals</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-top-6-mac-screen-capture-tools-expert-picks/"><u>[Updated] In 2024, Top 6 Mac Screen Capture Tools - Expert Picks</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/compatibility-hurdle-installation-of-hp-d1360-printer-drivers/"><u>Compatibility Hurdle: Installation of HP D1360 Printer Drivers</u></a></li>
-<li><a href="https://win-special.techidaily.com/desolee-votre-ordinateur-sous-windows-ne-demarre-plus-apres-une-mise-a-jour-decouvrez-les-5-solutions-rapides-et-efficaces/"><u>Désolé(e) ! Votre Ordinateur Sous Windows Ne Démarre Plus Après Une Mise À Jour : Découvrez Les 5 Solutions Rapides Et Efficaces</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/get-crisp-live-tv-signals-on-a-budget-using-the-amazonbasics-flat-antenna-our-in-depth-review/"><u>Get Crisp Live TV Signals on a Budget Using the AmazonBasics Flat Antenna - Our In-Depth Review</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-connectivity-issue-sorted-out/"><u>HP Printer Connectivity Issue Sorted Out</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-honor-100-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Honor 100 Pro Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-transformative-audio-techniques-srt-conversion-mastery/"><u>In 2024, Transformative Audio Techniques SRT Conversion Mastery</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unified-printer-software-solution-officejet-pro-8600-for-windows-pcs/"><u>Unified Printer Software Solution: Officejet Pro 8600 for Windows PCs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/updating-mf4770n-drivers-in-win11win8win7/"><u>Updating MF4770n Drivers in Win11/Win8/Win7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/drivers-canon-mp620-not-found-on-11th-edition-windows/"><u>[Drivers] Canon MP620 Not Found on 11Th Edition Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-boosting-ppt-video-play-rate/"><u>[New] Boosting PPT Video Play Rate</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-2023s-best-cam-recorders-a-curated-selection-of-18/"><u>[Updated] 2023'S Best Cam Recorders A Curated Selection of 18</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-pro-video-essentials-the-finest-portable-laptop-brands/"><u>[Updated] 2024 Approved Pro Video Essentials The Finest Portable Laptop Brands</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-comedy-in-catchy-notes-best-parody-songs-list/"><u>[Updated] Comedy in Catchy Notes Best Parody Songs List</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-dancefloor-dynamics-top-rated-dj-video-selections/"><u>[Updated] In 2024, Dancefloor Dynamics Top-Rated DJ Video Selections</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ad-ds-service-down-unable-to-print/"><u>AD DS Service Down: Unable To Print</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/cannot-find-hp-printer-drivers-on-win1110/"><u>Cannot Find HP Printer Drivers on Win11/10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/error-b200-now-solved/"><u>Error B200 Now Solved</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-scanned-device-connection-issue-on-win10/"><u>Fixing Scanned Device Connection Issue on Win10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-revive-your-apple-watchs-touch-screen-when-it-wont-respond-anymore/"><u>How to Revive Your Apple Watch's Touch Screen When It Won't Respond Anymore</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-vivo-y17s-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Vivo Y17s? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-15-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 15 Pro Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-setup-no-complications-found/"><u>Print Setup: No Complications Found</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-woes-ended-new-windows-solved-issue/"><u>Printer Woes Ended: New Windows Solved Issue</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-woes-in-windows-11-help-needed/"><u>Printer Woes in Windows 11 - Help Needed!</u></a></li>
+<li><a href="https://win-online.techidaily.com/uitleggen-van-wav-files-een-geinspireerde-bespreking-van-het-wav-onderdeel-in-nederlandstalig/"><u>Uitleggen Van WAV Files: Een Geïnspireerde Bespreking Van Het .wav Onderdeel in Nederlandstalig</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unforeseen-print-malfunction-noted/"><u>Unforeseen Print Malfunction Noted</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204309233-wireless-mouse-stops-working-randomly-fix-it-in-windows-11-and-windows-10-with-these-tips/"><u>Wireless Mouse Stops Working Randomly? Fix It in Windows 11 and Windows 10 With These Tips</u></a></li>
 </ul></div>
 

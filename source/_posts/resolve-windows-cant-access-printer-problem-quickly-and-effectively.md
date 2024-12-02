@@ -1,7 +1,7 @@
 ---
 title: Resolve 'Windows Can't Access Printer' Problem Quickly & Effectively
-date: 2024-11-21T20:42:20.624Z
-updated: 2024-11-23T20:19:14.866Z
+date: 2024-11-29T17:00:43.413Z
+updated: 2024-12-02T08:55:09.792Z
 tags:
   - win11
   - win10
@@ -37,10 +37,6 @@ When you are trying to add a network shared printer, if you receive message “W
 [**Solution 4: Copy “mscms.dll” Manually**](https://tools.techidaily.com/drivereasy/download/)   
 [**Solution 5: Delete a Subkey**](https://tools.techidaily.com/drivereasy/download/) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##   **Solution 1: Restart Print Spooler Service** 
 
 Follow steps below to stop Print Spooler service then start it again.
@@ -56,12 +52,16 @@ Follow steps below to stop Print Spooler service then start it again.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592282f40baaf.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3\. Under Service status, click**Stop** button. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59228346254fb.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. Click**Start** button to start the service again.
 
@@ -81,21 +81,21 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592284396a5e3.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Click**Add a printer** at the top of the window.**Note:** To continue, you need to login to the computer as an administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592284c312e63.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4\. Select**Add a network, wireless or Bluetooth printer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592285527f2ca.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5\. Select**Create a new port** , change the “Type of port” to**Local Port** then click**Next** button.
 
@@ -105,17 +105,9 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59228a6291554.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7\. Select the**printer model** from the directory and click**Next** button. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59228e9593ce0.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8\. Follow the rest on-screen instructions to finish adding the printer.
 
@@ -130,6 +122,10 @@ Follow steps below:
  2\. Type **printmanagement.msc** in the run box and click**OK** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59228fef1fe19.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3\. In the left pane, click**All Drivers** .
 
@@ -176,6 +172,10 @@ Follow steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5922973c415cc.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. Expand   **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Print\\Providers\\Client Side Rendering Print Provider** . Right-click on **Client Side Rendering Print Provider** and select**Delete.** 
 
 5\. Start the Print Spooler service.
@@ -201,14 +201,22 @@ Follow steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/how-to-downloading-and-installing-epson-xp-430-printer-drivers-for-windows-users-a-comprehensive-tutorial/"><u>How To: Downloading and Installing Epson XP-430 Printer Drivers for Windows Users - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-vivo-t2-pro-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Vivo T2 Pro 5G without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/making-memories-sing-visual-plus-auditory-blend-for-2024/"><u>Making Memories Sing Visual + Auditory Blend for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/navigating-through-pcl-xl-errors-with-ease/"><u>Navigating Through PCL XL Errors with Ease</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/purging-hp-printer-error-code-oxc4eb827f/"><u>Purging HP Printer Error: Code OXC4EB827F</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/repaired-printer-error-after-windows-11-update/"><u>Repaired: Printer Error After Windows 11 Update</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/tips-to-tame-vr-induced-motion-sickness-for-2024/"><u>Tips to Tame VR-Induced Motion Sickness for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/transform-printing-experience-hp-officejets-newest-software-update/"><u>Transform Printing Experience: HP Officejet's Newest Software Update</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/transforming-raw-audio-into-high-quality-youtube-videos-for-2024/"><u>Transforming Raw Audio Into High-Quality YouTube Videos for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/connectivity-issue-cannot-add-printer-drivers-to-multiple-windows/"><u>[Connectivity Issue] Cannot Add Printer Drivers to Multiple Windows</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-comprehensible-guide-to-selecting-popular-youtube-openings/"><u>[New] In 2024, The Comprehensible Guide to Selecting Popular YouTube Openings</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-through-paid-product-evaluations-online/"><u>[New] Navigating Through Paid Product Evaluations Online</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-stepwise-guide-to-mastering-zoom-on-modern-windows-11-for-2024/"><u>[New] Stepwise Guide to Mastering Zoom on Modern Windows 11 for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-crafting-an-impactful-online-presence-with-perfect-yt-dimensions/"><u>[Updated] 2024 Approved Crafting an Impactful Online Presence with Perfect YT Dimensions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-ultimate-ratio-reference-for-youtube-videos-and-ads/"><u>[Updated] 2024 Approved The Ultimate Ratio Reference for YouTube Videos & Ads</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mastering-ps2-replay-on-android-devices-top-picks/"><u>2024 Approved Mastering PS2 Replay on Android Devices - Top Picks</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/boost-operational-efficiency-with-mf4770n-on-w11w8w7-windows/"><u>Boost Operational Efficiency with MF4770n on W11/W8/W7 Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/economic-planning-for-your-upcoming-music-video/"><u>Economic Planning for Your Upcoming Music Video</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-multifunction-device-shows-unwanted-emptiness/"><u>Epson Multifunction Device Shows Unwanted Emptiness</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpt-linguistic-threshold-forbidden-dialogues/"><u>GPT Linguistic Threshold - Forbidden Dialogues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guide-to-enable-brother-9330cdw-driver/"><u>Guide to Enable Brother 9330CDW Driver</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-tackle-windows-11-printer-malfunctions/"><u>How to Tackle Windows 11 Printer Malfunctions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/navigating-the-maze-getting-brothers-printer-back-on-line/"><u>Navigating the Maze: Getting Brother's Printer Back on Line</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcome-epson-paper-jam/"><u>Overcome Epson Paper Jam</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-the-frequent-failure-of-print-spooler-service/"><u>Resolving the Frequent Failure of Print Spooler Service</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-samsung-galaxy-z-flip-5-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Samsung Galaxy Z Flip 5 Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

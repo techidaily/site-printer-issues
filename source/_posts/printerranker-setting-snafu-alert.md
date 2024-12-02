@@ -1,7 +1,7 @@
 ---
 title: "Printer'ranker: Setting Snafu Alert"
-date: 2024-11-19T19:21:10.017Z
-updated: 2024-11-23T18:29:21.990Z
+date: 2024-11-27T18:03:11.640Z
+updated: 2024-12-01T21:22:30.318Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
  Recently quite a few Windows users are reporting the **Your Printer has Experienced an Unexpected Configuration Problem** error. What happens is that their printer does not print anything, and the message pops up along with codes such as**0x80070002,** **0x80040154** . If you also encounter this situation, don’t worry – it’s often not hard to fix at all…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix Your Printer has Experienced an Unexpected Configuration Problem
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
 3. **[Update your printer driver](#F3)**
 4. **[Clear Spooler Files](#F4)**
 5. **[Run Windows Troubleshooter](#F5)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Add your printer again
 
@@ -47,16 +51,12 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-57.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Now that you have re-added your printer, check your printer to see if you can get it running without error. If yes, then congrats! If the error still pops up, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Make the printer shareable
 
@@ -68,10 +68,6 @@ Here is how to make your printer shareable:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-39.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) When in the**Device and Printers** screen, scroll down to the**Printers** section. Then right-click on**the printer that is giving the error** and click**Printer properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-43-1024x518.png)
@@ -81,7 +77,7 @@ Here is how to make your printer shareable:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-50.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Try printing something and see if the error still pops up. If the error doesn’t occur again, then you’ve solved the problem! If the error still pops up, please try**Fix 3** , below.
@@ -131,7 +127,7 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-194.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Keep the Services window open and proceed with the following steps.
@@ -141,6 +137,10 @@ Keep the Services window open and proceed with the following steps.
  1) On your keyboard, press the**Windows logo key** and**R** at the same time, then type **%WINDIR%\\system32\\spool\\printers** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-61.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the**Printers** folder, select**ALL** files and delete them.
 
@@ -156,15 +156,15 @@ Keep the Services window open and proceed with the following steps.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-64.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Restart your computer and test to see if the error is fixed.
 
  Still no joy? Please try**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Run Windows Troubleshooter
 
@@ -174,13 +174,13 @@ Keep the Services window open and proceed with the following steps.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-208.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the **Troubleshoot**  window, scroll down to the **Get up and running**  section, click on **Printer** \> **Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-209.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Wait for Windows to diagnose the problem and follow the on-screen instructions to resolve the **Your Printer has Experienced an Unexpected Configuration Problem** error.
 
@@ -205,20 +205,16 @@ Keep the Services window open and proceed with the following steps.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-beginners-glossary-for-instagram-chat-rooms/"><u>[New] 2024 Approved Beginner's Glossary for Instagram Chat Rooms</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/system-issue-unable-to-locate-hp-print-drivers-on-win11/"><u>[System Issue] - Unable to Locate HP Print Drivers on Win11</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/wmamp3-winxdvd/"><u>「早起きで簡単なビデオ・音楽ファイル再生法 WMA、MP3 - WinXDVD」</u></a></li>
-<li><a href="https://extra-information.techidaily.com/compiled-lists-best-online-stores-for-youtube-tones-and-videos/"><u>Compiled Lists Best Online Stores for Youtube Tones and Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exceptional-artificial-intelligence-tools-transforming-the-way-you-search-the-world-wide-web/"><u>Exceptional Artificial Intelligence Tools Transforming the Way You Search the World Wide Web</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-15-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 15 to other iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-xiaomi-redmi-note-12-4g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Xiaomi Redmi Note 12 4G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/installing-canon-printer-step-by-step/"><u>Installing Canon Printer - Step-by-Step</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/local-network-printer-service-in-standby-mode/"><u>Local Network Printer Service in Standby Mode</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/m3-or-m2-macbook-air-choosing-between-top-apple-notebooks-for-ultimate-performance-and-value-tech-insights/"><u>M3 or M2 MacBook Air - Choosing Between Top Apple Notebooks for Ultimate Performance and Value | Tech Insights</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-refusing-to-use-all-colors/"><u>Printer Refusing to Use All Colors</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reviving-a-printers-purpose-beyond-empty-pages/"><u>Reviving a Printer's Purpose Beyond Empty Pages</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/scan-functionality-reinstated-in-win11/"><u>Scan Functionality: Reinstated in Win11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-vivo-s17-pro-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Vivo S17 Pro FRP</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unable-to-locate-canon-pixma-mp620-drivers-on-win10/"><u>Unable to Locate Canon Pixma MP620 Drivers on WIN10</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-step-by-step-guide-to-creating-compelling-multi-picture-insta-stories-for-2024/"><u>[New] Step by Step Guide to Creating Compelling, Multi-Picture Insta Stories for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-strategy-for-collecting-multiple-videos-from-tiktok/"><u>[New] The Ultimate Strategy for Collecting Multiple Videos From TikTok</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-craft-of-loom-seamless-screen-recording-guide/"><u>[Updated] In 2024, The Craft of Loom Seamless Screen Recording Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-optimizing-your-xbox-experience-with-advanced-screen-capture-methods/"><u>[Updated] Optimizing Your Xbox Experience with Advanced Screen Capture Methods</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unveiling-ideal-techniques-for-obs-facebook-transition-for-2024/"><u>[Updated] Unveiling Ideal Techniques for OBS-Facebook Transition for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canon-mf4770n-driver-update-in-windows-1187/"><u>Canon MF4770n Driver Update in Windows 11/8/7</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-zoom-strategies-for-chromeos/"><u>Essential Zoom Strategies for ChromeOS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-samsung-printer-setup-on-windows-with-easy-installation-files/"><u>Get Your Samsung Printer Setup on Windows with Easy Installation Files!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-offline-hp-printer-woes/"><u>Overcoming Offline HP Printer Woes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reactivate-idle-printing-queue-task/"><u>Reactivate Idle Printing Queue Task</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-searches-for-non-existent-printer-driver/"><u>Windows Searches for Non-Existent Printer Driver</u></a></li>
 </ul></div>
 

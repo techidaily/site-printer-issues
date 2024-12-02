@@ -1,7 +1,7 @@
 ---
 title: Breathe Life Into Your Dying Windows 11 Printer
-date: 2024-11-23T03:51:13.142Z
-updated: 2024-11-23T23:25:00.262Z
+date: 2024-11-30T19:28:21.646Z
+updated: 2024-12-02T12:45:40.257Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/ccf5800f87dc975bfa3f97e17abaade8c733e4db5
 
  Many users reported printer issues on Windows 11\. Though Microsoft indicated they’ve resolved this issue, you may still encounter it on your PC. Don’t worry, you’re not alone. This post may help when you’re facing annoying printer issues.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  There’re 4 fixes that have helped many gamers solve their problems. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -30,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/ccf5800f87dc975bfa3f97e17abaade8c733e4db5
 2. [Update printer driver](#f2)
 3. [Run printer troubleshooter](#f3)
 4. [Repair system file](#f4)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Check for Windows Update
 
@@ -45,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/ccf5800f87dc975bfa3f97e17abaade8c733e4db5
 3. If there is an available update, windows will download and install it automatically.
 
 4. Then reboot your PC to check the printer issue is fixed or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update printer driver
 
@@ -61,12 +57,12 @@ thumbnail: https://thmb.techidaily.com/ccf5800f87dc975bfa3f97e17abaade8c733e4db5
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/update-hp-printer-driver.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -84,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/ccf5800f87dc975bfa3f97e17abaade8c733e4db5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/win11-other-troubleshooter.jpg)
 4. Find the**Printer** section and click**Run** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Repair system file
 
@@ -105,15 +105,15 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 5. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Check your computer to see if the driver crash issue is fixed.
 
@@ -128,15 +128,15 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -163,19 +163,24 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-mastering-playback-pivot-a-step-by-step-yt-guide/"><u>[New] In 2024, Mastering Playback Pivot A Step-by-Step YT Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-gamers-ultimate-guide-selecting-the-best-video-card-brands-for-2024/"><u>[Updated] Gamer’s Ultimate Guide Selecting the Best Video Card Brands for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-intermittent-print-service-disruptions-in-win-oss/"><u>Fixing Intermittent Print Service Disruptions in Win OSs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-tackle-windows-11-printer-malfunctions/"><u>How to Tackle Windows 11 Printer Malfunctions</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/in-2024-how-to-make-memes-on-iphone-and-android/"><u>In 2024, How to Make Memes on iPhone and Android</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reinstated-default-printer-post-error-0x00000709-fix/"><u>Reinstated Default Printer Post-Error 0X00000709 Fix</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/technical-assembly-combining-hp-printer-model-with-computer/"><u>Technical Assembly: Combining HP Printer Model with Computer</u></a></li>
-<li><a href="https://article-tips.techidaily.com/the-top-picks-for-hd-video-playback-on-your-android-device-for-2024/"><u>The Top Picks for HD Video Playback on Your Android Device for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oppo-by-drfone-android/"><u>Three Ways to Sim Unlock Oppo</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-realme-v30-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Realme V30 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/ultimate-guide-to-converting-your-pdfs-into-microsoft-word-format-with-excel-approved-tools/"><u>Ultimate Guide to Converting Your PDFs Into Microsoft Word Format with Excel-Approved Tools</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unlocking-jammed-printers/"><u>Unlocking Jammed Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unlocking-the-secret-of-fully-formatted-paper-trails/"><u>Unlocking the Secret of Fully Formatted Paper Trails</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unraveling-the-capabilities-of-linksys-ac1900-a-universal-wireless-router-evaluation-for-tech-enthusiasts-and-casual-users-alike/"><u>Unraveling the Capabilities of Linksys AC1900 – A Universal Wireless Router Evaluation for Tech Enthusiasts & Casual Users Alike</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-cultivating-a-commercial-community-earnings-through-fb-engagement/"><u>[New] 2024 Approved Cultivating a Commercial Community Earnings Through FB Engagement</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unveiling-the-hidden-meanings-behind-facebooks-messenger-icon/"><u>[New] 2024 Approved Unveiling the Hidden Meanings Behind Facebook's Messenger Icon</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-smart-eco-friendly-screen-tech-compilation/"><u>[New] Smart, Eco-Friendly Screen Tech Compilation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-capture-and-convert-photos-into-dynamic-videos-in-pixiz/"><u>2024 Approved Capture and Convert Photos Into Dynamic Videos in Pixiz</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/assisting-with-the-installation-of-hp-officejet-pro-8600/"><u>Assisting with the Installation of HP Officejet Pro 8600</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/bypass-printer-job-queue-delay-instantly/"><u>Bypass Printer Job Queue Delay Instantly</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-nokia-130-music-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Nokia 130 Music?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/demystifying-video-profit-on-youtube/"><u>Demystifying Video Profit on YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-methods-to-ensure-your-devices-driver-is-current-with-windows-11/"><u>Easy Methods to Ensure Your Device's Driver Is Current with Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-civi-3-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi Civi 3 Device</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/laptop-meets-printing-unlocking-potential-with-3-fixes-for-hp/"><u>Laptop Meets Printing: Unlocking Potential with 3 Fixes for HP</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-tech-team-leadership-start-with-understanding-your-companys-core-goals-insights-from-zdnet/"><u>Mastering Tech Team Leadership: Start with Understanding Your Company's Core Goals | Insights From ZDNet</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-access-to-domain-services-printer-not-responding/"><u>No Access To Domain Services, Printer Not Responding</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-more-gaps-in-documents-with-new-fixes/"><u>No More Gaps in Documents with New Fixes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcome-print-errors-windows-10-solutions/"><u>Overcome Print Errors: Windows 10 Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-resolving-realtek-hd-audio-manager-startup-issues-successfully/"><u>Quick Fix: Resolving Realtek HD Audio Manager Startup Issues Successfully</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reactivating-online-status-of-windowshp-multi-function/"><u>Reactivating Online Status of Windows/HP Multi-Function</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/repairing-unresponsive-printers/"><u>Repairing Unresponsive Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revolutionizing-workspace-setup-with-easy-fixes-for-print-laptop-linkage/"><u>Revolutionizing Workspace Setup with Easy Fixes for Print-Laptop Linkage</u></a></li>
 </ul></div>
 

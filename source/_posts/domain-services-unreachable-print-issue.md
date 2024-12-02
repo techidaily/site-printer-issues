@@ -1,7 +1,7 @@
 ---
 title: Domain Services Unreachable, Print Issue
-date: 2024-11-18T02:00:53.365Z
-updated: 2024-11-24T07:22:53.696Z
+date: 2024-12-01T03:49:13.494Z
+updated: 2024-12-02T12:28:07.493Z
 tags:
   - win11
   - win10
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
 2. **[Using Registry Editor](#method2)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Change Printer Spooler settings
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) After Printer Spooler gets started, double-click on it. Set its startup type to **Automatic** . Then click **OK**  to save the setting.  
@@ -52,14 +52,14 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
   
  5) Close the Services window and check if you could print files successfully.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Using Registry Editor
 
 1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png) and **R**  at the same time to invoke the Run box.
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Type **regedit**  and press **Enter** to open Registry Editor.  
   
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Right-click on **Devices**  under **CurrentVersion**  dialog.  
@@ -86,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Do the same settings to give your account full control of **PrinterPorts**  and **Windows** .  
@@ -113,18 +113,18 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-the-ultimate-guide-17-premier-lights-and-cameras/"><u>[New] In 2024, The Ultimate Guide 17 Premier Lights & Cameras</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-secure-extraction-converting-youtube-to-trusted-mp4/"><u>[Updated] In 2024, Secure Extraction Converting YouTube to Trusted MP4</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-multimedia-mastery-tips-for-mass-photo-and-video-uploads-for-2024/"><u>[Updated] Instagram Multimedia Mastery Tips for Mass Photo & Video Uploads for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/combatting-windows-mail-glitches-the-0x80072746-fix-guide/"><u>Combatting Windows Mail Glitches: The 0X80072746 Fix Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/comprehensive-guide-updating-driver-software-on-your-acer-nitro-5/"><u>Comprehensive Guide: Updating Driver Software on Your Acer Nitro 5</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/default-printer-dilemma-windows-error-0x00000709-squashed/"><u>Default Printer Dilemma: Windows Error (0X00000709) Squashed</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/determining-which-language-will-benefit-me-most/"><u>Determining Which Language Will Benefit Me Most</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/make-unforgettable-moments-top-photo-and-video-collage-tools/"><u>Make Unforgettable Moments Top Photo and Video Collage Tools</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-spooler-crashing-strategies-for-win-users/"><u>Overcoming Spooler Crashing: Strategies for Win Users</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revitalize-your-prints-install-latest-v305-driver-in-win7/"><u>Revitalize Your Prints: Install Latest V305 Driver in Win7</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionary-carbon-fiber-cells-the-new-era-of-lightweight-high-performance-device-power/"><u>Revolutionary Carbon-Fiber Cells: The New Era of Lightweight, High-Performance Device Power</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/which-is-the-ultimate-ios-video-editor-cameo-vs-filmorago/"><u>Which Is the Ultimate iOS Video Editor? Cameo Vs. FilmoraGo</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win7810-networking-guide-for-inkjet-hp-issues/"><u>Win7/8/10 Networking Guide for Inkjet HP Issues</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-premiere-pros-full-scene-showcase-guide-for-2024/"><u>[New] Premiere Pro's Full Scene Showcase Guide for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-streamlining-windows-photos-experience-with-added-filtersmusic/"><u>[Updated] 2024 Approved Streamlining Windows Photos Experience with Added Filters/Music</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/a-straightforward-approach-to-pcl-xl-malfunctions/"><u>A Straightforward Approach to PCL XL Malfunctions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/dont-let-offline-be-the-end-for-your-canon-printer/"><u>Don’t Let Offline Be the End for Your Canon Printer</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/explore-and-evaluate-the-top-10-mobile-video-conferencing-apps-for-2024/"><u>Explore & Evaluate The Top 10 Mobile Video Conferencing Apps for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-brother-hl-l2370dw-drivers-easy-installation-guide-included/"><u>Get the Newest Brother HL-L2370DW Drivers - Easy Installation Guide Included</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/o-make-every-minute-count-for-view-growth-with-youtube-shorts/"><u>How to Make Every Minute Count for View Growth with YouTube Shorts</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/improve-printers-pace-at-a-glance/"><u>Improve Printer's Pace at a Glance</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-build-your-personal-brand-on-youtube/"><u>In 2024, How to Build Your Personal Brand on YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-podcast-production-with-garageband-tools-for-2024/"><u>Mastering Podcast Production with GarageBand Tools for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-audiophiles-guide-to-clear-audio-overcoming-background-sibilance-and-hum/"><u>New Audiophiles Guide to Clear Audio Overcoming Background Sibilance and Hum</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reprogram-inkjet-and-laser-drivers-for-win10-pcs/"><u>Reprogram Inkjet & Laser Drivers for Win10 PCs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/stop-your-printer-from-jamming-in-windows-11/"><u>Stop Your Printer From Jamming in Windows 11</u></a></li>
 </ul></div>
 

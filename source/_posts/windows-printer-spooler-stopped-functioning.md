@@ -1,7 +1,7 @@
 ---
 title: "Windows Printer Spooler: Stopped Functioning"
-date: 2024-11-20T20:54:07.916Z
-updated: 2024-11-23T19:24:15.101Z
+date: 2024-11-27T20:10:49.104Z
+updated: 2024-12-02T07:57:12.296Z
 tags:
   - win11
   - win10
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/0f3aee40842c77652092959c44bb37ef79d636e0b
  The Print Spooler service is an essential component to get your printer working properly. The “**local print spooler service is not running** ” error could indicate a faulty configuration, or it could mean something is wrong with the computer drivers. While there may be many reasons behind this error, it’s usually not that hard to fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -42,12 +42,12 @@ thumbnail: https://thmb.techidaily.com/0f3aee40842c77652092959c44bb37ef79d636e0b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/services-msc.jpg)
 2. Right click**Print Spooler** and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/print-spooler-services-properties.jpg)
 3. Make sure**Startup type** is set to**Automatic** . You can also try to manually start the service by clicking**Start** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/print-spooler-services-properties-2.jpg)
 4. Navigate to the**Recovery** tab. Make sure**First failure** and**Second failure** are set to**Restart the Service** ,**Reset fail count after** is set to**1** days,**Restart service** after**1** minutes. Once completed, click**OK** to save the changes.  
@@ -57,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/0f3aee40842c77652092959c44bb37ef79d636e0b
 
 If the error persists, you can check out the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: **Run the troubleshooter**
 
  Windows provides a built-in troubleshooter to help you figure out what’s causing the issue. In some cases, it may provide a better insight if it’s a common error.
@@ -65,13 +69,21 @@ If the error persists, you can check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/update-and-security.png)
 2. On the left pane, select**Troubleshoot** . Click**Additional troubleshooters** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Select**Printer** . Then follow the on-screen instructions to troubleshoot.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/troubleshooter-printer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the troubleshooter can’t help you fix the issue, take a look at the next method.
@@ -84,22 +96,14 @@ If the error persists, you can check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/just-a-run-box.jpg)
 2. Type or paste**devmgmt.msc** . Then click**OK** to open Device Manager.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/device-manager-run-box-ok.jpg)
 3. Click to expand the**Print queues** category. Right-click your printer and select**Uninstall device** . (If you can’t find your printer in Device Manager, you can [download Driver Easy](https://tools.techidaily.com/drivereasy/download/) to scan for missing drivers.)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/device-manager-reinstall-printer-02.jpg)
 4. Click**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/device-manager-reinstall-printer-03.jpg)
@@ -130,10 +134,6 @@ If the error persists, you can check out the next fix.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -152,7 +152,7 @@ If the error persists, you can check out the next fix.
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
@@ -180,19 +180,22 @@ If the error persists, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-utilizing-lut-filters-in-obs-studio-effectively/"><u>[New] Utilizing LUT Filters in OBS Studio Effectively</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-art-and-science-of-crafting-your-ideal-podcast-naming/"><u>[Updated] 2024 Approved The Art & Science of Crafting Your Ideal Podcast Naming</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-hands-on-approach-to-ios-audio-capture/"><u>[Updated] In 2024, Hands-On Approach to iOS Audio Capture</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-streamline-your-strategy-with-aspect-ratio-mastery-on-youtube-for-2024/"><u>[Updated] Streamline Your Strategy with Aspect Ratio Mastery on YouTube for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enrich-printer-capabilities-dell-software-update-for-windows-7/"><u>Enrich Printer Capabilities: Dell Software Update for Windows 7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-hq-blank-page-conundrum-resolved/"><u>Epson HQ Blank Page Conundrum Resolved</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-honor-x9b-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Honor X9b is off? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/inkjet-resumed-solved-epson-printer/"><u>Inkjet Resumed: Solved [Epson Printer]</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reconciled-printer-not-responding/"><u>Reconciled: Printer Not Responding</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolve-print-head-alignment-issues-in-w11/"><u>Resolve Print Head Alignment Issues in W11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-positive-impact-of-nintendo-not-implementing-generative-ai-in-video-game-design/"><u>The Positive Impact of Nintendo Not Implementing Generative AI in Video Game Design</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/which-is-better-an-iphone-or-a-samsung-phone-an-in-depth-comparison/"><u>Which Is Better, an iPhone or a Samsung Phone?: An In-Depth Comparison</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/why-is-my-printer-black-and-white/"><u>Why Is My Printer Black & White?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-expert-tips-for-optimal-color-grading-using-luts-in-adobe-premiere-pro/"><u>[New] Expert Tips for Optimal Color Grading Using LUTs in Adobe Premiere Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-perfect-your-windowsmac-call-records-with-15plus-tips-for-skype-users/"><u>[Updated] In 2024, Perfect Your Windows/Mac Call Records with 15+ Tips for Skype Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-optimal-obs-configurations-for-thrifty-computers/"><u>[Updated] Optimal OBS Configurations for Thrifty Computers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-short-form-trimming-videos-for-youtube/"><u>2024 Approved Mastering Short-Form Trimming Videos for YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bridging-gaps-building-relationships-with-your-audience-for-2024/"><u>Bridging Gaps Building Relationships with Your Audience for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719573835599-canon-pixma-mp620-driver-missing-please-help/"><u>Canon Pixma MP620: Driver Missing, Please Help!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/clearing-paper-jams-without-hassle/"><u>Clearing Paper Jams Without Hassle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-why-altered-chatgpt-is-impractical/"><u>Exploring Why Altered ChatGPT Is Impractical</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-paper-size-error-on-hp-deskjet-3070/"><u>Fixed Paper Size Error on HP DeskJet 3070</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-xs-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone XS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/paper-jams-and-more-win810-hp-printer-help-needed/"><u>Paper Jams & More: Win8/10 HP Printer Help Needed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-queue-unavailable-on-local-pc/"><u>Print Queue Unavailable on Local PC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/secure-print-sessions-fixing-driver-issues-on-win10/"><u>Secure Print Sessions: Fixing Driver Issues on Win10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/swiftly-displace-queued-print-operations/"><u>Swiftly Displace Queued Print Operations</u></a></li>
+<li><a href="https://article-helps.techidaily.com/top-zodiac-inspired-whatsapp-bios-enhancing-personal-connections/"><u>Top Zodiac-Inspired WhatsApp Bios Enhancing Personal Connections</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-locating-chuckles-the-guide-to-comedy-audio-tones/"><u>Updated 2024 Approved Locating Chuckles The Guide to Comedy Audio Tones</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/wake-from-sleep-troubleshooting-usb-printer-not-working/"><u>Wake From Sleep: Troubleshooting USB Printer Not Working</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Printer Setup Error: Only Blank Sheets From Epson"
-date: 2024-11-17T23:51:40.448Z
-updated: 2024-11-23T19:43:04.366Z
+date: 2024-11-27T16:51:47.917Z
+updated: 2024-12-02T03:06:36.860Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 ## Printer Setup Error: Only Blank Sheets From Epson
 
  You’ll feel so weird when your Epson printer suddenly prints blanks. You might say: It had been working great since you got it. Don’t worry, it can be easy to fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Check your Device
 
@@ -62,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 **Note** : This Printhead Cleaning Cycles cannot be used too often. Allow your printer to rest for at least 6 hours after one cycle (recommended by Epson), then go through a cleaning cycle again. Doing this program repeatedly will make your clog worse and use a lot of ink.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your printer driver
@@ -76,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/ep-1024x507.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.  
@@ -94,17 +98,21 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/%E6%96%B0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/epson.jpg)
 
- If you encounter problems while using Driver Easy, please send an email to [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you encounter problems while using Driver Easy, please send an email to [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
 ### Fix 4: Install Fortect
 
@@ -117,16 +125,8 @@ Here’s how to use it:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -152,18 +152,20 @@ Here’s how to use it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-cutting-edge-screen-shifting-for-editors/"><u>[New] 2024 Approved Cutting-Edge Screen Shifting for Editors</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-choices-top-10-best-video-editing-software-free-2023/"><u>[New] In 2024, Essential Choices Top 10 Best Video Editing Software (Free, 2023)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-hp-deskjet-d1360-printer-drivers-wont-install-in-windows-7-8-8110/"><u>[Resolved] HP Deskjet D1360 Printer Drivers Won’t Install in Windows 7, 8, 8.1,10</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-expert-techniques-for-capturing-and-recording-streamed-content/"><u>[Updated] 2024 Approved Expert Techniques for Capturing & Recording Streamed Content</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/deciding-on-live-stream-software-streamlabs-vs-obs-comparison-for-2024/"><u>Deciding on Live Stream Software Streamlabs Vs. OBS Comparison for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/dell-v305-aio-printer-driver-update-in-windows-7/"><u>Dell V305 AIO Printer Driver Update in Windows 7</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-14-plus-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 14 Plus With or Without Password</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instantly-resolve-printer-disconnection/"><u>Instantly Resolve Printer Disconnection</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/local-printer-spooler-not-responding-help/"><u>Local Printer Spooler Not Responding, Help</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/networking-issues-fixed-win7-printer-online/"><u>Networking Issues Fixed: Win7 Printer Online</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-remedies-for-slow-printers/"><u>Quick Remedies for Slow Printers</u></a></li>
-<li><a href="https://solve-info.techidaily.com/understanding-resolution-upgrades-does-true-4k-offer-significant-advantages-over-1080p/"><u>Understanding Resolution Upgrades: Does True 4K Offer Significant Advantages Over 1080P?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/your-easy-guide-to-revisiting-your-lately-watched-fb-videos/"><u>Your Easy Guide to Revisiting Your Lately Watched FB Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-x-stream-recorder-pc-edition-for-2024/"><u>[Updated] X-Stream Recorder PC Edition for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-masterful-sound-note-taking-a-roadmap-to-excellence/"><u>2024 Approved Masterful Sound Note-Taking A Roadmap to Excellence</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-chic-and-functional-design-of-flexispots-theodore-office-desk-a-detailed-appraisal/"><u>Exploring the Chic and Functional Design of Flexispot's Theodore Office Desk - A Detailed Appraisal</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-spark-10-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Spark 10 5G?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hurry-to-reconnect-printer-now/"><u>Hurry to Reconnect Printer Now</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/integrating-hp-laser-jet-pro-m128dn-into-home-networks/"><u>Integrating HP Laser Jet Pro M128dn Into Home Networks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-18-guide-tailoring-the-apple-control-center-on-your-iphone-expert-tips/"><u>IOS 18 Guide: Tailoring the Apple Control Center on Your iPhone - Expert Tips</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/navigating-through-unresponsive-networked-printers/"><u>Navigating Through Unresponsive Networked Printers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-extract-audio-from-video-top-mp4-to-mp3-apps/"><u>New 2024 Approved Extract Audio From Video Top MP4 to MP3 Apps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/next-weeks-iphone-upgrade-discover-the-latest-anker-charger-and-accessory-line-expert-tips/"><u>Next Week's iPhone Upgrade? Discover the Latest Anker Charger & Accessory Line - Expert Tips</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574110556-printing-woes-config-error-help-needed/"><u>Printing Woes: Config Error, Help Needed!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolve-page-missing-issue-with-printers/"><u>Resolve Page Missing Issue with Printers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-apple-watch-shield-the-ultimate-guard-for-your-device-zdnet/"><u>Top-Rated Apple Watch Shield: The Ultimate Guard for Your Device - ZDNet</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win107-troubleshooting-steps-to-address-spooler-failures/"><u>Win10/7 Troubleshooting Steps to Address Spooler Failures</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/wireless-paper-refilling-for-hp-officejet-pro-m574dw/"><u>Wireless Paper Refilling for HP Officejet Pro M574dw</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: HP All-in-One Printer's Connectivity Armored Up
-date: 2024-11-19T16:38:33.005Z
-updated: 2024-11-24T02:44:03.375Z
+date: 2024-11-24T18:39:09.763Z
+updated: 2024-12-02T07:37:11.494Z
 tags:
   - win11
   - win10
@@ -27,15 +27,15 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
 5. **[Check printer status](#e)**
 6. [**Repair corrupted system files**](#RE)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Perform basic troubleshooting
 
  You can do some troubleshooting at first when you find your HP printer stops working. You should check the status of the**connection** between your printer and your computer. Make sure your devices are**properly connected** with each other, and the**network** or the**cable** you use to connect these devices is normal.
 
  You can also try restarting your HP printer.**Turn** it**off** completely and**unplug the power cord** , leave it for a couple of minutes, and then**plug** the cord**back** and**power on** the printer. See if your printer can print as normally as before.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update or reinstall the printer driver
 
@@ -56,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
 ![](https://www.drivereasy.com/wp-content/uploads/2021/10/de-update-all-hp-printer.jpg)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 ## Fix 3: Set your printer as default
@@ -75,18 +71,14 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 3. In the**Printers** section, right-click on your HP printer and then select**Set as default printer** . Click on**Yes** if prompted.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5476a01d.png)
 4. There is now a tick below the icon of your HP printer. That means it is now set as the default printer.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5fe2a9b6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Cancel all print jobs
 
@@ -97,14 +89,22 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
 2. Right-click on your HP printer in the**Printers** section and select**See what’s printing** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e955d3a5d.png)
 3. Open the**Printer** menu and then select**Open As Administrator** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea27610b0.png)
 4. Open**Printer** menu again. This time select**Cancel All Documents** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea70940b1.png)
 5. **Confirm** your action.  
@@ -113,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
 6. You have canceled all print jobs of your printer. Now check and see if it can run normally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Check printer status
@@ -121,6 +121,10 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
  If you have tried the methods above and your HP printer still cannot print, you may need to check if there are hardware issues on your printer.
 
  You need to ensure your HP printer has**enough** **paper, ink, or toner** , and it is**not stuck in a paper jam** . Also, check the status of your printer cartridge and try replacing it with a new one if it is not good enough. In some cases, your HP printer stops printing after you replace its parts. If this happens you should**install the original ones back** and see if the problem is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Repair system files
 
@@ -161,10 +165,6 @@ Check your computer to see if your printer works properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/sfc-scannow.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the printer works properly.
 
@@ -185,22 +185,24 @@ Check your computer to see if your printer works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-video-excellence-and-staff-picks-at-vimeo/"><u>[New] In 2024, The Ultimate Guide to Video Excellence & Staff Picks at Vimeo</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-setup-unable-to-locate-hp-driver-winxo/"><u>[Printer Setup] Unable to Locate HP Driver WINXO</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-unable-to-install-printeroperation-could-not-be-completed/"><u>[Solved] Unable to Install Printer.Operation Could Not Be Completed</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-a-beginners-blueprint-to-crafting-engaging-tiktok-reaction-videos-with-filmora/"><u>[Updated] 2024 Approved A Beginner’s Blueprint to Crafting Engaging TikTok Reaction Videos with Filmora</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-smart-shelfings-leading-frame-apps-of-the-future/"><u>2024 Approved Smart Shelfings Leading Frame Apps of the Future</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ad-ds-maintenance-causing-print-errors/"><u>AD DS Maintenance Causing Print Errors</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brother-cdw-air-glide-instructions-quickly/"><u>Brother CDW Air-Glide Instructions Quickly</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/cross-platform-communication-how-to-set-up-facetime-on-windows-systems/"><u>Cross-Platform Communication: How to Set Up FaceTime on Windows Systems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-printer-offline-solved/"><u>Epson Printer Offline [Solved]</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-realme-12plus-5g-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Realme 12+ 5G Get Deleted Pictures Back with Ease and Safety?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-conquering-zoom-meetings-a-tech-savvy-setup-strategy/"><u>In 2024, Conquering Zoom Meetings A Tech-Savvy Setup Strategy</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro, Apples New iPhone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-srt-to-video-top-10-free-subtitle-tools/"><u>In 2024, Transform SRT to Video - Top 10 FREE Subtitle Tools</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-white-paper-output-on-hp-printer/"><u>Resolving White Paper Output on HP Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restoring-scanner-activation-for-win10-users/"><u>Restoring Scanner Activation for Win10 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-solutions-overcoming-windows-10-update-error-code-0x800f0922/"><u>Top Solutions: Overcoming Windows 10 Update Error Code 0X800f0922</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win7-inkjet-fix-successful/"><u>Win7 Inkjet Fix Successful</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-art-of-deformed-text-display-for-2024/"><u>[New] The Art of Deformed Text Display for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-the-best-makeup-tutorials-on-youtube/"><u>[Updated] 2024 Approved A Comprehensive Guide to the Best Makeup Tutorials on YouTube</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-youtube-video-ranking-what-factors-affect-your-rank-for-2024/"><u>[Updated] YouTube Video Ranking - What Factors Affect Your Rank for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/tta-mp3-movavi/"><u>「TTA MP3フォーマットの自由なオンライン変換 - Movavi」</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/5-simple-steps-to-make-your-canon-printer-work-again/"><u>5 Simple Steps to Make Your Canon Printer Work Again</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/advanced-techniques-to-setup-hp-print-devices-in-win10-os/"><u>Advanced Techniques to Setup HP Print Devices in Win10 OS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-three-tactics-for-maximizing-zoom-transcoding/"><u>Best Three Tactics for Maximizing Zoom Transcoding</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-oppo-a1-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Oppo A1 5G</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/new-printer-added-operation-without-issues/"><u>New Printer Added: Operation Without Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcome-non-printing-in-canon-printers-windows-edition/"><u>Overcome Non-Printing in Canon Printers, Windows Edition</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/post-installation-inkjet-printer-error-fixed/"><u>Post Installation, Inkjet Printer Error Fixed</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/professional-hardware-and-software-fixes-for-video-issues-with-grau-gmbhs-solution/"><u>Professional Hardware and Software Fixes for Video Issues with Grau GmbH's Solution</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-guide-linking-your-canon-to-wi-fi/"><u>Quick Guide: Linking Your Canon to Wi-Fi</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-tip-uninstalling-default-print-devices/"><u>Quick Tip: Uninstalling Default Print Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-link-between-sibling-and-online-printer/"><u>Restoring Link Between Sibling and Online Printer</u></a></li>
+<li><a href="https://fox-http.techidaily.com/ultimate-aquatic-enhancements-for-gopro-footage-for-2024/"><u>Ultimate Aquatic Enhancements for GoPro Footage for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-gpt-4-a-guide-to-five-complimentary-gateways/"><u>Unlocking GPT-4: A Guide to Five Complimentary Gateways</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-13-pro-max-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your iPhone 13 Pro Max</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win-11-update-leads-to-non-printer-functionality/"><u>Win 11 Update Leads to Non-Printer Functionality</u></a></li>
 </ul></div>
 

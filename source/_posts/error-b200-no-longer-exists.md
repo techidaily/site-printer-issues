@@ -1,7 +1,7 @@
 ---
 title: Error B200 No Longer Exists
-date: 2024-11-16T22:45:47.077Z
-updated: 2024-11-23T20:30:53.589Z
+date: 2024-12-01T07:45:24.099Z
+updated: 2024-12-02T12:33:43.544Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 2. **[Check your ink cartridges](#b)**
 3. **[Clean the printhead](#c)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your printer driver
 
  When something goes wrong with your Canon printer, updating its driver should always be your go-to option. Most printer issues, such as blank page printing, error code messages, and printer not responding, are often caused by a faulty printer driver.
@@ -50,7 +46,7 @@ There are two ways you can update your printer driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/b200-error-code-canon-driver-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Enter the name of the serial number of your Canon product and search for it.
@@ -76,20 +72,20 @@ There are two ways you can update your printer driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-229.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like. But it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](mailto:support@drivereasy.com) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Check your ink cartridges
 
@@ -103,10 +99,6 @@ There are two ways you can update your printer driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/toner-581905_1920-1024x768.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Check the ink levels on your printer
 
  Check the ink levels on your Canon printer and replace your cartridges if necessary.
@@ -119,9 +111,17 @@ There are two ways you can update your printer driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/cartridges-828195_1920-1-1024x981.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Make sure your cartridges all work properly, then reinstall it.
 
  Now, reopen your Canon printer. If your problem still exists, try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Clean the printhead
 
@@ -163,15 +163,18 @@ The printhead is very delicate. Please proceed with caution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/levate-your-mobile-surfing-with-these-top-7-blockers/"><u>[New] Elevate Your Mobile Surfing with These Top 7 Blockers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/canva-cinematography-perfecting-music-cropping-and-editing-for-2024/"><u>Canva Cinematography Perfecting Music Cropping and Editing for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-phantom-errors-in-epson-printer/"><u>Fixed Phantom Errors in Epson Printer</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-g310-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Nokia G310 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/immediate-action-on-queued-print-processes/"><u>Immediate Action on Queued Print Processes</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/navigating-2023-a-social-media-userayers-handbook-for-fb-videos-for-2024/"><u>Navigating 2023 A Social Media User’ayer's Handbook for FB Videos for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/procedure-connecting-hp-officejet-to-windows-device/"><u>Procedure: Connecting HP Officejet to Windows Device</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-non-authentic-printer-use-case/"><u>Resolved: Non-Authentic Printer Use Case</u></a></li>
-<li><a href="https://win-special.techidaily.com/wie-funktioniert-das-reformatieren-einer-sd-karte-und-ist-es-moglich-dies-zu-tun/"><u>Wie Funktioniert Das Reformatieren Einer SD-Karte Und Ist Es Möglich, Dies Zu Tun?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-harmonizing-content-with-ig-beats-for-2024/"><u>[New] Harmonizing Content with IG Beats for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quelling-unsteady-motion-effects/"><u>[New] Quelling Unsteady Motion Effects</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-hp-driver-missing-in-windows-system/"><u>[Printer] HP Driver Missing in Windows System</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-ultimate-voice-transformation-devices-for-creators/"><u>[Updated] 2024 Approved Ultimate Voice Transformation Devices for Creators</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-capture-the-action-the-fastest-most-effective-home-filmmaking-tricks/"><u>2024 Approved Capture the Action The Fastest, Most Effective Home Filmmaking Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/i-metodi-piu-efficienti-per-la-trasformazione-di-file-mts-in-formato-mp4-soluzione-libera/"><u>I Metodi Più Efficienti per La Trasformazione Di File MTS in Formato MP4 - Soluzione Libera!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/instant-realignment-for-trapped-print-jobs/"><u>Instant Realignment for Trapped Print Jobs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/preventing-print-queue-disruption-in-multiple-oss/"><u>Preventing Print Queue Disruption in Multiple OSs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/rectifying-hp-printer-issue-code-oxc4eb827f/"><u>Rectifying HP Printer Issue: Code OXC4EB827F</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolve-paper-jams-and-misprints-on-windows-10/"><u>Resolve Paper Jams & Misprints on Windows 10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reverse-non-prints-with-simple-steps-for-windows-10-users/"><u>Reverse Non-Prints with Simple Steps for Windows 10 Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transcodificar-archivos-de-peliculas-desde-mpg-a-mp4-sin-gastos-online-por-movavi/"><u>Transcodificar Archivos De Películas: Desde MPG a MP4 Sin Gastos Online Por Movavi</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/waveforms-and-windows-mac-sound-recording/"><u>Waveforms and Windows Mac Sound Recording</u></a></li>
 </ul></div>
 

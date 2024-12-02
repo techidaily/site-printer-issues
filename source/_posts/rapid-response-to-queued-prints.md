@@ -1,7 +1,7 @@
 ---
 title: Rapid Response to Queued Prints
-date: 2024-11-16T23:09:16.960Z
-updated: 2024-11-23T16:23:37.825Z
+date: 2024-11-29T16:25:30.653Z
+updated: 2024-12-02T02:59:55.214Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
    3. [Create a Bat file for permanent use](#f3)
 * **Fix 2 –[Reinstall your printer driver](#m2)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Clear the print queue
 
  There are three options for you to clear the print queue. You don’t have to try them all; just take your pick.
@@ -40,22 +44,22 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 3. Scroll down to**Print Spooler** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Right-click**Print Spooler** and select**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/stop-the-service.jpg)
 5. Navigate to**C:\\Windows\\System32\\spool\\PRINTERS** and delete all files in the folder. (Do NOT delete the folder itself.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/delete.jpg)
 6. In the Services window, right-click**Print Spooler** and select**Start** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/start-service.jpg)
 7. Go back to the**Print Job** queue. All print jobs should have been removed now and you can start printing again normally.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Have trouble deleting the files?**
   
@@ -70,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 1. Type**cmd** in the search box and Run it as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/command-prompt-admin.jpg)
 2. In the Command Prompt window, enter the following commands separately:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 net stop spooler
 
@@ -95,16 +95,16 @@ This will clear all of your print jobs stuck in a queue.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/note.jpg)
 3. Then click**File** \>**Save as…**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
    * Change the file type to**All files**  
    * Name your file whatever you want, but add a**.bat** suffix.  
    * Make sure the Encoding type is**ANSI** .  
    * Save the file. (Note where the file is saved.)  
    ![](https://images.drivereasy.com/wp-content/uploads/2020/01/batch-file.jpg)
 4. Double-click the batch file to clear the print queue anytime you want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Reinstall the printer driver
 
@@ -142,7 +142,7 @@ This will clear all of your print jobs stuck in a queue.
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Try printing again. Your printer should be working properly now.
@@ -172,17 +172,24 @@ Feel free to drop us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-unlock-laughter-traps-20-quirky-fb-detention-anecdotes-for-amusement-for-2024/"><u>[New] Unlock Laughter Traps 20 Quirky FB Detention Anecdotes for Amusement for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-how-to-enhance-facebook-stream-volume-completely/"><u>[Updated] In 2024, How to Enhance Facebook Stream Volume Completely</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/avoiding-offline-troubles-with-a-neighborhood-printer/"><u>Avoiding Offline Troubles with a Neighborhood Printer</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-asus-chromebook-c2easyacademic-ready-device-perfect-for-young-learners/"><u>Comprehensive Asus Chromebook C2easyAcademic-Ready Device Perfect for Young Learners</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-printer-driver-issues-on-windows-11/"><u>Fix Printer Driver Issues on Windows 11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-tecno-camon-20-pro-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Tecno Camon 20 Pro 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-audio-setup-how-to-identify-and-adjust-unrecognized-speaker-settings-on-windows-11/"><u>Mastering Audio Setup: How to Identify and Adjust Unrecognized Speaker Settings on Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/paperjam-prevention-tips/"><u>PaperJam Prevention Tips</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-service-disabled-trouble-in-windows/"><u>Printer Service Disabled: Trouble in Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/roblox-audio-fixes-for-windows-users-overcoming-the-silent-challenge-in-versions-11-and-10/"><u>Roblox Audio Fixes for Windows Users: Overcoming the Silent Challenge in Versions 11 & 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/steps-to-successfully-repair-the-d3dx930dll-not-found-mistake-in-windows/"><u>Steps to Successfully Repair the d3dx9_30.dll Not Found Mistake in Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-making-your-stardew-valley-game-stable-again/"><u>Troubleshooting Tips: Making Your Stardew Valley Game Stable Again</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-missing-hp-support-in-windows-1110/"><u>[Print] Missing HP Support in Windows 11/10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/update-needed-drivers-not-installing-hp-deskjet-d1360-on-windows/"><u>[Update Needed] Drivers Not Installing: HP Deskjet D1360 on Windows</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-elevate-your-cinematography-skills-editing-and-sharing-360-videos-on-youtube-for-2024/"><u>[Updated] Elevate Your Cinematography Skills Editing and Sharing 360° Videos on YouTube for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-beaming-login-logout-directions/"><u>2024 Approved Beaming Login / Logout Directions</u></a></li>
+<li><a href="https://win-trending.techidaily.com/achieving-optimal-clarity-in-4k-the-top-fps-settings-you-need-to-know-about/"><u>Achieving Optimal Clarity in 4K: The Top FPS Settings You Need to Know About</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/command-corporate-conversations-and-elevate-performance/"><u>Command Corporate Conversations and Elevate Performance</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/correcting-sheet-overflow-in-an-epson-device/"><u>Correcting Sheet Overflow in an Epson Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evolving-watch-tech-with-ai-discover-6-game-changing-uses-for-chatgpt-in-smartwatches/"><u>Evolving Watch Tech with AI: Discover 6 Game-Changing Uses for ChatGPT in Smartwatches</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-printer-malfunctions-post-win11-rollout/"><u>Fixed: Printer Malfunctions Post Win11 Rollout</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-printer-back-to-normal-goodbye-ghost-bars/"><u>HP Printer Back to Normal: Goodbye, Ghost Bars</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-m6-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Poco M6 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mf4770n-software-revamp-for-windows-108-upgrades/"><u>MF4770n Software Revamp for WIndows 10/8 Upgrades</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722957397805-mitigation-strategies-include-adjusting-ground-clamp-position-turning-off-interfering-components-and-modifying-welding-technique/"><u>Mitigation Strategies Include Adjusting Ground Clamp Position, Turning Off Interfering Components, and Modifying Welding Technique.</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-hp-printer-blank-pages-challenge/"><u>Overcoming HP Printer Blank Pages Challenge</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-inkjet-hp-not-printing-error/"><u>Solved: Inkjet HP Not Printing Error</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/step-by-step-guide-retrieving-your-lost-xbox-gameplay-videos/"><u>Step-by-Step Guide: Retrieving Your Lost Xbox Gameplay Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-instructions-for-showing-gifs-on-different-devices-including-pc-and-mobile/"><u>Step-by-Step Instructions for Showing GIFs on Different Devices Including PC and Mobile</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/swift-strategies-correcting-pcl-xl-faults/"><u>Swift Strategies: Correcting PCL XL Faults</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/writing-with-heart-where-machines-cant-venture/"><u>Writing with Heart: Where Machines Can’t Venture</u></a></li>
 </ul></div>
 

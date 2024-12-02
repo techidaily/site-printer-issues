@@ -1,7 +1,7 @@
 ---
 title: Rapid Printer Setup Guide
-date: 2024-11-20T09:06:09.081Z
-updated: 2024-11-23T16:45:15.055Z
+date: 2024-11-27T05:47:04.677Z
+updated: 2024-12-02T05:43:15.570Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/de7c313fd07e2524cf8d55d82a6066b369ed71aad
 7. **[Update the printer firmware](#Fix7)**
 8. **[Repair system files](#Fix8)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reset your printer
 
  If your printer has been printing for a long time, the speed may begin to slow to protect the print mechanism from overheating or becoming damaged. To fix it, you’ll need to reset your printer. Here’s how:
@@ -54,25 +58,13 @@ thumbnail: https://thmb.techidaily.com/de7c313fd07e2524cf8d55d82a6066b369ed71aad
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/printers-scanners.jpg)
 2. Click your Printer, then click**Manage** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/manage-printer.jpg)
 3. Click**Printing preferences** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/printer-preferences.jpg)
 4. In the pop-up window, navigate to the**Paper/Quality** tab. Select**Plain Paper** in the Media or Paper Type field. Under Quality Settings or Print Quality, select**Draft** ,**Normal** or**Standard** . Then click**OK** to save changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/paper-quality.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### in Windows 11
 
@@ -88,18 +80,18 @@ thumbnail: https://thmb.techidaily.com/de7c313fd07e2524cf8d55d82a6066b369ed71aad
 4. Under the**Paper/Quality** tab, use the drop-down menu next to**Media** to select the appropriate paper type.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/win11-Select-the-appropriate-paper-type.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After applying the changes, test if the print speed goes back to normal.
 
 If your printer still prints very slowly, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your printer driver
 
@@ -133,9 +125,17 @@ Here we list the common printer manufacturers for you:
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/update-all.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating your printer driver, try to print. If the issue remains, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Turn off Quiet Mode
 
@@ -147,10 +147,6 @@ Here we list the common printer manufacturers for you:
 2. Click your printer, then select**Advanced Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/HP-smart-advanced-settings.jpg)
 3. Navigate to**Settings** , expand Preferences, and select**Quiet Mode** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/quiet-mode.jpg)
 4. Select**Off** , then click**Apply** .  
@@ -172,19 +168,19 @@ Here we list the common printer manufacturers for you:
 2. In Services, find Print Spooler, right-click on it, and select**Stop** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/print-spooler-stop.jpg)  
 **Note** : Do not close the Services window, simply minimize it as you’ll go back to it later.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box, then type**spool** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/spool.jpg)
 4. Open the**PRINTERS** folder.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/printers-files.jpg)
 5. Delete all files in this folder, then close it. This is to clear the print queues.
@@ -192,12 +188,16 @@ Here we list the common printer manufacturers for you:
 6. Go back to the Services window, right-click Print Spooler, and select**Start** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/print-spooler-start.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now try your printer to see if the problem is resolved.
 
 If your printer still prints at a slow speed, try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Check the network connection
@@ -214,10 +214,6 @@ After checking your network connection, try to print again.
 
 If your network is not the problem, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Update the printer firmware
 
  If all of the methods above fail to solve your problem,**try updating the printer firmware** as the last resort. This might help you resolve the slow printing issue sometimes. You can download available firmware updates from your printer manufacturer’s official website. Then follow the on-screen instructions to install it.
@@ -233,6 +229,10 @@ If your network is not the problem, continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/Fortect-START-SCAN.png)
 3. You’ll get a scan summary listing all the issues it detects. Click**Start Repair** to fix the problems (and you’ll be prompted to the pricing page. The full version of Fortect comes with a**60-day money-back guarantee**).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)
 
@@ -259,18 +259,19 @@ If your network is not the problem, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-current-lighting-infrastructure/"><u>2024 Approved Current Lighting Infrastructure</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-speedy-photographers-guide-to-google-collage-crafting/"><u>2024 Approved The Speedy Photographer's Guide to Google Collage Crafting</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-8-plus-how-to-unlock-a-disabled-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>Disabled Apple iPhone 8 Plus How to Unlock a Disabled Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/erase-with-ease-the-top-rated-stellar-file-remover-for-windows-users/"><u>Erase with Ease: The Top-Rated Stellar File Remover for Windows Users</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/halted-epson-printing-now-continues/"><u>Halted Epson Printing, Now Continues</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/how-to-blur-background-in-zoom-with-ease-an-ultimate-guide/"><u>How to Blur Background in Zoom with Ease An Ultimate Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-capturing-excellence-a-full-breakdown-of-sj-cam-s6/"><u>In 2024, Capturing Excellence A Full Breakdown of SJ-CAM S6</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/paper-jams-and-ink-issues-now-gone/"><u>Paper Jams and Ink Issues, Now Gone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-hooked-up-instantly-and-easily/"><u>Printer Hooked Up Instantly & Easily</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-offline-not-responding-errors/"><u>Printer Offline, Not Responding Errors</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/rec-room-headset-malfunction-fixing-mic-issues-on-pc/"><u>Rec Room Headset Malfunction: Fixing Mic Issues on PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-free-music-download-websites-15-picks/"><u>Ultimate List of Free Music Download Websites (15 Picks)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/unlocking-the-power-of-personalized-zodiac-inspired-biographies-for-2024/"><u>Unlocking the Power of Personalized Zodiac-Inspired Biographies for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-difficulty-unable-to-locate-hp-driver-on-winxo/"><u>[Driver Difficulty] - Unable to Locate HP Driver on WinXO</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-tips-and-tricks-for-professional-audio-in-audacity/"><u>[Updated] In 2024, Tips and Tricks for Professional Audio in Audacity</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-maintain-eye-contact-this-helps-establish-rapport-with-the-speaker-and-shows-your-engagement/"><u>2024 Approved Maintain Eye Contact This Helps Establish Rapport with the Speaker and Shows Your Engagement</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/all-about-facetune-in-depth-user-guide-and-analysis/"><u>All About Facetune In-Depth User Guide & Analysis</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574003773-canon-printer-is-offline-heres-how-to-fix-it/"><u>Canon Printer Is Offline? Here's How to Fix It!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-xs-max-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone XS Max without Security Questions?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-integrating-timestamps-youtube-video-link-enhancement-techniques/"><u>In 2024, Integrating Timestamps YouTube Video Link Enhancement Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-mobile-battlefronts-the-best-mobas-on-android/"><u>In 2024, Mobile Battlefronts The Best MOBAs on Android</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/officejet-pro-8600-printer-support-package-windows-based/"><u>Officejet Pro 8600 Printer Support Package, Windows-Based</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-dilemma-ends-after-new-windows-installation/"><u>Print Dilemma Ends After New Windows Installation</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/synchronize-printer-settings-across-multiple-devices-win10-style/"><u>Synchronize Printer Settings Across Multiple Devices, Win10 Style</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-tutorial-connecting-your-gopro-camera-to-your-television/"><u>Ultimate Tutorial: Connecting Your GoPro Camera to Your Television</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win-hp-printer-setup-manual/"><u>Win HP Printer Setup Manual</u></a></li>
 </ul></div>
 
