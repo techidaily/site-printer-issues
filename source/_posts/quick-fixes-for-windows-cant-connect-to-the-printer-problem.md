@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for 'Windows Can't Connect to the Printer' Problem
-date: 2024-11-25T16:02:50.425Z
-updated: 2024-12-02T09:14:47.686Z
+date: 2024-12-08T17:58:02.774Z
+updated: 2024-12-10T04:35:29.884Z
 tags:
   - win11
   - win10
@@ -37,10 +37,6 @@ When you are trying to add a network shared printer, if you receive message “W
 [**Solution 4: Copy “mscms.dll” Manually**](https://tools.techidaily.com/drivereasy/download/)   
 [**Solution 5: Delete a Subkey**](https://tools.techidaily.com/drivereasy/download/) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##   **Solution 1: Restart Print Spooler Service** 
 
 Follow steps below to stop Print Spooler service then start it again.
@@ -55,12 +51,16 @@ Follow steps below to stop Print Spooler service then start it again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592282f40baaf.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Under Service status, click**Stop** button. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59228346254fb.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4\. Click**Start** button to start the service again.
@@ -81,10 +81,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592284396a5e3.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Click**Add a printer** at the top of the window.**Note:** To continue, you need to login to the computer as an administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592284c312e63.jpg) 
@@ -94,7 +90,7 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592285527f2ca.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5\. Select**Create a new port** , change the “Type of port” to**Local Port** then click**Next** button.
@@ -102,7 +98,7 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5922878323a31.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6.**Enter a port name** in the box. The port name is the printer’s address. The address format is **\\\\IP address or the Computer Name\\Printer’s Name** (refer to the following screen). Then click**OK** button.
@@ -127,17 +123,21 @@ Follow steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59228fef1fe19.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. In the left pane, click**All Drivers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59229062a2cbc.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4\. In the right pane, right-click on the printer driver and click**Delete** on the pop-up menu. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592290cca70ff.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you see more than one printer driver names, repeat steps above to remove them one by one.
 
@@ -201,18 +201,24 @@ Follow steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-libertycam-studio-a-user-friendly-review/"><u>[Updated] 2024 Approved LibertyCam Studio A User-Friendly Review</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-the-art-of-cinematic-content-on-instagram/"><u>[Updated] In 2024, Mastering the Art of Cinematic Content on Instagram</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premium-android-vr3d-player-selection/"><u>[Updated] Premium Android VR/3D Player Selection</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-understanding-and-utilizing-ez-grabber-like-a-pro/"><u>[Updated] Understanding and Utilizing EZ Grabber Like a Pro</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-iphone-video-zooming-made-simple/"><u>2024 Approved IPhone Video Zooming Made Simple</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-unlock-the-power-of-sony-vegas-to-enhance-your-youtube-channel/"><u>2024 Approved Unlock the Power of Sony Vegas to Enhance Your YouTube Channel</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-intermittent-print-service-disruptions-in-win-oss/"><u>Fixing Intermittent Print Service Disruptions in Win OSs</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211363330-9782017289807-le-mont-des-oliviers/"><u>Le Mont des Oliviers | Free Book</u></a></li>
-<li><a href="https://blog-min.techidaily.com/les-top-applications-de-conversion-video-whatsapp-en-2021-decouvrez-le-meilleur-et-telecharger-gratuitement/"><u>Les Top Applications De Conversion Vidéo WhatsApp en 2021 : Découvrez Le Meilleur Et Télécharger Gratuitement</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-huawei-p60-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Huawei P60 Black and White | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reinstated-default-printer-post-error-0x00000709-fix/"><u>Reinstated Default Printer Post-Error 0X00000709 Fix</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/technical-assembly-combining-hp-printer-model-with-computer/"><u>Technical Assembly: Combining HP Printer Model with Computer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unlocking-the-secret-of-fully-formatted-paper-trails/"><u>Unlocking the Secret of Fully Formatted Paper Trails</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-usb-printers-ignoring-command-in-windows-7-mode/"><u>[Fix] USB Printers Ignoring Command in Windows 7 Mode</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-premier-collection-top-10-audio-capturers-on-spotify/"><u>[New] 2024 Approved Premier Collection Top 10 Audio Capturers on Spotify</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-efficient-keyword-utilization-discover-the-best-7-online-video-tag-extractors-reviewed-for-2024/"><u>[New] Efficient Keyword Utilization Discover the Best 7 Online Video Tag Extractors Reviewed for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-best-practices-for-measuring-igtv-video-effectiveness-for-2024/"><u>[Updated] Best Practices for Measuring IGTV Video Effectiveness for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-value-capture-budget-cam-essentials/"><u>[Updated] In 2024, Value Capture Budget Cam Essentials</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/abbyy-empowers-land-registrys-ascent-to-global-prominence-in-digital-service-innovation/"><u>ABBYY Empowers Land Registry's Ascent to Global Prominence in Digital Service Innovation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/access-hq-facebook-content-anytime-offline/"><u>Access HQ Facebook Content Anytime Offline</u></a></li>
+<li><a href="https://facebook.techidaily.com/break-free-how-to-leave-facebook-behind-on-androids/"><u>Break Free - How to Leave Facebook Behind on Androids</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-error-0x00000709-on-printer-selection-in-windows/"><u>Fixed Error 0X00000709 on Printer Selection in Windows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/innovative-approaches-to-powerpoint-video-capture-for-2024/"><u>Innovative Approaches to PowerPoint Video Capture for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/installation-failure-canon-pixma-mp620-driver-missing-in-win10/"><u>Installation Failure: Canon Pixma MP620 Driver Missing in WIN10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-not-recognized-missing-hp-drivers-on-win1011/"><u>Printer Not Recognized: Missing HP Drivers on Win10/11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-reboot-no-more-error-after-windows-10-patch/"><u>Printer Reboot, No More Error After Windows 10 Patch</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-troubles-resolved-windows-11-guide/"><u>Printer Troubles Resolved: Windows 11 Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-win-11-printer-hiccup-after-update/"><u>Resolved Win 11 Printer Hiccup After Update</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-blank-page-output-from-hp/"><u>Resolving Blank Page Output From HP</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/trouble-with-printer-driver-setup-for-hp-deskjet-d1360-on-pcs/"><u>Trouble with Printer Driver Setup for HP Deskjet D1360 on PCs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/ultimate-game-hub-a-thousand-channels-for-gamers-for-2024/"><u>Ultimate Game Hub A Thousand Channels for Gamers for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Honor Magic V2 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Regain Access: Sister-Brother Printer Offline Fix Guide"
-date: 2024-11-26T05:05:20.664Z
-updated: 2024-12-02T06:30:26.993Z
+date: 2024-12-08T17:36:38.567Z
+updated: 2024-12-09T21:51:09.004Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ Here is how to solve the Brother Printer Offline problem:
 [**6) Check your printer**](#f)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1) Set your printer as Default Printer
@@ -46,19 +46,23 @@ Here is how to solve the Brother Printer Offline problem:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593fb867beb0b.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **b)**  In Control Panel, click on**Devices and Printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **c)**  Under**Printers** , right click on your Brother printing device and select**Set as default printer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593fb95ba1bf4.png)
 
 **d)** Your printer is now set as Default Printer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2) Unpause the printer and set its using online
 
@@ -70,12 +74,16 @@ Here is how to solve the Brother Printer Offline problem:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59409bcecf2e7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **c)** On the window popping up, click on**Printer** , and then select**Open As Administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940dc98227ab.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **d)** Click on**Printer** again. If you see**Pause Printing** and**Use Printer Offline** are**ticked** ,**untick** these items.
@@ -100,10 +108,6 @@ Here is how to solve the Brother Printer Offline problem:
 
 **d)**  Close the window and see if your printer gets back to normal.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4) Update printer firmware
 
  Sometimes you need to update the firmware of your Brother printer in order to resolve some issues of your device.
@@ -111,10 +115,6 @@ Here is how to solve the Brother Printer Offline problem:
  **a)**  Go to [**Brother official software download website**](http://support.brother.com/g/b/productsearch.aspx?c=us&lang=en&content=dl) . Search the product you are using.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a9fc856af.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **b)** On the Downloads page of your printing device, select the**operating system version** you are using and hit**Search** .
 
@@ -124,13 +124,13 @@ Here is how to solve the Brother Printer Offline problem:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940aba39e231.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **d)** Hit**Agree to the EULA and Download** button at the bottom.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940ac4287cda.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **e)** After the download is completed, open the file and follow its instruction to update the firmware of your printer.
 
@@ -144,21 +144,17 @@ Here is how to solve the Brother Printer Offline problem:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940b29f2febb.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940b39645581.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **c)**  Go to**Brother official software download** website and search for the**Downloads** page of your device (as shown by steps**a** and**b** in [**method 4**](#i) ).
 
 **d)** Select and download**Full Driver & Software Package** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940b2412d1a1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **e)** Open the file you have downloaded and follow the instruction to install the latest driver and software for your printer.
 
@@ -167,6 +163,10 @@ Here is how to solve the Brother Printer Offline problem:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940b663b0cc3.png)
 
  And its **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  is a much more powerful driver management tool. You can update all of your drivers**quickly** and**automatically** with just a few clicks. Plus, you can use this tool to**easily** finish**advanced driver manipulations** such as**driver backup and restore** or**reinstallation** . This is the tool that can**greatly improve your computer performance** and**considerably save your time and energy** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6) Check your printer
 
@@ -193,21 +193,21 @@ Here is how to solve the Brother Printer Offline problem:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-quick-and-easy-apods-episodes-access-on-gadgets/"><u>[New] Quick and Easy APods Episodes Access on Gadgets</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-guide-top-9-tools-for-making-gifs/"><u>[Updated] The Ultimate Guide Top 9 Tools for Making GIFs</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-push-the-boundaries-of-your-snapchat-presence-customize-voices-now/"><u>2024 Approved Push the Boundaries of Your Snapchat Presence Customize Voices Now</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/addsvc-not-responding-printer-error-reported/"><u>ADDSVC Not Responding: Printer Error Reported</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/error-code-0x97-the-epson-fix/"><u>Error Code 0X97: The Epson Fix</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/finding-windows-11-support-for-mp620-printer/"><u>Finding Windows 11 Support for MP620 Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-hp-printer-fatal-error-oxc4eb827f/"><u>Fixing HP Printer Fatal Error OXC4EB827F</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/generative-excellence-which-reigns-supreme-notion-ai-or-googles-chatgpt/"><u>Generative Excellence: Which Reigns Supreme, Notion AI or Google's ChatGPT?</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/how-to-restore-deleted-jpeg-pictures-in-microsofts-latest-operating-systems/"><u>How to Restore Deleted JPEG Pictures in Microsoft's Latest Operating Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-successfully-address-and-correct-binkw32dll-absent-files/"><u>How to Successfully Address and Correct Binkw32.dll Absent Files</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mastering-the-installation-of-canon-print-devices/"><u>Mastering the Installation of Canon Print Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/power-supply-issues-for-pc-an-inadequate-or-faulty-power-supply-unit-could-cause-the-computer-not-to-start-up-correctly-and-result-in-a-black-screen-checkin406/"><u>Power Supply Issues (for PC): An Inadequate or Faulty Power Supply Unit Could Cause the Computer Not to Start up Correctly and Result in a Black Screen. Checking Your PSU for Issues May Help.</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/speed-up-stalled-printer-tasks/"><u>Speed Up Stalled Printer Tasks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/switching-from-apple-vision-pro-and-meta-quest-3-the-more-affordable-alternative-xr-glasses-reviewed-by-tech-expert/"><u>Switching From Apple Vision Pro & Meta Quest 3: The More Affordable Alternative XR Glasses Reviewed by Tech Expert</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-keeping-your-data-private-in-fb/"><u>The Ultimate Guide to Keeping Your Data Private in FB</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-7-printer-repaired/"><u>Windows 7 Printer Repaired</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-the-power-of-youtubes-movie-maker-for-professionals/"><u>[New] 2024 Approved Harness the Power of YouTube's Movie Maker for Professionals</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-how-to-watch-live-streaming-football-for-free-on-pc-or-mobile/"><u>[New] 2024 Approved How to Watch Live Streaming Football for Free on PC or Mobile</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-flight-time-selecting-premium-uav-power-sources/"><u>[New] Mastering Flight Time Selecting Premium UAV Power Sources</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-3-best-ios-video-editors-free-tips-and-guides/"><u>[New] Top 3 Best iOS Video Editors FREE Tips & Guides</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-streamline-your-sessions-the-discord-recorders-handbook/"><u>[Updated] 2024 Approved Streamline Your Sessions The Discord Recorder’s Handbook</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-apples-m1-milestone-the-next-gen-computing-core/"><u>[Updated] Apple’s M1 Milestone The Next-Gen Computing Core</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/b200-correction-implemented/"><u>B200 Correction Implemented</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/b200-fix-achieved/"><u>B200 Fix Achieved</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/direct-link-to-stellars-official-site/"><u>Direct Link to Stellar's Official Site</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-8-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 8 Lock Screen with Notifications?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-os-error-drivers-not-found/"><u>Printer OS Error: Drivers Not Found</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/quick-guide-converting-avi-files-to-dvd-compatible-vob-on-windows-10/"><u>Quick Guide: Converting AVI Files to DVD-Compatible VOB on Windows 10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolve-windows-2000-xp-print-errors-quickly/"><u>Resolve Windows 2000 XP Print Errors Quickly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-printer-fault-eco-error/"><u>Resolved: Printer Fault #Eco-Error</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/wake-up-call-faulty-usb-printers-in-windows-7-mode/"><u>Wake Up Call: Faulty USB Printers in Windows 7 Mode</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-printer-not-responding-spooler-issue/"><u>Windows Printer Not Responding: Spooler Issue</u></a></li>
 </ul></div>
 
