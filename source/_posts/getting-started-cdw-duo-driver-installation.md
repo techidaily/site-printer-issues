@@ -1,7 +1,7 @@
 ---
 title: "Getting Started: CDW Duo Driver Installation"
-date: 2024-12-08T18:54:31.999Z
-updated: 2024-12-10T04:20:00.614Z
+date: 2024-12-13T02:42:24.120Z
+updated: 2024-12-15T17:14:05.688Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
 
 **Option 2 – Automatically (Recommended)** – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 1: Download and install the driver manually
 
  According to Brother’s official website, it’s preferable to uninstall the older driver first before we head to the official website to download & install our driver.
@@ -48,12 +44,16 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-118.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click**Brother MFC-9330CDW** **printer** and select**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-119.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  By now you’ve finished the uninstall, let’s move on to the next step.
@@ -71,20 +71,20 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-122.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Agree to the EULA and Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Download.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Once you’ve downloaded the correct driver file for your system, right-click the downloaded file and select**Run as administrator** . Then follow the on-screen instructions to install the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-127.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Restart your computer to take effect.
 
@@ -105,7 +105,7 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-09-24_10-03-23-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -140,24 +140,18 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-elevate-your-videos-luminous-techniques-for-android-users-for-2024/"><u>[New] Elevate Your Videos - Luminous Techniques for Android Users for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-review-of-wirecast-and-similar-programs/"><u>[New] The Ultimate Review of WireCast & Similar Programs</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-dive-into-action-4-easy-steps-for-audience-captivating-instagram-loops/"><u>[Updated] 2024 Approved Dive Into Action 4 Easy Steps for Audience-Captivating Instagram Loops</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-top-5-online-youtube-mp3-converters-free-and-easy/"><u>[Updated] 2024 Approved Top 5 Online YouTube-MP3 Converters, Free and Easy</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-insiders-guide-to-pro-windows-10-expertise/"><u>[Updated] Insider's Guide to Pro WINDOWS 10 Expertise</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/2-steps-to-set-up-canon-printer-with-pictures/"><u>2 Steps to Set up Canon Printer (With Pictures)</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-is-investing-in-a-monthly-youtube-premium-worthwhile/"><u>2024 Approved Is Investing in a Monthly YouTube Premium Worthwhile?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/bridge-your-print-device-setup-for-canon-and-wi-fi/"><u>Bridge Your Print Device: Setup for Canon & Wi-Fi</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/clearing-paper-jams-swiftly/"><u>Clearing Paper Jams Swiftly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/drive-upgrade-streamline-mf4770n-in-windows/"><u>Drive Upgrade: Streamline MF4770n in WIndows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-blank-pages-windows-11-printer-woes/"><u>Fix Blank Pages: Windows 11 Printer Woes</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-mastering-sound-integrating-audio-with-visuals-in-film-production/"><u>New Mastering Sound Integrating Audio with Visuals in Film Production</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-every-page-without-a-glitch-now/"><u>Print Every Page without a Glitch, Now!</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/quick-methods-for-saving-google-voice-communication-for-2024/"><u>Quick Methods for Saving Google Voice Communication for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/resolved-windows-10-auto-delete-files-how-to-stop-and-fix/"><u>Resolved: Windows 10 Auto-Delete Files - How To Stop & Fix</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/techniques-bringing-an-isolated-printer-back-onboard/"><u>Techniques: Bringing an Isolated Printer Back Onboard</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/tranquil-acoustic-settings-on-computers-for-2024/"><u>Tranquil Acoustic Settings on Computers for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-missing-printers-from-the-network/"><u>Troubleshooting Missing Printers From the Network</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-os-struggles-hp-driver-not-available/"><u>Windows OS Struggles: HP Driver Not Available</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-elevating-video-marketing-understanding-keywords-on-platforms-like-youtube/"><u>[Updated] Elevating Video Marketing Understanding Keywords on Platforms Like YouTube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-discreet-snaps-the-secret-of-silent-photo-taking-on-snapchat/"><u>[Updated] In 2024, Discreet Snaps The Secret of Silent Photo-Taking on Snapchat</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-refresh-your-tiktok-storytelling-with-dynamic-backgrounds/"><u>[Updated] Refresh Your TikTok Storytelling with Dynamic Backgrounds</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/dissecting-bloodborne-an-odyssey-through-its-cursed-landscape/"><u>Dissecting Bloodborne: An Odyssey Through Its Cursed Landscape</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-paper-jam-resolved-quickly/"><u>Epson Paper Jam, Resolved Quickly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-windows-11-printer-glitches-swiftly/"><u>Fix Windows 11 Printer Glitches Swiftly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/issue-settled-printer-issues-post-upgrade/"><u>Issue Settled: Printer Issues Post Upgrade</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-savings-save-big-on-macbooks-for-costco-members-exclusive-discount-secrets-revealed-zdnet/"><u>Maximize Savings: Save Big on MacBooks for Costco Members - Exclusive Discount Secrets Revealed | ZDNET</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-output-missing-color-details/"><u>Print Output: Missing Color Details</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/strategies-to-overcome-unresponsive-hp-devices/"><u>Strategies to Overcome Unresponsive HP Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-fixing-the-errgfxd3dinit-error-in-grand-theft-auto-v/"><u>Troubleshooting and Fixing the 'ERR_GFX_D3D_INIT' Error in Grand Theft Auto V</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-vanguards-failed-start-up-problems-in-valorant-solutions-inside/"><u>Troubleshooting Vanguard's Failed Start-Up Problems in Valorant – Solutions Inside</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-unlock-the-power-of-fcpx-creating-professional-looking-videos/"><u>Updated Unlock the Power of FCPX Creating Professional-Looking Videos</u></a></li>
 </ul></div>
 

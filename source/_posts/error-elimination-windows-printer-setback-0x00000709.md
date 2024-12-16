@@ -1,7 +1,7 @@
 ---
 title: "Error Elimination: Windows Printer Setback (0X00000709)"
-date: 2024-12-06T04:32:51.560Z
-updated: 2024-12-09T19:29:39.180Z
+date: 2024-12-14T23:01:14.793Z
+updated: 2024-12-15T17:19:05.801Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/0x00000709-error-with-printer-setup.jpg)
 
  Many Windows users are reporting this problem as well. But no worries, it’s possible to fix. Here are 2 methods for you to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Fix registry glitches automatically
 
@@ -58,16 +54,12 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/regedit-in-start-panel.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If **User Account Control** comes up, please choose **Yes** at the prompt.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57bbbed40caf2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Follow the path   **HKEY\_CURRENT\_USER\\Software\\Microsoft\\WindowsNT\\CurrentVersion\\Windows** .
 
@@ -77,30 +69,38 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/edit-sting.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click **OK** to save the change.
 
 **Note** : If you encounter this sort of error “ **Cannot edit Device: Error writing the value’s new contents** “, please follow the steps below to set the permission of the key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/error-cannot-edit-device-error-writing-the-values-new-content.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  a) Right-click the **Windows** key on the left side of the panel and then click **Permissions…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/permission-in-windows-registry.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  b) Tick the box **Allow** for **Full Control** and **Read** , then click **Apply** and click **OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/permissions-for-windows.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Right-click **UserSelectDefault** and click **Rename**  to rename it as your printer name.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/rename-userselectdefault.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There you go! You should be able to set up your default printer now!
@@ -138,22 +138,16 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-visionary-tiles-top-8-image-weaver/"><u>[New] In 2024, Visionary Tiles Top 8 Image Weaver</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-engaging-audiences-with-facebooks-virtual-reality-content/"><u>[Updated] Engaging Audiences with Facebook's Virtual Reality Content</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-facebook-linking-method-for-youtube-video-content/"><u>[Updated] Facebook Linking Method for YouTube Video Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-leading-websites-for-free-game-of-thrones-ringtones/"><u>2024 Approved Leading Websites for Free Game of Thrones Ringtones</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/b200-problem-resolved/"><u>B200: Problem Resolved</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-chatgpt-the-next-generation-in-ai-powered-conversations/"><u>Beyond ChatGPT - The Next Generation in AI-Powered Conversations</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brother-printer-errors-try-these-fixes-on-windows-1011/"><u>Brother Printer Errors? Try These Fixes on Windows 10/11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/dismantling-the-mystery-of-non-printing-machines/"><u>Dismantling the Mystery of Non-Printing Machines</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-issue-with-installing-printer/"><u>Fixed Issue with Installing Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-printer-communication-error/"><u>Fixed Printer Communication Error</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/helldivers-2-pc-malfunctioning-here-are-reliable-solutions/"><u>Helldivers 2 PC Malfunctioning? Here Are Reliable Solutions!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-screen-grab-king-macos-recorder-free/"><u>In 2024, Screen Grab King MacOS Recorder, Free</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-your-guide-to-choosing-iphonedesktop-converters-ranked-by-experts-8/"><u>In 2024, Your Guide to Choosing iPhone/Desktop Converters Ranked by Experts #8</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-hp-printing-blockade-oxc4eb827f/"><u>Overcoming HP Printing Blockade: OXC4EB827F</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/secure-and-update-hp-officejet-4630-driver-edition/"><u>Secure & Update: HP Officejet 4630 Driver Edition</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/step-by-step-guide-to-remove-hardware-printers/"><u>Step-By-Step Guide to Remove Hardware Printers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/stream-pause-play-resume-twitch-edition-for-2024/"><u>Stream Pause, Play Resume Twitch Edition for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-innovative-strategies-to-enhance-tiktoks-for-2024/"><u>[New] Innovative Strategies to Enhance TikToks for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagrams-edge-infusing-artistry-with-slow-motion/"><u>[New] Instagram's Edge Infusing Artistry with Slow Motion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-review-of-budget-friendly-clouds/"><u>[Updated] In-Depth Review of Budget-Friendly Clouds</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-smooth-integration-of-macos-sierra-on-old-systems/"><u>[Updated] Smooth Integration of macOS Sierra on Old Systems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/active-directory-disabled-printer-problem-detected/"><u>Active Directory Disabled - Printer Problem Detected</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/deactivate-stalled-print-job-queue-fastly/"><u>Deactivate Stalled Print Job Queue Fastly</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-samsung-galaxy-f54-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Samsung Galaxy F54 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/rectify-cups-errors-streamline-win10-printer-services/"><u>Rectify CUPS Errors: Streamline WIN10 Printer Services</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-sync-with-print-devices/"><u>Restoring Sync with Print Devices</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-restoring-deleted-data-on-your-playstation-4-post-reset/"><u>Step-by-Step Guide: Restoring Deleted Data on Your PlayStation 4 Post Reset</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tutorial-installing-model-8720-printer-on-your-computer/"><u>Tutorial: Installing Model 8720 Printer on Your Computer</u></a></li>
 </ul></div>
 

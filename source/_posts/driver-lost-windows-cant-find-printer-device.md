@@ -1,7 +1,7 @@
 ---
 title: "[DRIVER LOST] Windows Can't Find Printer Device"
-date: 2024-12-02T23:47:24.211Z
-updated: 2024-12-09T18:00:18.157Z
+date: 2024-12-09T17:30:13.529Z
+updated: 2024-12-15T20:22:00.991Z
 tags:
   - win11
   - win10
@@ -37,12 +37,16 @@ thumbnail: https://thmb.techidaily.com/3d0b2d16ee1d6e6a1474c3b5739a00253bf279f42
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a164dca2109f.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Find and**right-click** on your printer. Then click **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a16664c47596.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click **Uninstall**  if you’re prompted to confirm.
@@ -50,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/3d0b2d16ee1d6e6a1474c3b5739a00253bf279f42
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a166d61b6e23.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) **[Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.** It will automatically recognize your system, and find and install the correct printer driver for it, along with any other drivers that need updating. (Or, if you’d prefer, you can download and install the necessary driver manually. To do this, you have to visit your printer manufacturer’s website, locate the correct driver for your printer model and version of Windows, and then download and install it.)
@@ -59,17 +63,9 @@ thumbnail: https://thmb.techidaily.com/3d0b2d16ee1d6e6a1474c3b5739a00253bf279f42
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1672bcbc0a7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this. Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it, you can get a full refund, no questions asked. (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to your printer in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a166e3214a67.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  8) Restart your computer and try to print a file to see if your printer works. If it does, congratulations, you’ve resolved your problem! If it doesn’t, move on to Fix 2 below.
 
@@ -87,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/3d0b2d16ee1d6e6a1474c3b5739a00253bf279f42
 2. Click**Windows Update** on the right.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![win 11 update windows 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-update-windows-1.jpg)
@@ -107,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/3d0b2d16ee1d6e6a1474c3b5739a00253bf279f42
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a167b717a88d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Install updates** .
 
@@ -135,17 +135,24 @@ thumbnail: https://thmb.techidaily.com/3d0b2d16ee1d6e6a1474c3b5739a00253bf279f42
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-maximizing-social-media-roi-with-judicious-facebook-hash-usage/"><u>[New] 2024 Approved Maximizing Social Media ROI with Judicious Facebook Hash Usage</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-delving-into-the-world-of-asmr-soundscapes-for-2024/"><u>[Updated] Delving Into the World of ASMR Soundscapes for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-designing-high-impact-tiktok-content-on-desktop/"><u>[Updated] Designing High Impact TikTok Content on Desktop</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-industrys-leading-heavy-duty-drone-picks/"><u>[Updated] Industry's Leading Heavy-Duty Drone Picks</u></a></li>
-<li><a href="https://solve-help.techidaily.com/mp4avihevc-winxvideo-ai/"><u>【無料】最強動画変換ツール一挙に紹介！MP4/AVI/HEVC変換ソフトの完全ガイド | Winxvideo AI</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/7-leading-budget-4k-mirrorless-cameras-(1k-for-2024/"><u>7 Leading Budget 4K Mirrorless Cameras (<$1K) for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-w11-scanner-output-issues/"><u>Fix W11 Scanner Output Issues</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/guide-expert-resoudre-les-problemes-darret-du-preparateur-windows-11-avec-des-astuces-facilement-applicables-5-techniques/"><u>Guide Expert : Résoudre Les Problèmes D'Arrêt Du Préparateur Windows 11 Avec Des Astuces Facilement Applicables (5 Techniques)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-hero-5-in-action-an-in-depth-analysis/"><u>In 2024, Hero 5 in Action An In-Depth Analysis</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/installing-mf4770n-support-software-windows-xp-7/"><u>Installing MF4770n Support Software Windows XP-7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/rdr-reuniting-raid-arrays-drive-rescue/"><u>RDR: Reuniting RAID Arrays - Drive Rescue</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win711-hp-printer-network-recovery-tips/"><u>Win7/11 HP Printer Network Recovery Tips</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-windows-7-devices-not-recognizing-post-sleep-usb-printers/"><u>[Fix] Windows 7 Devices Not Recognizing Post Sleep USB Printers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-srt-to-sub-mastery-unveiling-3-key-strategies/"><u>[New] SRT-to-SUB Mastery Unveiling 3 Key Strategies</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mastering-skype-meetings-windowsos-x-record/"><u>2024 Approved Mastering Skype Meetings Windows/OS X Record</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-lava-storm-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Lava Storm 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/efficient-operation-windows-compatible-driver-for-officejet-pro-8600/"><u>Efficient Operation: Windows Compatible Driver for Officejet Pro 8600</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-download-and-installation-of-newest-amd-vega-drivers-for-a-better-gameplay/"><u>Hassle-Free Download & Installation of Newest AMD Vega Drivers for a Better Gameplay</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-clear-print-head-conflict-on-win-1011/"><u>How To Clear Print Head Conflict on Win 10/11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/immediate-fixes-for-non-responsive-printer-service-windows/"><u>Immediate Fixes for Non-Responsive Printer Service (Windows)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-nokia-xr21-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Nokia XR21 Phones? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-14-ultra-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi 14 Ultra to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-live-follower-tracker-software/"><u>In 2024, Live Follower Tracker Software</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/my-canon-printer-is-playing-hard-to-respond/"><u>My Canon Printer Is Playing Hard To Respond</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-fixes-top-5-methods-to-resolve-canon-printer-print-issue-in-windows-11/"><u>Quick Fixes: Top 5 Methods to Resolve Canon Printer Print Issue in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-manor-lords-game-crashes-steps-for-stable-pc-gaming/"><u>Solving Manor Lords Game Crashes: Steps for Stable PC Gaming</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-tech-reviewers-love-it-exploring-the-solid-hardware-and-versatility-of-a-favorite-laptop-s-pick/"><u>Top Tech Reviewers Love It: Exploring the Solid Hardware and Versatility of a Favorite Laptop 'S Pick</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/trouble-printing-on-windows-11-lets-fix-it/"><u>Trouble Printing on Windows 11? Let's Fix It</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-hp-errors/"><u>Troubleshooting HP Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-non-responsive-lenovo-mouse-pads-in-windows-11-8-and-7-repair-guide/"><u>Troubleshooting Tips for Non-Responsive Lenovo Mouse Pads in Windows 11, 8 & #7; [REPAIR GUIDE]</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win-10-upgrade-print-says-no/"><u>Win 10 Upgrade - Print Says No</u></a></li>
 </ul></div>
 

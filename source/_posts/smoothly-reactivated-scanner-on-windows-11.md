@@ -1,7 +1,7 @@
 ---
 title: Smoothly Reactivated Scanner on Windows 11
-date: 2024-12-07T16:36:53.867Z
-updated: 2024-12-09T20:28:15.949Z
+date: 2024-12-14T00:46:23.211Z
+updated: 2024-12-16T04:50:34.825Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a9
  Printer plays an important role in many user’s work. Once it gets into error, that would be really irksome.**Scan to computer is no longer activated** is the common one of printer issues. The detailed message shows as:**The network connection to the printer has been lost.** In this guide, we will be showing you how to fix it to get your printer work properly and how to get rid of this error message on Windows 10.
 
 Read on. 🙂
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -54,12 +50,16 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf305cb04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the open window, find and expand the**Print queues** catalog. Then right-click on your printer software to choose**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf9b29be7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Restart your computer to let Windows reinstall the printer driver for you automatically.
@@ -75,7 +75,7 @@ You need to do these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597af8932fbfe.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -86,10 +86,6 @@ You need to do these steps:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3: Get rid of ‘Scan to computer is no longer activated’ error
 
  If you can use you printer properly, however, the error message Scan to computer is not activated keeps poping-up every 2-5 minutes, it would annoys you deeply. Follow the steps below to get rid of it:  
@@ -98,17 +94,21 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee238c2f07.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Find**scanToPCActivationApp** under**Processes** tab. Then right-click on it to choose**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee29de8213.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Find**scanToPCActivationApp** under**Startup** tab. Then right-click on it to choose**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee2dfcd442.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 That’s all there is to it.
 
@@ -132,19 +132,20 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-youtubes-commercial-free-chrome-firefox-android-and-iphone-tips/"><u>[New] 2024 Approved YouTube's Commercial Free Chrome, Firefox, Android & iPhone Tips</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-pros-secret-insights-into-windows-11-for-2024/"><u>[New] Pro's Secret Insights Into Windows 11 for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-practices-for-high-impact-customer-endorsements/"><u>[Updated] Best Practices for High-Impact Customer Endorsements</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-streamlabs-competitors-in-the-livestream-arena-for-2024/"><u>[Updated] Streamlabs' Competitors in the Livestream Arena for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/directions-assembling-hp-print-with-your-pc/"><u>Directions: Assembling HP Print with Your PC</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/explore-manycam-advanced-live-broadcast-and-online-webcam-technology/"><u>Explore ManyCam: Advanced Live Broadcast and Online Webcam Technology</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-muted-or-distorted-sounds-in-your-pc-running-windows-10/"><u>Fixing Muted or Distorted Sounds in Your PC Running Windows 10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/foreign-processors-print-job-revealed/"><u>Foreign Processor's Print Job Revealed</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-eye-catching-images-windows-10s-screenshot-feature/"><u>In 2024, Eye-Catching Images Windows 10'S Screenshot Feature</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtubes-image-files-made-simple-online-desktop-and-terminal-steps/"><u>In 2024, Youtube’s Image Files Made Simple Online, Desktop & Terminal Steps</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/navigate-non-prints-on-canon-easily-discover-these-simple-steps-for-window-11-users/"><u>Navigate Non-Prints on Canon Easily: Discover These Simple Steps for Window 11 Users</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-printer-unresponsiveness-in-windows-millennium-edition/"><u>Overcoming Printer Unresponsiveness in Windows Millennium Edition</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/preventative-measures-against-spooler-shutdowns-win/"><u>Preventative Measures Against Spooler Shutdowns (Win)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-7-printer-status-now-functional/"><u>Windows 7 Printer Status: Now Functional</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-10-gaming-pc-graphics-for-ultimate-youtube-viewing-experience/"><u>[New] Top 10 Gaming PC Graphics For Ultimate YouTube Viewing Experience</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/update-alert-canon-printer-not-detected-in-win10/"><u>[Update Alert] Canon Printer Not Detected in WIN10</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-screen-saga-a-thousand-stories-one-channel-at-a-time/"><u>[Updated] 2024 Approved Screen Saga A Thousand Stories, One Channel at a Time</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-top-10-high-quality-screen-recorders-for-teaching-professionals/"><u>[Updated] In 2024, Top 10 High-Quality Screen Recorders for Teaching Professionals</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728472036096-onedrive/"><u>一直在OneDrive找到更新問題? - 功用性發掘與解決流程指南</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/excellent-20-copy-free-pubg-thumbnail-sequences-for-2024/"><u>Excellent 20 Copy-Free PUBG Thumbnail Sequences for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-brother-printer-print-malfunction-with-simple-steps/"><u>Fix Brother Printer Print Malfunction with Simple Steps</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-disconnected-print-service/"><u>Fixing Disconnected Print Service</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-13-mini-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone 13 mini Unavailable Issue With Ease</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-what-is-triller-a-platform-that-challenges-traditional-video-sites/"><u>In 2024, What Is Triller? A Platform That Challenges Traditional Video Sites</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/instant-printer-setup-with-canon-guided-examples/"><u>Instant Printer Setup with Canon - Guided Examples</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ryzens-triumph-the-ryzen-9-9950x-delivers-a-stunning-18-speed-edge-over-intels-i9-14900k/"><u>Ryzen's Triumph: The Ryzen 9 9950X Delivers a Stunning 18% Speed Edge over Intel’s I9-14900K</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/success-story-unshackling-printer-from-update-chains/"><u>Success Story: Unshackling Printer From Update Chains</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/swift-printer-performance-tips/"><u>Swift Printer Performance Tips</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/transferring-windows-system-image-from-old-pc-to-different-or-identical-motherboard-setups/"><u>Transferring Windows System Image From Old PC to Different or Identical Motherboard Setups</u></a></li>
 </ul></div>
 

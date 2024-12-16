@@ -1,7 +1,7 @@
 ---
 title: Don’t Let Offline Be the End for Your Canon Printer
-date: 2024-12-09T03:22:12.736Z
-updated: 2024-12-10T03:53:50.588Z
+date: 2024-12-15T07:42:40.229Z
+updated: 2024-12-16T05:09:25.625Z
 tags:
   - win11
   - win10
@@ -24,19 +24,11 @@ thumbnail: https://thmb.techidaily.com/46486d3cf08c5d74abeb420acca02a4bdb0158ce8
 2. **[Disable Use Printer Offline feature](#solution2)**
 3. **[Reinstall your Canon printer driver](#solution3)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution 1: Restart Printer Spooler service
 
  1) Type**services** in the search box on the taskbar. Then Click**Services** **(Desktop app)**  from the result.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-open-services-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Right-click on**Print Spooler** . Then click**Restart** . **Note:** If the Restart option is grayed out, click**Start** instead.
 
@@ -60,13 +52,13 @@ thumbnail: https://thmb.techidaily.com/46486d3cf08c5d74abeb420acca02a4bdb0158ce8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598154a852f36.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Hardware and Sound** \>**Devices and Printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5981556632ee4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Find and right-click on your Canon printer under the**Printers** catalog. Then choose**See what’s printing** .
 
@@ -76,13 +68,13 @@ thumbnail: https://thmb.techidaily.com/46486d3cf08c5d74abeb420acca02a4bdb0158ce8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59816f74c7ba3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click Printer again and this time click**Cancel All Documents** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5981707ccc034.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Print your file to see if your Canon printer works.
 
@@ -101,19 +93,23 @@ thumbnail: https://thmb.techidaily.com/46486d3cf08c5d74abeb420acca02a4bdb0158ce8
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-see-whats-printing.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click the**Printer** tab and make sure the**Use Printer Offline** is not checked on with a **√** mark.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win-11-use-printer-offline.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Still in the**Printer** tab, select**Cancel All Documents** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-printer-cancel-documents.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Check if your Canon printer is working now. If not, go on and try reinstalling the printer driver.
@@ -125,6 +121,10 @@ One of the main causes of the Canon printer offline error is that you’re using
  1) On your keyboard, press**the Windows** **key** +**R** together to open a Run box. Then type**devmgmt.msc** in the box and click OK.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5981726ea530f.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Find your Canon printer driver under**Print queues** . Then right-click on it to choose**Uninstall device** .
 
@@ -151,7 +151,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/update-all.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  All the drivers in Driver Easy come straight from the manufacturer. They’re all **certified as safe and secure** .
@@ -175,18 +175,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/driver-search-failure-cannot-locate-mp620-driver-on-windows-10/"><u>[Driver Search Failure] Cannot Locate MP620 Driver on Windows 10</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-game-plan-to-trendsetting-video-content-for-2024/"><u>[New] The Game Plan to Trendsetting Video Content for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effective-techniques-to-augment-virtual-memory-in-windows-11/"><u>Effective Techniques to Augment Virtual Memory in Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-0x97-unravelled-and-solved/"><u>Epson 0X97 - Unravelled & Solved</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-techniques-harnessing-the-power-of-tracert-within-a-windows-operating-system/"><u>Essential Techniques: Harnessing the Power of Tracert Within a Windows Operating System</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/finding-the-root-cause-of-frequent-printer-service-halt-win/"><u>Finding the Root Cause of Frequent Printer Service Halt (Win)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-video-production-xstudio-deep-dive/"><u>In 2024, Mastering Video Production XStudio Deep Dive</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-say-goodbye-to-premiere-rush-4-fantastic-alternative-video-editors/"><u>In 2024, Say Goodbye to Premiere Rush 4 Fantastic Alternative Video Editors</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-the-official-logitech-g29-racing-controller-driver-on-windows-10117-systems/"><u>Install the Official Logitech G29 Racing Controller Driver on Windows 10/11/7 Systems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printers-that-can-handle-full-document-sizes/"><u>Printers That Can Handle Full Document Sizes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/repaired-offline-print-slot/"><u>Repaired Offline Print Slot</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-by-step-guide-to-phantoms-slow-mo-magic/"><u>Step by Step Guide to Phantom's Slow Mo Magic</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-critical-insight-into-recmeisters-video-capture-efficacy/"><u>[New] Critical Insight Into Recmeister's Video Capture Efficacy</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-startups-guide-to-earnings-on-youtube-platform/"><u>[Updated] 2024 Approved Startups' Guide to Earnings on YouTube Platform</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-comprehensive-manual-on-motion-detection-systems/"><u>[Updated] A Comprehensive Manual on Motion Detection Systems</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-instantly-accessible-music-mixes-assembling-youtube-playlists-webmobile-style/"><u>[Updated] Instantly Accessible Music Mixes Assembling YouTube Playlists Web/Mobile Style</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/comment-supprimer-facilement-le-disque-de-stockage-c-a-laide-de-trois-techniques-simples/"><u>Comment Supprimer Facilement Le Disque De Stockage C À L'aide De Trois Techniques Simples !</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/effortlessly-connect-canon-printer-online/"><u>Effortlessly Connect Canon Printer Online</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/keep-your-v305-printing-fresh-with-windows-updates/"><u>Keep Your V305 Printing Fresh with WIndows Updates</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/outstanding-non-zoom-video-conferencing-tech/"><u>Outstanding Non-Zoom Video Conferencing Tech</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printers-unforeseen-setup-snag-found/"><u>Printer's Unforeseen Setup Snag Found</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-motorola-moto-g84-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Motorola Moto G84 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/speedy-mic-checks-ultimate-guide-to-effortless-microphone-testing/"><u>Speedy Mic Checks: Ultimate Guide to Effortless Microphone Testing</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-unresponsive-hp-devices/"><u>Troubleshooting Unresponsive HP Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unraveling-printer-malfunction-mystery/"><u>Unraveling Printer Malfunction Mystery</u></a></li>
 </ul></div>
 

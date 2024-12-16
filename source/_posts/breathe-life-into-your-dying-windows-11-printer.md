@@ -1,7 +1,7 @@
 ---
 title: Breathe Life Into Your Dying Windows 11 Printer
-date: 2024-12-06T03:48:08.624Z
-updated: 2024-12-10T02:09:00.017Z
+date: 2024-12-09T20:11:28.801Z
+updated: 2024-12-15T22:22:43.822Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/ccf5800f87dc975bfa3f97e17abaade8c733e4db5
 
  Many users reported printer issues on Windows 11\. Though Microsoft indicated they’ve resolved this issue, you may still encounter it on your PC. Don’t worry, you’re not alone. This post may help when you’re facing annoying printer issues.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  There’re 4 fixes that have helped many gamers solve their problems. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -30,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/ccf5800f87dc975bfa3f97e17abaade8c733e4db5
 2. [Update printer driver](#f2)
 3. [Run printer troubleshooter](#f3)
 4. [Repair system file](#f4)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Check for Windows Update
 
@@ -69,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/ccf5800f87dc975bfa3f97e17abaade8c733e4db5
 
  Restart your computer for the changes to take effect, and your printer should be working properly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Run printer troubleshooter
 
  Windows has an internal feature to examine and fix its own issue. Why not run its printer troubleshooter to fix your printer issue.
@@ -80,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/ccf5800f87dc975bfa3f97e17abaade8c733e4db5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/win11-other-troubleshooter.jpg)
 4. Find the**Printer** section and click**Run** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Repair system file
 
@@ -101,15 +101,19 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 5. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Check your computer to see if the driver crash issue is fixed.
 
@@ -125,7 +129,7 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Yes** when prompted to confirm.
@@ -133,10 +137,6 @@ Here’s how to use Fortect to repair system files on your PC:
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -163,19 +163,19 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-youtube-to-webm-tools-a-compreenasive-review-and-ranking/"><u>[New] 2024 Approved Best YouTube-to-WebM Tools A Compreenasive Review & Ranking</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-elevate-your-video-edits-ken-burns-in-camtasia/"><u>[Updated] 2024 Approved Elevate Your Video Edits Ken Burns in Camtasia</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-video-editing-showdown-bandicams-capabilities-compared-to-camtasia-for-2024/"><u>[Updated] Video Editing Showdown Bandicam's Capabilities Compared to Camtasia for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-merge-soundtracks-and-cinematography-in-premiere-pro/"><u>2024 Approved Merge Soundtracks and Cinematography in Premiere Pro</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-prospects-and-pitfalls-of-the-latest-in-photography-by-samsung-2023/"><u>2024 Approved Prospects & Pitfalls of the Latest in Photography by Samsung, 2023</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-printer-installation-made-simple-image-driven/"><u>Canon Printer Installation Made Simple (Image-Driven)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574151519-canon-printer-is-offline-heres-how-to-fix-it/"><u>Canon Printer Is Offline? Here's How to Fix It</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/choosing-the-best-4k-visual-experience-a-comparison-of-projectors-and-televisions-for-enhanced-gaming-and-playback/"><u>Choosing the Best 4K Visual Experience: A Comparison of Projectors and Televisions for Enhanced Gaming and Playback</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/effortless-solution-to-pcl-xl-problems/"><u>Effortless Solution to PCL XL Problems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instant-connectivity-between-laptops-and-hp-discover-the-best-fixes/"><u>Instant Connectivity Between Laptops & HP - Discover the Best Fixes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/post-hibernate-usb-print-issues-on-windows-7-devices/"><u>Post-Hibernate USB Print Issues on Windows 7 Devices</u></a></li>
-<li><a href="https://driver-install.techidaily.com/swift-gpu-firmware-upgrade-amd/"><u>Swift GPU Firmware Upgrade, AMD</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unleash-creativity-pro-guide-for-youtube-studio-editing-for-2024/"><u>Unleash Creativity Pro Guide for YouTube Studio Editing for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-beyond-indexation-understanding-youtubes-unlisted-mechanism/"><u>[New] 2024 Approved Beyond Indexation Understanding YouTube's Unlisted Mechanism</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-dont-miss-these-youtube-seo-tools-to-boost-your-video/"><u>[Updated] 2024 Approved Don't Miss These YouTube SEO Tools to Boost Your Video</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-economical-sky-explorers-top-5-low-cost-drones/"><u>[Updated] 2024 Approved Economical Sky Explorers Top 5 Low-Cost Drones</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/addressing-printer-no-show-on-windows-me-edition/"><u>Addressing Printer No-Show on Windows ME Edition</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhance-printer-efficiency-quickly/"><u>Enhance Printer Efficiency Quickly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-crackling-speaker-issue-on-your-pc-with-windows-10-or-7/"><u>How to Fix a Crackling Speaker Issue on Your PC with Windows 10 or 7</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>How to Share Location in Messenger On Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-transformations-in-anime-how-localization-brings-characters-home/"><u>In 2024, Transformations in Anime How Localization Brings Characters Home</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/jumpstart-your-stationary-machine-fix-canon-printer-offline/"><u>Jumpstart Your Stationary Machine: Fix Canon Printer Offline</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/navigating-through-networked-printer-issues/"><u>Navigating Through Networked Printer Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/optimize-printing-on-laptops-with-improved-hp-printer-links/"><u>Optimize Printing on Laptops with Improved HP Printer Links</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/student-chromebook-infestations-the-surprising-truth-about-real-world-tech-problems-insights/"><u>Student Chromebook Infestations: The Surprising Truth About Real-World Tech Problems | Insights</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2419693-9780761866961-the-wild-longing-of-the-human-heart/"><u>The Wild Longing of the Human Heart | Free Book</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-oppo-k11-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Oppo K11 5G</u></a></li>
 </ul></div>
 

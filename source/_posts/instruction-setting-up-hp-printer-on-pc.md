@@ -1,7 +1,7 @@
 ---
 title: "Instruction: Setting Up HP Printer on PC"
-date: 2024-12-07T18:11:23.838Z
-updated: 2024-12-09T20:11:53.240Z
+date: 2024-12-10T02:48:35.621Z
+updated: 2024-12-15T17:55:49.989Z
 tags:
   - win11
   - win10
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c3069
  Are you preparing to install your HP printer on your computer but don’t know how to install it? Here is a installation guide for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 1: Connect your HP printer to your computer
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c3069
 3. [**Wired connection to your computer**](#c)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: USB connection to your computer
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c3069
  You can connect your HP printer with a USB cable.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/universal-1828_960_720-300x200.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 A USB cable
 
@@ -64,6 +60,10 @@ If your HP printer is **wireless-capable**  , you can connect your printer to yo
 
 **4)** On your HP printer control panel, go to the **Setup** , **Network** , or **Wireless** menu, and then open **Wireless Setup Wizard**  to follow the on-screen instructions to connect the printer to your network.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Wired connection to your computer
 
  You can also connect your HP printer and your computer to your router with a standard Ethernet cable.
@@ -71,10 +71,6 @@ If your HP printer is **wireless-capable**  , you can connect your printer to yo
 **1)** Turn on your HP printer.
 
 **2)**  Remove any plug from the Ethernet port (the port with the ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eac2c5fcbd.png)  logo) on the rear of your printer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap14-150x150.png)
 
@@ -84,11 +80,11 @@ The Ethernet port
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap17-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The Ethernet cable
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 2: Install the printer driver for your HP printer
 
@@ -104,10 +100,6 @@ The Ethernet cable
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click **Update**  next to your HP printer to automatically download the correct version of this driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap15.png)
@@ -115,6 +107,10 @@ The Ethernet cable
  You can do it for free if you like, but it’s partly manual.
 
  If you have any issue with**Driver Easy** , please contact Driver Easy’s support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  for advice. You should attach the URL of this article so they can help you better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 3: Print test paper
 
@@ -127,6 +123,10 @@ The Ethernet cable
 **2)** Click **Devices and Printers** to view your HP printer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap20.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right-click your HP printer and select **Printer Properties** .
 
@@ -155,19 +155,22 @@ The Ethernet cable
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-celebrated-20-independent-pubg-photo-sequences/"><u>[New] Celebrated 20 Independent PUBG Photo Sequences</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-essential-directory-of-public-domain-gaming-melodies/"><u>[Updated] 2024 Approved Essential Directory of Public Domain Gaming Melodies</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/disabling-hp-printers-error-0xoxc4eb827f/"><u>Disabling HP Printer's Error 0xOXC4EB827F</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/experience-secure-ai-powered-texting-discover-duckduckgos-chatgpt-integration-for-private-messaging/"><u>Experience Secure, AI-Powered Texting: Discover DuckDuckGo's ChatGPT Integration for Private Messaging</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-error-code-b200/"><u>Fixed: Error Code B200</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oneplus-ace-2-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring OnePlus Ace 2 to PC? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-deskjet-d1360-driver-compatibility-with-multiple-windows-oses/"><u>HP Deskjet D1360 Driver Compatibility with Multiple Windows OSes</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g73-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-top-8-youtube-thumbnail-grabbers/"><u>In 2024, Top 8 YouTube Thumbnail Grabbers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-zte-axon-40-lite-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On ZTE Axon 40 Lite? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mp620-printer-searching-for-missing-windows-driver/"><u>MP620 Printer: Searching for Missing Windows Driver</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-epsons-lack-of-print-feature/"><u>Overcoming Epson's Lack of Print Feature</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tackle-windows-10-printer-setup-woes/"><u>Tackle Windows 10 Printer Setup Woes</u></a></li>
-<li><a href="https://driver-download.techidaily.com/upgrade-your-hp-envy-5540-with-easy-software-and-driver-download-instructions/"><u>Upgrade Your HP Envy 5540 with Easy Software & Driver Download Instructions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-hero-session-vs-hero-session-duel/"><u>[New] Hero Session Vs Hero Session Duel</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-expressive-poetry-in-images-and-text-top-100-instagramcaptions/"><u>[New] In 2024, Expressive Poetry in Images and Text - Top 100 #InstagramCaptions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-stepwise-approach-to-unleash-creativity-with-your-logitech-webcam/"><u>[Updated] In 2024, Stepwise Approach to Unleash Creativity with Your Logitech Webcam</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-digital-footprints-recording-nintendo-switch-sessions/"><u>2024 Approved Digital Footprints Recording Nintendo Switch Sessions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-superior-mics-for-video-blogging-professionals/"><u>2024 Approved Superior Mics for Video Blogging Professionals</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/boost-your-canon-printers-functionality-with-these-top-5-fixes-for-windows-11-users/"><u>Boost Your Canon Printer's Functionality with These Top 5 Fixes for Windows 11 Users</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/clearing-up-the-blank-page-mystery-in-printers/"><u>Clearing Up the Blank Page Mystery in Printers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-personalizing-your-online-presence-for-optimal-engagement-and-conversion-rates/"><u>Cookiebot: Personalizing Your Online Presence for Optimal Engagement and Conversion Rates</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/end-of-unprintable-axes-hp-printer-functioning-properly/"><u>End of Unprintable Axes: HP Printer Functioning Properly</u></a></li>
+<li><a href="https://video-capture.techidaily.com/expertise-at-a-click-the-ultimate-tutorial-on-high-quality-video-recordings-for-2024/"><u>Expertise at a Click The Ultimate Tutorial on High-Quality Video Recordings for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-gadgets-with-tom-the-authority-in-hardware-insights/"><u>Exploring Gadgets with Tom: The Authority in Hardware Insights</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-queue-fails-to-operate-on-desktop/"><u>Printer Queue Fails to Operate on Desktop</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/rectifying-fedex-printer-connectivity-troubles/"><u>Rectifying FedEx Printer Connectivity Troubles</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/stardews-guide-ginger-isle-essentials/"><u>Stardew's Guide Ginger Isle Essentials</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/successfully-installed-inkjet-printer/"><u>Successfully Installed Inkjet Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-error-unable-to-install-mp620-printer-driver/"><u>Windows Error: Unable to Install MP620 Printer Driver</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-missing-hp-print-drivers-unfound/"><u>Windows Missing: HP Print Drivers Unfound</u></a></li>
 </ul></div>
 

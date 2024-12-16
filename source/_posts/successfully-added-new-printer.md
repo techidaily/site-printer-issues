@@ -1,7 +1,7 @@
 ---
 title: Successfully Added New Printer
-date: 2024-12-07T23:39:50.511Z
-updated: 2024-12-10T03:40:03.122Z
+date: 2024-12-09T23:16:09.848Z
+updated: 2024-12-16T00:46:50.392Z
 tags:
   - win11
   - win10
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) If the “Service status” is Stopped, click the **Start** button. And make sure the “Startup type” has been set as**Automatic** . After that, click the **OK** button to save the change.  
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6
 This should fix the problem. If not, proceed to solution 2.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution 2: Update the printer driver**
 
@@ -75,6 +79,10 @@ This should fix the problem. If not, proceed to solution 2.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 3: Delete the printer keys**
 
  The problem can be caused by driver conflicting. To resolve the problem, you can delete the certain registry entries.
@@ -92,23 +100,19 @@ To delete the printer keys, here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5797354018fd8.png)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **C:\\Windows\\System32\\Spool\\Drivers\\w32x86**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57973526811ea.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Press **Win+R** (Windows logo key and R key) at the same time to invoke the Run box.
 
 3) Type**regedit**  in the run box and click **OK** to open  the Registry Editor dialog box.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/img_56fb391581cd9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Locate the following registry key according to the system version installed on your PC . If you’re not sure what specific version of Windows you have, refer to [Quickly Get Operating System Version](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -118,10 +122,14 @@ To delete the printer keys, here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57972e8c6def5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57972ed64a5f9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 For   **64-bit** operating system:
@@ -130,19 +138,11 @@ For   **64-bit** operating system:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57972e8c6def5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57972f5298c63.png)
 
  5) Select this folder and you will see all printer registry entries in right pane. Right-click on the entry and select**Delete** from the context menu. Delete all registry entries here.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57981fd9161d2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Start the “Print Spooler” service.
 
@@ -167,18 +167,17 @@ For   **64-bit** operating system:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-cutthroat-countdown-best-zombies-in-gaming-unveiled/"><u>[Updated] Cutthroat Countdown Best Zombies In Gaming Unveiled</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-elevate-note-taking-to-new-heights-with-mematic/"><u>[Updated] Elevate Note-Taking to New Heights with Mematic</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-filmmakers-picks-best-windows-video-editors-compared/"><u>[Updated] Expert Filmmaker's Picks Best Windows Video Editors Compared</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-fading-techniques-for-aural-balance/"><u>[Updated] Fading Techniques for Aural Balance</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-printer-woes-here-are-your-five-easy-fixes-in-windows-11/"><u>Canon Printer Woes? Here Are Your Five Easy Fixes in Windows 11!</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/comment-optimiser-lutilisation-de-la-memoire-sur-windows-11-avec-le-gestionnaire-de-taches/"><u>Comment Optimiser L'Utilisation De La Mémoire Sur Windows 11 Avec Le Gestionnaire De Tâches</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-link-your-hp-deskjet-3055-to-computer-wi-fi/"><u>How to Link Your HP DeskJet 3055 to Computer Wi-Fi</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-5-techniques-for-capturing-win10-games/"><u>In 2024, 5 Techniques for Capturing Win10 Games</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-proven-strategies-in-advanced-obs-studio-filmmaking/"><u>In 2024, Proven Strategies in Advanced OBS Studio Filmmaking</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/in-2024-what-is-chatgpt/"><u>In 2024, What Is ChatGPT?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/joining-process-attaching-hp-officejet-to-desktop-pcs/"><u>Joining Process: Attaching HP Officejet to Desktop PCs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/network-services-interrupted-printer-fails/"><u>Network Services Interrupted, Printer Fails</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshooting-unforeseen-errors-during-planning-in-windows-11-operating-systems/"><u>Troubleshooting Unforeseen Errors During Planning in Windows 11 Operating Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-8-smooth-latency-free-video-reporters/"><u>[New] Top 8 Smooth, Latency-Free Video Reporters</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-canon-mp620-unsupported-in-win11/"><u>[Troubleshooting] Canon MP620 Unsupported in Win11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/boosting-operability-win11w8w7-via-mf4770n-update/"><u>Boosting Operability: Win11/W8/W7 via MF4770n Update</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-photo-printer-over-printing-white-paper/"><u>Epson Photo Printer: Over-Printing White Paper</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-insights-on-the-ring-video-doorbell-pro-transforming-home-security-with-advanced-technology/"><u>Expert Insights on the Ring Video Doorbell Pro: Transforming Home Security with Advanced Technology</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/learn-to-link-zoom-effortlessly-with-email-clients-like-gmail-for-2024/"><u>Learn to Link Zoom Effortlessly with Email Clients Like Gmail for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/most-effective-macos-sierra-video-coders-for-2024/"><u>Most Effective MacOS Sierra Video Coders for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-setup-halted-win10-doesnt-recognize-mp620-driver/"><u>Printer Setup Halted: WIN10 Doesn't Recognize MP620 Driver</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-a-deadprint-a-step-by-step-guide/"><u>Reviving a Deadprint: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-conversations-with-chatgpts-brand-new-features-you-shouldnt-miss/"><u>Revolutionize Your Conversations with ChatGPT's Brand-New Features You Shouldn't Miss</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-trio-plus-one-mastering-facebook-twitter-instagram-and-youtube-for-greater-reach/"><u>The Powerhouse Trio-Plus One: Mastering Facebook, Twitter, Instagram, and YouTube for Greater Reach</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixes-why-your-pcs-touchpad-scroll-function-fails-in-windows-10/"><u>Troubleshooting Fixes: Why Your PC's Touchpad Scroll Function Fails in Windows 10</u></a></li>
 </ul></div>
 

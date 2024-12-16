@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Installing HP PhotoSmart Printer"
-date: 2024-12-03T04:39:45.527Z
-updated: 2024-12-10T02:00:44.291Z
+date: 2024-12-09T05:06:55.070Z
+updated: 2024-12-15T18:56:35.333Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/6658e9df1d38e14ee675787c7264985ccf523b4b4
 
  No idea how to get the wireless working on your HP printer? Don’t worry! Although it’s not always as easy as their marketing material would have you believe, it’s still very achievable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these methods
 
  Below are**5** different ways you can set up the wireless connection on your HP printer. You may not need to try them all; just work your way down until you find the one that works for you. They’re all very easy to follow, step-by-step procedures, so you should be done in just a few minutes.
@@ -32,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/6658e9df1d38e14ee675787c7264985ccf523b4b4
 **[Option](#m4)** **[4\. Windows setup](#m4)**
 **[Option](#m5)** **[5\. USB cable connection (printer without display)](#m5)**
 [**Bonus: Troubleshoot problems in hp wireless printer connectivity**](#bonus)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1: HP auto wireless connect
 
@@ -62,6 +54,10 @@ Now let’s start!
 
 **Note** : Part of the setup process requires your computer to be temporarily disconnected from your wireless network. During this time you will not have Internet access. Be sure to save any online work or downloads before continuing with this setup method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 2: Wireless setup wizard (printer with display)
 
  This method needs you to run from the**printer’s control panel** . So it’s not available for the printer without a touch display.
@@ -78,6 +74,10 @@ Now let’s start!
 
 **6)** Press**OK** to confirm the settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 3: WPS (Wi-Fi Protected Setup)
 
  This method requires your printer to support WPS pushbutton mode, and your wireless router must have a physical WPS push button.
@@ -89,7 +89,7 @@ Now let’s start!
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/61RSlaVpCJL._SL1500_-746x1024.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 4: Windows setup
@@ -100,10 +100,6 @@ Now let’s start!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap41.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Turn on the printer and go to its**Network** menu.
 
 **4)** In your printer, select your wireless network name and enter the password to connect it to your Wi-Fi manually. Settings may be accessed differently depending on the product model. If you don’t know how to get in, you can contact customer service for help.
@@ -112,9 +108,17 @@ Now let’s start!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap42.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Select the printer from the results and click**Add device** . You should be good to go.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap46.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 5: USB cable connection (printer without display)
 
@@ -129,10 +133,6 @@ Now let’s start!
 **4)** Run the printer software installation and follow the on-screen instructions.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap40-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Bonus: Troubleshoot problems in hp wireless printer connectivity
 
@@ -161,6 +161,10 @@ Now let’s start!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap42-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Method 2\. Install Reimage
 
  Many printer issues could be related to corrupted system files.[**Fortect**](https://tools.techidaily.com/drivereasy/download/) is a powerful tool to repair and rebuild Windows. It is tailored to your specific system and is working in a private and automatic way. There’s no harm to your PC and no worries about losing any programs and your personal data.
@@ -174,10 +178,6 @@ Now let’s start!
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -202,20 +202,24 @@ Now let’s start!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/missing-component-pixma-mp620-driver-on-windows-10/"><u>[Missing Component] Pixma MP620 Driver on Windows 10</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-hidden-pitfalls-investing-in-fraudulent-subscribers/"><u>[New] In 2024, Hidden Pitfalls Investing in Fraudulent Subscribers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-unleashing-the-power-of-youtube-short-form-videos/"><u>[New] In 2024, Unleashing the Power of YouTube Short Form Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-from-vision-to-visuals-craft-your-story-with-youtube-editor/"><u>[Updated] From Vision to Visuals Craft Your Story with YouTube Editor</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-value-in-4k-cameras-for-under-1000/"><u>2024 Approved Best Value in 4K Cameras for Under $1,000</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/boost-print-speed-and-quality-download-hp-officejet-firmware/"><u>Boost Print Speed & Quality - Download HP Officejet Firmware</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/decoding-laser-printer-errors/"><u>Decoding Laser Printer Errors</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enabling-duplex-printing-on-your-hp-printer-setup/"><u>Enabling Duplex Printing on Your HP Printer Setup</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhance-efficiency-printer-software-update-for-dell-and-win7/"><u>Enhance Efficiency: Printer Software Update for Dell & Win7</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-samsung-galaxy-s23plus-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Samsung Galaxy S23+</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expertise-in-action-gopro-for-dynamic-time-lapses/"><u>In 2024, Expertise in Action GoPro for Dynamic Time-Lapses</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-the-latest-microsoft-surface-pro-4-drivers-for-seamless-performance-on-windows-systems/"><u>Installing the Latest Microsoft Surface Pro 4 Drivers for Seamless Performance on Windows Systems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/new-mf4770n-software-package-for-windows-users/"><u>New MF4770n Software Package for Windows Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unfolding-the-details-samsung-galaxy-z-fold-6s-launch-info-cost-specs-and-latest-updates/"><u>Unfolding the Details: Samsung Galaxy Z Fold 6'S Launch Info, Cost, Specs & Latest Updates</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unlock-the-6th-richest-strategies-for-successful-ig-for-2024/"><u>[New] Unlock the 6Th Richest Strategies for Successful IG for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-reviewing-magix-music-production-for-budding-musicians-for-2024/"><u>[Updated] Reviewing Magix Music Production for Budding Musicians for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-issue-mp620-driver-not-detected/"><u>[Windows Issue] MP620 Driver Not Detected</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/addressing-hp-printer-fault-0xoxc4eb827f/"><u>Addressing HP Printer Fault: 0XOXC4EB827F</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/advanced-techniques-to-setup-hp-print-devices-in-win10-os/"><u>Advanced Techniques to Setup HP Print Devices in Win10 OS</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/decoding-global-french-speaker-statistics-and-patterns/"><u>Decoding Global French Speaker Statistics & Patterns</u></a></li>
+<li><a href="https://games-able.techidaily.com/harmonizing-halo-passes-across-x-series/"><u>Harmonizing Halo Passes Across X Series</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-to-enhance-your-vlc-playback-in-macos/"><u>In 2024, Expert Tips to Enhance Your VLC Playback in macOS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/keep-it-running-smoothly-update-dells-inkjet-aio-on-windows-7/"><u>Keep It Running Smoothly: Update Dell's Inkjet AIO on Windows 7</u></a></li>
+<li><a href="https://games-able.techidaily.com/keeping-your-ps4-remote-attached-strategies-to-prevent-drops-on-pc/"><u>Keeping Your PS4 Remote Attached: Strategies to Prevent Drops on PC</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/navigating-the-world-of-hardware-with-toms-analysis/"><u>Navigating the World of Hardware with Tom's Analysis</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/new-printer-added-operation-without-issues/"><u>New Printer Added: Operation Without Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcome-non-printing-in-canon-printers-windows-edition/"><u>Overcome Non-Printing in Canon Printers, Windows Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-issues-what-if-your-pcs-integrated-antivirus-cant-be-reached/"><u>Overcoming Issues: What If Your PC's Integrated Antivirus Can't Be Reached?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-compatibility-windows-11-and-canons-mp620/"><u>Printer Compatibility: Windows 11 and Canon's MP620</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-tip-uninstalling-default-print-devices/"><u>Quick Tip: Uninstalling Default Print Devices</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/troubleshooting-your-hard-disk-errors-made-easy-with-yl-softwares-expert-advice/"><u>Troubleshooting Your Hard Disk Errors Made Easy with YL Software's Expert Advice</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/turn-your-non-printing-canon-into-a-reliable-device-with-tips/"><u>Turn Your Non-Printing Canon Into a Reliable Device with Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-contemporary-vintage-game-systems/"><u>Ultimate Contemporary Vintage Game Systems</u></a></li>
 </ul></div>
 
