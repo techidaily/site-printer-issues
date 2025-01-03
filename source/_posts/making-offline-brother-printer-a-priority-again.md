@@ -1,7 +1,7 @@
 ---
 title: Making Offline Brother Printer a Priority Again
-date: 2024-12-21T17:36:28.461Z
-updated: 2024-12-25T04:17:19.846Z
+date: 2024-12-28T00:58:51.615Z
+updated: 2025-01-03T03:56:23.941Z
 tags:
   - win11
   - win10
@@ -46,10 +46,6 @@ Here is how to solve the Brother Printer Offline problem:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **c)**  Under**Printers** , right click on your Brother printing device and select**Set as default printer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593fb95ba1bf4.png)
@@ -66,19 +62,27 @@ Here is how to solve the Brother Printer Offline problem:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59409bcecf2e7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **c)** On the window popping up, click on**Printer** , and then select**Open As Administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940dc98227ab.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **d)** Click on**Printer** again. If you see**Pause Printing** and**Use Printer Offline** are**ticked** ,**untick** these items.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940dd8b9c925.png)
 
-**e)** Close the window and see if your printer is back online.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**e)** Close the window and see if your printer is back online.
 
 ## 3) Cancel all printer jobs
 
@@ -90,9 +94,17 @@ Here is how to solve the Brother Printer Offline problem:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a25f033a4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **c)**  Hit**Yes** to confirm your action.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a2b245ae5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **d)**  Close the window and see if your printer gets back to normal.
 
@@ -104,10 +116,6 @@ Here is how to solve the Brother Printer Offline problem:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a9fc856af.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **b)** On the Downloads page of your printing device, select the**operating system version** you are using and hit**Search** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940ab56a7718.jpg)
@@ -116,19 +124,19 @@ Here is how to solve the Brother Printer Offline problem:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940aba39e231.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **d)** Hit**Agree to the EULA and Download** button at the bottom.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940ac4287cda.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **e)** After the download is completed, open the file and follow its instruction to update the firmware of your printer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5) Update printer driver
 
@@ -140,15 +148,7 @@ Here is how to solve the Brother Printer Offline problem:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940b29f2febb.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940b39645581.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **c)**  Go to**Brother official software download** website and search for the**Downloads** page of your device (as shown by steps**a** and**b** in [**method 4**](#i) ).
 
@@ -162,11 +162,11 @@ Here is how to solve the Brother Printer Offline problem:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940b663b0cc3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And its **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  is a much more powerful driver management tool. You can update all of your drivers**quickly** and**automatically** with just a few clicks. Plus, you can use this tool to**easily** finish**advanced driver manipulations** such as**driver backup and restore** or**reinstallation** . This is the tool that can**greatly improve your computer performance** and**considerably save your time and energy** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6) Check your printer
 
@@ -193,22 +193,22 @@ Here is how to solve the Brother Printer Offline problem:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-elite-meme-design-software/"><u>[New] 2024 Approved Elite Meme Design Software</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-capturing-competition-the-best-methods-for-recording-games/"><u>[Updated] In 2024, Capturing Competition The Best Methods for Recording Games</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-mastering-advertising-for-profit-the-ultimate-vimeo-guidebook/"><u>2024 Approved Mastering Advertising for Profit The Ultimate Vimeo Guidebook</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>2024 Approved Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/cure-print-issues-with-windows-11-advice/"><u>Cure Print Issues with Windows 11 Advice</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/five-tips-to-reignite-the-print-on-your-canon-printer-in-windows-11-os/"><u>Five Tips to Reignite the Print on Your Canon Printer in Windows 11 OS</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-premieres-role-in-your-youtube-creation-process/"><u>In 2024, Premiere's Role in Your YouTube Creation Process</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-independent-game-apps-for-screen-free-android-playing/"><u>In 2024, Top Independent Game Apps for Screen-Free Android Playing</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1674245-9781583948637-pioneering-the-possible/"><u>Pioneering the Possible | Free Book</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reconnected-disabled-printer-service/"><u>Reconnected Disabled PRINTER Service</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-installation-for-new-printer-model/"><u>Resolved Installation for New Printer Model</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-post-upgrade-pc-printer-wont-print/"><u>Resolved: Post-Upgrade, PC Printer Won't Print</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/steps-to-correct-hp-printers-oxc4eb827f-issue/"><u>Steps to Correct HP Printer's OXC4EB827F Issue</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-picks-exceptional-disneyplus-films-to-stream-immediately/"><u>Top Picks: Exceptional Disney+ Films to Stream Immediately</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/triumph-over-the-printer-after-updating-woes/"><u>Triumph over the Printer After Updating Woes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/usb-printing-issues-post-suspend-with-win7/"><u>USB Printing Issues Post-Suspend with Win7</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/be-mysteries-solved-decoding-unlisted-content-explained-for-2024/"><u>YouTube Mysteries Solved Decoding 'Unlisted' Content Explained for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/installation-pixma-mp620-not-found-in-windows-11-driver-list/"><u>[Installation] Pixma MP620 Not Found in Windows 11 Driver List</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-seamless-integration-transferring-snapchat-images-directly/"><u>[New] 2024 Approved Seamless Integration Transferring Snapchat Images Directly</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-understanding-aspect-ratio-regulations-on-twitter/"><u>[New] 2024 Approved Understanding Aspect Ratio Regulations on Twitter</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-step-by-step-for-inverting-screen-display-android-for-2024/"><u>[New] Step-By Step for Inverting Screen Display Android for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-y100t-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo Y100t</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apple-unveils-surprising-high-value-feature-349-ipad-steals-show-at-exciting-let-loose-launch-techinsights/"><u>Apple Unveils Surprising High-Value Feature: $349 iPad Steals Show at Exciting 'Let Loose' Launch | TechInsights</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/breaking-free-from-old-versions-a-guide-to-successfully-updating-to-windows-11-build-21h2-now/"><u>Breaking Free From Old Versions: A Guide to Successfully Updating to Windows 11 (Build 21H2) Now!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-corsairs-newest-icue-software-today-windows-1110-edition/"><u>Download and Install Corsair's Newest iCUE Software Today - Windows 11/10 Edition</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-fault-no-0x97-resolved/"><u>Epson Fault No: 0X97 - Resolved</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-xerox-halt-error-codes/"><u>Fix: Xerox Halt - Error Codes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-infinix-zero-5g-2023-turbo-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Infinix Zero 5G 2023 Turbo Phones</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/instant-driver-install-for-your-arduino-mega-wartz-secure-and-fast-download-options/"><u>Instant Driver Install for Your Arduino Mega Wartz: Secure & Fast Download Options</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/make-your-canon-printer-print-effortlessly-on-pc/"><u>Make Your Canon Printer Print Effortlessly on PC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mfc-9330-cdw-driver-installation-guide/"><u>MFC-9330 CDW Driver Installation Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/offline-domains-leading-to-print-failures/"><u>Offline Domains Leading to Print Failures</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-guide-to-brother-wireless-mfc-9330c/"><u>Quick Guide to Brother Wireless MFC-9330C</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-quick-fix-for-scanner-errors/"><u>Windows 11: Quick Fix for Scanner Errors</u></a></li>
 </ul></div>
 

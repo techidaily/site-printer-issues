@@ -1,7 +1,7 @@
 ---
 title: Code B200 Resolution Achieved
-date: 2024-12-09T00:29:20.597Z
-updated: 2024-12-10T01:43:13.638Z
+date: 2024-12-29T03:57:54.632Z
+updated: 2025-01-03T03:46:42.650Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/56e1f89334f10f1cb05f14f5231043c0f4d7f09cc
 
  Keep getting the error code B200? You’re not alone! Many Canon users are reporting it. But don’t worry. You can fix it Here are 3 solutions to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 simple fixes to try
 
  In most cases, getting the error B200 indicates that the printhead of your Canon printer is dead. Apart from that, defective ink cartridges and a corrupt printer driver can also trigger this problem. But before you rush out to buy a new printhead, check the fixes below.
@@ -33,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/56e1f89334f10f1cb05f14f5231043c0f4d7f09cc
 3. **[Clean the printhead](#c)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your printer driver
@@ -53,12 +49,16 @@ There are two ways you can update your printer driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/b200-error-code-canon-driver-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Enter the name of the serial number of your Canon product and search for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/b200-error-code-canon-driver-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
@@ -83,13 +83,13 @@ There are two ways you can update your printer driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-229.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like. But it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](mailto:support@drivereasy.com) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Check your ink cartridges
 
@@ -103,10 +103,6 @@ There are two ways you can update your printer driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/toner-581905_1920-1024x768.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Check the ink levels on your printer
 
  Check the ink levels on your Canon printer and replace your cartridges if necessary.
@@ -118,6 +114,10 @@ There are two ways you can update your printer driver:
  Remove your cartridges to check if any of them are defective. If you find any damaged cartridges, replace them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/cartridges-828195_1920-1-1024x981.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Make sure your cartridges all work properly, then reinstall it.
 
@@ -163,22 +163,20 @@ The printhead is very delicate. Please proceed with caution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-premier-zones-for-cutting-edge-vr-viewing/"><u>[New] 2024 Approved Premier Zones for Cutting-Edge VR Viewing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-excellence-in-hd-conversion-elevate-your-views/"><u>[New] Excellence in HD Conversion Elevate Your Views</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-hp-deskjet-d1360-printer-drivers-wont-install-in-windows-7-8-8110/"><u>[Resolved] HP Deskjet D1360 Printer Drivers Won’t Install in Windows 7, 8, 8.1,10</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-lag-solving-fortnites-pc-freezing-glitch-of-2t4/"><u>Beat the Lag: Solving Fortnite's PC Freezing Glitch of 2T4</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/dell-v305-aio-printer-driver-update-in-windows-7/"><u>Dell V305 AIO Printer Driver Update in Windows 7</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-11-pro-max-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 11 Pro Max when Phone is Broken? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instantly-resolve-printer-disconnection/"><u>Instantly Resolve Printer Disconnection</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/local-printer-spooler-not-responding-help/"><u>Local Printer Spooler Not Responding, Help</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/networking-issues-fixed-win7-printer-online/"><u>Networking Issues Fixed: Win7 Printer Online</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-sleep-suspend-with-windows-11-devices/"><u>Overcoming Sleep Suspend with Windows 11 Devices</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/photo-perfection-highest-rated-phone-tripods-for-2024/"><u>Photo Perfection Highest Rated Phone Tripods for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-recovery-steps/"><u>Printer Recovery Steps</u></a></li>
-<li><a href="https://win-forum.techidaily.com/quick-fixes-for-freezing-applications-on-windows-11-systems/"><u>Quick Fixes for Freezing Applications on Windows 11 Systems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-remedies-for-slow-printers/"><u>Quick Remedies for Slow Printers</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/reliable-iphone-data-retrieval-tool-secure-your-information/"><u>Reliable iPhone Data Retrieval Tool: Secure Your Information</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/secure-and-update-hp-officejet-4630-driver-edition/"><u>Secure & Update: HP Officejet 4630 Driver Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlocking-the-secrets-to-resolving-game-lag-in-call-of-duty-vanguard-for-free/"><u>Unlocking the Secrets to Resolving Game Lag in Call of Duty: Vanguard for Free</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-5-best-zoom-transcription-software-free-and-paid/"><u>[Updated] 2024 Approved 5 Best Zoom Transcription Software [Free & Paid]</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-laughing-skits-building-a-parody-film/"><u>[Updated] Laughing Skits Building a Parody Film</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-a-guide-to-gauging-igtv-video-impressions/"><u>2024 Approved A Guide to Gauging IGTV Video Impressions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/avoiding-epson-error-codes-halt/"><u>Avoiding Epson Error Codes Halt</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/balanced-review-of-the-viewsonic-va1nte-1655-portable-monitor-that-hits-the-middle-ground-in-all-aspects/"><u>Balanced Review of the ViewSonic VA1nte 1655: Portable Monitor that Hits the Middle Ground in All Aspects</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/demystifying-error-x97-on-epson-printers/"><u>Demystifying Error X97 on Epson Printers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/download-high-definition-badminton-matches-a-step-by-step-guide-to-finding-free-hd-videos/"><u>Download High-Definition Badminton Matches: A Step-by-Step Guide to Finding Free HD Videos</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fast-forward-stalled-printer-jobs/"><u>Fast-Forward Stalled Printer Jobs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-offline-printer-alert/"><u>Fixing: Offline PRINTER Alert</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-fix-printer-in-error-state/"><u>How to Fix Printer in Error State</u></a></li>
+<li><a href="https://win11.techidaily.com/insights-on-ignoring-notifications-risks-of-silencing-wins-11/"><u>Insights on Ignoring Notifications: Risks of Silencing Wins 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mfc-9330cdw-fan-bro-free-drive-setup/"><u>MFC-9330CDW Fan Bro: Free Drive Setup</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/simplifying-pcl-xl-error-correction/"><u>Simplifying PCL XL Error Correction</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/step-by-step-guide-editing-your-webex-recordings-like-a-pro/"><u>Step-by-Step Guide: Editing Your Webex Recordings Like a Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-nokia-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Nokia Phone Network-Ready</u></a></li>
 </ul></div>
 

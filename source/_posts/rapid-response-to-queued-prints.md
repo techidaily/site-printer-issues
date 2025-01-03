@@ -1,7 +1,7 @@
 ---
 title: Rapid Response to Queued Prints
-date: 2024-12-19T19:41:05.936Z
-updated: 2024-12-24T20:12:44.627Z
+date: 2024-12-29T21:15:58.099Z
+updated: 2025-01-02T22:15:08.615Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
    3. [Create a Bat file for permanent use](#f3)
 * **Fix 2 –[Reinstall your printer driver](#m2)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Clear the print queue
 
  There are three options for you to clear the print queue. You don’t have to try them all; just take your pick.
@@ -39,23 +43,19 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/services-run-box.jpg)
 3. Scroll down to**Print Spooler** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Right-click**Print Spooler** and select**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/stop-the-service.jpg)
 5. Navigate to**C:\\Windows\\System32\\spool\\PRINTERS** and delete all files in the folder. (Do NOT delete the folder itself.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/delete.jpg)
 6. In the Services window, right-click**Print Spooler** and select**Start** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/start-service.jpg)
 7. Go back to the**Print Job** queue. All print jobs should have been removed now and you can start printing again normally.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Have trouble deleting the files?**
   
@@ -99,7 +99,7 @@ This will clear all of your print jobs stuck in a queue.
 4. Double-click the batch file to clear the print queue anytime you want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Reinstall the printer driver
@@ -121,7 +121,7 @@ This will clear all of your print jobs stuck in a queue.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/kisspng-pixel-illustration-printer-5a983b8a6f6aa4.5830009615199261544564.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Option 2: Automatic printer driver update (Recommended)
@@ -138,7 +138,7 @@ This will clear all of your print jobs stuck in a queue.
 3. Click the Update button next to your sound card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **OR** click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)  
@@ -172,24 +172,19 @@ Feel free to drop us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-gimbal-guide-for-the-ultimate-4k-shot-experience/"><u>[New] Gimbal Guide for the Ultimate 4K Shot Experience</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/oice-of-volume-6-free-apps-for-channeling-youtube-music-onto-android-devices-for-2024/"><u>[New] Voice of Volume 6 Free Apps for Channeling YouTube Music Onto Android Devices for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-revolutionizing-audience-retention-on-youtube-with-these-top-6-techniques/"><u>[Updated] Revolutionizing Audience Retention on YouTube with These Top 6 Techniques</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brisk-print-processes-revealed/"><u>Brisk Print Processes Revealed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/come-convertire-i-file-ts-in-mp4-con-ottima-qualita-4-strategie-essenziali/"><u>Come Convertire I File TS in MP4 Con Ottima Qualità: 4 Strategie Essenziali</u></a></li>
-<li><a href="https://win-able.techidaily.com/defeat-phasmophobias-stagnant-90-load-barrier-step-by-step-solutions-for-ultimate-progress/"><u>Defeat Phasmophobia's Stagnant 90% Load Barrier: Step-by-Step Solutions for Ultimate Progress</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-glitch-resolution-0x97/"><u>Epson Glitch Resolution: 0X97</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-offline-windows-hp-print-link/"><u>Fixing Offline Windows-HP Print Link</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-officejet-pro-8600-printer-software-for-windows/"><u>HP OfficeJet Pro 8600 Printer Software for Windows</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-metaverse-comedy-the-art-and-science-of-creating-viral-online-laughs/"><u>In 2024, Metaverse Comedy The Art & Science of Creating Viral Online Laughs</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/lilliputscreenmugger-review-analysis/"><u>LilliputScreenMugger Review Analysis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725616842752-live-streaming-mastery-with-manycam-ultimate-virtual-camera-and-editing-suite/"><u>Live Streaming Mastery with ManyCam - Ultimate Virtual Camera & Editing Suite</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-graphics-card-enhancement-gtx-1060/"><u>Nvidia Graphics Card Enhancement: GTX 1060</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-fixes-for-silent-hp-printers/"><u>Quick Fixes for Silent HP Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reigniting-your-silent-printer/"><u>Reigniting Your Silent Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolve-printer-driver-crashes-on-windows-11/"><u>Resolve Printer Driver Crashes on Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/technical-mishap-printer-setup-misstep/"><u>Technical Mishap: Printer Setup Misstep!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-top-4-artificial-intelligence-enhancements-essential-for-iphone-to-match-android-capabilities-technews/"><u>The Top 4 Artificial Intelligence Enhancements Essential for iPhone to Match Android Capabilities | TechNews</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/updating-drives-with-mf4770n-for-windows-1087/"><u>Updating Drives with MF4770n for Windows 10/8/7</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-ultimate-guide-top-screen-capture-apps-analysis/"><u>[Updated] 2024 Approved Ultimate Guide Top Screen Capture Apps Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-boosting-eco-friendly-fintech-innovation-in-singapore-through-collaborative-google-cloud-alliance-insights-from-technews/"><u>1. Boosting Eco-Friendly Fintech Innovation in Singapore Through Collaborative Google Cloud Alliance - Insights From TechNews</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/breathe-new-life-into-non-printing-brother-printer-in-windows-1011/"><u>Breathe New Life Into Non-Printing Brother Printer in Windows 10/11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-inaccessible-for-windows-print/"><u>Driver Inaccessible for Windows Print</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/efficient-omzetting-van-fotos-naar-jpeg-de-beste-converters-voor-je-grafische-werken/"><u>Efficiënt Omzetting Van Foto's Naar JPEG: De Beste Converters Voor Je Grafische Werken</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enabling-duplex-print-on-hp-workstation/"><u>Enabling Duplex Print on HP Workstation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-high-resolution-with-lgs-digital-cinema-31mu97-b-for-2024/"><u>Exploring High-Resolution with LG's Digital Cinema 31MU97-B for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-13-ultra-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mend-w11-printer-communication-errors/"><u>Mend W11 Printer Communication Errors</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolve-print-queue-hang-up-promptly/"><u>Resolve Print Queue Hang-Up Promptly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-850-evo-ssd-installation-drivers-free-download/"><u>Samsung 850 EVO SSD Installation Drivers - Free Download</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574161603-successfully-installed-printer/"><u>Successfully Installed Printer.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-watchos-11-discover-new-and-enhanced-features-on-your-apple-watch-article/"><u>Unveiling WatchOS 11: Discover New and Enhanced Features on Your Apple Watch! [Article]</u></a></li>
 </ul></div>
 

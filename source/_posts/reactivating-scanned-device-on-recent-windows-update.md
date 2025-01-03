@@ -1,7 +1,7 @@
 ---
 title: Reactivating Scanned Device on Recent Windows Update
-date: 2024-11-19T18:44:10.844Z
-updated: 2024-11-23T21:46:03.187Z
+date: 2024-12-29T20:02:34.525Z
+updated: 2025-01-02T18:36:13.558Z
 tags:
   - win11
   - win10
@@ -22,15 +22,15 @@ thumbnail: https://thmb.techidaily.com/a17447c179fae26d14a354bd27ee3ed0db51405b2
 
 Read on. 🙂
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [**Check the connection of your Printer**](#m1)
 2. [**Reinstall your printer driver**](#m2)
 3. [**Get rid of ‘Scan to computer is no longer activated’ error**](#m3)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Check the connection of your Printer
 
@@ -44,10 +44,6 @@ Read on. 🙂
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Reinstall your printer driver
 
  A corrupted driver software can also cause the message pop up. In such case, you can try to solve it through updating the printer driver.
@@ -58,9 +54,17 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf305cb04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the open window, find and expand the**Print queues** catalog. Then right-click on your printer software to choose**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf9b29be7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Restart your computer to let Windows reinstall the printer driver for you automatically.
 
@@ -74,13 +78,13 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597af8932fbfe.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5976a910cca49.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
 
@@ -94,21 +98,17 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee238c2f07.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Find**scanToPCActivationApp** under**Processes** tab. Then right-click on it to choose**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee29de8213.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Find**scanToPCActivationApp** under**Startup** tab. Then right-click on it to choose**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee2dfcd442.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 That’s all there is to it.
 
@@ -132,16 +132,18 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-decoding-video-thread-embellishments/"><u>[New] Decoding Video Thread Embellishments</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-leading-8-flawless-recorder-picks/"><u>[Updated] 2024 Approved Leading 8 Flawless Recorder Picks</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/excessive-blank-sheets-on-new-epson-multifunction-product/"><u>Excessive Blank Sheets on New Epson Multifunction Product</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experts-picks-for-the-ultimate-selection-of-digital-notebooks-in-depth-analysis-and-ratings/"><u>Experts' Picks for the Ultimate Selection of Digital Notebooks: In-Depth Analysis and Ratings</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574049626-fix-print-job-stuck-in-queue-quickly/"><u>Fix 'Print Job Stuck in Queue' Quickly</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-perfect-gifs-essential-virtual-meet-scenes/"><u>In 2024, Perfect GIFs Essential Virtual Meet Scenes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mastering-quick-fixes-for-pcl-xl-errors/"><u>Mastering Quick Fixes for PCL XL Errors</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/no-errors-in-connecting-printer-to-pc/"><u>No Errors in Connecting Printer to PC</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reclaiming-internet-connectivity-for-brother-printer/"><u>Reclaiming Internet Connectivity for Brother Printer</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-no-crack-no-problem-legitimate-ways-to-access-filmora/"><u>Updated 2024 Approved No Crack, No Problem Legitimate Ways to Access Filmora</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-lava-yuva-2-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Lava Yuva 2 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-step-by-step-guide-to-crafting-stunning-tiktok-edits/"><u>[New] 2024 Approved Step-by-Step Guide to Crafting Stunning TikTok Edits</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-step-by-step-adding-captions-to-youtube-clips/"><u>[New] Step-by-Step Adding Captions to YouTube Clips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-identifying-the-best-on-the-market-for-hdr-photography/"><u>2024 Approved Identifying the Best on the Market for HDR Photography</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/effortlessly-bridge-your-printer-and-wifi-with-canon/"><u>Effortlessly Bridge Your Printer and Wifi with Canon</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-dead-paper-output-in-hp-printers/"><u>Fixing Dead Paper Output in HP Printers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/quantifying-igtv-engagement-and-outreach/"><u>Quantifying IGTV Engagement and Outreach</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/re-establishing-connection-between-printer-and-wifi/"><u>Re-Establishing Connection Between Printer & WiFi</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/retrieve-accidentally-removed-photos-from-pcs-and-mobile-gadgets-including-iphones-and-androids/"><u>Retrieve Accidentally Removed Photos From PCs and Mobile Gadgets Including iPhones and Androids</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revitalize-non-responding-printer-on-windows-me-version/"><u>Revitalize Non-Responding Printer on Windows ME Version</u></a></li>
+<li><a href="https://extra-support.techidaily.com/select-blur-apps-for-softened-backdrops-for-2024/"><u>Select Blur Apps for Softened Backdrops for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96369135-9781446358481-telepathy-genuine-and-fraudulent/"><u>Telepathy: Genuine and Fraudulent | Free Book</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/two-ways-to-track-my-boyfriends-apple-iphone-11-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>Two Ways to Track My Boyfriends Apple iPhone 11 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/upgrading-to-flawless-mf4770n-operation-in-windows-1187/"><u>Upgrading to Flawless MF4770n Operation in Windows 11/8/7</u></a></li>
 </ul></div>
 

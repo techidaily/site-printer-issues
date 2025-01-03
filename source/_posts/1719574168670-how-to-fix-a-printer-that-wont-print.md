@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Printer That Won’t Print
-date: 2024-12-19T03:31:00.091Z
-updated: 2024-12-24T20:18:10.209Z
+date: 2024-12-26T23:31:22.975Z
+updated: 2025-01-03T02:23:57.270Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
  You can also**shut down** your computer and printer**completely** , wait for**a couple of minutes** , and then**power them on** again. After that you can try printing something and see if the problem resolves.  
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2) Set your printer as default
 
  In normal cases, the computer will assign the printing tasks to**default printer** unless you specify another on purpose. Sometimes your default printer will be changed to another printer due to some reasons. In these cases, you should note that, in the program that you use to print, you have to **correctly select** your printer in order to print with the right one.
@@ -50,16 +54,12 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
 **![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593fb867beb0b.png)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **b)**  Select**Devices and Printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **c)**  In**Printers** section, right click on your printer and then select**Set as default printer** .
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940dc98227ab.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **d)** Open**Printer** menu again. Select**Cancel All Documents** .
@@ -96,11 +96,15 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a2b245ae5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **f)**  The print queue of your printer is clear. Now check and see if your printer can run normally.  
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4) Update printer driver
 
@@ -115,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
  To update your drivers with Driver Easy, just hit the huge **Scan Now** button. It will quickly scan out the drivers you need.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59536d887738b.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the result, click on the**Update** button next to your printer. Then you can download the**latest and credible** driver for your device. After that you can use the files just downloaded and install the driver on your own.
 
@@ -154,17 +154,17 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-a-step-by-step-guide-to-easy-video-cuts-on-windows-phones/"><u>[New] 2024 Approved A Step-by-Step Guide to Easy Video Cuts on Windows Phones</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/system-failure-spooler-issue-on-workstation/"><u>[SYSTEM FAILURE] Spooler Issue on Workstation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-cream-of-the-crop-top-8-sites-for-rich-3d-and-text/"><u>2024 Approved The Cream of the Crop Top 8 Sites for Rich 3D & Text</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-vivo-y27-4g-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Vivo Y27 4G.</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-print-problems-canon-printer-guide-in-windows-10/"><u>Fixing Print Problems: Canon Printer Guide in Windows 10</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/framefinder-top-picks-for-screen-capturing-for-2024/"><u>FrameFinder Top Picks for Screen Capturing for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-14-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your iPhone 14</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-camera-spin-top-professionals-360cameras-of-2023/"><u>In 2024, Pioneering Camera Spin Top Professionals’ 360°Cameras of 2023</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-the-art-of-keeping-a-clean-nozzle-on-your-3d-printing-device/"><u>Master the Art of Keeping a Clean Nozzle on Your 3D Printing Device</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/post-update-printer-stands-silent-no-more/"><u>Post-Update, Printer Stands Silent No More</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/successfully-repairing-epson-printer-issues/"><u>Successfully Repairing Epson Printer Issues</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unclog-print-issues-resolving-brother-printer-errors-win1011/"><u>Unclog Print Issues: Resolving Brother Printer Errors, Win10/11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-mastering-macos-sierra-installation-procedures/"><u>[New] Mastering macOS Sierra Installation Procedures</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unlock-potential-innovating-with-effective-instagram-video-loops-for-2024/"><u>[New] Unlock Potential Innovating with Effective Instagram Video Loops for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-turboinsta-video-boosting-online-and-mobile-fixes-for-2024/"><u>[Updated] TurboInsta Video Boosting Online & Mobile Fixes for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-frosty-frameworks-for-warm-video-productions/"><u>2024 Approved Frosty Frameworks for Warm Video Productions</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-lava-yuva-3-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Lava Yuva 3 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/clearing-out-hp-printers-error-code-oxc4eb827f/"><u>Clearing Out HP Printer's Error Code OXC4EB827F</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/compatibility-and-performance-boost-officejet-pro-8600-windows-version/"><u>Compatibility & Performance Boost: Officejet Pro 8600, Windows Version</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-printing-revolution-install-new-inkjet-drivers-and-updates/"><u>HP Printing Revolution: Install New Inkjet Drivers and Updates</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-vivo-y77t-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Vivo Y77t? Try These Fixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/no-sign-on-your-computers-monitor-a-comprehvew-guide-to-restore-its-visual-output/"><u>No Sign on Your Computer’s Monitor? A Comprehvew Guide to Restore Its Visual Output</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/remedying-error-canon-print-misfires/"><u>Remedying Error: Canon Print Misfires</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-hp-printers-oxc4eb827f-error/"><u>Resolving HP Printer's OXC4EB827F Error</u></a></li>
 </ul></div>
 

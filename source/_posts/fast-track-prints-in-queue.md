@@ -1,7 +1,7 @@
 ---
 title: Fast-Track Prints in Queue
-date: 2024-12-06T18:57:11.952Z
-updated: 2024-12-10T01:39:56.027Z
+date: 2024-12-27T22:17:05.301Z
+updated: 2025-01-02T16:39:33.838Z
 tags:
   - win11
   - win10
@@ -39,17 +39,9 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/services-run-box.jpg)
 3. Scroll down to**Print Spooler** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Right-click**Print Spooler** and select**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/stop-the-service.jpg)
 5. Navigate to**C:\\Windows\\System32\\spool\\PRINTERS** and delete all files in the folder. (Do NOT delete the folder itself.)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/delete.jpg)
 6. In the Services window, right-click**Print Spooler** and select**Start** .  
@@ -58,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 7. Go back to the**Print Job** queue. All print jobs should have been removed now and you can start printing again normally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Have trouble deleting the files?**
@@ -74,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 1. Type**cmd** in the search box and Run it as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/command-prompt-admin.jpg)
 2. In the Command Prompt window, enter the following commands separately:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 net stop spooler
 
@@ -95,16 +91,16 @@ This will clear all of your print jobs stuck in a queue.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/note.jpg)
 3. Then click**File** \>**Save as…**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    * Change the file type to**All files**  
    * Name your file whatever you want, but add a**.bat** suffix.  
    * Make sure the Encoding type is**ANSI** .  
    * Save the file. (Note where the file is saved.)  
    ![](https://images.drivereasy.com/wp-content/uploads/2020/01/batch-file.jpg)
 4. Double-click the batch file to clear the print queue anytime you want.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Reinstall the printer driver
 
@@ -138,12 +134,16 @@ This will clear all of your print jobs stuck in a queue.
 3. Click the Update button next to your sound card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **OR** click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-1.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Try printing again. Your printer should be working properly now.
 
@@ -172,22 +172,22 @@ Feel free to drop us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-apex-legends-solo-mode-top-choices-for-non-crossplay-gaming/"><u>[New] 2024 Approved Apex Legends Solo Mode Top Choices for Non-Crossplay Gaming</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-unlocking-the-potential-of-cartoon-face-lens-in-snapchat-for-2024/"><u>[New] Unlocking the Potential of Cartoon Face Lens in Snapchat for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-hashtag-hacks-for-amplifying-gamer-content/"><u>[Updated] Hashtag Hacks for Amplifying Gamer Content</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/color-printing-malfunction-detected/"><u>Color Printing Malfunction Detected</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/correct-printer-configuration-errors-in-w11/"><u>Correct Printer Configuration Errors in W11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enabling-hp-printer-on-windows-107/"><u>Enabling HP Printer on Windows 10/7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhance-device-compatibility-mf4770n-update-in-w11win8w7-os/"><u>Enhance Device Compatibility: MF4770n Update in W11/Win8/W7 OS</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/gaming-memories-made-easy-with-fraps-for-2024/"><u>Gaming Memories Made Easy with Fraps for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-does-fraudgpt-work-and-what-can-you-do-to-stay-safe/"><u>How Does FraudGPT Work, and What Can You Do to Stay Safe?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c12-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Nokia C12 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-error-unforeseen-setup-glitch-detected/"><u>Print Error: Unforeseen Setup Glitch Detected</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/rapid-release-of-stuck-prints/"><u>Rapid Release of Stuck Prints</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/revamp-chromebooks-soundscape-with-our-picks-for-web-extensions-for-2024/"><u>Revamp Chromebook's Soundscape with Our Picks for Web Extensions for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revive-dead-printers-on-windows-11-os/"><u>Revive Dead Printers on Windows 11 OS</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-vivo-s18e-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Vivo S18e FRP</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-7-essential-windows-applications-must-have-tools-for-your-pc/"><u>Top 7 Essential Windows Applications: Must-Have Tools for Your PC</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unable-to-connect-domains-and-printers-offline/"><u>Unable To Connect: Domains and Printers Offline</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-transformation-editors-that-impress/"><u>[New] In 2024, Instagram Transformation Editors That Impress</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-expand-your-laptop-editing-horizons-for-2024/"><u>[Updated] Expand Your Laptop Editing Horizons for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-tutorial-to-retrieve-saved-passwords-on-a-mac-device/"><u>A Step-by-Step Tutorial to Retrieve Saved Passwords on a Mac Device</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/accelerate-stuck-printer-operations/"><u>Accelerate Stuck Printer Operations</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/brisk-print-processes-revealed/"><u>Brisk Print Processes Revealed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/clearing-up-printer-conflicts-in-windows/"><u>Clearing Up Printer Conflicts in Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/effortlessly-connect-canon-printer-online/"><u>Effortlessly Connect Canon Printer Online</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ssing-video-magic-channel-creation-wizardry/"><u>Harnessing Video Magic Channel Creation Wizardry</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/identifying-surveillance-how-to-spot-if-someones-using-an-airtag-for-tracking-expert-advice/"><u>Identifying Surveillance: How to Spot If Someone's Using an AirTag for Tracking | Expert Advice</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/keep-your-v305-printing-fresh-with-windows-updates/"><u>Keep Your V305 Printing Fresh with WIndows Updates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/laminar-flow-occurs-at-low-velocities-with-a-smooth-orderly-movement-of-fluid-particles-in-layers/"><u>Laminar Flow Occurs at Low Velocities with a Smooth, Orderly Movement of Fluid Particles in Layers.</u></a></li>
+<li><a href="https://win-trending.techidaily.com/pcdj-exclusive-master-the-mix-with-the-reloop-rmp-4-hybrid-media-player-full-review-and-features-breakdown/"><u>PCDJ Exclusive: Master the Mix with the Reloop RMP-4 Hybrid Media Player – Full Review and Features Breakdown</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-fixes-for-silent-hp-printers/"><u>Quick Fixes for Silent HP Printers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/rust-crashes-heres-how-you-can-prevent-unexpected-shutdowns-in-your-programs/"><u>Rust Crashes? Here's How You Can Prevent Unexpected Shutdowns in Your Programs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/seeking-solutions-for-print-device-driver-failure-in-windows-os/"><u>Seeking Solutions for Print Device Driver Failure in Windows OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solutions-for-non-responsive-print-devices/"><u>Solutions for Non-Responsive Print Devices</u></a></li>
+<li><a href="https://discover-great.techidaily.com/top-strategies-for-boosting-your-systems-speed-expert-advice-from-yl-computing/"><u>Top Strategies for Boosting Your System's Speed: Expert Advice From YL Computing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Print Every Page without a Glitch, Now!
-date: 2024-11-17T17:08:10.608Z
-updated: 2024-11-23T22:44:23.719Z
+date: 2024-12-28T00:55:24.957Z
+updated: 2025-01-02T16:46:40.305Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 
  When your printer is acting up and won’t print all pages of your documents, for example, skipping pages in between, it can be annoying. If you’re encountering similar issues, you’ve come to the right place. In this post, we’ll show you how to fix your printer when it’s not printing all pages.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes…
 
  You don’t have to try them all, just work your way down the list until you find the one that does the trick!
@@ -41,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 [6: Clear the spooler cache](#fix6)
 
 [7: Update your printer software](#fix7)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Check your printer
 
@@ -70,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_12-11-29.jpg)
 3. Click the **Update**  button next to the flagged printer driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_12-11-25.jpg)
 
@@ -77,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  If updating your printer driver doesn’t solve the problem for you, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Restart the print spooler service
 
@@ -90,6 +82,11 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 2. Type**taskmgr** and hit Enter.  
 ![how to open Task Manager](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
 3. Go to the**Services** tab, scroll down and find**Spooler** . Right-click it and select**Restart** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_14-18-55.jpg)
 
  The screenshot above comes from Windows 10\. If you’re running Windows 11, your screen may look slightly different. However, the steps you perform remain persistent.
@@ -109,12 +106,16 @@ If your printer still won’t print all pages, try the next fix.
 3. Once the scan is complete, you can review the summary. If Fortect detects any missing or broken system files or other issues that may have triggered your printer problem, you can click **Start Repair** to fix them.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues while using Fortect, feel free to contact their support service.
 
 If the problem persists, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Disable SNMP in Printer Properties
@@ -126,10 +127,6 @@ If the problem persists, try the next fix.
 1. In the search bar next to your Start button, type**printer** , and click**Printers and scanners** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_15-12-05.jpg)
 2. Select your printer, then click**Manage** . (If you’re on Windows 11, simply click on your printer.)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_15-13-59.jpg)
 3. Click**Printer properties** .  
@@ -143,10 +140,6 @@ If the problem persists, try the next fix.
 
  If the problem returns, you can repeat the steps above and re-enable SNMP in your printer’s properties.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 6: Clear the spooler cache
 
  A corrupted spooler cache could trigger random printer errors and cause the printer to act up. You can try to delete the spooler cache to see if it helps.
@@ -156,13 +149,21 @@ If the problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_15-51-50.jpg)
 3. Double-click the**Printer** folder, and delete all the files in the folder. (Do not delete the folder itself.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_15-52-19.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this doesn’t work, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Update your printer software
 
@@ -187,22 +188,24 @@ If this doesn’t work, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-bridging-social-media-and-television-with-live-streaming/"><u>[New] 2024 Approved Bridging Social Media & Television with Live Streaming</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-8-best-photo-grid-online-makers-to-polish-your-pictures-for-2024/"><u>[New] 8 Best Photo Grid Online Makers to Polish Your Pictures for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/void-commonplace-channel-titles-finding-uniqueness-with-filmora/"><u>[New] Avoid Commonplace Channel Titles Finding Uniqueness with Filmora</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-the-executive-mind-how-neuroscience-can-inform-better-management-strategies/"><u>2024 Approved The Executive Mind How Neuroscience Can Inform Better Management Strategies</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brisk-intervention-in-stuck-printer-queue/"><u>Brisk Intervention in Stuck Printer Queue</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-inkjet-now-functioning-correctly/"><u>Epson Inkjet, Now Functioning Correctly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-print-disruptions-in-devices/"><u>Fixing Print Disruptions in Devices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-inkjet-printer-installation-guide/"><u>HP Inkjet Printer Installation Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-aesthetic-all-stars-popular-instagram-filters/"><u>In 2024, Aesthetic All-Stars Popular Instagram Filters</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-immersion-countdown-top-5-samsung-gear-vr-games/"><u>In 2024, Immersion Countdown - Top 5 Samsung Gear VR Games</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-failure-alert-domain-service-down/"><u>Print Failure Alert: Domain Service Down</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/seamless-operation-revamping-mf4770n-on-w11-w8-w7-platforms/"><u>Seamless Operation: Revamping MF4770n on W11, W8, W7 Platforms</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/simplified-process-of-configuring-and-connecting-a-canon-printer/"><u>Simplified Process of Configuring & Connecting a Canon Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/swift-unjamming-for-print-queues/"><u>Swift Unjamming for Print Queues</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ling-the-secret-behind-successful-youtube-thumbnails/"><u>Unveiling The Secret Behind Successful YouTube Thumbnails</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-xp-7-and-81-no-longer-backed-by-microsoft/"><u>Windows XP, 7, and 8.1 No Longer Backed by Microsoft</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/setup-struggle-hp-deskjet-d1360-not-installing-on-w7-10/"><u>[Setup Struggle] HP Deskjet D1360 Not Installing on W7-10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chronology-conundrum-best-podcast-times-for-2024/"><u>Chronology Conundrum Best Podcast Times for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cloud-costs-top-picks-for-value/"><u>Cloud Costs Top Picks for Value</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-microsofts-wireless-mouse-5000-drivers-a-quick-and-easy-process/"><u>Download Microsoft's Wireless Mouse 5000 Drivers - A Quick & Easy Process</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-resetting-your-iphone-15-with-ease/"><u>Expert Tips for Resetting Your iPhone 15 with Ease</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-add-hp-officejet-pro-8720-to-your-pc-step-by-step/"><u>How to Add HP OfficeJet Pro 8720 to Your PC [Step by Step]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-quickly-fix-a-nonfunctional-disk-on-your-windows-11-machine-expert-tips-and-tricks/"><u>How To Quickly Fix a Nonfunctional Disk on Your Windows 11 Machine – Expert Tips & Tricks</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-officejet-pro-8600-printer-software-for-pc-users/"><u>HP Officejet Pro 8600 Printer Software for PC Users</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Hacks to do pokemon go trainer battles For Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mfc-9330-wireless-setup-guide-for-brother-fans/"><u>MFC-9330 Wireless Setup Guide for Brother Fans</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-inactive-scanner-on-windows-11/"><u>Overcoming Inactive Scanner on Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfecting-the-introduction-writing-impressive-summaries/"><u>Perfecting the Introduction Writing Impressive Summaries</u></a></li>
+<li><a href="https://article-files.techidaily.com/quick-start-zooming-into-success-with-win11/"><u>Quick Start Zooming Into Success with Win11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-order-a-printers-tale-after-windows-update/"><u>Restoring Order: A Printer's Tale After Windows Update</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reveal-missing-printer-on-your-windows-system/"><u>Reveal Missing Printer on Your Windows System</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshoot-non-printing-brother-printer-in-windows-oses/"><u>Troubleshoot Non-Printing Brother Printer in Windows OSes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolve-minecraft-crossbow-malfunction-codes-swiftly/"><u>Troubleshooting Guide: Resolve Minecraft Crossbow Malfunction Codes Swiftly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unblocking-hp-inkjet-on-windows-11-offline/"><u>Unblocking HP Inkjet on Windows 11 Offline</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-resonant-harmony-a-comprehensive-list-of-voice-enhancing-apps-for-all-audiences-and-budgets-for-2024/"><u>Updated Resonant Harmony A Comprehensive List of Voice-Enhancing Apps for All Audiences and Budgets for 2024</u></a></li>
 </ul></div>
 

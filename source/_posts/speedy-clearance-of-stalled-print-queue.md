@@ -1,7 +1,7 @@
 ---
 title: Speedy Clearance of Stalled Print Queue
-date: 2024-12-08T00:20:59.786Z
-updated: 2024-12-09T22:39:57.084Z
+date: 2024-12-29T01:30:24.416Z
+updated: 2025-01-03T03:20:07.732Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 
  Don’t panic. Many users have reported the same issue, and it’s quite easy to fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 * **Fix 1 –[Clear the print queue](#m1)**  
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
    2. [Use Command Prompt to Clear Stuck Files](#f2)  
    3. [Create a Bat file for permanent use](#f3)
 * **Fix 2 –[Reinstall your printer driver](#m2)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Clear the print queue
 
@@ -44,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 5. Navigate to**C:\\Windows\\System32\\spool\\PRINTERS** and delete all files in the folder. (Do NOT delete the folder itself.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/delete.jpg)
@@ -67,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/command-prompt-admin.jpg)
 2. In the Command Prompt window, enter the following commands separately:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 net stop spooler
 
 del %systemroot%\System32\spool\printers\* /Q **/F /S**
@@ -91,10 +95,6 @@ This will clear all of your print jobs stuck in a queue.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/note.jpg)
 3. Then click**File** \>**Save as…**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
    * Change the file type to**All files**  
    * Name your file whatever you want, but add a**.bat** suffix.  
    * Make sure the Encoding type is**ANSI** .  
@@ -103,7 +103,7 @@ This will clear all of your print jobs stuck in a queue.
 4. Double-click the batch file to clear the print queue anytime you want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Reinstall the printer driver
@@ -142,7 +142,7 @@ This will clear all of your print jobs stuck in a queue.
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Try printing again. Your printer should be working properly now.
@@ -172,14 +172,22 @@ Feel free to drop us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://mondly-stories.techidaily.com/declaring-heartfelt-feelings-in-hungarian/"><u>Declaring Heartfelt Feelings in Hungarian</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-fix-pcl-xl-error-easily/"><u>How to Fix PCL XL Error Easily</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-motorola-moto-g13-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Motorola Moto G13</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/mokos-versatile-and-foldable-bluetooth-keyboard-perfect-for-on-the-go-typing/"><u>MoKo's Versatile and Foldable Bluetooth Keyboard Perfect for On-the-Go Typing</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reactivating-pcs-scanner-connection-on-win10/"><u>Reactivating PC's Scanner Connection on Win10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamline-device-interaction-with-mf4770n-upgrade-in-windows-1187/"><u>Streamline Device Interaction with MF4770n Upgrade in Windows 11/8/7</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/the-roadmap-to-fandom-10-secrets-for-rampant-fb-engagement/"><u>The Roadmap to Fandom 10 Secrets for Rampant FB Engagement</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unknown-computer-known-printer-case-closed/"><u>Unknown Computer, Known Printer - Case Closed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723013624860-unveiling-tricks-how-to-get-steam-vr-recognized-on-your-pc-a-step-by-step-guide/"><u>Unveiling Tricks: How To Get Steam VR Recognized on Your PC - A Step-by-Step Guide!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-uplifting-movies-a-top-10-list-of-inspiration/"><u>[Updated] In 2024, Uplifting Movies A Top 10 List of Inspiration</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-talking-audio-log-audit/"><u>[Updated] Talking Audio Log Audit</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/advanced-argon-high-quality-bootstrap-4-administrative-framework-by-creative-tim/"><u>Advanced Argon: High-Quality Bootstrap 4 Administrative Framework by Creative Tim</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-analysis-of-kensun-compact-tire-pump-durable-trustworthy-easily-carried/"><u>Expert Analysis of Kensun Compact Tire Pump: Durable, Trustworthy, Easily Carried</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-oppo-a18-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Oppo A18 Phone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-numeric-adjustments-in-tiktok-videos-for-2024/"><u>Mastering Numeric Adjustments in TikTok Videos for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/network-printer-vanishes-whats-the-remedy/"><u>Network Printer Vanishes, What's the Remedy?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/preventing-constant-spooler-crashes-a-guide-for-windows-users/"><u>Preventing Constant Spooler Crashes: A Guide for Windows Users</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/rapid-solution-for-printer-not-plugged-in/"><u>Rapid Solution for Printer Not Plugged In</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reactivating-scanner-link-to-computer-post-update/"><u>Reactivating Scanner Link to Computer Post-Update</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210819085-9781475862355-school-the-seedbed-of-society/"><u>School, The Seedbed of Society | Free Book</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/setup-snag-your-printer-is-confused/"><u>Setup Snag: Your Printer Is Confused</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fix-for-risk-of-rain-2-stability-issues-and-crashes/"><u>Ultimate Fix for Risk of Rain 2 Stability Issues and Crashes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unrecognized-print-activity-sheds-light/"><u>Unrecognized Print Activity Sheds Light</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-ultimate-compendium-of-selecting-premium-audio-formats/"><u>Updated In 2024, The Ultimate Compendium of Selecting Premium Audio Formats</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win-system-cannot-retrieve-printer-drivers/"><u>Win System: Cannot Retrieve Printer Drivers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-update-the-silent-printer/"><u>Windows Update: The Silent Printer</u></a></li>
 </ul></div>
 

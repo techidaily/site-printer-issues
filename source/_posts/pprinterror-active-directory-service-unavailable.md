@@ -1,7 +1,7 @@
 ---
 title: "PPrintError: Active Directory Service Unavailable"
-date: 2024-12-20T01:24:42.840Z
-updated: 2024-12-24T16:44:20.786Z
+date: 2024-12-30T17:57:56.451Z
+updated: 2025-01-02T18:42:38.238Z
 tags:
   - win11
   - win10
@@ -25,17 +25,21 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 1. **[Change the Printer Spooler settings](#method1)**
 2. **[Using Registry Editor](#method2)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Change Printer Spooler settings
 
 1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png) and **R**  at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Type **services.msc**  and press **Enter**  to open the **Services**  window:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a50a818f88a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-click on **Printer Spooler**  service and click **Start** .  
   
@@ -48,13 +52,13 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Close the Services window and check if you could print files successfully.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Using Registry Editor
@@ -71,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Right-click on **Devices**  under **CurrentVersion**  dialog.  
  Then click **Permissions** .  
   
@@ -86,14 +86,14 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-13.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Do the same settings to give your account full control of **PrinterPorts**  and **Windows** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-12.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Close the Registry Editor window and check to see if you could print files successfully.
 
@@ -114,18 +114,24 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/compatibility-problem-windows-10-cant-find-mp620-drivers/"><u>[Compatibility Problem] Windows 10 Can't Find MP620 Drivers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-decision-time-choose-your-dream-video-editor-filmora-or-democracy-creator/"><u>[New] 2024 Approved Decision Time! Choose Your Dream Video Editor (Filmora or Democracy Creator)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-sculpting-success-in-visual-communications/"><u>[New] Sculpting Success in Visual Communications</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-aesthetic-innovations-showcase/"><u>[Updated] 2024 Approved Aesthetic Innovations Showcase</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-five-star-duo-of-picture-taking-and-musical-integration/"><u>[Updated] 2024 Approved Five-Star Duo of Picture Taking & Musical Integration</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-financially-flourishing-online-media-personality/"><u>[Updated] In 2024, Financially Flourishing Online Media Personality</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-ios-cropping-enhancing-your-images/"><u>[Updated] The Ultimate Guide to iOS Cropping Enhancing Your Images</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/compreeed-software-bundle-officejet-pro-8600-windows-integration/"><u>Compreeed Software Bundle: OfficeJet Pro 8600, Windows Integration</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/end-of-missing-pages-with-new-tech-update/"><u>End of Missing Pages with New Tech Update</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/from-blank-to-brilliant-overcoming-print-troubles/"><u>From Blank to Brilliant: Overcoming Print Troubles</u></a></li>
-<li><a href="https://article-files.techidaily.com/funnyframefarm-digital-jokes-galore-for-2024/"><u>FunnyFrameFarm Digital Jokes Galore for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/integrated-printer-utilities-hp-officejet-pro-8600-win32-version/"><u>Integrated Printer Utilities: HP OfficeJet Pro 8600, Win32 Version</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transforming-online-video-conferencing-to-tv-display-an-experts-walkthrough-on-zoom-sessions/"><u>Transforming Online Video Conferencing to TV Display: An Expert's Walkthrough on Zoom Sessions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-groundbreaking-companies-at-the-vr-content-frontier-for-2024/"><u>[New] Groundbreaking Companies at the VR Content Frontier for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-comprehensive-look-at-apeaksofts-recording-software/"><u>[New] In 2024, The Comprehensive Look at Apeaksoft’s Recording Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-smirk-spawners-identifying-premium-meme-tools-for-2024/"><u>[New] Smirk Spawners Identifying Premium Meme Tools for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-ultimate-guide-to-android-slow-motion-video-magic-for-2024/"><u>[New] The Ultimate Guide to Android Slow Motion Video Magic for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-unleash-creative-potential-tips-and-tricks-for-filming-with-logitech-cam/"><u>[Updated] In 2024, Unleash Creative Potential Tips and Tricks for Filming with Logitech Cam</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premier-stream-gear-with-superior-360-degree-cameras/"><u>2024 Approved Premier Stream Gear with Superior 360-Degree Cameras</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-blank-page-syndrome-in-print-devices/"><u>Fixing Blank Page Syndrome in Print Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-react-printer-disconnects-during-print-job/"><u>How To React: Printer Disconnects During Print Job</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-microsoft-edge-hurdles-a-comprehensive-repair-manual/"><u>Overcoming Microsoft Edge Hurdles: A Comprehensive Repair Manual</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-no-response-issues-with-hp-printers/"><u>Overcoming No Response Issues with HP Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/precision-in-pages-a-success-story-for-printers/"><u>Precision in Pages: A Success Story for Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574178084-printer-woes-in-windows-11-help-needed/"><u>Printer Woes in Windows 11 - Help Needed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/recommendations-for-reactivating-hp-print-headless-systems/"><u>Recommendations for Reactivating HP Print Headless Systems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reignite-your-brother-printers-print-function-on-windows-1011/"><u>Reignite Your Brother Printer's Print Function on Windows 10/11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-issue-code-b200/"><u>Resolved Issue Code B200</u></a></li>
+<li><a href="https://win-popular.techidaily.com/schritt-fur-schritt-guide-zum-ssd-upgrade-ihres-hp-omen-30l/"><u>Schritt-Für-Schritt-Guide Zum SSD-Upgrade Ihres HP Omen 30L</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tackled-ink-cartridge-error/"><u>Tackled Ink Cartridge Error</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-claude-2s-core-functionality/"><u>Understanding Claude 2'S Core Functionality</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quickly Rectify Non-Printing Problem: Top 5 Techniques to Aid Canon Print on Window 11"
-date: 2024-12-22T20:47:50.362Z
-updated: 2024-12-25T04:33:28.739Z
+date: 2024-12-28T20:13:58.060Z
+updated: 2025-01-02T20:36:35.934Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ If your problem persists, try the fixes below.
 4. **[Set Canon as the default printer](#fix4)**
 5. **[Delete print jobs from the print queue](#fix5)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check the connection status
 
  Difficulty printing from your PC can occur for various reasons. The most common reason is because the connection between the computer and the machine is lost. So before heading into the more complicated fixes, you need to take some basic troubleshooting steps to resolve the issue.
@@ -59,10 +63,6 @@ If your printer is still not working properly, proceed to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Temporarily disable the firewall
 
  Firewall software helps block threats from outside your network, but some settings or configurations can block communication with your printer and may reject the connection needed for your machine to work properly. To resolve this, disable the firewall from your computer and try to print again.
@@ -73,13 +73,13 @@ If your printer is still not working properly, proceed to the next fix.
   
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/windows-defender-firewall.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the left side of the window, click**Turn Windows Defender Firewall on or off** .  
   
 ![disable Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/turn-Windows-Defender-Firewall-on-or-off.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Tick**Turn off Windows Defender Firewall** for both public and private networks. Then click**OK** to confirm the changes.  
   
@@ -98,7 +98,7 @@ You can disable the firewall in software by clicking the link below.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Update your printer driver
@@ -112,6 +112,10 @@ You can disable the firewall in software by clicking the link below.
  Canon’s website is available to download Canon product drivers. You can go to their website to find and download the driver you need. Below, you’ll find out how to download and install the driver from the official website.
 
  Since Canon has several official websites like [Canon UK](https://www.canon.co.uk/) ,[Canon USA](https://www.usa.canon.com/) ,[Canon Europe](https://www.canon-europe.com/) , etc., they may not share the same model. So you can use the browser to search for the specific driver directly. Or you can go to the Support Center, enter the model of your device in the search field, and follow the instructions to download and install the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your printer driver (recommended)
 
@@ -128,7 +132,7 @@ Here’s how you can update your drivers with Driver Easy:
 ![update drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -138,7 +142,7 @@ Here’s how you can update your drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Canon-G7020-1200x900.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -147,10 +151,6 @@ Here’s how you can update your drivers with Driver Easy:
  After updating your drivers, attempt a test print to check if this action helps you.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Set Canon as the default printer
 
@@ -164,9 +164,17 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select **Small icons** from the drop-down menu next to **View by** . Then, click **Devices and Printers** .  
   
 ![set Canon printer as the default printer](https://images.drivereasy.com/wp-content/uploads/2021/01/in-the-control-panel.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Right-click your Canon printer and select**Set as default printer** from the list.  
   
@@ -175,10 +183,6 @@ Here’s how you can update your drivers with Driver Easy:
 Now perform printing tasks to check if it works.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Delete print jobs from the print queue
 
@@ -201,10 +205,6 @@ Now perform printing tasks to check if it works.
  2) Type**services.msc** in the field and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/services-msc.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) In the Services window, scroll down to the**Print Spooler** . Right-click it and select**Stop** .
 
@@ -251,20 +251,20 @@ Now perform printing tasks to check if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-demystifying-income-for-t-series-on-youtube/"><u>[New] In 2024, Demystifying Income for T-Series on YouTube</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-record-your-mac-in-hd-no-fee/"><u>[New] In 2024, Record Your Mac in HD No Fee</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-simplifying-typeface-addition-for-enhanced-creativity-in-ae/"><u>[New] In 2024, Simplifying Typeface Addition for Enhanced Creativity in AE</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-securely-extract-and-convert-youtube-audios-as-mp3-for-2024/"><u>[Updated] How To Securely Extract and Convert YouTube Audios as MP3 for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-direct-stream-from-youtube-to-facebook-without-pauses-or-holds/"><u>[Updated] In 2024, Direct Stream From YouTube to Facebook without Pauses or Holds</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-video-production-pro-tips-incorporating-audio-into-youtube-content/"><u>[Updated] Video Production Pro Tips Incorporating Audio Into YouTube Content</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-youtube-channel-art-make-banners-icons-and-thumbnails-for-2024/"><u>[Updated] YouTube Channel Art - Make Banners, Icons, and Thumbnails for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/halted-outputs-ceased-on-epson-model/"><u>Halted Outputs Ceased on Epson Model</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-infinix-hot-30-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Infinix Hot 30 5G Phones with/without a PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/making-offline-brother-printer-a-priority-again/"><u>Making Offline Brother Printer a Priority Again</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-misstep-unanticipated-setup-fiasco/"><u>Printer Misstep: Unanticipated Setup Fiasco</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-printer-spits-out-unprinted-sheets/"><u>Resolved: Printer Spits Out Unprinted Sheets</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-printer-stopped-working-after-windows-11-update/"><u>SOLVED: Printer Stopped Working After Windows 11 Update</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unexpected-printer-config-issue-alert/"><u>Unexpected Printer Config Issue Alert</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-exclusive-list-of-smartphone-apps-for-changing-vocal-expression/"><u>[New] 2024 Approved Exclusive List of Smartphone Apps for Changing Vocal Expression</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-video-limits-explained-in-detail/"><u>[Updated] In 2024, Instagram Video Limits Explained in Detail</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-masterclass-in-merging-movies-with-modern-education/"><u>[Updated] Masterclass in Merging Movies with Modern Education</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-supernatural-time-freeze-manual/"><u>[Updated] Supernatural Time-Freeze Manual</u></a></li>
+<li><a href="https://common-error.techidaily.com/cooling-down-excessive-windows-11-cpu-usage-with-interrupts/"><u>Cooling Down Excessive Window's 11 CPU Usage with Interrupts</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-paper-size-error-on-hp-deskjet-3070/"><u>Fixed Paper Size Error on HP DeskJet 3070</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-driver-inaccessible-windows-1011-trouble/"><u>HP Driver Inaccessible - Windows 10/11 Trouble</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-tecno-spark-go-2023-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Tecno Spark Go (2023) Device SIM</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-moto-z2s-brainpower-examined-in-detail/"><u>In 2024, Moto Z2's Brainpower Examined in Detail</u></a></li>
+<li><a href="https://facebook.techidaily.com/instructional-guide-to-split-up-spotify-and-fb/"><u>Instructional Guide to Split Up Spotify and FB</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/paper-jams-and-more-win810-hp-printer-help-needed/"><u>Paper Jams & More: Win8/10 HP Printer Help Needed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-driver-installation-complete/"><u>Print Driver Installation Complete</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-driver-issue-mp620-unavailable-in-win10/"><u>Printer Driver Issue: MP620 Unavailable in WIN10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/swiftly-displace-queued-print-operations/"><u>Swiftly Displace Queued Print Operations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wolcen-lords-of-mayhem-pc-game-crash-fixed-issues/"><u>Wolcen: Lords of Mayhem PC Game Crash - Fixed Issues!</u></a></li>
 </ul></div>
 

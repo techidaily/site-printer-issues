@@ -1,7 +1,7 @@
 ---
 title: "Printers: No More Missing Pages, Here's Why"
-date: 2024-12-22T01:25:08.182Z
-updated: 2024-12-25T02:28:23.073Z
+date: 2024-12-26T16:56:58.787Z
+updated: 2025-01-02T19:21:21.079Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/652a0e4e5b4ae58ef714c3a9e5876606dcd3509ed
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/printer-g834868e70_1280-1200x800.jpg)
 
  When your printer is acting up and won’t print all pages of your documents, for example, skipping pages in between, it can be annoying. If you’re encountering similar issues, you’ve come to the right place. In this post, we’ll show you how to fix your printer when it’s not printing all pages.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -63,24 +67,16 @@ thumbnail: https://thmb.techidaily.com/652a0e4e5b4ae58ef714c3a9e5876606dcd3509ed
 3. Click the **Update**  button next to the flagged printer driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_12-11-25.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  If updating your printer driver doesn’t solve the problem for you, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Restart the print spooler service
 
@@ -94,12 +90,16 @@ thumbnail: https://thmb.techidaily.com/652a0e4e5b4ae58ef714c3a9e5876606dcd3509ed
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_14-18-55.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The screenshot above comes from Windows 10\. If you’re running Windows 11, your screen may look slightly different. However, the steps you perform remain persistent.
 
 If your printer still won’t print all pages, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Repair corrupted system services
 
@@ -113,6 +113,10 @@ If your printer still won’t print all pages, try the next fix.
 2. Run the software. Fortect will start a deep scan of your system. The process may take a while.
 3. Once the scan is complete, you can review the summary. If Fortect detects any missing or broken system files or other issues that may have triggered your printer problem, you can click **Start Repair** to fix them.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues while using Fortect, feel free to contact their support service.
 
@@ -128,24 +132,24 @@ If the problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_15-12-05.jpg)
 2. Select your printer, then click**Manage** . (If you’re on Windows 11, simply click on your printer.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_15-13-59.jpg)
 3. Click**Printer properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_15-15-49.jpg)
 4. Go to the**Ports** tab, select the**TCP/IP port** , then click**Configure Port** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_15-17-15.jpg)
 5. Make sure**SNMP** **Status Enabled** is unchecked.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_15-19-15-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the problem returns, you can repeat the steps above and re-enable SNMP in your printer’s properties.
 
@@ -157,10 +161,6 @@ If the problem persists, try the next fix.
 2. Type**spool** in the textbox, then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_15-51-50.jpg)
 3. Double-click the**Printer** folder, and delete all the files in the folder. (Do not delete the folder itself.)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_15-52-19.jpg)
 
@@ -189,24 +189,19 @@ If this doesn’t work, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/network-problem-hp-printer-driver-issues-across-windows-versions/"><u>[Network Problem] HP Printer Driver Issues Across Windows Versions</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-simple-ways-to-reverse-a-youtube-playlist-for-2024/"><u>[New] 4 Simple Ways to Reverse a YouTube Playlist for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-explore-the-leading-microphones-in-podcasting/"><u>[Updated] 2024 Approved Explore the Leading Microphones in Podcasting</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-digital-fortune-makers-top-earning-youtubers/"><u>[Updated] Digital Fortune Makers Top Earning YouTubers</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96422485-9780486825625-365-daily-meditations-for-on-and-off-the-mat/"><u>365 Daily Meditations for On and Off the Mat | Free Book</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/addressing-brother-printer-no-print-errors-windows-style/"><u>Addressing Brother Printer No-Print Errors, Windows Style</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-official-logitech-g29-control-wheel-software-for-windows-11-pcs/"><u>Download the Official Logitech G29 Control Wheel Software for Windows 11 PCs</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/entwicklerherzen-beruhren-erfahrene-vergleich-und-test-von-6-fuhrenden-dvd-brennern/"><u>Entwicklerherzen Berühren: Erfahrene Vergleich Und Test Von 6 Führenden DVD-Brennern</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hidden-users-print-request-on-printer-noticed/"><u>Hidden User's Print Request on Printer Noticed</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/how-to-solve-the-file-lacks-audio-and-video-streams-issue-when-importing-in-adobe-premiere-pro/"><u>How to Solve the 'File Lacks Audio and Video Streams' Issue When Importing in Adobe Premiere Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-financial-free-editing-the-ultimate-guide-to-fcp/"><u>In 2024, Financial-Free Editing The Ultimate Guide to FCP</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/lighten-your-load-fast-prints-guide/"><u>Lighten Your Load: Fast Prints Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/navigating-to-your-personal-youtube-collection-for-2024/"><u>Navigating to Your Personal YouTube Collection for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reconnecting-scanner-to-windows-10-post-update/"><u>Reconnecting Scanner to Windows 10 Post-Update</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restoring-pcs-scanner-functionality-in-win10/"><u>Restoring PC's Scanner Functionality in Win10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamlining-print-devices-from-win-1011/"><u>Streamlining Print Devices From Win 10/11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/supercharge-dells-v305-inkjets-with-new-windows-driver/"><u>Supercharge Dell's V305 Inkjets with New Windows Driver</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-top-agri-themed-titles-friendship-and-fun-in-the-countryside-for-2024/"><u>The Top Agri-Themed Titles Friendship & Fun in the Countryside for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-windows-xp11-non-stopping-print-service/"><u>Troubleshooting Windows XP/11: Non-Stopping Print Service</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-top-30-beginner-pro-facebook-strategies-for-boosting-sales/"><u>[New] 2024 Approved Top 30 Beginner-Pro Facebook Strategies for Boosting Sales</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-canon-pixma-mp620-printer-driver-not-found-on-windows-11/"><u>[Solved] Canon Pixma MP620 Printer Driver Not Found on Windows 11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-elevate-your-instagram-strategy-with-expert-analytical-software-for-2024/"><u>[Updated] Elevate Your Instagram Strategy with Expert Analytical Software for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-begin-installing-xps-key-visual-storytelling-app/"><u>[Updated] In 2024, Begin Installing XP’s Key Visual Storytelling App</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-step-into-the-future-of-video-creation-with-animated-subscribe-buttons-in-filmora/"><u>[Updated] Step Into the Future of Video Creation with Animated Subscribe Buttons in Filmora</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-understanding-quantum-hdrs-impact-on-photography/"><u>2024 Approved Understanding Quantum HDR's Impact on Photography</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/2024-update-printers-prints-every-page/"><u>2024 Update: Printers Prints Every Page</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-samsung-galaxy-a15-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Samsung Galaxy A15 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/connection-guide-integrating-hp-printer-with-pc-network/"><u>Connection Guide: Integrating HP Printer with PC Network</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/dealing-with-sudden-printer-shutdowns/"><u>Dealing with Sudden Printer Shutdowns</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mastering-the-canon-wi-fi-connection-process/"><u>Mastering the Canon-Wi-Fi Connection Process</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/maximize-your-google-meet-experience-without-paying-a-penny-for-2024/"><u>Maximize Your Google Meet Experience, Without Paying a Penny for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-omegle-explored-understanding-the-platform-its-community-dynamics-and-safety-protocols/"><u>New In 2024, Omegle Explored Understanding the Platform, Its Community Dynamics & Safety Protocols</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/zeroing-out-error-0x97-in-epson-units/"><u>Zeroing Out Error 0X97 in Epson Units</u></a></li>
 </ul></div>
 

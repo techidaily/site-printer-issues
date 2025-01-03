@@ -1,7 +1,7 @@
 ---
 title: "Epson's Print Problem Decoded: Error X97"
-date: 2024-12-04T22:59:54.658Z
-updated: 2024-12-09T22:06:41.247Z
+date: 2024-12-29T19:57:14.879Z
+updated: 2025-01-02T21:52:31.932Z
 tags:
   - win11
   - win10
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/031a4402ffc175410606d46c107303b712eafaa4d
 
 **6)** Release power button, then check your printer to see if you still get the error message.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Check your ink cartridges
 
  This problem might occur when your cartridges are clogged or disconnected from your printer. So, you should check your cartridges.
@@ -87,24 +83,28 @@ thumbnail: https://thmb.techidaily.com/031a4402ffc175410606d46c107303b712eafaa4d
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-842.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Select **Troubleshooting** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-843.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click **Use a printer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-844.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-845.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for your computer to automatically detect your printer issue, and then follow the on-screen instructions to fix it. If no printer issue is identified, try [**fix 4**](#d) , below.
 
@@ -113,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/031a4402ffc175410606d46c107303b712eafaa4d
 **1)**  On your keyboard, press the **Windows logo** key and type **troubleshooting** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-846.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  Select **Troubleshooting settings** .
 
@@ -125,7 +129,7 @@ thumbnail: https://thmb.techidaily.com/031a4402ffc175410606d46c107303b712eafaa4d
  Wait for the troubleshooting process to be complete, then reopen your printer to check if this fixed your issue. If not, read on and check the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your printer driver
@@ -159,10 +163,6 @@ OR
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the printer driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -199,16 +199,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-craft-engaging-streams-for-success-the-ultimate-youtube-broadcast-blueprint-using-wirecast-for-2024/"><u>[New] Craft Engaging Streams for Success The Ultimate Youtube Broadcast Blueprint Using WireCast for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-the-role-of-slug-lines-in-seo-and-marketing-for-2024/"><u>[New] The Role of Slug Lines in SEO & Marketing for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-ultimate-beginners-guide-to-convenient-game-edit-software/"><u>[Updated] 2024 Approved Ultimate Beginner's Guide to Convenient Game Edit Software</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-excellent-screen-grabber-aid-for-youtube-content-creators-for-2024/"><u>[Updated] Excellent Screen Grabber Aid for YouTube Content Creators for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/added-printer-with-successful-operation/"><u>Added Printer with Successful Operation</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/amplify-printing-prowess-aio-upgrades-for-windows-7/"><u>Amplify Printing Prowess: AIO Upgrades for WIndows 7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-fix-brother-printer-not-printing-on-windows-1110/"><u>How to Fix Brother Printer Not Printing on Windows 11/10</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-sj-cam-s6-unboxed-a-full-evaluation-in-detail/"><u>In 2024, SJ-CAM S6 Unboxed A Full Evaluation in Detail</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/lack-of-color-in-produced-documents/"><u>Lack of Color in Produced Documents</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-big-savings-explore-unparalleled-gaming-audio-quality-on-sale-at-best-buy-the-latest-review-by-zdnet/"><u>Score Big Savings! Explore Unparalleled Gaming Audio Quality on Sale at Best Buy | The Latest Review by ZDNET</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/successfully-installed-printer/"><u>Successfully Installed Printer</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-video-capture-perfection-achieving-silence-success/"><u>[New] 2024 Approved Video Capture Perfection Achieving Silence Success</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-motion-text-artisan/"><u>[Updated] 2024 Approved Motion Text Artisan</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-2022-ice-dancing-showcase-review/"><u>2024 Approved 2022 Ice Dancing Showcase Review</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/address-printer-driver-bugs-in-win10/"><u>Address Printer Driver Bugs in Win10</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/automate-your-snapshot-backup-from-snapchat-app-for-2024/"><u>Automate Your Snapshot Backup From Snapchat App for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/camouflaging-online-supports-with-finesse/"><u>Camouflaging Online Supports with Finesse</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-your-canon-printers-non-print-problem-with-these-top-five-tricks-in-windows-11/"><u>Fix Your Canon Printer's Non-Print Problem with These Top Five Tricks in Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mended-error-code-b200/"><u>Mended Error Code: B200</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mysterious-print-job-by-secondary-computer/"><u>Mysterious Print Job by Secondary Computer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/technical-mishap-printer-setup-misstep/"><u>Technical Mishap: Printer Setup Misstep!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-10-text-boosting-techniques-in-videos/"><u>Top 10 Text Boosting Techniques in Videos</u></a></li>
 </ul></div>
 

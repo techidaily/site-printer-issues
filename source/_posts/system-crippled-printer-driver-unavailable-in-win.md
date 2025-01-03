@@ -1,7 +1,7 @@
 ---
 title: "[SYSTEM CRIPPLED] Printer Driver Unavailable in Win"
-date: 2024-12-20T19:15:35.675Z
-updated: 2024-12-24T16:15:10.350Z
+date: 2024-12-27T19:54:45.417Z
+updated: 2025-01-02T21:33:23.527Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 1. **[Reinstall your printer driver (RECOMMENDED)](#method1)**
 2. **[Install all available Windows updates](#method2)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your printer driver (RECOMMENDED)
 
  A corrupt or incompatible driver is the most likely cause of the driver unavailable error. It’s also the easiest problem to fix. You just uninstall your current driver, then install the most up-to-date correct driver. Here’s how…
@@ -45,13 +41,13 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a16664c47596.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click **Uninstall**  if you’re prompted to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a166d61b6e23.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) **[Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.** It will automatically recognize your system, and find and install the correct printer driver for it, along with any other drivers that need updating. (Or, if you’d prefer, you can download and install the necessary driver manually. To do this, you have to visit your printer manufacturer’s website, locate the correct driver for your printer model and version of Windows, and then download and install it.)
 
@@ -62,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
  7) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this. Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it, you can get a full refund, no questions asked. (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to your printer in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a166e3214a67.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) Restart your computer and try to print a file to see if your printer works. If it does, congratulations, you’ve resolved your problem! If it doesn’t, move on to Fix 2 below.
 
@@ -78,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 1. On your keyboard, press the **Windows Logo key** ![](https://images.drivereasy.com/wp-content/uploads/2023/10/windows-logo.png) and the**I** key (**Win+I**) to open the Windows Settings app.
 2. Click**Windows Update** on the right.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![win 11 update windows 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-update-windows-1.jpg)
 3. Then click**Check for updates** . Windows will then check if there are any newly released updates. If so, it will automatically download and install the updates for you. It might take some time.  
 
@@ -89,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 4. You may repeat these steps until it prompts**You’re up to date** when you click**Check for updates** to make sure you have all the updates installed. Restart your computer when it’s done.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note that the screenshots were captured from a Windows 11 system. For a Windows 10 system, the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
@@ -101,12 +97,16 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a167ac767596.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a167b717a88d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Install updates** .
 
@@ -135,20 +135,18 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-how-to-screenshot-on-mac-5-simple-ways/"><u>[Updated] In 2024, How to Screenshot on Mac - 5 Simple Ways</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-smart-picks-user-friendly-bd-software-for-pc-and-mac/"><u>[Updated] Smart Picks User-Friendly BD Software for PC and Mac</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-maximizing-video-impact-a-comprehensive-guide-to-youtube-popularity/"><u>2024 Approved Maximizing Video Impact A Comprehensive Guide to YouTube Popularity</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-streamline-your-soundwaves-moving-playlists-across-networks/"><u>In 2024, Streamline Your Soundwaves Moving Playlists Across Networks</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mended-paper-jamming-concern/"><u>Mended Paper Jamming Concern</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/navigating-the-setup-of-hp-envy-printers/"><u>Navigating the Setup of HP Envy Printers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/nintendo-switch-screen-caps-tutorial-from-shooting-images-to-social-posting/"><u>Nintendo Switch Screen Caps Tutorial: From Shooting Images to Social Posting</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/optimizing-performance-a-deep-dive-into-streamlabs-obs-for-2024/"><u>Optimizing Performance A Deep Dive Into Streamlabs OBS for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-issue-not-showing-up-in-win-810/"><u>Printer Issue: Not Showing Up in Win 8/10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-link-functional-print-device/"><u>Quick Link: Functional Print Device</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-risk-of-rain-2-stability-issues-with-these-expert-fixes/"><u>Resolve Risk of Rain 2 Stability Issues with These Expert Fixes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revived-networked-printer-access/"><u>Revived Networked Printer Access</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/swift-solutions-to-printer-delays/"><u>Swift Solutions to Printer Delays</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/windows-10-kanal-acimak-icin-sesle-kaydetme-yolu-4-tane-algilanabilir-temel-baslar/"><u>Windows 10, Kanal Açımak Için Sesle Kaydetme Yolu 4 Tane Algılanabilir: Temel Başlar</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/iscovering-all-in-youtube-shorts-guide-for-2024/"><u>[New] Discovering All in YouTube Shorts Guide for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-cutting-edge-techniques-for-incorporating-soundtracks-in-youtube-creations/"><u>[Updated] 2024 Approved Cutting-Edge Techniques for Incorporating Soundtracks in YouTube Creations</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-architecting-an-inspiring-tiktok-conclusion/"><u>[Updated] Architecting an Inspiring TikTok Conclusion</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-flight-friendly-robot-categories/"><u>[Updated] In 2024, Flight-Friendly Robot Categories</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oppo-reno-10-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Oppo Reno 10 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Huawei P60? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sonic-stories-weaving-sound-into-insta-vids/"><u>In 2024, Sonic Stories Weaving Sound Into Insta Vids</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/live-streaming-mastery-with-manycam-advanced-features-of-virtual-camera-technology/"><u>Live Streaming Mastery with ManyCam: Advanced Features of Virtual Camera Technology</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/manual-setting-up-hp-officejet-on-desktop-system/"><u>Manual: Setting up HP Officejet on Desktop System</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/preventing-and-remedying-paper-misalignment/"><u>Preventing and Remedying Paper Misalignment</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-problem-post-upgrade-success-story/"><u>Printer Problem Post Upgrade: Success Story</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-on-youtube-11-secrets-to-boosting-video-search-rankings/"><u>Thriving on YouTube 11 Secrets to Boosting Video Search Rankings</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ultimate-tips-for-canon-print-setup/"><u>Ultimate Tips for Canon Print Setup</u></a></li>
 </ul></div>
 

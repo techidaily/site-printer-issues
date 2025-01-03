@@ -1,7 +1,7 @@
 ---
 title: Successful Installation of Multi-Function Printer
-date: 2024-12-22T18:12:27.037Z
-updated: 2024-12-25T04:13:45.034Z
+date: 2024-12-30T01:38:18.743Z
+updated: 2025-01-02T21:54:51.276Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
  “**Unable to install Printer.Operation could not be completed** ” could occur during installing printer or using the printer, especially after a Windows upgrade or reinstall. The problem can be caused by several issues. If you run into this problem, just try the **three**  solutions below and the problem should resolve.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution**1: Start the Print Spooler service**
 
  The problem can occur if the print spooler service is stopped. So make sure the service is started. If it’s stopped, start it. To check and start the service, follow these steps:
@@ -35,13 +31,17 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57870f53c80aa.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Double-click on**Sprint Spooler** to open the Properties dialog box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57870fec6b0f3.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) If the “Service status” is Stopped, click the **Start** button. And make sure the “Startup type” has been set as**Automatic** . After that, click the **OK** button to save the change.  
 
@@ -52,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 This should fix the problem. If not, proceed to solution 2.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Solution 2: Update the printer driver**
 
@@ -100,12 +96,16 @@ To delete the printer keys, here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5797354018fd8.png)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **C:\\Windows\\System32\\Spool\\Drivers\\w32x86**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57973526811ea.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Press **Win+R** (Windows logo key and R key) at the same time to invoke the Run box.
@@ -124,6 +124,10 @@ To delete the printer keys, here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57972ed64a5f9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 For   **64-bit** operating system:
 
  **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Print\\Environments\\Windows x64\\Drivers\\Version-x**  (Note x will be a different number in different PC. In my case, itis version-3.)
@@ -133,16 +137,12 @@ For   **64-bit** operating system:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57972f5298c63.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Select this folder and you will see all printer registry entries in right pane. Right-click on the entry and select**Delete** from the context menu. Delete all registry entries here.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57981fd9161d2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Start the “Print Spooler” service.
 
@@ -167,19 +167,22 @@ For   **64-bit** operating system:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-the-evolution-of-youtube-shorts-popularity-metrics/"><u>[New] 2024 Approved The Evolution of YouTube Shorts Popularity Metrics</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-game-streaming-tool-analysis-choose-obs-or-shadowplay-for-2024/"><u>[New] Game Streaming Tool Analysis Choose OBS or ShadowPlay for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tech-support-tip-reveal-hidden-printer-on-your-pc/"><u>[Tech Support Tip] Reveal Hidden Printer on Your PC</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-fast-and-flawless-screen-shots-for-chromebookers/"><u>[Updated] 2024 Approved Fast and Flawless Screen Shots for Chromebookers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-expert-tips-for-maximizing-vscos-potential/"><u>[Updated] Expert Tips for Maximizing VSCO's Potential</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-mf4770n-driver-update-in-windows-1187/"><u>Canon MF4770n Driver Update in Windows 11/8/7</u></a></li>
-<li><a href="https://facebook.techidaily.com/eliminate-public-post-references-everyone/"><u>Eliminate Public Post References (@Everyone)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-unresponsive-xp-printer-jobs-without-delay/"><u>Fix Unresponsive XP Printer Jobs Without Delay</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/get-your-printer-back-in-action-on-windows-11/"><u>Get Your Printer Back in Action on Windows 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-15-pro-max-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 15 Pro Max to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mp2mp4-movavi/"><u>MP2とMP4をスムーズに移行: 無料、簡単なオンライン変換機能 - Movavi</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-fixes-for-suddenly-offline-printers/"><u>Quick Fixes for Suddenly Offline Printers</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-fixing-microsofts-power-management-battery-driver-according-to-acpi-specifications/"><u>Update: Fixing Microsoft's Power Management Battery Driver According to ACPI Specifications</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-searches-for-non-existent-printer-driver/"><u>Windows Searches for Non-Existent Printer Driver</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-complete-narrative-what-is-google-podcast/"><u>[New] 2024 Approved Complete Narrative What Is Google Podcast?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-best-aspect-ratios-to-enhance-video-quality/"><u>[New] In 2024, Best Aspect Ratios to Enhance Video Quality</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-navigating-network-settings-in-mixer-macos/"><u>[New] Navigating Network Settings in Mixer macOS</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-seaside-shots-comparison-gopro-hero5-and-sjcam-sj7/"><u>[Updated] 2024 Approved Seaside Shots Comparison GoPro Hero5 & SJCAM SJ7</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-craft-your-fortune-terrarias-best-map-list/"><u>[Updated] Craft Your Fortune Terraria's Best Map List</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/a-straightforward-approach-to-pcl-xl-malfunctions/"><u>A Straightforward Approach to PCL XL Malfunctions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/apple-watch-showdown-the-benefits-and-drawbacks-of-gps-versus-cellular-models/"><u>Apple Watch Showdown: The Benefits and Drawbacks of GPS Versus Cellular Models</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/dont-let-offline-be-the-end-for-your-canon-printer/"><u>Don’t Let Offline Be the End for Your Canon Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-spooler-failures-on-windows-7-10-and-11/"><u>Overcoming Spooler Failures on Windows 7, 10 & 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reprogram-inkjet-and-laser-drivers-for-win10-pcs/"><u>Reprogram Inkjet & Laser Drivers for Win10 PCs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revolutionize-your-workspace-linking-laptop-plus-hp-printer/"><u>Revolutionize Your Workspace: Linking Laptop + HP Printer</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/silent-blades-and-righteous-honor-your-next-game-adventure-awaits-in-2024/"><u>Silent Blades & Righteous Honor Your Next Game Adventure Awaits, In 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solve-print-queue-problems-on-windows-11/"><u>Solve Print Queue Problems on Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-to-clear-up-the-steam-launchers-black-screen-glitch-learn-how-in-our-latest-guide/"><u>Step-by-Step Fixes to Clear Up the Steam Launcher's Black Screen Glitch – Learn How in Our Latest Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/stop-your-printer-from-jamming-in-windows-11/"><u>Stop Your Printer From Jamming in Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138620407-9781722520229-the-secret-of-the-ages-condensed-classics/"><u>The Secret of the Ages (Condensed Classics) | Free Book</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/top-off-your-printing-experience-latest-aio-updates-in-windows-7/"><u>Top Off Your Printing Experience: Latest AIO Updates in WIndows 7</u></a></li>
 </ul></div>
 

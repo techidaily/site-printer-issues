@@ -1,7 +1,7 @@
 ---
 title: B200 Bug Fixed, Ready to Go!
-date: 2024-11-22T06:05:36.320Z
-updated: 2024-11-24T02:07:41.900Z
+date: 2024-12-28T01:43:54.958Z
+updated: 2025-01-02T19:31:07.832Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/850c193e7db5e5c0dafad83a501e0d012a7f8ab4b
  Keep getting the error code B200? You’re not alone! Many Canon users are reporting it. But don’t worry. You can fix it Here are 3 solutions to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 simple fixes to try
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/850c193e7db5e5c0dafad83a501e0d012a7f8ab4b
 1. **[Update your printer driver](#a)**
 2. **[Check your ink cartridges](#b)**
 3. **[Clean the printhead](#c)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your printer driver
 
@@ -54,7 +58,7 @@ There are two ways you can update your printer driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/b200-error-code-canon-driver-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
@@ -79,6 +83,10 @@ There are two ways you can update your printer driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-229.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like. But it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](mailto:support@drivereasy.com) .
@@ -95,10 +103,6 @@ There are two ways you can update your printer driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/toner-581905_1920-1024x768.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Check the ink levels on your printer
 
  Check the ink levels on your Canon printer and replace your cartridges if necessary.
@@ -111,16 +115,12 @@ There are two ways you can update your printer driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/cartridges-828195_1920-1-1024x981.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Make sure your cartridges all work properly, then reinstall it.
 
  Now, reopen your Canon printer. If your problem still exists, try the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Clean the printhead
@@ -163,18 +163,18 @@ The printhead is very delicate. Please proceed with caution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2023s-premier-storytelling-channels-on-youtube/"><u>[New] 2023'S Premier Storytelling Channels on YouTube</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-top-creative-apps-roundup-choose-from-the-best-8-photo-edits-for-smartphones/"><u>[Updated] 2024 Approved Top Creative Apps Roundup Choose From the Best 8 Photo Edits for Smartphones</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-10-essential-stages-for-proficient-smm-expertise/"><u>[Updated] Navigating 10 Essential Stages for Proficient SMM Expertise</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-pro-camera-drones-10-elevating-film-and-photography/"><u>2024 Approved Pro Camera Drones #10 Elevating Film & Photography</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/compreeed-software-bundle-officejet-pro-8600-windows-integration/"><u>Compreeed Software Bundle: OfficeJet Pro 8600, Windows Integration</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/determining-data-in-gigabytes-for-24-hour-clip/"><u>Determining Data in Gigabytes for 24-Hour Clip</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diy-solutions-for-dealing-with-a-malfunctioning-dell-laptop-input-panel/"><u>DIY Solutions for Dealing With a Malfunctioning Dell Laptop Input Panel</u></a></li>
-<li><a href="https://os-tips.techidaily.com/error-53-explained-simple-and-secure-solutions-inside/"><u>Error 53 Explained: Simple & Secure Solutions Inside</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/integrated-printer-utilities-hp-officejet-pro-8600-win32-version/"><u>Integrated Printer Utilities: HP OfficeJet Pro 8600, Win32 Version</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-fix-steps-for-missing-d3dx930dll-error-on-your-pc/"><u>Quick Fix Steps for Missing 'd3dx9_30.dll' Error on Your PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-capturing-and-sharing-images-from-your-nintendo-switch/"><u>Step-by-Step Guide: Capturing & Sharing Images From Your Nintendo Switch</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/steps-to-troubleshoot-unresponsive-hp-print-subsystems/"><u>Steps to Troubleshoot Unresponsive HP Print Subsystems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tackling-noisy-or-disruptive-printers/"><u>Tackling Noisy or Disruptive Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-missing-unsuccessful-in-finding-pixma-mp620-on-win11/"><u>[Driver Missing] Unsuccessful in Finding Pixma MP620 on Win11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-reconnecting-sound-tracks-to-obs-broadcasts-for-2024/"><u>[Updated] Reconnecting Sound Tracks to OBS Broadcasts for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-steps-for-crafting-visually-stimulating-fb-ad-content-for-2024/"><u>[Updated] Steps for Crafting Visually Stimulating FB Ad Content for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-crossing-platforms-upload-video-to-twittertumblr/"><u>2024 Approved Crossing Platforms Upload Video to Twitter/Tumblr</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/addressing-clogged-toner-cartridges/"><u>Addressing Clogged Toner Cartridges</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/cost-effective-choices-chinese-vr-technology-for-2024/"><u>Cost-Effective Choices Chinese VR Technology for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enabling-scanner-after-windows-10-update/"><u>Enabling Scanner After Windows 10 Update</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-xs-max-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone XS Max Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-iphones-voice-memo-functionality/"><u>Mastering iPhone's Voice Memo Functionality</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/photo-story-platinum-best-photo-movie-story-maker-wondershare/"><u>Photo Story Platinum - Best Photo Movie Story Maker | Wondershare</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-online-on-windows-7-after-troubleshooting/"><u>Printer Online on Windows 7 After Troubleshooting</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transforming-srt-files-into-text-a-speedy-expertise-guide/"><u>Transforming SRT Files Into Text A Speedy Expertise Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unhinder-printers-at-a-gallop/"><u>Unhinder Printers at a Gallop</u></a></li>
 </ul></div>
 

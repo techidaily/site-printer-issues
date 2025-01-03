@@ -1,7 +1,7 @@
 ---
 title: Domain Services Unreachable, Print Issue
-date: 2024-12-22T16:04:59.236Z
-updated: 2024-12-24T16:38:03.904Z
+date: 2025-01-02T03:25:45.904Z
+updated: 2025-01-02T18:46:51.155Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a50a818f88a.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click on **Printer Spooler**  service and click **Start** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-31.jpg)
@@ -48,19 +44,19 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Close the Services window and check if you could print files successfully.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Using Registry Editor
 
 1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png) and **R**  at the same time to invoke the Run box.
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Type **regedit**  and press **Enter** to open Registry Editor.  
   
@@ -71,15 +67,15 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Right-click on **Devices**  under **CurrentVersion**  dialog.  
  Then click **Permissions** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-14.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click your account and tick on**Allow** of **Full Control** . Then click **Apply**  \> **OK** .  
   
@@ -87,13 +83,17 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Do the same settings to give your account full control of **PrinterPorts**  and **Windows** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-12.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Close the Registry Editor window and check to see if you could print files successfully.
 
@@ -114,19 +114,17 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-nostalgia-unleashed-a-guide-to-fb-archives-for-2024/"><u>[Updated] Nostalgia Unleashed A Guide to FB Archives for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/breathe-new-life-into-non-printing-brother-printer-in-windows-1011/"><u>Breathe New Life Into Non-Printing Brother Printer in Windows 10/11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/driver-inaccessible-for-windows-print/"><u>Driver Inaccessible for Windows Print</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725288020796-dvd/"><u>DVD個人利用のための安全コピー・リッピングガイド |合法コピー保護権維持</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-guide-get-your-corsair-keyboard-running-on-windows-with-these-free-official-drivers/"><u>Easy Guide: Get Your Corsair Keyboard Running on Windows with These Free, Official Drivers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enabling-duplex-print-on-hp-workstation/"><u>Enabling Duplex Print on HP Workstation</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-poco-f5-pro-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Poco F5 Pro 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mend-w11-printer-communication-errors/"><u>Mend W11 Printer Communication Errors</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolve-print-queue-hang-up-promptly/"><u>Resolve Print Queue Hang-Up Promptly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574161603-successfully-installed-printer/"><u>Successfully Installed Printer.</u></a></li>
-<li><a href="https://win-web.techidaily.com/troubleshooting-guide-what-to-do-when-your-scanner-stops-functioning-expert-advice-from-yl-software/"><u>Troubleshooting Guide: What to Do When Your Scanner Stops Functioning - Expert Advice From YL Software</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-a-nonfunctional-corsair-void-headset-microphone/"><u>Troubleshooting Steps for a Nonfunctional Corsair Void Headset Microphone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/youtube-video-builder-how-to-create-video-ads-for-free-in-2024/"><u>YouTube Video Builder How to Create Video Ads for Free, In 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/levate-your-online-impact-with-effective-backlink-strategies/"><u>[New] Elevate Your Online Impact with Effective Backlink Strategies</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-how-to-engage-listeners-through-instagram-and-podcasts-for-2024/"><u>[New] How To Engage Listeners Through Instagram & Podcasts for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-interacting-with-a-blended-world-the-essence-of-mixed-reality/"><u>[Updated] Interacting with a Blended World The Essence of Mixed Reality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-overcoming-usb-connection-problems-and-port-resets-on-your-windows-10-computer/"><u>Comprehensive Guide: Overcoming USB Connection Problems and Port Resets on Your Windows 10 Computer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-bypassing-barriers-to-download-c-span-documentaries/"><u>In 2024, Bypassing Barriers to Download C-Span Documentaries</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-step-by-step-process-for-expeditiously-converting-whatsapp-audio-recordings-into-mp3/"><u>New 2024 Approved Step-by-Step Process for Expeditiously Converting WhatsApp Audio Recordings Into MP3</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/scanner-activation-restored-for-windows-10-users/"><u>Scanner Activation Restored for Windows 10 Users</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/setting-primary-printer-failed-error-0x00000709-fixed/"><u>Setting Primary Printer Failed: Error 0X00000709 Fixed</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-c55-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from C55</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/troubleshooting-and-correcting-green-screen-problems-in-vlc-while-watching-dvd-movies/"><u>Troubleshooting and Correcting Green Screen Problems in VLC While Watching DVD Movies</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-canon-non-print-issue/"><u>Troubleshooting Canon Non-Print Issue</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win7-printer-online-after-repair/"><u>Win7 Printer Online After Repair</u></a></li>
 </ul></div>
 

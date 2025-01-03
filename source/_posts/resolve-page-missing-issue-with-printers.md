@@ -1,7 +1,7 @@
 ---
 title: Resolve Page Missing Issue with Printers
-date: 2024-12-23T01:36:20.615Z
-updated: 2024-12-25T01:10:58.338Z
+date: 2024-12-30T00:55:42.888Z
+updated: 2025-01-03T02:18:15.868Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/printer-g834868e70_1280-1200x800.jpg)
 
  When your printer is acting up and won’t print all pages of your documents, for example, skipping pages in between, it can be annoying. If you’re encountering similar issues, you’ve come to the right place. In this post, we’ll show you how to fix your printer when it’s not printing all pages.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -53,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
 
  If you’ve performed these basic troubleshooting steps but your printer still won’t print all pages of your document, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Update your printer driver
 
  A common cause for most printer issues, including the printer not printing all pages problem, is a faulty or outdated printer driver. You may want to check if your printer driver is up-to-date and functioning properly.
@@ -70,21 +62,21 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_12-11-29.jpg)
 3. Click the **Update**  button next to the flagged printer driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_12-11-25.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  If updating your printer driver doesn’t solve the problem for you, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Restart the print spooler service
 
@@ -97,13 +89,13 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_14-18-55.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The screenshot above comes from Windows 10\. If you’re running Windows 11, your screen may look slightly different. However, the steps you perform remain persistent.
 
 If your printer still won’t print all pages, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Repair corrupted system services
 
@@ -135,17 +127,21 @@ If the problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_15-13-59.jpg)
 3. Click**Printer properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_15-15-49.jpg)
 4. Go to the**Ports** tab, select the**TCP/IP port** , then click**Configure Port** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_15-17-15.jpg)
 5. Make sure**SNMP** **Status Enabled** is unchecked.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_15-19-15-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the problem returns, you can repeat the steps above and re-enable SNMP in your printer’s properties.
 
@@ -159,10 +155,14 @@ If the problem persists, try the next fix.
 3. Double-click the**Printer** folder, and delete all the files in the folder. (Do not delete the folder itself.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_15-52-19.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this doesn’t work, there’s one more fix you can try.
 
@@ -189,19 +189,18 @@ If this doesn’t work, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/drivers-canon-mp620-not-found-on-11th-edition-windows/"><u>[Drivers] Canon MP620 Not Found on 11Th Edition Windows</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-graphicgenius-create-funny-memes-for-2024/"><u>[New] GraphicGenius Create Funny Memes for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-pathway-to-prosperity-a-graphic-designers-journey/"><u>[New] The Pathway to Prosperity A Graphic Designer's Journey</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-problems-with-the-lucidsound-ls30-headset-mic/"><u>Diagnosing and Repairing Problems with the LucidSound LS30 Headset Mic</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-oppo-a78-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Oppo A78 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-14-pro-max-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 14 Pro Max Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-apple-iphone-8-plus-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On Apple iPhone 8 Plus Smoothly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-setup-no-complications-found/"><u>Print Setup: No Complications Found</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-woes-in-windows-11-help-needed/"><u>Printer Woes in Windows 11 - Help Needed!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-resolving-disk-read-failed-error/"><u>Quick Guide: Resolving 'Disk Read Failed' Error</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/streamlining-media-transfer-fb-video-to-whatsapp/"><u>Streamlining Media Transfer FB Video to WhatsApp</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unable-to-print-colored-images/"><u>Unable to Print Colored Images</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unexpected-print-glitch-detected/"><u>Unexpected Print Glitch Detected</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/zeroing-in-on-the-cause-of-hp-printers-white-sheets/"><u>Zeroing In on the Cause of HP Printer’s White Sheets</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1728472543132-hdd/"><u>無愁無歉自由複製外置HDD至新位置</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-guide-to-downloading-and-installing-hp-photosmart-7520-drivers/"><u>Complete Guide to Downloading and Installing HP Photosmart 7520 Drivers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/cure-print-issues-with-windows-11-advice/"><u>Cure Print Issues with Windows 11 Advice</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/determining-the-best-intervals-for-mobile-phone-upgrades/"><u>Determining the Best Intervals for Mobile Phone Upgrades</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/five-tips-to-reignite-the-print-on-your-canon-printer-in-windows-11-os/"><u>Five Tips to Reignite the Print on Your Canon Printer in Windows 11 OS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/guidelines-for-compelling-visual-fb-marketing/"><u>Guidelines for Compelling Visual FB Marketing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-vivo-y02t-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Vivo Y02T Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reconnected-disabled-printer-service/"><u>Reconnected Disabled PRINTER Service</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-post-upgrade-pc-printer-wont-print/"><u>Resolved: Post-Upgrade, PC Printer Won't Print</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/steps-to-correct-hp-printers-oxc4eb827f-issue/"><u>Steps to Correct HP Printer's OXC4EB827F Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-toolkit-top-10-msistore-powerhouses/"><u>Ultimate Toolkit: Top 10 MSIStore PowerHouses</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/usb-printing-issues-post-suspend-with-win7/"><u>USB Printing Issues Post-Suspend with Win7</u></a></li>
 </ul></div>
 

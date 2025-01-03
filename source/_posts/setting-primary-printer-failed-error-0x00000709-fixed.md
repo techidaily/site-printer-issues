@@ -1,7 +1,7 @@
 ---
 title: "Setting Primary Printer Failed: Error 0X00000709 Fixed"
-date: 2024-12-21T21:18:17.725Z
-updated: 2024-12-24T17:43:43.786Z
+date: 2025-01-01T18:56:30.654Z
+updated: 2025-01-02T18:06:35.611Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 
  Many Windows users are reporting this problem as well. But no worries, it’s possible to fix. Here are 2 methods for you to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Fix registry glitches automatically
 
  The Error 0x00000709 message is often caused by faulty Windows Registry settings. To see if this is the cause for you, run a system scan to detect broken system files with **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -44,12 +40,12 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Modify your registry key
 
@@ -65,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57bbbed40caf2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Follow the path   **HKEY\_CURRENT\_USER\\Software\\Microsoft\\WindowsNT\\CurrentVersion\\Windows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/registry-details.jpg)
@@ -73,22 +73,22 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/edit-sting.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click **OK** to save the change.
 
 **Note** : If you encounter this sort of error “ **Cannot edit Device: Error writing the value’s new contents** “, please follow the steps below to set the permission of the key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/error-cannot-edit-device-error-writing-the-values-new-content.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  a) Right-click the **Windows** key on the left side of the panel and then click **Permissions…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/permission-in-windows-registry.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  b) Tick the box **Allow** for **Full Control** and **Read** , then click **Apply** and click **OK** to save the change.
@@ -100,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/rename-userselectdefault.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There you go! You should be able to set up your default printer now!
@@ -138,15 +138,19 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-best-practices-for-rl-video-editing-and-post-processing/"><u>[New] 2024 Approved Best Practices for RL Video Editing and Post-Processing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-building-a-strong-introduction-examples-and-methods/"><u>[New] In 2024, Building a Strong Introduction Examples & Methods</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-discover-easy-fb-ad-videos-free-creation-kit-available/"><u>[New] In 2024, Discover Easy FB Ad Videos – FREE Creation Kit Available</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/2024s-guide-to-perfectly-pairing-hp-printer-with-laptops/"><u>2024'S Guide to Perfectly Pairing HP Printer with Laptops</u></a></li>
-<li><a href="https://win11.techidaily.com/bring-back-the-dormant-wastebin-icon-in-windows/"><u>Bring Back the Dormant Wastebin Icon in Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/celebrating-clear-documentation-with-every-page/"><u>Celebrating Clear Documentation with Every Page</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-google-discover-feature-step-by-step-tutorial-for-smartphones/"><u>Exploring Google Discover Feature - Step-by-Step Tutorial for Smartphones</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reclaiming-online-status-for-your-printer/"><u>Reclaiming Online Status for Your Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-non-responsive-hp-printers/"><u>Resolving Non-Responsive HP Printers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-powerhouse-platforms-for-digital-content-creation-exploring-facebook-twitter-instagram-and-youtube/"><u>The Powerhouse Platforms for Digital Content Creation: Exploring Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-digital-audio-wizardry-turning-fb-videos-into-mp3-for-2024/"><u>[New] Digital Audio Wizardry Turning FB Videos Into MP3 for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/deal-cutting-edge-apps-top-10-for-editing-youtube-shorts-for-2024/"><u>[New] Ideal Cutting Edge Apps Top 10 for Editing Youtube Shorts for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-navigating-photo-curvature-techniques-in-ps/"><u>[Updated] Navigating Photo Curvature Techniques in PS</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-colorists-companion-top-11-tools-for-hue-harmony/"><u>2024 Approved The Colorist's Companion Top 11 Tools for Hue Harmony</u></a></li>
+<li><a href="https://windows11.techidaily.com/chrome-files-upload-hurdle-heres-how-to-clear-it-on-windows/"><u>Chrome Files Upload Hurdle? Here's How to Clear It on Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/clearing-page-queue-in-hp-printer-errors/"><u>Clearing Page Queue in HP Printer Errors</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eradicated-error-b200/"><u>Eradicated Error B200</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-comprehensive-introduction-to-color-grading-and-luts-in-pscc/"><u>In 2024, A Comprehensive Introduction to Color Grading and LUTs in PSCC</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-top-5-online-facebook-video-downloader/"><u>In 2024, Top 5 Online Facebook Video Downloader</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/perfect-print-job-across-all-printers/"><u>Perfect Print Job Across All Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printers-unwillingness-for-full-color-printing/"><u>Printer's Unwillingness for Full-Color Printing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-wi-fi-has-been-turned-off-error-solutions-proven-effective/"><u>Troubleshooting the 'Wi-Fi Has Been Turned Off' Error: Solutions Proven Effective</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unblock-and-propel-printers-fast/"><u>Unblock and Propel Printers Fast</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/white-pages-galore-affected-by-epson-printer/"><u>White Pages Galore: Affected by Epson Printer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Epson Connectivity Now Functional
-date: 2024-12-21T03:41:49.781Z
-updated: 2024-12-25T04:28:11.830Z
+date: 2024-12-31T03:34:52.442Z
+updated: 2025-01-03T00:35:56.667Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 2. **[Update your EPSON printer driver](#Fix2)**
 3. **[Reinstall your EPSON printer](#h-fix-3)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Disable the Use Printer Offline feature of your EPSON printer
 
  1) On your keyboard, press the **Windows logo key**  and **R**  at the same time to invoke the Run box.
@@ -33,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  2) Type **control**  and press **Enter**  .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c170e3799.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **Devices and Printers**  in **Large icons** .
 
@@ -51,14 +51,10 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Close the window and check if you’re able to use your printer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your EPSON printer driver
 
@@ -102,13 +98,13 @@ With the Pro version: click **Update All**  to automatically download and instal
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c1ac9662b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Right-click on the blank area and click **Add a printer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c7442faf0.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  8) For Windows 7 users, click   **Add a network, wireless or Bluetooth printer** .
  (For Windows 10 users, please skip to step 9)
@@ -116,23 +112,19 @@ With the Pro version: click **Update All**  to automatically download and instal
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  9) Click **The printer that I want isn’t listed** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c7d426e87.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  10) Tick on **Add a printer using a TCP/IP address or hostname** . Then click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c7f50fd88.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  11) Enter the IP address and Port name of your printer. Then click**Next** to complete reinstalling your printer.
@@ -141,6 +133,10 @@ With the Pro version: click **Update All**  to automatically download and instal
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c822a0881.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  12) Restart your computer and check if you’re able to use your printer.
 
 **How to check IP address and port name of printer:**
@@ -148,6 +144,10 @@ With the Pro version: click **Update All**  to automatically download and instal
  1)Right-click on your printer and choose **Printer properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Highlight the checked Port with √ mark in **Ports** , then click **Configure Port…**
  Now you can see the Port name and IP address of your printer on the pop-up window.
@@ -171,22 +171,20 @@ With the Pro version: click **Update All**  to automatically download and instal
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effortless-youtube-video-to-text-conversion-at-no-cost/"><u>[New] 2024 Approved Effortless YouTube Video to Text Conversion at No Cost</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-from-last-to-first-deconstructing-your-video-watch-list/"><u>[New] From Last to First Deconstructing Your Video Watch List</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-sony-x1000-video-excellence-detailed-product-evaluation-for-2024/"><u>[New] Sony X1000 Video Excellence Detailed Product Evaluation for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-access-granted-after-troubleshooting/"><u>[PRINT] Access Granted After Troubleshooting</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-empowered-by-numbers-decoding-youtube-analytics/"><u>[Updated] 2024 Approved Empowered by Numbers Decoding YouTube Analytics</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-vidvibes-merge-android-and-ios-insta-photos/"><u>[Updated] In 2024, VidVibes Merge Android & iOS Insta Photos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-premier-videography-instruments/"><u>[Updated] Premier Videography Instruments</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-printers-odd-behavior-unnecessary-paper-usage/"><u>Epson Printer's Odd Behavior: Unnecessary Paper Usage</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/essential-tips-for-digitizing-internet-radio-programming/"><u>Essential Tips for Digitizing Internet Radio Programming</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/install-mfc-9330cdw-wireless-effortlessly/"><u>Install MFC-9330CDW Wireless Effortlessly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printing-woes-config-error-help-needed/"><u>Printing Woes: Config Error, Help Needed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reach-new-horizons-in-printer-functionality-4630-driver-upgrade-guide/"><u>Reach New Horizons in Printer Functionality: 4630 Driver Upgrade Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-no-print-errors/"><u>Resolving No-Print Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/time-travel-files-top-utilities-in-win8-for-date-alteration/"><u>Time Travel Files: Top Utilities in Win8 for Date Alteration</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unravel-the-complexities-of-setting-up-a-hp-printer-for-novices/"><u>Unravel the Complexities of Setting Up a HP Printer for Novices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/usb-printer-malfunction-during-win7-restart-from-sleep/"><u>USB Printer Malfunction During Win7 Restart From Sleep</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-issue-windows-11-not-supporting-canon-mp620/"><u>[Driver Issue] Windows 11 Not Supporting Canon MP620</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-harnessing-your-cameras-power-for-live-online-content-on-personal-computers/"><u>[New] In 2024, Harnessing Your Camera's Power for Live Online Content on Personal Computers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-monetizing-popularity-pay-per-million-views/"><u>[Updated] Monetizing Popularity Pay Per Million Views</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/elevate-hp-officejet-4630-latest-software-releases/"><u>Elevate HP Officejet 4630: Latest Software Releases</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/elevate-your-gaming-experience-with-a-new-character-voice-all-free/"><u>Elevate Your Gaming Experience with a New Character Voice – All Free</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-offline-workflow-blockage/"><u>Fixed Offline Workflow Blockage</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-fix-slow-printing-easily-and-quickly/"><u>How to Fix Slow Printing [Easily & Quickly]</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-tecno-spark-20-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Tecno Spark 20 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/immediate-action-on-queued-printer-work/"><u>Immediate Action on Queued Printer Work</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-11-pro-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone 11 Pro Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-the-best-obs-configuration-for-recordings-insights-and-strategies-for-move-users/"><u>Mastering the Best OBS Configuration for Recordings: Insights and Strategies for Move Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-steam-disconnection-challenges-on-windows/"><u>Navigating Steam Disconnection Challenges on Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Huawei Nova Y71? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tips-for-restarting-non-functional-hp-photo-units/"><u>Tips for Restarting Non-Functional HP Photo Units</u></a></li>
 </ul></div>
 

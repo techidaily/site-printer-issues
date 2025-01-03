@@ -1,7 +1,7 @@
 ---
 title: Fixed Inkjet Non-Operational State
-date: 2024-12-23T23:11:20.713Z
-updated: 2024-12-24T21:37:25.884Z
+date: 2025-01-02T03:17:20.717Z
+updated: 2025-01-03T02:44:09.434Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 2. **[Update your EPSON printer driver](#Fix2)**
 3. **[Reinstall your EPSON printer](#h-fix-3)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Disable the Use Printer Offline feature of your EPSON printer
 
  1) On your keyboard, press the **Windows logo key**  and **R**  at the same time to invoke the Run box.
@@ -38,27 +42,23 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c1ac9662b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Right-click on your printer and click **See what’s printing** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-16.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Click **Printer** to make sure there’s no √ mark before **Use Printer Offline** . Then click **Printer**  again and this time check on **Set As Default Printer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Close the window and check if you’re able to use your printer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your EPSON printer driver
 
@@ -71,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
  2) Run Driver Easy and click **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/SCAN.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3)With the Free version: Click the **Update**  button next to the flagged printer driver to automatically download and install the correct version of this driver.
 
@@ -103,7 +99,7 @@ With the Pro version: click **Update All**  to automatically download and instal
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c170e3799.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Click **Devices and Printers**  in **Large icons** .
@@ -123,10 +119,6 @@ With the Pro version: click **Update All**  to automatically download and instal
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c7d426e87.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  10) Tick on **Add a printer using a TCP/IP address or hostname** . Then click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c7f50fd88.png)
@@ -137,6 +129,10 @@ With the Pro version: click **Update All**  to automatically download and instal
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c822a0881.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  12) Restart your computer and check if you’re able to use your printer.
 
 **How to check IP address and port name of printer:**
@@ -145,13 +141,17 @@ With the Pro version: click **Update All**  to automatically download and instal
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Highlight the checked Port with √ mark in **Ports** , then click **Configure Port…**
  Now you can see the Port name and IP address of your printer on the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * [printer](https://tools.techidaily.com/drivereasy/download/)
@@ -171,18 +171,19 @@ With the Pro version: click **Update All**  to automatically download and instal
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-a-beginners-blueprint-for-effective-facebook-analytics/"><u>[New] 2024 Approved A Beginner's Blueprint for Effective Facebook Analytics</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-dive-into-group-chats-joining-zoom-meetings-on-phone-for-2024/"><u>[New] Dive Into Group Chats Joining Zoom Meetings on Phone for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-ultracapture-pro-the-march-2023-examination-for-2024/"><u>[New] UltraCapture Pro – The March 2023 Examination for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-xiaomi-mix-fold-3-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brother-printer-not-working-solve-it-in-win1011/"><u>Brother Printer Not Working? Solve It in Win10/11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expert-recommendations-top-8-free-srt-apps-reviewed/"><u>Expert Recommendations Top 8 Free SRT Apps Reviewed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-the-active-directory-domain-services-is-currently-unavailable-printer-error/"><u>Fixed: The Active Directory Domain Services Is Currently Unavailable Printer Error</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-flat-out-print-fiasco-windows-error-0x00000709-resolved/"><u>Fixing Flat-Out Print Fiasco: Windows Error 0X00000709 Resolved</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/gratuito-conversor-online-de-arquivos-pcx-para-formato-bmp-com-o-programa-mais-afiado-do-movavi/"><u>Gratuito: Conversor Online De Arquivos PCX Para Formato BMP Com O Programa Mais Afiado Do Movavi</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-avchd-video-editing-the-top-5-software-solutions/"><u>In 2024, AVCHD Video Editing The Top 5 Software Solutions</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tailored-updates-mf4770n-for-windows-oses/"><u>Tailored Updates: MF4770n for WIndows OSes</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/troubleshooting-guide-for-broken-printers-by-yl-software-experts/"><u>Troubleshooting Guide for Broken Printers by YL Software Experts</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unpacking-pcl-xl-breakdowns-effortlessly/"><u>Unpacking PCL XL Breakdowns Effortlessly</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-from-ground-up-a-complete-evaluation-of-dji-phantom-4/"><u>[New] From Ground Up A Complete Evaluation of DJI Phantom 4</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/advanced-recording-techniques-with-winxvideo-ai-screen-camcorder-and-audio-integration-for-superior-quality-results/"><u>Advanced Recording Techniques with Winxvideo AI: Screen, Camcorder & Audio Integration for Superior Quality Results</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/boosting-efficiency-creating-speed-driven-google-collages-for-2024/"><u>Boosting Efficiency Creating Speed-Driven Google Collages for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/brisk-print-processes-revealed/"><u>Brisk Print Processes Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/brother-printer-wifi-setup-and-driver-download/"><u>Brother Printer Wifi Setup & Driver Download</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/easy-steps-to-archive-vimeo-video-recordings/"><u>Easy Steps to Archive Vimeo Video Recordings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-become-the-star-of-your-match-unique-tinder-profile-ideas-to-try/"><u>In 2024, Become the Star of Your Match - Unique Tinder Profile Ideas to Try</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/is-it-worth-upgrading-for-faster-pc-speeds-insights-and-advice-by-yl-technology-experts/"><u>Is It Worth Upgrading for Faster PC Speeds? Insights & Advice by YL Technology Experts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-correct-video-orientation-for-free-top-10-desktop-and-online-apps/"><u>New Correct Video Orientation for Free Top 10 Desktop and Online Apps</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-fixes-for-silent-hp-printers/"><u>Quick Fixes for Silent HP Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolve-printer-driver-crashes-on-windows-11/"><u>Resolve Printer Driver Crashes on Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/seeking-solutions-for-print-device-driver-failure-in-windows-os/"><u>Seeking Solutions for Print Device Driver Failure in Windows OS</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/top-ranked-ringtones-to-enhance-your-call-experience/"><u>Top-Ranked Ringtones to Enhance Your Call Experience</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/updating-drives-with-mf4770n-for-windows-1087/"><u>Updating Drives with MF4770n for Windows 10/8/7</u></a></li>
 </ul></div>
 

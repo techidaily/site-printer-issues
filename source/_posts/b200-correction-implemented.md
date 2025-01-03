@@ -1,7 +1,7 @@
 ---
 title: B200 Correction Implemented
-date: 2024-12-22T00:59:07.173Z
-updated: 2024-12-24T18:34:25.165Z
+date: 2024-12-28T23:11:00.584Z
+updated: 2025-01-02T21:29:18.512Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 
  Keep getting the error code B200? You’re not alone! Many Canon users are reporting it. But don’t worry. You can fix it Here are 3 solutions to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 simple fixes to try
 
  In most cases, getting the error B200 indicates that the printhead of your Canon printer is dead. Apart from that, defective ink cartridges and a corrupt printer driver can also trigger this problem. But before you rush out to buy a new printhead, check the fixes below.
@@ -27,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 1. **[Update your printer driver](#a)**
 2. **[Check your ink cartridges](#b)**
 3. **[Clean the printhead](#c)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your printer driver
 
@@ -49,13 +49,13 @@ There are two ways you can update your printer driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/b200-error-code-canon-driver-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Enter the name of the serial number of your Canon product and search for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/b200-error-code-canon-driver-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
 
@@ -75,16 +75,12 @@ There are two ways you can update your printer driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-229.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like. But it’s partly manual.
@@ -104,7 +100,7 @@ There are two ways you can update your printer driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/toner-581905_1920-1024x768.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Check the ink levels on your printer
@@ -122,6 +118,10 @@ There are two ways you can update your printer driver:
 Make sure your cartridges all work properly, then reinstall it.
 
  Now, reopen your Canon printer. If your problem still exists, try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Clean the printhead
 
@@ -163,19 +163,22 @@ The printhead is very delicate. Please proceed with caution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-shrinking-volume-levels-seamlessly-in-lumafusion-for-2024/"><u>[New] Shrinking Volume Levels Seamlessly in Lumafusion for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-bambu-lab-a1-mattress-evaluation-enjoying-the-ultimate-comfort-of-a-king-size-slider/"><u>Comprehensive Bambu Lab A1 Mattress Evaluation: Enjoying the Ultimate Comfort of a King-Size Slider</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/driving-performance-mf4770n-on-windows-oss/"><u>Driving Performance: MF4770n on Windows OSs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-uncooperative-printer-status-on-winntme-os/"><u>Fixing Uncooperative Printer Status on WinNT/Me OS</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-download-hp-laserjet-pro-m402n-driver-on-windows/"><u>How to Download HP LaserJet Pro M402n Driver on Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-locate-missing-print-server-device/"><u>How to Locate Missing Print Server Device</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-pro-max-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 Pro Max to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-deskjet-d1360-print-drivers-troubleshooting-across-windows-versions/"><u>HP Deskjet D1360 Print Drivers: Troubleshooting Across Windows Versions</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-driver-upgrade-instructions/"><u>HP Printer Driver, Upgrade Instructions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/insiders-take-on-overwatch-thrilling-squad-warfare-with-a-twist-of-fun/"><u>Insider's Take on Overwatch: Thrilling Squad Warfare with a Twist of FUN!</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/navigating-audio-segmentation-easy-ways-to-split-your-mp3s-and-aacs/"><u>Navigating Audio Segmentation Easy Ways to Split Your MP3s and AACs</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/power-on-the-go-elite-picks-for-portable-laptop-batteries-this-year/"><u>Power On the Go: Elite Picks for Portable Laptop Batteries This Year</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-correcting-the-infamous-code-31-error-on-your-pc/"><u>Step-by-Step Guide: Correcting the Infamous Code 31 Error on Your PC</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-build-funny-images-kapwings-meme-studio/"><u>[New] Build Funny Images Kapwing’s Meme Studio</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-top-7-cost-free-tiktok-edits-for-mac-users/"><u>[New] In 2024, Top 7 Cost-Free TikTok Edits for Mac Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-making-your-mark-with-instagram-videos-for-2024/"><u>[New] Making Your Mark with Instagram Videos for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-how-much-space-does-a-days-video-take-up/"><u>[Updated] How Much Space Does a Day's Video Take Up?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574085655-canon-printer-is-offline-heres-how-to-fix-it/"><u>Canon Printer Is Offline? Here’s How to Fix It!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/corrected-epson-ink-problem-now-prints/"><u>Corrected Epson Ink Problem, Now Prints</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/find-your-perfect-match-elite-selection-of-17-inch-laptops/"><u>Find Your Perfect Match: Elite Selection of 17-Inch Laptops</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-fix-pcl-xl-error-easily/"><u>How to Fix PCL XL Error Easily</u></a></li>
+<li><a href="https://article-helps.techidaily.com/htc-vive-unveiled-mastering-your-3d-world-for-2024/"><u>HTC Vive Unveiled Mastering Your 3D World for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/simplifying-canon-printer-wireless-connection/"><u>Simplifying Canon Printer Wireless Connection</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/squashing-hp-printers-mistake-oxc4eb827f/"><u>Squashing HP Printer's Mistake: OXC4EB827F</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/streamline-device-interaction-with-mf4770n-upgrade-in-windows-1187/"><u>Streamline Device Interaction with MF4770n Upgrade in Windows 11/8/7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/syncing-devices-to-share-printer-settings/"><u>Syncing Devices to Share Printer Settings</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unknown-computer-known-printer-case-closed/"><u>Unknown Computer, Known Printer - Case Closed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-differences-between-le-chat-and-chatgpt-our-comprehensive-testing-results/"><u>Unveiling the Differences Between Le Chat and ChatGPT - Our Comprehensive Testing Results</u></a></li>
+<li><a href="https://techidaily.com/update-your-drivers-with-device-manager-on-windows-10-by-drivereasy-guide/"><u>Update your drivers with Device Manager on Windows 10</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-unveiling-dynamic-volume-control-mastering-audio-ducking-techniques/"><u>Updated 2024 Approved Unveiling Dynamic Volume Control Mastering Audio Ducking Techniques</u></a></li>
 </ul></div>
 

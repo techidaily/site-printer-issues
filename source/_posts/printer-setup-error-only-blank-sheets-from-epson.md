@@ -1,7 +1,7 @@
 ---
 title: "Printer Setup Error: Only Blank Sheets From Epson"
-date: 2024-12-21T19:26:58.254Z
-updated: 2024-12-24T20:24:17.240Z
+date: 2025-01-02T00:03:49.823Z
+updated: 2025-01-03T01:25:19.544Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 4. [Install Fortect](#f4)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check your ink cartridges
@@ -49,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
  The second situation is that**one of your ink cartridges is out of ink** . There is a sentence in the Epson manual which most people might ignore: **You cannot print or copy when an ink cartridge is expended even if the other cartridges are not expended.** If one of your cartridges is expended, you should replace it with a new one. Otherwise, you may encounter the printing blank pages issue.
 
  The third condition is that you’ve replaced a new ink cartridge but**you forget to remove the protective tape** . New cartridges have protective tape. Not only that it keep the ink from leaking, but it actually protects the print nozzles of sensitive ink cartridges. But you should be careful with the additional transparent plastic or a pointed mechanism, do not remove it or your cartridge will leak or malfunction.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Clean your clogged Nozzles
 
@@ -65,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 
 **Note** : This Printhead Cleaning Cycles cannot be used too often. Allow your printer to rest for at least 6 hours after one cycle (recommended by Epson), then go through a cleaning cycle again. Doing this program repeatedly will make your clog worse and use a lot of ink.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your printer driver
 
  Epson printer needs drivers to work properly. If the driver is outdated or wrong, it may cause problems. There are two ways to get the correct driver: manually and automatically.
@@ -78,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
  To get the correct driver Epson printers drivers, you need to go to the [Epson support webpage](https://epson.com/Support/Printers/sh/s1) , search your printer and find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/ep-1024x507.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.  
 
@@ -93,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/%E6%96%B0.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the **Update** button next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
@@ -117,17 +117,17 @@ Here’s how to use it:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -152,24 +152,24 @@ Here’s how to use it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-mastering-windows-movie-maker-a-step-by-step-guide-for-windows-8-users/"><u>[New] 2024 Approved Mastering Windows Movie Maker A Step-by-Step Guide for Windows 8 Users</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-stunning-iphone-macro-photos-made-simple/"><u>[New] In 2024, Stunning iPhone Macro Photos Made Simple</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-payment-for-publishing-consumer-based-merchandise-viewpoints/"><u>[New] Payment for Publishing Consumer-Based Merchandise Viewpoints?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-zero-price-strategies-for-solo-frame-analysis-in-videos/"><u>[New] Zero-Price Strategies for Solo Frame Analysis in Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-elite-fight-club-best-of-10-battle-royale-titles/"><u>[Updated] In 2024, Elite Fight Club Best of 10 Battle Royale Titles</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/5-methods-to-seamlessly-transfer-your-android-data-to-an-iphone-post-setup/"><u>5 Methods to Seamlessly Transfer Your Android Data to an iPhone Post-Setup</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ad-ds-maintenance-causing-print-errors/"><u>AD DS Maintenance Causing Print Errors</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/all-encompassing-tech-review-by-diverse-experts/"><u>All-Encompassing Tech Review by Diverse Experts</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brother-cdw-air-glide-instructions-quickly/"><u>Brother CDW Air-Glide Instructions Quickly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205236406-computer-continuously-loading-at-initial-boot-solutions-inside/"><u>Computer Continuously Loading at Initial Boot? Solutions Inside</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-printer-offline-solved/"><u>Epson Printer Offline [Solved]</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-on-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>How to Screen Mirror on Apple iPhone 12 mini? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/in-depth-installing-and-tweaking-your-hp-printer-on-windows/"><u>In-Depth: Installing and Tweaking Your HP Printer on Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-windows-7-printer-unresponsive/"><u>Resolved: Windows 7 Printer Unresponsive</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-white-paper-output-on-hp-printer/"><u>Resolving White Paper Output on HP Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restoring-connected-status-to-siblings-print-device/"><u>Restoring Connected Status to Sibling's Print Device</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restoring-scanner-activation-for-win10-users/"><u>Restoring Scanner Activation for Win10 Users</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-cut-trim-and-edit-mov-files-for-free-top-picks/"><u>Updated Cut, Trim, and Edit MOV Files for Free Top Picks</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win7-inkjet-fix-successful/"><u>Win7 Inkjet Fix Successful</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-transition-your-tunes-transferring-collections-between-services/"><u>[New] 2024 Approved Transition Your Tunes Transferring Collections Between Services</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-30plus-metaverse-quotes-to-inspire-you-include-ar-and-vr/"><u>[Updated] 2024 Approved 30+ Metaverse Quotes to Inspire You [Include AR & VR]</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-elite-selections-top-rated-mac-video-recording-apps/"><u>[Updated] 2024 Approved Elite Selections Top-Rated Mac Video Recording Apps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/alleviating-absence-of-aesthetic-screen-features/"><u>Alleviating Absence of Aesthetic Screen Features</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/brisk-release-from-print-waitlist/"><u>Brisk Release From Print Waitlist</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/clickable-content-climber-software/"><u>Clickable Content Climber Software</u></a></li>
+<li><a href="https://discover-best.techidaily.com/customizing-user-journeys-with-cookiebot-technology/"><u>Customizing User Journeys with Cookiebot Technology</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-hp-printer-no-output-issue/"><u>Fixed HP Printer No Output Issue</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/from-idea-to-installment-making-custom-instagram-notifications/"><u>From Idea to Installment Making Custom Instagram Notifications</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fully-functional-printers-every-page-included/"><u>Fully Functional Printers, Every Page Included</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/how-to-record-overwatch/"><u>How to Record Overwatch</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-realme-v30-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Realme V30 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-connect-unplugged-printer-fixed/"><u>Quick Connect: Unplugged Printer Fixed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-guide-releasing-a-stuck-printer-from-windows/"><u>Quick Guide: Releasing A Stuck Printer From Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-guide-setting-up-a-canon-printer/"><u>Quick Guide: Setting Up a Canon Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reengage-the-printing-pro-saving-brother-printer-from-isolation/"><u>Reengage the Printing Pro: Saving Brother Printer From Isolation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-xbox-live-glitches-in-windows-computers/"><u>Steps to Rectify Xbox Live Glitches in Windows Computers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/successfully-addressed-print-nozzle-issue/"><u>Successfully Addressed Print Nozzle Issue</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-printer-disconnected-from-network/"><u>Troubleshooting: Printer Disconnected From Network</u></a></li>
 </ul></div>
 

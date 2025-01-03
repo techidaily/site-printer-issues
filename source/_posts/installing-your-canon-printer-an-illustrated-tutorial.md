@@ -1,7 +1,7 @@
 ---
 title: Installing Your Canon Printer - An Illustrated Tutorial
-date: 2024-12-05T03:16:32.713Z
-updated: 2024-12-10T02:11:00.464Z
+date: 2024-12-30T20:02:15.886Z
+updated: 2025-01-02T21:51:00.501Z
 tags:
   - win11
   - win10
@@ -28,7 +28,7 @@ Setting up your Canon printer is quite easy and takes only two steps:
 2. **[Install the printer driver](#step2)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1 – Connect your Canon printer to the computer
@@ -47,10 +47,14 @@ Setting up your Canon printer is quite easy and takes only two steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/usb-cable-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/usb-port-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After connecting the printer with your computer, you can follow**[Step 2](#step2)** to install the printer driver.
@@ -87,16 +91,12 @@ Setting up your Canon printer is quite easy and takes only two steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/ethernet-cable-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **1)** Simply connect one end of the Ethernet cable into the printer and the other end of the cable into your router. Then, turn on the printer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/00-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** On the printer’s control panel, use the arrow key to select**Menu** , and then select**Network Settings** .
@@ -106,16 +106,12 @@ Setting up your Canon printer is quite easy and takes only two steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/3-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Select**Wired LAN** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/33.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After the Canon printer is connected to a wired LAN, you can continue with the next step to install the printer driver on your computer.
 
@@ -152,7 +148,7 @@ Setting up your Canon printer is quite easy and takes only two steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/3-0-1-1200x162.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Open the downloaded file, and click**Yes** when you’re prompted to continue.
@@ -166,6 +162,10 @@ Setting up your Canon printer is quite easy and takes only two steps:
 **7)** Click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/2-7-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **8)** If you connect your printer via a USB cable, select the**USB connection** . If you use the Wi-Fi or Ethernet connection, select the**Network Connection** . Then, click**Next** .
 
@@ -218,21 +218,20 @@ Setting up your Canon printer is quite easy and takes only two steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-7-fps-experiences-of-the-decade/"><u>[New] In 2024, Top 7 FPS Experiences of the Decade</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-illuminating-interactions-mastering-animate-texts-in-stories/"><u>2024 Approved Illuminating Interactions Mastering Animate Texts in Stories</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-overcoming-common-windows-10-photos-display-problems/"><u>2024 Approved Overcoming Common Windows 10 Photos Display Problems</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-rewind-revolution-iphones-time-turning-ability/"><u>2024 Approved Rewind Revolution IPhone's Time-Turning Ability</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/addressed-connectivity-interruptions/"><u>Addressed Connectivity Interruptions</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/bypass-blank-pages-reactivating-your-canon-print-spooler/"><u>Bypass Blank Pages: Reactivating Your Canon Print Spooler</u></a></li>
-<li><a href="https://games-able.techidaily.com/costly-graphics-card-choice-my-nvidia-regret/"><u>Costly Graphics Card Choice: My NVIDIA Regret</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/dominant-language-used-in-israel/"><u>Dominant Language Used in Israel?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/harmonizing-office-efficiency-with-quick-fixes-for-printerpluslaptop-linkage/"><u>Harmonizing Office Efficiency with Quick Fixes for Printer+Laptop Linkage</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/installing-mf4770n-support-software-windows-xp-7/"><u>Installing MF4770n Support Software Windows XP-7</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-the-nuances-of-video-sound-design/"><u>Mastering the Nuances of Video Sound Design</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pixel-humorist-tools-kapwings-meme-mastery/"><u>Pixel Humorist Tools Kapwing’s Meme Mastery</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/rdr-reuniting-raid-arrays-drive-rescue/"><u>RDR: Reuniting RAID Arrays - Drive Rescue</u></a></li>
-<li><a href="https://games-able.techidaily.com/safeguarding-personal-info-with-nintendo-switch-accounts/"><u>Safeguarding Personal Info with Nintendo Switch Accounts</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unblocking-offline-status-on-windows-hp-devices/"><u>Unblocking Offline Status on Windows HP Devices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win711-hp-printer-network-recovery-tips/"><u>Win7/11 HP Printer Network Recovery Tips</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/installation-issue-unable-to-get-hp-d1360-up-and-running-in-windows-8-10/"><u>[Installation Issue] Unable to Get HP D1360 Up and Running in Windows 8-10</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-legal-pathways-for-flawless-free-imagery-purchases/"><u>[New] In 2024, Legal Pathways for Flawless Free Imagery Purchases</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-cover-insta-peaks-iphoneandroid-edition-enhanced-features/"><u>2024 Approved Cover Insta Peaks IPhone/Android Edition, Enhanced Features</u></a></li>
+<li><a href="https://common-error.techidaily.com/code-rejection-awaiting-new-instructions/"><u>Code Rejection: Awaiting New Instructions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/harmonizing-mf4770n-with-w11-w8-w7-ecosystems/"><u>Harmonizing MF4770n with W11, W8, W7 Ecosystems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-issues-with-rocket-league-not-launching-correctly/"><u>How to Resolve Issues with Rocket League Not Launching Correctly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-printer-installation-guide-for-windows/"><u>HP Printer Installation Guide for Windows</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/inside-the-art-of-youtube-video-earnings/"><u>Inside the Art of YouTube Video Earnings</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reactivating-scanner-on-latest-win10-os/"><u>Reactivating Scanner on Latest Win10 OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/shave-off-time-on-print-jobs/"><u>Shave Off Time on Print Jobs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-shared-network-device-conflict/"><u>Solved: Shared Network Device Conflict</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-win1011s-network-error-code-0x800704b3/"><u>Solving Win10/11's Network Error Code: 0X800704B3</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/sony-x1000d-vivid-full-action-cam-test/"><u>Sony X1000D Vivid - Full Action Cam Test</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210673547-9781685173876-the-struggle-and-how-we-slayed-the-dragon/"><u>The Struggle and How We Slayed the Dragon | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-audio-issues-stop-high-cpu-consumption-now/"><u>Troubleshooting Windows Audio Issues: Stop High CPU Consumption Now</u></a></li>
 </ul></div>
 

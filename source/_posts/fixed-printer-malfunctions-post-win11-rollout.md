@@ -1,7 +1,7 @@
 ---
 title: "Fixed: Printer Malfunctions Post Win11 Rollout"
-date: 2024-12-23T16:35:57.864Z
-updated: 2024-12-25T04:15:51.180Z
+date: 2024-12-27T21:03:14.422Z
+updated: 2025-01-02T19:23:44.519Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 ## Fixed: Printer Malfunctions Post Win11 Rollout
 
 **Your printer stopped working after Windows 10 Update** ? You’re certainly not alone – hundreds of users are reporting it. The good news is, it’s not hard to fix at all…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix**printer stopped working after Windows 10 Update**
 
@@ -44,6 +48,10 @@ Here is how to power cycle your printer:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Make sure your printer is connected
 
  If your printer is not properly connected, your printer probably won’t work. So you should make sure it is well connected.
@@ -70,10 +78,6 @@ Here is how to power cycle your printer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-188.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -83,7 +87,7 @@ Here is how to power cycle your printer:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Reset the print spooler
@@ -96,10 +100,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-193.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the**Services** window, scroll down until you find**Print Spooler** , then right-click on it and click**Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-194.png)
@@ -109,7 +109,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-195.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Select**all the files** within the folder and_delete_ them. This is to clear the print queues.
@@ -117,6 +117,10 @@ Here is how to do it:
  5) Go back to the**Services** window, locate**Print Spooler** and double-click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-197.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Click**Start** , then in**Startup** **Type** , select**Automatic** and click**OK** to save the changes.
 
@@ -137,10 +141,6 @@ Here is how to do it:
  2) In the**Troubleshoot** window, scroll down to the**Get up and running** section, click on**Printer** \>**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-209.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Wait for Windows to diagnose the problem and follow the on-screen instructions to resolve the printing not working situation.
 
@@ -165,24 +165,18 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fundamental-equipment-for-channel-foundations/"><u>[New] 2024 Approved Fundamental Equipment for Channel Foundations</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/urge-video-popularity-with-essential-seo-aids/"><u>[New] Surge Video Popularity with Essential SEO Aids</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-printer-driver-is-unavailable-on-windows/"><u>[SOLVED] Printer Driver Is Unavailable on Windows</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-optimal-window-calls-8-top-rated-titles-4-1/"><u>[Updated] Optimal Window Calls 8 Top Rated Titles #4-#1</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/bypassing-load-delays-troubleshooting-tips-for-a-smooth-minecraft-experience/"><u>Bypassing Load Delays: Troubleshooting Tips for a Smooth Minecraft Experience</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/curing-repeated-printer-errors-in-windows-107-environments/"><u>Curing Repeated Printer Errors in Windows 10/7 Environments</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/elevate-your-business-impact-a-comprehensive-approach-to-engaging-audiences-across-facebook-linkedin-xing-and-youtube/"><u>Elevate Your Business Impact: A Comprehensive Approach to Engaging Audiences Across Facebook, LinkedIn, Xing, and YouTube</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/firmware-adjustment-mf4770n-windows-compatibility/"><u>Firmware Adjustment: MF4770n Windows Compatibility</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fix-chromebook-hang-ups-discover-these-8-remedies-now/"><u>Fix Chromebook Hang-Ups: Discover These 8 Remedies Now</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-tecno-pova-6-pro-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Tecno Pova 6 Pro 5G Safely | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-start-guide-to-connect-and-configure-your-hp-deskjet-3470v2/"><u>Quick Start Guide to Connect and Configure Your HP DeskJet 3470V2</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-external-monitor-not-responding-in-windows-os/"><u>Resolving External Monitor Not Responding in Windows OS</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restarting-non-functional-usb-devices-post-sleep-windows-7/"><u>Restarting Non-Functional USB Devices Post Sleep, Windows 7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamline-functionality-with-mf4770n-driver-upgrade-for-windows-11w8w7/"><u>Streamline Functionality with MF4770n Driver Upgrade for Windows 11/W8/W7</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-core-interface-youtube-studio-explained-for-2024/"><u>The Core Interface YouTube Studio Explained for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/trouble-with-textless-printouts-on-my-epson-scannerprinter/"><u>Trouble with Textless Printouts on My Epson Scanner/Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-offline-brother-printer-on-your-network/"><u>Troubleshooting Offline Brother Printer on Your Network</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-11-wont-detect-canon-mp620-printer-what-now/"><u>Windows 11 Won't Detect Canon MP620 Printer, What Now?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-unveiling-best-mac-methods-for-recording-roblox-games/"><u>[Updated] Unveiling Best Mac Methods for Recording Roblox Games</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comparing-top-titles-magix-video-pro-x-among-others/"><u>2024 Approved Comparing Top Titles Magix Video Pro X Among Others</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-your-gslides-to-life-with-youtube-media-for-2024/"><u>Bring Your GSlides to Life with YouTube Media for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/exploring-excellence-the-top-5-audiovisual-synthesis-machines/"><u>Exploring Excellence The Top 5 Audio/Visual Synthesis Machines</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-nokia-g310-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Nokia G310 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/innovative-techniques-for-effective-look-up-table-lut-applications-in-adobe-photoshop-cc/"><u>Innovative Techniques for Effective Look-Up Table (LUT) Applications in Adobe PhotoShop CC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximizing-visual-quality-with-enhancer-22-for-2024/"><u>Maximizing Visual Quality with Enhancer 2.2 for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/navigating-the-setup-of-hp-envy-printers/"><u>Navigating the Setup of HP Envy Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-issue-not-showing-up-in-win-810/"><u>Printer Issue: Not Showing Up in Win 8/10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-link-functional-print-device/"><u>Quick Link: Functional Print Device</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revived-networked-printer-access/"><u>Revived Networked Printer Access</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/streamlining-mf4770n-functions-on-w11w8w7-os/"><u>Streamlining MF4770n Functions on W11/W8/W7 OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/swift-solutions-to-printer-delays/"><u>Swift Solutions to Printer Delays</u></a></li>
 </ul></div>
 

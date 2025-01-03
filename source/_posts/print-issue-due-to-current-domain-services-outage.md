@@ -1,7 +1,7 @@
 ---
 title: Print Issue Due to Current Domain Services Outage
-date: 2024-12-19T18:51:26.542Z
-updated: 2024-12-24T19:01:05.249Z
+date: 2024-12-26T18:50:00.725Z
+updated: 2025-01-02T17:14:07.279Z
 tags:
   - win11
   - win10
@@ -33,14 +33,14 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a50a818f88a.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click on **Printer Spooler**  service and click **Start** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-31.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After Printer Spooler gets started, double-click on it. Set its startup type to **Automatic** . Then click **OK**  to save the setting.  
   
@@ -49,27 +49,27 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
  5) Close the Services window and check if you could print files successfully.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Using Registry Editor
 
 1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png) and **R**  at the same time to invoke the Run box.
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Type **regedit**  and press **Enter** to open Registry Editor.  
   
 **![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-23.jpg)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click **Yes** when prompted by User Account Control,.
  3) On Registry window, go to **HKEY\_CURRENT\_USER** \> **Software**  \> **Microsoft**  \> **Windows NT**  \> **CurrentVersion** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Right-click on **Devices**  under **CurrentVersion**  dialog.  
  Then click **Permissions** .  
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Do the same settings to give your account full control of **PrinterPorts**  and **Windows** .  
@@ -92,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) Close the Registry Editor window and check to see if you could print files successfully.
@@ -114,22 +114,18 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-televised-content-ease-youtube-loop-integration-guide/"><u>[New] Televised Content Ease YouTube Loop Integration Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-iphones-panoramic-videos-explained-for-fb-sharing-for-2024/"><u>[Updated] IPhone's Panoramic Videos Explained for FB Sharing for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/avoiding-epson-error-codes-halt/"><u>Avoiding Epson Error Codes Halt</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-xiaomi-redmi-note-12r-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Xiaomi Redmi Note 12R to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatbot-battle-royale-determining-the-leader-in-generative-ai-between-chatgpt-and-bing-chat/"><u>Chatbot Battle Royale: Determining the Leader in Generative AI Between ChatGPT and Bing Chat</u></a></li>
-<li><a href="https://win-able.techidaily.com/dealing-with-in-game-disruptions-solving-valorants-frequent-pc-shutdowns/"><u>Dealing with In-Game Disruptions: Solving Valorant's Frequent PC Shutdowns</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/drive-performance-upgrade-dell-inkjet-aio-on-windows-7/"><u>Drive Performance: Upgrade Dell Inkjet AIO on WIndows 7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fast-forward-stalled-printer-jobs/"><u>Fast-Forward Stalled Printer Jobs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-offline-printer-alert/"><u>Fixing: Offline PRINTER Alert</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-fix-printer-in-error-state/"><u>How to Fix Printer in Error State</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-rhythmic-beak-boogie/"><u>In 2024, Rhythmic Beak Boogie</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/macs-gif-mastery-top-10-recorder-guide-for-2024/"><u>Mac's GIF Mastery Top 10 Recorder Guide for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/no-more-ghost-printouts-hp-printer-armored-against-errors/"><u>No More Ghost Printouts: HP Printer Armored Against Errors</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/reparacion-guia-paso-a-paso-para-el-registro-bios-en-sistemas-gpt-y-uefi/"><u>Reparación Guía Paso a Paso Para El Registro BIOS en Sistemas GPT Y UEFI</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restoring-internet-connectivity-to-printers/"><u>Restoring Internet Connectivity to Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/seamless-installation-wizard-officejet-pro-8600-windows-printer-suite/"><u>Seamless Installation Wizard: Officejet Pro 8600 Windows Printer Suite</u></a></li>
-<li><a href="https://driver-download.techidaily.com/windows-10-solution-restoring-built-in-printerscanner-driver-support/"><u>Windows 10 Solution: Restoring Built-In Printer/Scanner Driver Support</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-master-techniques-for-live-sport-broadcast-recording-for-2024/"><u>[Updated] Master Techniques for Live Sport Broadcast Recording for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-advice-make-hidden-network-printer-visible-again/"><u>[Windows Advice] Make Hidden Network Printer Visible Again</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-plant-pals-playlist-the-best-agrigames-for-friends/"><u>2024 Approved Plant Pals' Playlist The Best AgriGames for Friends</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-lava-blaze-2-pro-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Lava Blaze 2 Pro Fingerprint Lock</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/bridging-the-gap-when-printer-is-offline/"><u>Bridging the Gap When Printer Is Offline</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-a-broken-fingerprint-recognition-system-on-lenovo-devices/"><u>Diagnosing and Fixing a Broken Fingerprint Recognition System on Lenovo Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/eight-witty-pair-play-ideas-that-go-viral-in-messages/"><u>Eight Witty Pair-Play Ideas That Go Viral in Messages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-offer-alert-get-up-to-700-off-new-apple-ipad-pros-for-labor-day-sale-digital-gadgets-hub/"><u>Exclusive Offer Alert! Get Up to $700 Off New Apple iPad Pros for Labor Day Sale | Digital Gadgets Hub</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-iosandroid-tutorial-uploading-audio-to-social-network/"><u>In 2024, IOS/Android Tutorial Uploading Audio to Social Network</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/limited-time-offer-apple-vision-pro-at-a-surprising-discount-of-200-on-amazon-as-predicted-by-tech-experts-at-zdnet/"><u>Limited-Time Offer: Apple Vision Pro at a Surprising Discount of $200 on Amazon, as Predicted by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-print-problem-after-win-11-update/"><u>Resolved Print Problem After Win 11 Update</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/snap-into-action-a-compelling-ig-gallery-of-inspiration-for-2024/"><u>Snap Into Action! A Compelling IG Gallery of Inspiration for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/step-by-step-eliminating-pcl-xl-issues/"><u>Step-by-Step: Eliminating PCL XL Issues</u></a></li>
 </ul></div>
 

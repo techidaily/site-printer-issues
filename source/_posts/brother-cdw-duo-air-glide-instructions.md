@@ -1,7 +1,7 @@
 ---
 title: Brother CDW Duo Air Glide Instructions
-date: 2024-12-21T18:29:06.949Z
-updated: 2024-12-25T04:19:16.642Z
+date: 2024-12-26T23:36:52.800Z
+updated: 2025-01-02T21:42:19.060Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
 
 **Option 2 – Automatically (Recommended)** – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 1: Download and install the driver manually
 
  According to Brother’s official website, it’s preferable to uninstall the older driver first before we head to the official website to download & install our driver.
@@ -49,7 +45,7 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-118.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click**Brother MFC-9330CDW** **printer** and select**Uninstall device** .
@@ -66,29 +62,37 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-120.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the first result, click**Full Driver & Software Package (Recommended)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-122.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Agree to the EULA and Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Download.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Once you’ve downloaded the correct driver file for your system, right-click the downloaded file and select**Run as administrator** . Then follow the on-screen instructions to install the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-127.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Restart your computer to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update Brother MFC-9330CDW drivers
 
@@ -107,10 +111,6 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-126.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** You can do it for free if you like, but it’s partly manual.
 
@@ -140,21 +140,21 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-icy-images-cozier-cinematics-best-bgs-selection/"><u>[New] In 2024, Icy Images, Cozier Cinematics Best Bgs Selection</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-chorus-of-content-perfecting-music-placement-on-ig-for-2024/"><u>[New] The Chorus of Content Perfecting Music Placement on IG for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/apple-showdown-unveiling-the-contrasts-between-ipad-pro-and-macbook-pro/"><u>Apple Showdown: Unveiling the Contrasts Between IPad Pro & MacBook Pro</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-iphone-selfie-gear-the-ultimate-compilation-8/"><u>Best iPhone Selfie Gear - The Ultimate Compilation (#8)</u></a></li>
-<li><a href="https://win-able.techidaily.com/dealing-with-the-dota-2-vac-ban-error-message-solutions/"><u>Dealing with the Dota 2 VAC Ban Error Message - Solutions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/evaluation-report-elite-parrot-ar-drone-20-for-2024/"><u>Evaluation Report Elite Parrot AR Drone 2.0 for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-add-hp-officejet-pro-8720-to-your-pc-step-by-step/"><u>How to Add HP OfficeJet Pro 8720 to Your PC [Step by Step]</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-officejet-pro-8600-printer-software-for-pc-users/"><u>HP Officejet Pro 8600 Printer Software for PC Users</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-quick-cover-art-crafting-for-fighting-games/"><u>In 2024, Quick Cover Art Crafting for Fighting Games</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mfc-9330-wireless-setup-guide-for-brother-fans/"><u>MFC-9330 Wireless Setup Guide for Brother Fans</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-inactive-scanner-on-windows-11/"><u>Overcoming Inactive Scanner on Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-oppo-reno-11-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Oppo Reno 11 5G</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restoring-order-a-printers-tale-after-windows-update/"><u>Restoring Order: A Printer's Tale After Windows Update</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reveal-missing-printer-on-your-windows-system/"><u>Reveal Missing Printer on Your Windows System</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-5-techniques-to-capture-screenshots-without-watermarks-in-windows-10/"><u>Top 5 Techniques to Capture Screenshots Without Watermarks in Windows 10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unblocking-hp-inkjet-on-windows-11-offline/"><u>Unblocking HP Inkjet on Windows 11 Offline</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-professional-gopro-filming-made-simple-a-comprehensive-guide/"><u>[New] Professional GoPro Filming Made Simple A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-facilitating-tiktok-videos-transmission-to-facebook-friends/"><u>[Updated] 2024 Approved Facilitating TikTok Videos' Transmission to Facebook Friends</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-hit-parade-the-top-10-songs-on-spotify/"><u>[Updated] In 2024, Hit Parade The Top 10 Songs on Spotify</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-subtitle-extraction-from-youtube-videos-a-threefold-approach-guide/"><u>2024 Approved Mastering the Art of Subtitle Extraction From YouTube Videos A Threefold Approach Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/avoid-regrets-8-must-know-considerations-for-purchasing-the-right-tablet/"><u>Avoid Regrets: 8 Must-Know Considerations for Purchasing the Right Tablet</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/comprehensive-dying-light-analysis-engaging-co-op-action-in-a-fps-world-of-parkour-and-struggle/"><u>Comprehensive Dying Light Analysis: Engaging Co-Op Action in a FPS World of Parkour and Struggle</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/exceptional-mobility-meets-high-performance-a-closer-look-at-the-razer-blade-pro-17/"><u>Exceptional Mobility Meets High-Performance: A Closer Look at the Razer Blade Pro 17</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-windows-cannot-connect-to-the-printer-issue-easily/"><u>Fix Windows Cannot Connect to the Printer Issue. Easily!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfect-your-hd-vids-on-android-with-these-10-players-for-2024/"><u>Perfect Your HD Vids on Android With These 10 Players for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/start-capturing-with-confidence-prime-amazonbasics-tripod-review/"><u>Start Capturing with Confidence: Prime AmazonBasics Tripod Review</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-troubleshooting-for-resolving-blurry-graphics-in-cod-warzone-windows-edition/"><u>Step-by-Step Troubleshooting for Resolving Blurry Graphics in COD: Warzone - Windows Edition</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/test-ride-and-review-the-latest-cycwagen-cargo-electric-bicycle-unveiled/"><u>Test Ride & Review: The Latest CycWagen Cargo Electric Bicycle Unveiled</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-a-list-guide-to-instagram-photo-mastery-for-2024/"><u>The A-List Guide to Instagram Photo Mastery for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/the-ultimate-review-unveiling-the-pros-and-cons-of-acers-15-chromebook/"><u>The Ultimate Review: Unveiling the Pros and Cons of Acer's 15 Chromebook</u></a></li>
 </ul></div>
 

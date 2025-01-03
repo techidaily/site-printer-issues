@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Resolve the Persona 5 Strikers' Black Screen Problem"
-date: 2024-12-18T21:27:27.493Z
-updated: 2024-12-24T18:13:25.333Z
+date: 2024-12-27T23:13:24.127Z
+updated: 2025-01-02T23:40:06.362Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 
  Running into an**Apex Legends Engine error** ? Don’t worry. It’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fixes for Apex Legends Engine Error
 
  Here are 4 fixes that have helped other users resolve the Apex Legends Engine error. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -31,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 2. **[Run Apex Legends as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Verify game files](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Edit registry](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update the graphics driver
 
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0204fe6005.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click Update to do it for free if you like, but it’s partly manual.
@@ -73,7 +73,7 @@ Here is how to grant administrative privileges to Apex Legends:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-564.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In File Explorer, right click on **Apex Legends .exe**  and click **Properties** .
@@ -86,10 +86,6 @@ Here is how to grant administrative privileges to Apex Legends:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Verify game files
 
  You should also check the integrity of the game files to see if any of them are corrupt or missing.
@@ -100,10 +96,6 @@ Here is how to verify game files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-439-1024x522.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Right-click on**Apex Legends** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-561.png)
@@ -113,12 +105,16 @@ Here is how to verify game files:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Once done, run Apex Legends and check if the engine error is fixed. If yes, then great! If the issue persists, please move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Edit Registry
 
@@ -139,6 +135,10 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers] "TdrDelay"=hex(b):08,00,00,00,00,00,00,00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-475.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**File** \>**Save as…**
 
@@ -174,20 +174,20 @@ Windows Registry Editor Version 5.00
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-5-pc-snipers-for-efficient-image-capture/"><u>[New] In 2024, The Ultimate 5 PC Snipers for Efficient Image Capture</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-a-list-of-the-best-8-sites-for-free-3d-text-psd-downloads/"><u>[Updated] 2024 Approved A List of the Best 8 Sites for Free 3D Text PSD Downloads</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-splitcam-probe-in-video-techs-top-spot/"><u>[Updated] In 2024, SplitCam Probe - In Video Tech's Top Spot?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-pro-level-video-editing-with-vivacut-full-review-and-guidebook/"><u>2024 Approved Pro-Level Video Editing with VivaCut Full Review & Guidebook</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/a-guide-to-smoothly-linking-canon-printers/"><u>A Guide to Smoothly Linking Canon Printers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/clarifying-video-margins-imovie-crop-explanation-for-2024/"><u>Clarifying Video Margins IMovie Crop Explanation for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/collecting-classics-copyrights-released-for-2024/"><u>Collecting Classics Copyrights Released for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-printing-speed-and-accuracy-on-windows-11/"><u>Fix Printing Speed and Accuracy on Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ignoring-my-printer-what-to-do/"><u>Ignoring My Printer - What to Do?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-a2plus-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi A2+</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-rhythmic-reckonings-top-disruptors-for-mobile-devices/"><u>In 2024, Rhythmic Reckonings Top Disruptors for Mobile Devices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/non-reactivity-in-canon-printer-mode/"><u>Non-Reactivity in Canon Printer Mode</u></a></li>
-<li><a href="https://extra-information.techidaily.com/prime-monitors-ranked-for-ps5-gameplay/"><u>Prime Monitors Ranked for PS5 Gameplay</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reset-scanner-connection-status-on-pc-windows-10/"><u>Reset Scanner Connection Status on PC, Windows 10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tackle-printer-connectivity-issues-in-w11/"><u>Tackle Printer Connectivity Issues in W11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-canon-printer-not-responding/"><u>[FIXED] Canon Printer Not Responding</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-freeze-time-like-never-before-on-the-newest-mi-phone-for-2024/"><u>[New] Freeze Time Like Never Before on the Newest Mi Phone for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-step-by-step-recording-slideshow-via-webcam/"><u>[New] Step-by-Step Recording Slideshow via Webcam</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-cutting-edge-content-creation-premier-android-editors/"><u>[Updated] Cutting-Edge Content Creation Premier Android Editors</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-maximize-views-the-art-of-timestamp-integration-on-youtube/"><u>[Updated] In 2024, Maximize Views The Art of Timestamp Integration on YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/22-leading-free-video-optimizers-the-most-effective-picks-for-windows-and-macos-users/"><u>22 Leading Free Video Optimizers: The Most Effective Picks for Windows & macOS Users</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canon-pixma-mp620-driver-missing-please-help/"><u>Canon Pixma MP620: Driver Missing, Please Help</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-latest-netgear-a6100-wireless-adapter-drivers-for-windows-pc/"><u>Download & Install the Latest Netgear A6100 Wireless Adapter Drivers for Windows PC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/intruder-alert-unexpected-printer-activity/"><u>Intruder Alert: Unexpected Printer Activity</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/network-printer-error-what-windows-users-can-do/"><u>Network Printer Error: What Windows Users Can Do</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/pixma-mp620-searching-for-driver-on-win11-repository/"><u>Pixma MP620: Searching for Driver on Win11 Repository</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resetting-network-settings-on-printers/"><u>Resetting Network Settings on Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restored-print-functionality-after-win-11-update/"><u>Restored Print Functionality After Win 11 Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-integrating-windows-calculator-into-microsoft-excel-2013s-quick-access-bar/"><u>Step-by-Step Guide: Integrating Windows Calculator Into Microsoft Excel 2013'S Quick Access Bar</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/tactics-for-success-amidst-facebooks-algorithm-evolution-for-2024/"><u>Tactics for Success Amidst Facebook’s Algorithm Evolution for 2024</u></a></li>
 </ul></div>
 

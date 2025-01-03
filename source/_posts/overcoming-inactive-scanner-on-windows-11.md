@@ -1,7 +1,7 @@
 ---
 title: Overcoming Inactive Scanner on Windows 11
-date: 2024-12-19T00:44:37.236Z
-updated: 2024-12-24T16:08:31.949Z
+date: 2024-12-28T16:22:59.788Z
+updated: 2025-01-02T17:55:53.364Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ Read on. 🙂
 2. [**Reinstall your printer driver**](#m2)
 3. [**Get rid of ‘Scan to computer is no longer activated’ error**](#m3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Check the connection of your Printer
 
  Once the error pops up on your Windows 10, and you cannot print the files with your printer, please check the connection between your printer and computer first.
@@ -54,13 +50,13 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf305cb04.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the open window, find and expand the**Print queues** catalog. Then right-click on your printer software to choose**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf9b29be7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Restart your computer to let Windows reinstall the printer driver for you automatically.
 
@@ -75,7 +71,7 @@ You need to do these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597af8932fbfe.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -83,7 +79,7 @@ You need to do these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5976a910cca49.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -103,12 +99,16 @@ You need to do these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee29de8213.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Find**scanToPCActivationApp** under**Startup** tab. Then right-click on it to choose**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee2dfcd442.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 That’s all there is to it.
 
@@ -132,20 +132,20 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-prime-picks-the-finest-cardboard-compatible-virtual-reality-titles/"><u>[Updated] 2024 Approved Prime Picks The Finest Cardboard-Compatible Virtual Reality Titles</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-oculus-favorites-the-8-highest-selling-games/"><u>[Updated] In 2024, Oculus Favorites The 8 Highest-Selling Games</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-unlocking-potential-integrating-snapchat-into-business-models/"><u>[Updated] In 2024, Unlocking Potential Integrating Snapchat Into Business Models</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-selecting-superior-5k-displays-the-top-eight/"><u>2024 Approved Selecting Superior 5K Displays The Top Eight</u></a></li>
-<li><a href="https://extra-information.techidaily.com/android-collage-innovators-your-picks-for-artistry/"><u>Android Collage Innovators – Your Picks for Artistry</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/cinematic-clarity-choices-best-4k-monitors-for-filmmakers/"><u>Cinematic Clarity Choices Best 4K Monitors for Filmmakers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/disconnecting-all-print-devices-at-once-on-pc/"><u>Disconnecting All Print Devices at Once on PC</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/discover-hidden-printer-devices-in-windows-710/"><u>Discover Hidden Printer Devices in WIndows 7/10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-solve-brother-printer-offline-problem/"><u>How to Solve Brother Printer Offline Problem</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-infinix-note-30-vip-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Infinix Note 30 VIP to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/mac-stellar-secure-delete-enhanced-data-wipe-with-easy-scheduled-cleanup/"><u>Mac Stellar Secure Delete: Enhanced Data Wipe with Easy Scheduled Cleanup</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-woes-after-suspend-on-windows-7-systems/"><u>Printer Woes After Suspend on Windows 7 Systems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-scan-to-computer-is-no-longer-activated-on-windows-11/"><u>Solved: Scan to Computer Is No Longer Activated on Windows 11</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-art-of-optimization-boosting-your-youtube-video-rankings-for-2024/"><u>The Art of Optimization Boosting Your YouTube Video Rankings for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win11s-online-scanning-no-longer-inactive/"><u>Win11's Online Scanning No Longer Inactive</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-ultimate-ranking-of-15-4k-video-devices/"><u>[New] In 2024, Ultimate Ranking of #15 4K Video Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prime-image-archive-platforms/"><u>[New] Prime Image Archive Platforms</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-non-printing-usb-printers-after-sleep-in-w7/"><u>[Solved] Non-Printing USB Printers After Sleep in W7</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-the-mystery-behind-facebooks-name-alteration/"><u>Decoding the Mystery Behind Facebook’s Name Alteration</u></a></li>
+<li><a href="https://games-able.techidaily.com/exposing-the-charlatans-behind-fake-game-ads/"><u>Exposing the Charlatans Behind Fake Game Ads</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-error-messages-in-epson-units/"><u>Fixing Error Messages in Epson Units</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-vcompdll-file-missing-or-corrupted-on-your-computer/"><u>How to Fix vcomp.dll File Missing or Corrupted on Your Computer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-realme-gt-neo-5-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Realme GT Neo 5 Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-deep-dive-into-samsungs-picture-perfection-app/"><u>In 2024, A Deep Dive Into Samsung's Picture Perfection App</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mastering-the-connection-process-of-hp-photosmart-all-in-one/"><u>Mastering the Connection Process of HP PhotoSmart All-In-One</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/pioneering-patterns-screen-cast-with-loom-pro-for-2024/"><u>Pioneering Patterns Screen Cast with Loom Pro for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printers-lack-of-full-color-capacity/"><u>Printer's Lack of Full Color Capacity</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/scanner-restoration-completed-for-win11/"><u>Scanner Restoration Completed for Win11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-17-recommended-applications-every-windows-user-should-know-about-windows-11-to-7/"><u>Top 17 Recommended Applications Every Windows User Should Know About (Windows 11 to 7)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win-11-update-linked-to-non-operational-printer/"><u>Win 11 Update Linked to Non-Operational Printer</u></a></li>
 </ul></div>
 

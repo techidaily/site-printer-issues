@@ -1,7 +1,7 @@
 ---
 title: Restore Scanner Link to Computer in Windows 10
-date: 2024-12-17T19:55:12.263Z
-updated: 2024-12-24T23:33:35.774Z
+date: 2024-12-26T23:17:31.737Z
+updated: 2025-01-03T01:31:46.933Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
  Printer plays an important role in many user’s work. Once it gets into error, that would be really irksome.**Scan to computer is no longer activated** is the common one of printer issues. The detailed message shows as:**The network connection to the printer has been lost.** In this guide, we will be showing you how to fix it to get your printer work properly and how to get rid of this error message on Windows 10.
 
 Read on. 🙂
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -50,12 +54,16 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf305cb04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the open window, find and expand the**Print queues** catalog. Then right-click on your printer software to choose**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf9b29be7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Restart your computer to let Windows reinstall the printer driver for you automatically.
@@ -74,16 +82,12 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5976a910cca49.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Get rid of ‘Scan to computer is no longer activated’ error
@@ -94,10 +98,6 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee238c2f07.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Find**scanToPCActivationApp** under**Processes** tab. Then right-click on it to choose**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee29de8213.png)
@@ -107,7 +107,7 @@ You need to do these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee2dfcd442.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That’s all there is to it.
@@ -132,18 +132,19 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/network-problems-windows-xp-10-printer-vanishes/"><u>[Network Problems] Windows XP-10, Printer Vanishes</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-taking-flight-in-content-creation-dji-drones-and-fb-live/"><u>[New] In 2024, Taking Flight in Content Creation DJI Drones & FB Live</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-the-vanguard-of-radio-theatre-composition/"><u>[New] The Vanguard of Radio-Theatre Composition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-20plus-laughs-no-boundaries-crafting-memes-across-metaverse-realms/"><u>[Updated] 20+ Laughs, No Boundaries Crafting Memes Across Metaverse Realms</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-perfect-your-podcast-secrets-for-compelling-opening-videos/"><u>2024 Approved Perfect Your Podcast Secrets for Compelling Opening Videos</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/address-common-canon-printer-woes-in-windows-10-settings/"><u>Address Common Canon Printer Woes in Windows 10 Settings</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/combating-printers-error-x97-in-epson/"><u>Combating Printer's Error X97 in Epson</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ending-paper-shortage-2024-printer-update/"><u>Ending Paper Shortage: 2024 Printer Update</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhance-document-saving-functionality-in-windows-11/"><u>Enhance Document Saving Functionality in Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a59-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A59 5G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-evolution-of-color-formats-from-rgb-to-srgb/"><u>In 2024, The Evolution of Color Formats From Rgb to Srgb</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-hp-printer-error-code-oxc4eb827f/"><u>Overcoming HP Printer Error Code: OXC4EB827F</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016036993-unlock-seamless-game-sound-integration-with-this-solved-discord-method/"><u>Unlock Seamless Game Sound Integration with This Solved Discord Method</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-navigating-the-world-of-drone-races-and-top-fpv-choices/"><u>[New] In 2024, Navigating the World of Drone Races & Top FPV Choices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-minecraft-homes-innovative-and-stylish-designs-for-2024/"><u>[New] Minecraft Homes Innovative & Stylish Designs for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enable-scanner-activation-after-updating-win10/"><u>Enable Scanner Activation After Updating Win10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/immediate-resumption-of-prints/"><u>Immediate Resumption of Prints</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-voice-over-advantage-elevating-video-quality/"><u>In 2024, The Voice-Over Advantage Elevating Video Quality</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/navigating-through-pcl-xl-errors-with-ease/"><u>Navigating Through PCL XL Errors with Ease</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/purging-hp-printer-error-code-oxc4eb827f/"><u>Purging HP Printer Error: Code OXC4EB827F</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/quick-guide-to-effective-screen-recording-macos-for-2024/"><u>Quick Guide to Effective Screen Recording macOS for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/repaired-printer-error-after-windows-11-update/"><u>Repaired: Printer Error After Windows 11 Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revive-your-system-amd-driver-update-for-various-windows-oss/"><u>Revive Your System: AMD Driver Update for Various Windows OSs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-updating-and-downloading-drivers-for-your-gtx-1660-super-graphics-card/"><u>Step-by-Step Tutorial: Updating & Downloading Drivers for Your GTX 1660 SUPER Graphics Card</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/transform-printing-experience-hp-officejets-newest-software-update/"><u>Transform Printing Experience: HP Officejet's Newest Software Update</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unlocking-seamless-linktree-addition-in-your-tiktok-profile/"><u>Unlocking Seamless Linktree Addition in Your TikTok Profile</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Epson Error Code 0X97
-date: 2024-12-21T03:31:43.313Z
-updated: 2024-12-25T02:59:22.838Z
+date: 2025-01-01T17:44:50.251Z
+updated: 2025-01-02T20:31:09.366Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 2. **[Check your ink cartridges](#b)**
 3. **[Run the Windows printer troubleshooter](#c)**
 4. **[Update your printer driver](#d)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Reboot your printer
 
@@ -82,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-842.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Select **Troubleshooting** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-843.png)
@@ -94,17 +94,9 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-844.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-845.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait for your computer to automatically detect your printer issue, and then follow the on-screen instructions to fix it. If no printer issue is identified, try [**fix 4**](#d) , below.
 
@@ -114,22 +106,26 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-846.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Select **Troubleshooting settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-847.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click **Printer,**  and then click **Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-849.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the troubleshooting process to be complete, then reopen your printer to check if this fixed your issue. If not, read on and check the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your printer driver
@@ -163,6 +159,10 @@ OR
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the printer driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -199,19 +199,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-pioneering-online-techniques-for-vhs-image-refinement/"><u>[New] Pioneering Online Techniques for VHS Image Refinement</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-ascending-audio-the-ultimate-budget-friendly-asmr-kit-selection-for-2024/"><u>[Updated] Ascending Audio - The Ultimate Budget-Friendly ASMR Kit Selection for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-beginners-guide-decoding-av1-technology/"><u>[Updated] Beginner's Guide Decoding AV1 Technology</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essence-of-whatsapp-call-conversations/"><u>2024 Approved The Essence of WhatsApp Call Conversations</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhance-printer-velocity-now/"><u>Enhance Printer Velocity Now!</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-drawing-to-animating-the-best-software-tools-for-bringing-your-art-to-life/"><u>In 2024, Drawing to Animating The Best Software Tools for Bringing Your Art to Life</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-the-real-deal-behind-asmr-videos/"><u>In 2024, The Real Deal Behind ASMR Videos</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overhauling-hp-printers-error-code-oxc4eb827f/"><u>Overhauling HP Printer's Error: Code OXC4EB827F</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-not-showing-up-a-guide-for-windows-users/"><u>Printer Not Showing Up: A Guide for Windows Users</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/saving-photo-printouts-from-failures/"><u>Saving Photo Printouts From Failures</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210026302-9781609253325-the-art-of-dreaming/"><u>The Art of Dreaming | Free Book</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unblocking-printer-service-on-windows-10-11-7/"><u>Unblocking Printer Service on Windows 10, 11, 7</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unmatched-quality-tested-the-fugetek-ft-568-selfie-stick-review/"><u>Unmatched Quality Tested: The Fugetek FT-568 Selfie Stick Review</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win7-print-problem-devices-unresponsive-post-sleep/"><u>Win7 Print Problem: Devices Unresponsive Post-Sleep</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hardware-setup-cant-get-hp-d1360-to-work-windows-versions-involved/"><u>[Hardware Setup] Can't Get HP D1360 to Work: Windows Versions Involved</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rom-space-to-nature-yts-guide-for-dynamic-green-screen-filmmaking-for-2024/"><u>[New] From Space to Nature YT's Guide for Dynamic Green Screen Filmmaking for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-2-easy-ways-to-record-google-meet/"><u>[Updated] 2024 Approved 2 Easy Ways to Record Google Meet</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-android-and-iphones-essential-apps-to-elevate-fb-likes-count-quickly/"><u>[Updated] In 2024, Android & iPhone's Essential Apps to Elevate FB Likes Count Quickly</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-iphone-hdr-photography-tips-and-tricks-for-2024/"><u>[Updated] IPhone HDR Photography Tips & Tricks for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leading-ladies-of-livestreams-top-10-female-youtubers-unveiled/"><u>[Updated] Leading Ladies of Livestreams Top 10 Female YouTubers Unveiled</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/5-easy-ways-to-fix-canon-printer-wont-print-in-windows-10/"><u>5 Easy Ways to Fix Canon Printer Won't Print in Windows 10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/correcting-common-color-distortion-glitches/"><u>Correcting Common Color Distortion Glitches</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhance-printing-dell-inkjet-driver-upgrade-for-windows-7/"><u>Enhance Printing: Dell Inkjet Driver Upgrade for Windows 7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-picks-the-quintessential-5-ai-prompt-generators/"><u>Expert Picks: The Quintessential 5 AI Prompt Generators</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-printers-white-sheets-cured-with-new-solution/"><u>HP Printer’s White Sheets Cured with New Solution</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/infuse-sound-with-microsoft-powerpoint-decks-for-2024/"><u>Infuse Sound with Microsoft PowerPoint Decks for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/optimize-win10-printer-performance-and-speed/"><u>Optimize WIN10 Printer Performance and Speed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcome-print-job-queue-freeze/"><u>Overcome Print Job Queue Freeze</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-laser-printer-outputs/"><u>Restoring Laser Printer Outputs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-versatile-osprey-series-a-deep-dive-into-the-affordable-ws-2902a-by-ambient/"><u>The Versatile Osprey Series: A Deep Dive Into the Affordable WS-2902A by Ambient</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-lava-blaze-2-5g-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Lava Blaze 2 5G.</u></a></li>
 </ul></div>
 

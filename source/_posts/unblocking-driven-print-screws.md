@@ -1,7 +1,7 @@
 ---
 title: Unblocking Driven Print Screws
-date: 2024-12-22T22:51:45.575Z
-updated: 2024-12-24T23:05:41.651Z
+date: 2024-12-26T23:42:31.087Z
+updated: 2025-01-03T00:02:39.922Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
  **3) [Contact printer manufacturer](#c)**
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1) Check the connection and restart your devices
 
  Once your printer is in an error state, you can perform some simple methods and see if they work.
@@ -43,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2) Update or reinstall printer driver
@@ -63,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59682e9883633.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **c)** Click on the**Update** button next to your printer to download the latest and correct driver for this device. You can also hit**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click on Update All).
@@ -71,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598805259801c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Apart from updating driver, you can also use Driver Easy to**uninstall** driver (also**Pro** required). This is helpful especially when you want to**reinstall** the driver of a device.
@@ -80,13 +76,17 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5988077cb6a13.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **b)**  Select**Driver Uninstall** and you will see a list of device drivers. Locate your printer driver and then click on the**Uninstall** button. The driver you select will be removed soon.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598815eadf4ef.jpg)
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3) Contact printer manufacturer
@@ -110,19 +110,20 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-taking-screenshot-on-windows-1087/"><u>[New] 2024 Approved Taking Screenshot on Windows 10/8/7</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-free-secure-stylish-discover-the-top-10-premium-feeling-video-call-apps-for-smartphones-for-2024/"><u>[New] Free, Secure, Stylish Discover the Top 10 Premium-Feeling Video Call Apps for Smartphones for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-above-the-mainstage-significant-youtube-meetings/"><u>[New] In 2024, Above the Mainstage Significant YouTube Meetings</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-elite-choices-in-total-sweep-cinematography/"><u>[Updated] Elite Choices in Total Sweep Cinematography</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-from-pc-to-smartphone-the-essential-guide-to-hulu-recording-for-2024/"><u>[Updated] From PC to Smartphone The Essential Guide to Hulu Recording for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-evaluating-screen-recording-vsdc-reviewed-plus-competitors-spotlight/"><u>[Updated] In 2024, Evaluating Screen Recording VSDC Reviewed + Competitors Spotlight</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-revolutionize-gaming-sounds-ps5ps4-edition/"><u>2024 Approved Revolutionize Gaming Sounds PS5/PS4 Edition</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brother-air-glide-cdw-duo-instructions/"><u>Brother Air Glide CDW Duo Instructions</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ver-the-top-10-historically-rich-youtube-tutorials/"><u>Discover the Top 10 Historically Rich YouTube Tutorials</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-steps-to-troubleshoot-unverified-developer-issues-on-your-mac/"><u>Easy Steps to Troubleshoot Unverified Developer Issues on Your Mac</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/essential-steps-for-mounting-your-canon-printer/"><u>Essential Steps for Mounting Your Canon Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-the-no-content-print-jobs-on-an-epson-device/"><u>Fixing the 'No Content' Print Jobs on an Epson Device</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-unavailable-printer-network-status/"><u>Fixing Unavailable Printer Network Status</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-non-functional-print-devices/"><u>Troubleshooting Non-Functional Print Devices</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-earning-in-the-limelight-without-ads-a-comprehensive-guide-to-youtube-income/"><u>[New] In 2024, Earning in the Limelight without Ads A Comprehensive Guide to YouTube Income</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-30plus-futuristic-metaverse-musings-arvr/"><u>[Updated] 2024 Approved 30+ Futuristic Metaverse Musings [AR/VR]</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-exclusive-changes-in-photo-backgrounds-visionshift-elite-for-2024/"><u>[Updated] Exclusive Changes in Photo Backgrounds VisionShift Elite for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-revolutionize-your-branding-50-free-youtube-banners-inside-for-2024/"><u>[Updated] Revolutionize Your Branding - 50 Free YouTube Banners Inside for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/abbyy-crowned-as-everest-groups-top-choice-for-idp-solutions-spotlight-on-peak-matrix-assessment-2019-edition/"><u>ABBYY Crowned as Everest Group's Top Choice for IDP Solutions: Spotlight on Peak Matrix Assessment - 2019 Edition</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oppo-a78-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo A78 Fingerprint Lock</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhancing-office-efficiency-3-fixes-for-printer-and-laptop-synergy/"><u>Enhancing Office Efficiency: 3 Fixes for Printer & Laptop Synergy</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-navigate-through-dynamic-gifs-find-these-best-recorders-in-winos/"><u>In 2024, Navigate Through Dynamic GIFs Find These Best Recorders in WinOS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/method-to-forget-your-printer-in-windows/"><u>Method to Forget Your Printer in Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/operation-print-device-added-without-issues/"><u>Operation: Print Device Added without Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/optimize-print-performance-dells-latest-aio-upgrades-in-win7/"><u>Optimize Print Performance: Dell's Latest AIO Upgrades in Win7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revitalize-your-prints-install-latest-v305-driver-in-win7/"><u>Revitalize Your Prints: Install Latest V305 Driver in Win7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tackle-scanning-problems-improve-print-driver-in-windows-10/"><u>Tackle Scanning Problems, Improve Print Driver in Windows 10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win7810-networking-guide-for-inkjet-hp-issues/"><u>Win7/8/10 Networking Guide for Inkjet HP Issues</u></a></li>
 </ul></div>
 

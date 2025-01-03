@@ -1,7 +1,7 @@
 ---
 title: Winning Against the New Windows Printing Issue
-date: 2024-11-20T05:00:43.300Z
-updated: 2024-11-24T07:01:41.929Z
+date: 2024-12-31T17:06:14.084Z
+updated: 2025-01-02T20:19:31.288Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/e2b7342586f1532a636225d5506546a483f2a235b
 
 **Your printer stopped working after Windows 10 Update** ? You’re certainly not alone – hundreds of users are reporting it. The good news is, it’s not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix**printer stopped working after Windows 10 Update**
 
  Here are 5 fixes that have helped other users resolve the**printer stopped working after Windows 10 Update** problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -31,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/e2b7342586f1532a636225d5506546a483f2a235b
 3. **[Update your printer driver](#F3)**
 4. **[Reset the print spooler](#F4)**
 5. **[Run Windows Troubleshooter](#F5)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Power cycle your printer
 
@@ -78,10 +70,6 @@ Here is how to power cycle your printer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-188.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -89,6 +77,10 @@ Here is how to power cycle your printer:
 5) Check to see if the printer stopped working issue has been resolved. If yes, then congrats! If the problem still persists, please move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reset the print spooler
 
@@ -108,10 +100,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-195.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Select**all the files** within the folder and_delete_ them. This is to clear the print queues.
 
  5) Go back to the**Services** window, locate**Print Spooler** and double-click on it.
@@ -119,16 +107,24 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-197.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Click**Start** , then in**Startup** **Type** , select**Automatic** and click**OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-198.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Check to see if your printer works properly. If it still doesn’t work, please move on to**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Run Windows Troubleshooter
 
@@ -141,6 +137,10 @@ Here is how to do it:
  2) In the**Troubleshoot** window, scroll down to the**Get up and running** section, click on**Printer** \>**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-209.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Wait for Windows to diagnose the problem and follow the on-screen instructions to resolve the printing not working situation.
 
@@ -165,19 +165,20 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/alert-windows-10-print-queue-offline/"><u>[ALERT] Windows 10: Print Queue Offline</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-conveniently-share-your-videos-youtube-shorts-mobilecomputer-tips/"><u>[New] 2024 Approved Conveniently Share Your Videos YouTube Shorts Mobile/Computer Tips</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-how-to-create-and-change-an-igtv-cover-photo-thumbnail/"><u>[New] 2024 Approved How to Create and Change an IGTV Cover Photo (Thumbnail)?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-sharing-sites-guide-for-instagram-story-and-post-links/"><u>[Updated] In 2024, Sharing Sites Guide for Instagram Story and Post Links</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/connectivity-woes-solve-offline-canon-printer-issues/"><u>Connectivity Woes? Solve Offline Canon Printer Issues</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/error-x97-on-epson-unraveled-solution/"><u>Error X97 on Epson - Unraveled Solution</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-cascading-error-messages-with-printers/"><u>Fixing Cascading Error Messages with Printers</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-unknown-usb-device-port-reset-failed-issue-for-windows-11/"><u>How to Fix Unknown USB Device (Port Reset Failed) Issue for Windows 11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-iphone-7-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On iPhone 7 in the Best Ways</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-quicksnip-videosuite/"><u>In 2024, QuickSnip VideoSuite</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-samsung-galaxy-a14-4g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Samsung Galaxy A14 4G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/new-trends-in-technology-3-solutions-connecting-laptops-and-hp-printers/"><u>New Trends in Technology - 3 Solutions Connecting Laptops & HP Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reconnect-your-silent-canon-printer-now/"><u>Reconnect Your Silent Canon Printer Now!</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/techniques-selecting-audioscapes-for-unveiling-videos/"><u>Techniques Selecting Audioscapes for Unveiling Videos</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-network-printer-not-showing-up-in-windows-1110/"><u>[Fixed] Network Printer Not Showing up in Windows 11/10</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/inding-the-best-sound-editing-software-for-video-makers-for-2024/"><u>[New] Finding the Best Sound Editing Software for Video Makers for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-mastering-visual-storytelling-key-shot-techniques-for-beginners-for-2024/"><u>[New] Mastering Visual Storytelling Key Shot Techniques for Beginners for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-printer-error-after-wake-from-sleep-in-windows-7/"><u>[Resolved] Printer Error After Wake From Sleep in Windows 7</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-sports-and-screen-capture-the-best-ways-to-document-the-action/"><u>[Updated] In 2024, Sports and Screen Capture The Best Ways to Document the Action</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/avoiding-constant-printer-service-disruptions-on-win7win10/"><u>Avoiding Constant Printer Service Disruptions on Win7/Win10</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-14-pro-max-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 14 Pro Max activation lock with a professional tool</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canon-printer-not-printing-conquer-this-issue-with-our-top-5-solutions-for-windows-11/"><u>Canon Printer Not Printing? Conquer This Issue with Our Top 5 Solutions for Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ending-unwanted-spooler-pauses-on-windows-devices/"><u>Ending Unwanted Spooler Pauses on Windows Devices</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-k11-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/instantaneous-clearance-for-prints/"><u>Instantaneous Clearance for Prints</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/master-your-content-a-complete-list-of-essential-audio-visual-tools/"><u>Master Your Content A Complete List of Essential Audio-Visual Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-final-cut-pro-for-beginners-creating-a-video-slideshow-from-scratch-for-2024/"><u>New Final Cut Pro for Beginners Creating a Video Slideshow From Scratch for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-removing-the-for-you-recommendations-on-instagram/"><u>Step-by-Step Guide: Removing the 'For You' Recommendations on Instagram</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/wins-overprint-taming-the-post-update-beast/"><u>Wins Overprint: Taming the Post-Update Beast</u></a></li>
 </ul></div>
 

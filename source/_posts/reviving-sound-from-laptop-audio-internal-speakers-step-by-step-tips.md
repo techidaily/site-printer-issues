@@ -1,7 +1,7 @@
 ---
 title: Reviving Sound From Laptop Audio Internal Speakers – Step-by-Step Tips
-date: 2024-12-24T01:35:39.408Z
-updated: 2024-12-24T17:28:57.217Z
+date: 2024-12-28T17:01:51.359Z
+updated: 2025-01-03T03:26:40.341Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ When you try to play music or video on your laptop, but just find**no sound on t
 [ **3\. Reinstall your sound card driver** ](<https://www.drivereasy.com/knowledge/laptop-internal-speakers-no-sound-solved/#Fix> 3. Reinstall your sound driver)
 [ **4\. Update your sound card driver** ](<https://www.drivereasy.com/knowledge/laptop-internal-speakers-no-sound-solved/#Fix> 4. Update your sound card driver) ``
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your speakers volume
 
  1)`` Make sure your laptop sound isn’t muted.
@@ -30,16 +34,16 @@ When you try to play music or video on your laptop, but just find**no sound on t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Drag the slider to increase the volume to test if the sound could work.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-22.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Set your speakers as default device
@@ -65,11 +69,7 @@ Go with the easy steps to show it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3:**Reinstall your sound card driver**
@@ -83,6 +83,10 @@ Go with the easy steps to show it.
 2) Expand **Sound, video and game controllers** . Then right click on your sound card’s name and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Tick on **Delete the driver software for this device.** Then click **OK** to confirm.
 
@@ -101,10 +105,6 @@ Go with the easy steps to show it.
 It has two versions. Have a try on its **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , it will offer the latest drivers for you to install. But if you upgrade to **[PRO Version](https://tools.techidaily.com/drivereasy/download/)**  , you can get all your drivers including the sound card driver up-to-date with just one click — **Update All** (you get full tech support and 30-day money back guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -131,14 +131,17 @@ Any problems just feel free to leave your comment below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/system-failure-printer-drivers-unavailable-on-pc/"><u>[SYSTEM FAILURE] Printer Drivers Unavailable on PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oneplus-11r-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On OnePlus 11R</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/bypassing-fault-error-eco-error-xf1/"><u>Bypassing Fault: Error #Eco-Error XF1</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-mp620-printer-driver-unavailable-on-windows-10/"><u>Canon MP620 Printer Driver Unavailable on Windows 10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/connecting-laptops-with-hp-printers-top-3-improvement-tips/"><u>Connecting Laptops with HP Printers - Top 3 Improvement Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-benchmark-analysis-djis-drone-phantom-3/"><u>In 2024, Benchmark Analysis DJI's Drone Phantom 3</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-from-novice-to-pro-your-complete-reddit-post-blueprint/"><u>In 2024, From Novice to Pro Your Complete Reddit Post Blueprint</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-correcting-invalid-directory-name-issues-on-your-pcmac/"><u>Understanding and Correcting Invalid Directory Name Issues on Your PC/Mac</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/youtube-stream-mastery-top-rated-tech-and-devices-guide-for-creators-for-2024/"><u>YouTube Stream Mastery Top-Rated Tech & Devices Guide for Creators for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-fpv-drones-picking-perfect-propellers/"><u>[New] Mastering FPV Drones Picking Perfect Propellers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-how-to-take-long-exposure-shots-with-iphone-for-2024/"><u>[Updated] How to Take Long Exposure Shots with iPhone for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/breaking-the-code-on-non-printing-printers/"><u>Breaking the Code on Non-Printing Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-canons-error-b200/"><u>Fixed Canon's Error: B200</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-xltx-files-document-electronically-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i sign a .xltx files document electronically</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-plus-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 15 Plus Passcode without Computer?</u></a></li>
+<li><a href="https://win-help.techidaily.com/identifying-the-root-causes-of-visual-artifacts-and-bugs-in-gaming-insights-from-yl-computings-experts/"><u>Identifying the Root Causes of Visual Artifacts and Bugs in Gaming - Insights From YL Computing's Experts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/screen-recording-winners-pc-and-mac-edition-for-2024/"><u>Screen Recording Winners PC & Mac Edition for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-nokia-130-music-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Nokia 130 Music to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/superior-vector-file-polishing-for-2024/"><u>Superior Vector File Polishing for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unblocking-offline-status-hp-printer-on-dos-systems/"><u>Unblocking Offline Status: HP Printer on DOS Systems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-paper-trail-issue-error-0x00000709-solution-found/"><u>Windows Paper Trail Issue - Error 0X00000709 Solution Found</u></a></li>
 </ul></div>
 

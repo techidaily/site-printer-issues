@@ -1,7 +1,7 @@
 ---
 title: Enable Scanned Device Functionality in Windows 10
-date: 2024-12-18T17:25:34.056Z
-updated: 2024-12-25T03:44:27.090Z
+date: 2024-12-26T16:33:11.400Z
+updated: 2025-01-02T21:48:07.331Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ Read on. 🙂
 2. [**Reinstall your printer driver**](#m2)
 3. [**Get rid of ‘Scan to computer is no longer activated’ error**](#m3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Check the connection of your Printer
 
  Once the error pops up on your Windows 10, and you cannot print the files with your printer, please check the connection between your printer and computer first.
@@ -54,16 +50,12 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf305cb04.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the open window, find and expand the**Print queues** catalog. Then right-click on your printer software to choose**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf9b29be7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Restart your computer to let Windows reinstall the printer driver for you automatically.
@@ -78,16 +70,24 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597af8932fbfe.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5976a910cca49.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Get rid of ‘Scan to computer is no longer activated’ error
@@ -102,13 +102,13 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee29de8213.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Find**scanToPCActivationApp** under**Startup** tab. Then right-click on it to choose**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee2dfcd442.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 That’s all there is to it.
 
@@ -132,21 +132,24 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-autofocus-plus-next-gen-hdr-image-processing-explained/"><u>[Updated] Autofocus Plus Next-Gen HDR Image Processing Explained</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-bridging-the-gap-enhancing-skype-with-zooms-features/"><u>2024 Approved Bridging the Gap Enhancing Skype with Zoom's Features</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlining-remote-work-merging-skype-and-zoom-together/"><u>2024 Approved Streamlining Remote Work Merging Skype and Zoom Together</u></a></li>
-<li><a href="https://win-news.techidaily.com/easy-steps-to-modify-personal-privacy-settings-in-the-latest-yl-software-update/"><u>Easy Steps to Modify Personal Privacy Settings in the Latest YL Software Update</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574135496-enhance-printer-velocity-now/"><u>Enhance Printer Velocity Now</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-inkjet-non-operational-state/"><u>Fixed Inkjet Non-Operational State</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hassle-free-connections-3-innovative-ways-to-link-laptop-plus-hp/"><u>Hassle-Free Connections: 3 Innovative Ways to Link Laptop + HP</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-xiaomi-13t-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Xiaomi 13T to iPhone | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-a-treasure-trove-of-premium-youtube-images-from-6-websites/"><u>In 2024, A Treasure Trove of Premium YouTube Images From 6 Websites</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-cultivate-creativity-inspiration-driven-video-titles/"><u>In 2024, Cultivate Creativity Inspiration-Driven Video Titles</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/intuitive-firmware-update-process-for-hp-printers-especially-4630/"><u>Intuitive Firmware Update Process for HP Printers, Especially 4630</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/macbook-pro-13-defense-without-extravagance-a-review-on-the-practicality-and-value-of-a-simple-case-design/"><u>MacBook Pro 13 Defense Without Extravagance: A Review on the Practicality and Value of a Simple Case Design</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/repair-guide-for-non-printing-machines/"><u>Repair Guide for Non-Printing Machines</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/smoothly-reactivated-scanner-on-windows-11/"><u>Smoothly Reactivated Scanner on Windows 11</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/standard-setup-guide-for-efficient-trace-removal-using-stellar-file-eraser-v5-on-windows/"><u>Standard Setup Guide for Efficient Trace Removal Using Stellar File Eraser v5 on Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/successfully-added-new-printer/"><u>Successfully Added New Printer</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-how-to-make-slow-motion-video-with-photos-app-and-online/"><u>[New] How to Make Slow Motion Video with Photos App and Online</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-top-ten-entrepreneurial-youtube-outlets-and-tips/"><u>[New] In 2024, Top Ten Entrepreneurial YouTube Outlets & Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-xiaomi-redmi-k70-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Xiaomi Redmi K70 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canon-pixma-mp620-unresponsive-to-win10-drivers/"><u>Canon Pixma MP620 Unresponsive to WIN10 Drivers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conversione-gratuita-e-facile-da-mkv-a-avi-con-movavis-online-tools/"><u>Conversione Gratuita E Facile Da MKV a AVI Con Movavi's OnLine Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-remedies-to-resolve-nba-2k21s-black-screen-issue-as-you-enter-2024-gaming-season/"><u>Easy Remedies to Resolve NBA 2K21's Black Screen Issue as You Enter 2024 Gaming Season</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-connectivity-restored/"><u>Epson Connectivity Restored</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-laptop-cooler-must-have-how-it-can-preserve-your-high-performance-pcs-health-techadvocate/"><u>Essential Laptop Cooler Must-Have: How It Can Preserve Your High-Performance PC's Health | TechAdvocate</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS to Android? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/paperless-print-win11-issue-solved/"><u>Paperless Print: Win11 Issue Solved</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-download-of-asus-touchpad-drivers-compatible-with-windows-11-easy-troubleshooting-included/"><u>Quick Download of ASUS Touchpad Drivers Compatible with Windows 11 - Easy Troubleshooting Included</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/refining-drive-functionality-mf4770n-windows-update/"><u>Refining Drive Functionality: MF4770n Windows Update</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-scanner-on-windows-11-os/"><u>Reviving Scanner on Windows 11 OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/stepwise-instructions-connecting-your-new-canon-print-device/"><u>Stepwise Instructions: Connecting Your New Canon Print Device</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/transforming-empty-sheets-into-essential-data/"><u>Transforming Empty Sheets Into Essential Data</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ultimate-compatibility-pack-officejet-pro-8600-windows-edition/"><u>Ultimate Compatibility Pack: Officejet Pro 8600, Windows Edition</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unlock-hidden-printer-features-in-win10-systems/"><u>Unlock Hidden Printer Features in WIN10 Systems</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/windows-hotmail-backup-pro-for-windows/"><u>Windowsで使うホットメール専用の究極のバックアップソフトウェア - Hotmail Backup Pro for Windows</u></a></li>
 </ul></div>
 

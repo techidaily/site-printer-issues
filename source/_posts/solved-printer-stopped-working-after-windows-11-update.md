@@ -1,7 +1,7 @@
 ---
 title: "SOLVED: Printer Stopped Working After Windows 11 Update"
-date: 2024-12-24T04:31:53.307Z
-updated: 2024-12-25T04:51:25.713Z
+date: 2025-01-02T00:12:20.731Z
+updated: 2025-01-02T18:49:38.892Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/cdf09465082716a317b2f16f4ef99338eb56d0b86
 ## SOLVED: Printer Stopped Working After Windows 11 Update
 
 **Your printer stopped working after Windows 10 Update** ? You’re certainly not alone – hundreds of users are reporting it. The good news is, it’s not hard to fix at all…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix**printer stopped working after Windows 10 Update**
 
@@ -56,6 +52,10 @@ Here is how to power cycle your printer:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your printer driver
 
  This problem may occur if you are using the wrong printer driver or it’s out of date. So you should update your printer driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -82,6 +82,10 @@ Here is how to power cycle your printer:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Reset the print spooler
 
  A print spooler is a software program in Windows that manages the print jobs being sent to the printer. If your printer suddenly stops working, you can reset the spooler service to see if solves the problem.
@@ -91,10 +95,6 @@ Here is how to do it:
  1) On your keyboard, press the**Windows logo key** and**R** at the same time, then type**services.msc** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-193.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) In the**Services** window, scroll down until you find**Print Spooler** , then right-click on it and click**Stop** .
 
@@ -110,12 +110,16 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-197.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Click**Start** , then in**Startup** **Type** , select**Automatic** and click**OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-198.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) Check to see if your printer works properly. If it still doesn’t work, please move on to**Fix 5** , below.
@@ -130,16 +134,12 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-208.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the**Troubleshoot** window, scroll down to the**Get up and running** section, click on**Printer** \>**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-209.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait for Windows to diagnose the problem and follow the on-screen instructions to resolve the printing not working situation.
@@ -165,19 +165,15 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-capturing-your-screenplay-free-software-insights/"><u>[New] 2024 Approved Capturing Your Screenplay Free Software Insights</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-script-to-screen-your-windowed-path-to-video-creation-excellence/"><u>[New] From Script to Screen Your Windowed Path to Video Creation Excellence</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-crafting-countdowns-the-essentials-for-obs-users/"><u>[New] In 2024, Crafting Countdowns The Essentials for OBS Users</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-how-to-find-muted-conversations-on-snapchat/"><u>[New] In 2024, How to Find Muted Conversations on Snapchat</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-pages-for-stylish-shiny-3d-type-creations/"><u>[Updated] Top Pages for Stylish, Shiny 3D Type Creations</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-reestablish-link-with-your-canon-printer/"><u>How to Reestablish Link With Your Canon Printer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hp-reveals-futuristic-spectre-laptops-with-advanced-ai-capabilities-and-stunning-peripherals-spotted-at-ces-in-depth-report-by-zdnet/"><u>HP Reveals Futuristic Spectre Laptops with Advanced AI Capabilities and Stunning Peripherals, Spotted at CES | In-Depth Report by ZDNet</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-poco-f5-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Poco F5 5G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-standout-book-trailer-highlights/"><u>In 2024, Standout Book Trailer Highlights</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/installation-tips-for-seamlessly-connecting-your-hp-officejet-4500i/"><u>Installation Tips for Seamlessly Connecting Your HP Officejet 4500I</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/non-responsive-printer-halted-what-to-do/"><u>Non-Responsive Printer Halted, What to Do?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printing-anomaly-linked-to-unknown-pc/"><u>Printing Anomaly Linked to Unknown PC</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/usb-printer-fails-to-respond-post-suspend-win7/"><u>USB Printer Fails to Respond Post Suspend, Win7</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-broadcast-preservation-in-the-age-of-web-radio/"><u>[Updated] Broadcast Preservation in the Age of Web Radio</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/dvdmaciso/"><u>DVDプレーヤー向け：Macで動画・ISOデータを焼くための方法＆特典付き無料アプリケーション</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-bring-your-windows-xps-hp-online/"><u>How to Bring Your Windows XP's HP Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovation-spotlight-exploring-the-5-most-potent-upcoming-ai-hardware-technologies/"><u>Innovation Spotlight: Exploring the 5 Most Potent Upcoming AI Hardware Technologies</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mp620-printer-installation-woes-on-windows-11/"><u>MP620 Printer Installation Woes on Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-launch-errors-essential-fixes-for-overwatch-2-troubleshooting/"><u>Overcoming Launch Errors: Essential Fixes for Overwatch 2 Troubleshooting</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revitalize-your-mf4770n-compatibility-in-win1187/"><u>Revitalize Your MF4770n Compatibility in Win11/8/7</u></a></li>
+<li><a href="https://techidaily.com/s17-video-recovery-recover-deleted-videos-from-s17-by-fonelab-android-recover-video/"><u>S17 Video Recovery - Recover Deleted Videos from S17</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/strategies-to-address-sibling-printer-unresponsiveness/"><u>Strategies to Address Sibling Printer Unresponsiveness</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-dark-side-of-digital-content-profitability-for-2024/"><u>The Dark Side of Digital Content Profitability for 2024</u></a></li>
 </ul></div>
 

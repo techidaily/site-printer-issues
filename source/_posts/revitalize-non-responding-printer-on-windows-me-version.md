@@ -1,7 +1,7 @@
 ---
 title: Revitalize Non-Responding Printer on Windows ME Version
-date: 2024-12-23T00:52:17.888Z
-updated: 2024-12-24T16:48:58.706Z
+date: 2024-12-31T17:38:16.214Z
+updated: 2025-01-03T00:23:20.466Z
 tags:
   - win11
   - win10
@@ -33,16 +33,16 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 **[5) Check printer driver](#e)**
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1) Basic troubleshooting
 
  If you bump into a Printer not responding error, the first thing you should do is to check the**connection status** . Make sure your printer is**properly connected** to your computer, and the**cables** or**wireless network** you use is normal.
 
  Additionally, you can also try**restarting** all devices related to printing jobs. They include your**printer, computer, and WiFi router** (if your printer use wireless connection). You should shut them down completely, leave them for a while, and then power them on again. After that you can print something to see if this fixes the problem.  
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2) Run printer troubleshooter
 
@@ -58,13 +58,13 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59546a6bbf65e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **c)**  For**Windows 7** , click on**Use a printer** under**Hardware and Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59546b2cb2dc0.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **d)**  Follow the on-screen instruction to complete the troubleshooting. If the troubleshooter is able to find some issues, you may need to fix them with this tool or seek for solutions from other sources.  
   
@@ -83,16 +83,16 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595471a35b437.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **c)**  Click on**Stop** button under**Service status** and then on**Start** . (If the Service status is**Stopped** , then directly hit the**Start** button.) After that, hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5954724027192.png)
 
 **d)**  You have just restarted Print Spooler service. Now try your printer and see if the not responding error is gone.  
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4) Configure to correct port
 
@@ -102,33 +102,33 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595476501c3bd.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **b)**  Click on**Devices and Printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595476948d409.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **c)**  In**Printers** section, right click on your printer and then select**Printer properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595477595478e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **d)**  Select**Change properties**  on**General** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595478ceef471.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **e)**  Go to**Ports** tab. Under**Print to the following port(s)** , **tick**  the port that contains**the name of your printer** . You should note that the**Description** of the port should include**USB** or**DOT4** if you are using**USB connection** , or**WSD** ,**network** or**IP** if**network connection** is used. After choosing the port, hit**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5954a9c7c72c1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **f)**  Go back to**General** tab. Click on**Print Test Page** to perform a printing test in order to check if you choose the right port.
 
@@ -151,10 +151,6 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59536d887738b.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **b)** Click on**Update** button next to your printing device. Driver Easy will download the latest credible driver for you. Then you can install the driver on your own.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59537ca159019.jpg)
@@ -162,6 +158,10 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 **c)**  If you want Driver Easy to complete the installation for you, you can use its **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . It will do the whole update process **automatically** . Also, you can update**all** drivers by hitting**Update All** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59549fa515490.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In fact, Driver Easy Pro also contains**powerful features** , such as driver backup and restore. They can help you deal with various driver issues. And they are all very**easy to use** . Plus, you can enjoy**experienced technical support** if you go Pro. It is a**convenient** tool that can**keep your computer healthy** .  
   
@@ -184,19 +184,24 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagrams-audio-alteration-the-ultimate-guide/"><u>[New] 2024 Approved Instagram's Audio Alteration The Ultimate Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/system-crippled-printer-driver-unavailable-in-win/"><u>[SYSTEM CRIPPLED] Printer Driver Unavailable in Win</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-coders-unleashed-a-detailed-look-at-chatgpt-vs-geminis-capabilities/"><u>Best Coders Unleashed: A Detailed Look at ChatGPT Vs. Gemini's Capabilities</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-user-non-interference-with-windows-safescreen/"><u>Ensuring User Non-Interference with Windows SafeScreen</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/optimal-outlooks-ideal-laptops-to-render-hd-videos-quickly-for-2024/"><u>Optimal Outlooks Ideal Laptops to Render HD Videos Quickly for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-usage-fluctuation-raises-eyebrows/"><u>Printer Usage Fluctuation Raises Eyebrows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/re-engage-withprinter-online-troubleshooting-steps/"><u>Re-Engage Withprinter: Online Troubleshooting Steps</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/setup-pathway-attaching-hp-8720-to-computer-systems/"><u>Setup Pathway: Attaching HP 8720 to Computer Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/struggling-with-utorrent-crashing-or-freezing-try-these-proven-methods/"><u>Struggling with UTorrent Crashing or Freezing? Try These Proven Methods</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tactics-for-uninstalling-windows-printers/"><u>Tactics for Uninstalling Windows Printers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-art-of-instagram-filter-selection-tips-for-the-year-2023-for-2024/"><u>The Art of Instagram Filter Selection Tips for the Year 2023 for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/the-end-of-blank-page-woes-printer-remedy-discovered/"><u>The End of Blank Page Woes: Printer Remedy Discovered</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-sticky-visuals-at-a-glance-iphoneandroids-best-sticker-add-on-apps/"><u>2024 Approved Sticky Visuals at a Glance – iPhone/Android's Best Sticker Add-On Apps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-ultimate-unseen-ui-techniques-for-newcomers/"><u>2024 Approved Ultimate Unseen UI Techniques for Newcomers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-unleash-speed-in-your-youtube-videography-with-rapid-techniques/"><u>2024 Approved Unleash Speed in Your YouTube Videography with Rapid Techniques</u></a></li>
+<li><a href="https://facebook.techidaily.com/creating-an-unadulterated-newsfeed-experience-on-facebook/"><u>Creating an Unadulterated Newsfeed Experience on Facebook</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eliminating-ghost-prints-on-monitors/"><u>Eliminating Ghost Prints on Monitors</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574135496-enhance-printer-velocity-now/"><u>Enhance Printer Velocity Now</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/fasttrack-retrosnap-replay/"><u>FastTrack RetroSnap Replay</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-inkjet-non-operational-state/"><u>Fixed Inkjet Non-Operational State</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hassle-free-connections-3-innovative-ways-to-link-laptop-plus-hp/"><u>Hassle-Free Connections: 3 Innovative Ways to Link Laptop + HP</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-printer-blank-page-problem-solved/"><u>HP Printer Blank Page Problem Solved</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-infinix-smart-8-hd-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Smart 8 HD Fingerprint Lock</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/intuitive-firmware-update-process-for-hp-printers-especially-4630/"><u>Intuitive Firmware Update Process for HP Printers, Especially 4630</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/itunes-drm-free-conversion-effortless-transfer-of-your-media-library/"><u>ITunes DRM-Free Conversion: Effortless Transfer of Your Media Library</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/repair-guide-for-non-printing-machines/"><u>Repair Guide for Non-Printing Machines</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/smoothly-reactivated-scanner-on-windows-11/"><u>Smoothly Reactivated Scanner on Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/successfully-added-new-printer/"><u>Successfully Added New Printer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-job-with-ai-the-ultimate-guide-to-using-chatgpt-as-a-virtual-secretary/"><u>Transform Your Job with AI: The Ultimate Guide to Using ChatGPT as a Virtual Secretary</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/visual-victory-apple-and-android-highlight-covers-for-2024/"><u>Visual Victory Apple & Android Highlight Covers for 2024</u></a></li>
 </ul></div>
 

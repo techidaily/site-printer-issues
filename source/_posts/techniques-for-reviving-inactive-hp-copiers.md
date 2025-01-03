@@ -1,7 +1,7 @@
 ---
 title: Techniques for Reviving Inactive HP Copiers
-date: 2024-12-20T18:58:12.802Z
-updated: 2024-12-24T18:49:26.016Z
+date: 2024-12-31T01:16:46.979Z
+updated: 2025-01-02T17:08:32.009Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
  It can also be your Printer Spooler service, and you might need to restart the service for it to work again. In this post, we’ll walk you through the steps to fix the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 3. [**Use the generic driver**](#method-2)
 4. **[Use the Windows Troubleshooter](#method-4)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1\. Restart the Print Spooler service
 
  Your HP printer may not be responding because the Print Spooler Service on your computer is not working properly. To fix it, you’ll need to restart the service:
@@ -45,15 +41,15 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/services.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Scroll down to locate**Printer Spooler** . Right-click it and select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/restart-services.jpg)
 
 3) Check if your HP printer is able to print now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2\. Reinstall the printer driver
 
@@ -64,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 ![devmgmt.msc](https://images.drivereasy.com/wp-content/uploads/2021/01/devmgmt.msc_.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Expand the**Printers** category. Then right-click your printer and select**Uninstall device** .
@@ -81,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/devices.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) On the left pane, select**Printers & scanners** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/printers-and-scanners.jpg)
@@ -93,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/remove-the-current-printer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Once complete, click**Add a printer a scanner** and select your printer.
 
  8) Once the printer is ready for use, the printer driver not available error should be solved. You can print a test page to check if this issue persists.
@@ -104,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
  9) If not, you can go to the manufacturer’s website to download the latest driver and install it manually, or you can choose to update it with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . (You can do it for free if you like, and the **[Pro Version](https://tools.techidaily.com/drivereasy/download/)**  comes with full support and a 30-day money back guarantee.)
 
 ![update audio technica driver automatically](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-now.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -128,19 +120,23 @@ If this method doesn’t do the trick, you can try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/browse-my-computer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Choose**Let me pick from a list of available drivers on my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/let-me-pick.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Select**Generic printer device** , and click**Nex** t to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/generic-drivers.jpg)
 
  6) Now the driver should be updated to the generic device now. You can check the status of the printer. If you’re still having the HP printer not responding problem, you can perform a Windows Update or try the Windows built-in troubleshooter, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4\. Use the Windows Troubleshooter
 
@@ -149,6 +145,10 @@ If this method doesn’t do the trick, you can try the fix below.
  1) On your keyboard, press the**Win + R** key, and enter**control** in the Run box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/control.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Select**Large icons** , and click**Device and Printers** .
 
@@ -159,7 +159,7 @@ If this method doesn’t do the trick, you can try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/troubleshoot-printer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Follow on the on-screen instructions to complete the troubleshooting.
@@ -185,18 +185,24 @@ If this method doesn’t do the trick, you can try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-room-and-pc-readiness-for-immersive-vr-with-oculus/"><u>[New] Room & PC Readiness for Immersive VR with Oculus</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-streamlining-your-experience-with-discord-spoiler-tag-usage-for-2024/"><u>[New] Streamlining Your Experience with Discord Spoiler Tag Usage for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-usb-printers-not-working-after-sleep-in-windows-7/"><u>[Solved] USB Printers Not Working After Sleep in Windows 7</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-unlock-creative-potential-advanced-zooming-on-snapchat/"><u>[Updated] 2024 Approved Unlock Creative Potential Advanced Zooming on Snapchat</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-lenovo-thinkpad-t420-drivers-on-windows-simple-steps/"><u>Download & Update Lenovo ThinkPad T420 Drivers on Windows: Simple Steps</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-evaluation-of-the-multifaceted-garmin-forerunner-nine-four-five-a-complete-runners-tech-companion/"><u>Expert Evaluation of the Multifaceted Garmin Forerunner Nine Four Five: A Complete Runner's Tech Companion</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-oppo-find-x7-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-jovial-graphics-via-adobe-tools/"><u>In 2024, Jovial Graphics via Adobe Tools</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-15-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mastering-fixes-for-epson-error-0x97/"><u>Mastering Fixes for Epson Error 0X97</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-puzzle-mysterious-setup-error/"><u>Printer Puzzle: Mysterious Setup Error</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-guide-hook-up-your-hp-officejet-pro-duo/"><u>Quick Guide: Hook Up Your HP Officejet Pro Duo</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ess-music-integration-transform-your-favorite-tunes-into-youtube-content-for-2024/"><u>Seamless Music Integration Transform Your Favorite Tunes Into YouTube Content for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-comedic-content-concepts-7-hilarious-vlog-ideas-for-laughter-lovers-for-2024/"><u>[New] Comedic Content Concepts 7 Hilarious Vlog Ideas for Laughter Lovers for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-face-id-vs-snapchats-face-unlock-the-apple-vs-samsung-debate/"><u>2024 Approved Face ID Vs. Snapchat's Face Unlock The Apple Vs. Samsung Debate</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-definition-horizons-with-lgs-newest-tv-review-27ud68/"><u>2024 Approved High-Definition Horizons with LG's Newest TV Review (27UD68)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-review-of-freewatch-webcam-recorder-app/"><u>2024 Approved Review of Freewatch Webcam Recorder App</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-virtuoso-troubleshooting-making-your-mic-function-again/"><u>Corsair Virtuoso Troubleshooting - Making Your Mic Function Again</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/domain-disabled-resulting-in-print-errors/"><u>Domain Disabled: Resulting in Print Errors</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-honor-magic-5-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Honor Magic 5 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-realme-note-50-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Realme Note 50? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-efficiently-engaging-with-numerous-youtube-lectures/"><u>In 2024, Efficiently Engaging with Numerous YouTube Lectures</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-impressive-display-innovations-top-10-mac-displays-of-the-year/"><u>In 2024, Impressive Display Innovations - Top 10 Mac Displays of the Year</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/lighten-up-on-slow-prints-quickly/"><u>Lighten Up on Slow Prints Quickly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/master-brother-printer-print-issues-a-win1011-fix-guide/"><u>Master Brother Printer Print Issues: A Win10/11 Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-pairing-process-how-to-get-your-airpods-working-on-windows-11-latest-fixes/"><u>Master the Pairing Process: How to Get Your AirPods Working on Windows 11 – Latest Fixes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-errors-detected-during-printer-setup/"><u>No Errors Detected During Printer Setup</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-a-silent-canon-printer/"><u>Reviving a Silent Canon Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/simplify-installation-with-our-proven-windows-hp-printer-methodology/"><u>Simplify Installation with Our Proven Windows-Hp Printer Methodology</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unprinted-pages-issue-on-hp-printer-fixed/"><u>Unprinted Pages Issue on HP Printer Fixed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win-10s-impact-on-printer-functionality/"><u>Win 10'S Impact on Printer Functionality</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-10-printer-spooler-non-responsive/"><u>Windows 10 Printer Spooler Non-Responsive</u></a></li>
 </ul></div>
 

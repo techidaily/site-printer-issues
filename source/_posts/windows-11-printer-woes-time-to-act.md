@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Printer Woes? Time to Act
-date: 2024-12-21T16:31:06.106Z
-updated: 2024-12-24T17:59:12.218Z
+date: 2024-12-30T01:22:47.757Z
+updated: 2025-01-02T18:23:56.735Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/f762a62cb8a1104c2694e715bcccff8df3eff7e91
 3. [Run printer troubleshooter](#f3)
 4. [Repair system file](#f4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check for Windows Update
 
  Microsoft has released [KB5006746](https://support.microsoft.com/en-us/topic/october-21-2021-kb5006746-os-build-22000-282-preview-03190705-0960-4ba4-9ee8-af40bef057d3) to fix printer issues. If you just upgraded to Windows 11 and encountered printer issues, you can check if there’s an available Windows update.
@@ -36,11 +40,11 @@ thumbnail: https://thmb.techidaily.com/f762a62cb8a1104c2694e715bcccff8df3eff7e91
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 3. If there is an available update, windows will download and install it automatically.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Then reboot your PC to check the printer issue is fixed or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update printer driver
 
@@ -57,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/f762a62cb8a1104c2694e715bcccff8df3eff7e91
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/update-hp-printer-driver.jpg)
 
@@ -68,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/f762a62cb8a1104c2694e715bcccff8df3eff7e91
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Restart your computer for the changes to take effect, and your printer should be working properly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Run printer troubleshooter
 
@@ -84,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/f762a62cb8a1104c2694e715bcccff8df3eff7e91
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/win11-other-troubleshooter.jpg)
 4. Find the**Printer** section and click**Run** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Repair system file
 
@@ -112,8 +104,16 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 5. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Check your computer to see if the driver crash issue is fixed.
 
@@ -128,15 +128,15 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -163,21 +163,22 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/conclusionconclusion/"><u>[Conclusion](#conclusion)</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ow-to-create-a-youtube-account-for-2024/"><u>[New] How to Create a YouTube Account for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-conquering-commercials-dodge-fb-vids/"><u>[Updated] Conquering Commercials Dodge FB Vids</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-digital-frame-snatchers-top-video-tools-for-2024/"><u>[Updated] Digital Frame Snatchers Top Video Tools for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-optimal-video-tools-deciding-between-bandicam-and-camtasia/"><u>[Updated] Optimal Video Tools Deciding Between Bandicam & Camtasia</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-the-seven-finest-stardew-valley-customizations-unveiled-for-2024/"><u>[Updated] The Seven Finest Stardew Valley Customizations Unveiled for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-nokia-105-classic-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Nokia 105 Classic to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/correcting-scan-failures-with-xerox/"><u>Correcting Scan Failures with Xerox</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-hook-up-a-canon-printer-step-by-step-illustration/"><u>How To Hook Up a Canon Printer: Step-by-Step Illustration</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/maximize-your-iphone-storage-the-ultimate-guide-to-clearing-out-clutter-and-gaining-space/"><u>Maximize Your iPhone Storage: The Ultimate Guide to Clearing Out Clutter and Gaining Space</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/rapid-fixation-of-stuck-print-workqueue/"><u>Rapid Fixation of Stuck Print Workqueue</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/smooth-printing-resumes-after-upgraded-system-changes/"><u>Smooth Printing Resumes After Upgraded System Changes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/step-by-step-installing-hp-printer-in-windows/"><u>Step-by-Step: Installing HP Printer in Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/stepwise-tech-incorporating-hp-printer-into-pc-workflow/"><u>Stepwise Tech: Incorporating HP Printer Into PC Workflow</u></a></li>
-<li><a href="https://win-docs.techidaily.com/wiederherstellung-verlorener-fotos-restaurieren-sie-ihre-sd-kartenbilder-kostenlos/"><u>Wiederherstellung Verlorener Fotos - Restaurieren Sie Ihre SD-Kartenbilder Kostenlos</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-cannot-retrieve-printer-drivers/"><u>Windows Cannot Retrieve Printer Drivers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-little-wheelmens-game-festivals/"><u>[New] In 2024, Little Wheelmen's Game Festivals</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-top-picks-youtube-to-hd-mastering-quality-conversions/"><u>[Updated] In 2024, Top Picks YouTube to HD - Mastering Quality Conversions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-is-there-a-superior-cameras-marketplace-in-2024/"><u>[Updated] Is There a Superior Cameras Marketplace, In 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-infinix-note-30i-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Infinix Note 30i Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/addressing-hp-printer-fault-0xoxc4eb827f/"><u>Addressing HP Printer Fault: 0XOXC4EB827F</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/advanced-techniques-to-setup-hp-print-devices-in-win10-os/"><u>Advanced Techniques to Setup HP Print Devices in Win10 OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypassing-surveillance-on-steam/"><u>Bypassing Surveillance on Steam</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-creating-captivating-iphone-lengthened-photos/"><u>In 2024, Creating Captivating iPhone Lengthened Photos</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/keep-it-running-smoothly-update-dells-inkjet-aio-on-windows-7/"><u>Keep It Running Smoothly: Update Dell's Inkjet AIO on Windows 7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/new-printer-added-operation-without-issues/"><u>New Printer Added: Operation Without Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcome-non-printing-in-canon-printers-windows-edition/"><u>Overcome Non-Printing in Canon Printers, Windows Edition</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-tip-uninstalling-default-print-devices/"><u>Quick Tip: Uninstalling Default Print Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-link-between-sibling-and-online-printer/"><u>Restoring Link Between Sibling and Online Printer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-protecting-your-iphone-memories-by-syncing-with-icloud-and-mac-devices/"><u>Step-by-Step Tutorial: Protecting Your iPhone Memories by Syncing with iCloud and Mac Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-exceptional-tools-that-replace-video-downloadhelper/"><u>Top 5 Exceptional Tools That Replace Video DownloadHelper</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/turn-your-non-printing-canon-into-a-reliable-device-with-tips/"><u>Turn Your Non-Printing Canon Into a Reliable Device with Tips</u></a></li>
 </ul></div>
 

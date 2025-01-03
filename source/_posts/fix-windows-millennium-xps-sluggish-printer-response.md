@@ -1,7 +1,7 @@
 ---
 title: Fix Windows Millennium XP's Sluggish Printer Response
-date: 2024-12-21T00:48:46.228Z
-updated: 2024-12-24T23:06:16.775Z
+date: 2025-01-02T02:11:00.896Z
+updated: 2025-01-03T02:03:38.508Z
 tags:
   - win11
   - win10
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
  Additionally, you can also try**restarting** all devices related to printing jobs. They include your**printer, computer, and WiFi router** (if your printer use wireless connection). You should shut them down completely, leave them for a while, and then power them on again. After that you can print something to see if this fixes the problem.  
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2) Run printer troubleshooter
 
  Windows system has a built-in printer troubleshooter that can diagnose your printer issues. You can run this tool as a way to help you fix the printer not responding error.
@@ -55,19 +51,31 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595469d0b5f8f.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **b)**  If you are using**Windows 10** , click on**Printer** and then on**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59546a6bbf65e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **c)**  For**Windows 7** , click on**Use a printer** under**Hardware and Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59546b2cb2dc0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **d)**  Follow the on-screen instruction to complete the troubleshooting. If the troubleshooter is able to find some issues, you may need to fix them with this tool or seek for solutions from other sources.  
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3) Restart Print Spooler service
 
@@ -83,20 +91,16 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595471a35b437.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **c)**  Click on**Stop** button under**Service status** and then on**Start** . (If the Service status is**Stopped** , then directly hit the**Start** button.) After that, hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5954724027192.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **d)**  You have just restarted Print Spooler service. Now try your printer and see if the not responding error is gone.  
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4) Configure to correct port
 
@@ -106,6 +110,10 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595476501c3bd.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **b)**  Click on**Devices and Printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595476948d409.png)
@@ -113,10 +121,6 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 **c)**  In**Printers** section, right click on your printer and then select**Printer properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595477595478e.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **d)**  Select**Change properties**  on**General** tab.
 
@@ -132,10 +136,6 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 **g)**  You may need to repeat step**e** and**f**  until you can confirm you have applied the right change.  
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5) Check printer driver
 
@@ -160,7 +160,7 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59549fa515490.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In fact, Driver Easy Pro also contains**powerful features** , such as driver backup and restore. They can help you deal with various driver issues. And they are all very**easy to use** . Plus, you can enjoy**experienced technical support** if you go Pro. It is a**convenient** tool that can**keep your computer healthy** .  
@@ -184,21 +184,20 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-maximizing-video-visibility-on-youtube-with-seo-insights/"><u>[New] 2024 Approved Maximizing Video Visibility on YouTube with SEO Insights</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-legal-free-fb-tunes-downloader/"><u>[New] Legal, Free FB Tunes Downloader</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-elevate-your-green-screen-skills-with-this-kinemaster-guide/"><u>[Updated] 2024 Approved Elevate Your Green Screen Skills with This Kinemaster Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-essential-steps-for-adding-videos-to-your-instagram-story-for-2024/"><u>[Updated] Essential Steps for Adding Videos to Your Instagram Story for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brother-cdw-wireless-setup-step-by-step/"><u>Brother CDW Wireless Setup: Step by Step</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-asus-maximus-x-hero-driver-revamp-a-beginners-guide/"><u>Effortless ASUS Maximus X Hero Driver Revamp: A Beginner's Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-enhancing-communication-strategies-for-effective-call-logging/"><u>In 2024, Enhancing Communication Strategies for Effective Call Logging</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/maintaining-optimal-printer-performance/"><u>Maintaining Optimal Printer Performance</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mending-all-in-one-printer-problems/"><u>Mending All-in-One Printer Problems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-issue-due-to-current-domain-services-outage/"><u>Print Issue Due to Current Domain Services Outage</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printers-not-responding-post-wake-from-sleep-w7/"><u>Printers Not Responding Post Wake From Sleep, W7</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/quick-windows-data-assessment-tutorial-for-2024/"><u>Quick Windows Data Assessment Tutorial for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/rapid-unjamming-of-print-workqueue/"><u>Rapid Unjamming of Print Workqueue</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-silent-learners-guide-to-bypassing-edgenuity-videos-effortlessly/"><u>The Silent Learner's Guide to Bypassing Edgenuity Videos Effortlessly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unlocking-hp-printer-connectivity-issues/"><u>Unlocking HP Printer Connectivity Issues</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-honor-magic-5-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Honor Magic 5 Users</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tiktoks-biggest-winners-on-the-twittersphere/"><u>[Updated] 2024 Approved TikTok's Biggest Winners on the Twittersphere</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-clash-for-dominance-leading-royale-games/"><u>[Updated] In 2024, Clash for Dominance Leading Royale Games</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-nlp-mastery-comparing-gpt-and-bert-systems/"><u>Demystifying NLP Mastery: Comparing GPT and BERT Systems</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/efficient-workflow-strategy-how-to-color-categorize-your-multimedia-files-with-dex3/"><u>Efficient Workflow Strategy: How to Color-Categorize Your Multimedia Files with DEX3</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guiding-through-printer-malfunction-fixes/"><u>Guiding Through Printer Malfunction Fixes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-y77t-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Vivo Y77t Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mf4770n-drivers-enhance-windows-11-8-7-integration/"><u>MF4770n Drivers - Enhance Windows 11, 8, 7 Integration</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-features-in-the-acer-xfa240-an-emphasis-on-functionality/"><u>Navigating Features in the Acer XFA240: An Emphasis on Functionality</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/never-again-the-end-of-blank-printouts/"><u>Never Again: The End of Blank Printouts</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-sibling-print-device-from-online-standby-mode/"><u>Reviving Sibling Print Device From Online Standby Mode</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/stop-and-fix-spooler-error-in-win-7-printers/"><u>Stop and Fix Spooler Error in Win 7 Printers</u></a></li>
+<li><a href="https://win-data.techidaily.com/top-gratuit-logiciels-de-sync-pour-windows-comparaison-entre-vostro-et-wiz/"><u>Top Gratuit Logiciels De Sync Pour Windows : Comparaison Entre Vostro Et Wiz</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unblock-print-queue-on-windows-10/"><u>Unblock Print Queue on Windows 10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-printer-nightmares-solutions-here/"><u>Windows 11 Printer Nightmares? Solutions Here</u></a></li>
 </ul></div>
 

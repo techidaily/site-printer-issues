@@ -1,7 +1,7 @@
 ---
 title: Resolve Print Queue Hang-Up Promptly
-date: 2024-11-18T20:09:22.919Z
-updated: 2024-11-23T22:41:04.778Z
+date: 2024-12-30T00:10:29.555Z
+updated: 2025-01-02T20:30:11.495Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
 
  Don’t panic. Many users have reported the same issue, and it’s quite easy to fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 * **Fix 1 –[Clear the print queue](#m1)**  
@@ -27,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
    2. [Use Command Prompt to Clear Stuck Files](#f2)  
    3. [Create a Bat file for permanent use](#f3)
 * **Fix 2 –[Reinstall your printer driver](#m2)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Clear the print queue
 
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
 2. In the Run window, type**services.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/services-run-box.jpg)
 3. Scroll down to**Print Spooler** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Right-click**Print Spooler** and select**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/stop-the-service.jpg)
@@ -71,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
 2. In the Command Prompt window, enter the following commands separately:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 net stop spooler
@@ -93,6 +89,11 @@ This will clear all of your print jobs stuck in a queue.
  **net start spooler**  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/note.jpg)
 3. Then click**File** \>**Save as…**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    * Change the file type to**All files**  
    * Name your file whatever you want, but add a**.bat** suffix.  
    * Make sure the Encoding type is**ANSI** .  
@@ -101,7 +102,7 @@ This will clear all of your print jobs stuck in a queue.
 4. Double-click the batch file to clear the print queue anytime you want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Reinstall the printer driver
@@ -136,7 +137,7 @@ This will clear all of your print jobs stuck in a queue.
 3. Click the Update button next to your sound card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **OR** click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)  
@@ -170,24 +171,24 @@ Feel free to drop us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-effortless-downloads-at-zero-cost-find-the-top-20-tools-for-youtube-sound-ripping/"><u>[New] In 2024, Effortless Downloads at Zero Cost Find the Top 20 Tools for YouTube Sound Ripping</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-experts-picks-top-5-webcams-revolutionizing-game-streaming/"><u>[New] In 2024, Expert's Picks Top 5 Webcams Revolutionizing Game Streaming</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/breakthrough-in-drone-tech-yuneec-q500-4k-for-2024/"><u>Breakthrough in Drone Tech Yuneec Q500 4K for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ceased-epson-standby-error/"><u>Ceased Epson Standby Error</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/evolving-threats-the-escalating-risks-in-generative-ai/"><u>Evolving Threats: The Escalating Risks in Generative AI</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-swiftly-can-you-receive-the-latest-apple-vision-pro-exclusive-insights/"><u>How Swiftly Can You Receive the Latest Apple Vision Pro - Exclusive Insights!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-react-printer-disconnects-during-print-job/"><u>How To React: Printer Disconnects During Print Job</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-set-up-a-wireless-printer-with-hp-color-life-series/"><u>How To: Set Up a Wireless Printer with HP Color Life Series</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-female-gamers-faction-yts-10-stars/"><u>In 2024, Female Gamers Faction YT's #10 Stars</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-strategies-for-leveraging-azure-voice-to-text-technology/"><u>In 2024, Strategies for Leveraging Azure Voice-to-Text Technology</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/precision-in-pages-a-success-story-for-printers/"><u>Precision in Pages: A Success Story for Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574178084-printer-woes-in-windows-11-help-needed/"><u>Printer Woes in Windows 11 - Help Needed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/recommendations-for-reactivating-hp-print-headless-systems/"><u>Recommendations for Reactivating HP Print Headless Systems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reignite-your-brother-printers-print-function-on-windows-1011/"><u>Reignite Your Brother Printer's Print Function on Windows 10/11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tackled-ink-cartridge-error/"><u>Tackled Ink Cartridge Error</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshoot-windows-10-solutions-when-your-search-function-fails/"><u>Troubleshoot Windows 10: Solutions When Your Search Function Fails</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-offline-hp-xp-paper-issue/"><u>Troubleshooting Offline HP XP Paper Issue</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-full-potential-of-text-with-snipping-tool-on-win-11/"><u>Unlock Full Potential of Text with Snipping Tool on Win 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-7-troubleshooting-overcoming-the-blue-screen-error-0x0000007e/"><u>Windows 7 Troubleshooting: Overcoming the Blue Screen Error 0X0000007E</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-dilemma-windows-11-ignoring-pixma-mp620/"><u>[Driver Dilemma] Windows 11 Ignoring Pixma MP620</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-top-4-sites-for-free-skype-tones/"><u>[Updated] Top 4 Sites for Free Skype Tones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-all-apple-watches-compatible-with-watchos-11-and-those-excluded-from-update/"><u>Comprehensive Guide: All Apple Watches Compatible with WatchOS 11 and Those Excluded From Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-excessive-network-usage-understanding-and-fixing-svchostexe-netsvcs/"><u>Dealing with Excessive Network Usage – Understanding & Fixing svchost.exe (NETSVCS)</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/download-and-convert-dailymotion-videos-for-free-online-for-2024/"><u>Download and Convert Dailymotion Videos for Free Online for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574135496-enhance-printer-velocity-now/"><u>Enhance Printer Velocity Now</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-inkjet-non-operational-state/"><u>Fixed Inkjet Non-Operational State</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hassle-free-connections-3-innovative-ways-to-link-laptop-plus-hp/"><u>Hassle-Free Connections: 3 Innovative Ways to Link Laptop + HP</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/highlighting-heroics-at-the-x-olympics-2022/"><u>Highlighting Heroics at the X-Olympics 2022</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-take-photos-while-recording-videos-on-iphone/"><u>How to Take Photos While Recording Videos on iPhone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-wave-goodbye-to-costs-with-our-50-free-banners-offer/"><u>In 2024, Wave Goodbye to Costs with Our 50 Free Banners Offer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/intuitive-firmware-update-process-for-hp-printers-especially-4630/"><u>Intuitive Firmware Update Process for HP Printers, Especially 4630</u></a></li>
+<li><a href="https://discover-help.techidaily.com/managing-windows-firewall-settings-through-control-panel-essential-tips-by-yl-software-experts/"><u>Managing Windows Firewall Settings Through Control Panel: Essential Tips by YL Software Experts</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/repair-guide-for-non-printing-machines/"><u>Repair Guide for Non-Printing Machines</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-a-canon-device-that-wont-react/"><u>Reviving a Canon Device That Won't React</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/smoothly-reactivated-scanner-on-windows-11/"><u>Smoothly Reactivated Scanner on Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/successfully-added-new-printer/"><u>Successfully Added New Printer</u></a></li>
+<li><a href="https://discover-community.techidaily.com/top-12-applicazioni-piu-efficienti-per-condividere-lo-schermo-movavi/"><u>Top 12 Applicazioni Più Efficienti Per Condividere Lo Schermo - Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722985730828-top-tips-for-preventing-elex-ii-game-crashes-on-pc-solved/"><u>Top Tips for Preventing Elex II Game Crashes on PC – Solved!</u></a></li>
 </ul></div>
 
