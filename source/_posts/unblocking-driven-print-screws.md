@@ -1,7 +1,7 @@
 ---
 title: Unblocking Driven Print Screws
-date: 2024-12-26T23:42:31.087Z
-updated: 2025-01-03T00:02:39.922Z
+date: 2024-12-30T05:01:27.787Z
+updated: 2025-01-03T10:40:44.084Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
  **3) [Contact printer manufacturer](#c)**
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1) Check the connection and restart your devices
 
  Once your printer is in an error state, you can perform some simple methods and see if they work.
@@ -37,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
  Sometimes the problem can be fixed by**restarting** your devices. You can power off your computer and printer completely and leave them for a couple of minutes. After that turn them on and see if the error is gone.  
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2) Update or reinstall printer driver
 
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59682e9883633.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **c)** Click on the**Update** button next to your printer to download the latest and correct driver for this device. You can also hit**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click on Update All).
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598805259801c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Apart from updating driver, you can also use Driver Easy to**uninstall** driver (also**Pro** required). This is helpful especially when you want to**reinstall** the driver of a device.
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5988077cb6a13.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **b)**  Select**Driver Uninstall** and you will see a list of device drivers. Locate your printer driver and then click on the**Uninstall** button. The driver you select will be removed soon.
@@ -86,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3) Contact printer manufacturer
@@ -110,20 +110,22 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-earning-in-the-limelight-without-ads-a-comprehensive-guide-to-youtube-income/"><u>[New] In 2024, Earning in the Limelight without Ads A Comprehensive Guide to YouTube Income</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-30plus-futuristic-metaverse-musings-arvr/"><u>[Updated] 2024 Approved 30+ Futuristic Metaverse Musings [AR/VR]</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-exclusive-changes-in-photo-backgrounds-visionshift-elite-for-2024/"><u>[Updated] Exclusive Changes in Photo Backgrounds VisionShift Elite for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-revolutionize-your-branding-50-free-youtube-banners-inside-for-2024/"><u>[Updated] Revolutionize Your Branding - 50 Free YouTube Banners Inside for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/abbyy-crowned-as-everest-groups-top-choice-for-idp-solutions-spotlight-on-peak-matrix-assessment-2019-edition/"><u>ABBYY Crowned as Everest Group's Top Choice for IDP Solutions: Spotlight on Peak Matrix Assessment - 2019 Edition</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oppo-a78-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo A78 Fingerprint Lock</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhancing-office-efficiency-3-fixes-for-printer-and-laptop-synergy/"><u>Enhancing Office Efficiency: 3 Fixes for Printer & Laptop Synergy</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-navigate-through-dynamic-gifs-find-these-best-recorders-in-winos/"><u>In 2024, Navigate Through Dynamic GIFs Find These Best Recorders in WinOS</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/method-to-forget-your-printer-in-windows/"><u>Method to Forget Your Printer in Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/operation-print-device-added-without-issues/"><u>Operation: Print Device Added without Issues</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/optimize-print-performance-dells-latest-aio-upgrades-in-win7/"><u>Optimize Print Performance: Dell's Latest AIO Upgrades in Win7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revitalize-your-prints-install-latest-v305-driver-in-win7/"><u>Revitalize Your Prints: Install Latest V305 Driver in Win7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tackle-scanning-problems-improve-print-driver-in-windows-10/"><u>Tackle Scanning Problems, Improve Print Driver in Windows 10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win7810-networking-guide-for-inkjet-hp-issues/"><u>Win7/8/10 Networking Guide for Inkjet HP Issues</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-jubilant-join-and-leave-steps/"><u>[Updated] Jubilant Join & Leave Steps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photoshop-and-lightroom-synergy-the-top-10-lut-selections-for-professionals/"><u>2024 Approved Photoshop & Lightroom Synergy The Top 10 LUT Selections for Professionals</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-simplest-way-win-clownfish-vocal-alteration-tool/"><u>2024 Approved Simplest Way Win Clownfish Vocal Alteration Tool</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/effortless-data-cleansing-with-the-stellar-eraser-the-ultimate-mac-and-mobile-solution/"><u>Effortless Data Cleansing with the Stellar Eraser: The Ultimate Mac and Mobile Solution</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-system-interrupt-controller-driver-issue-solved/"><u>Fix System Interrupt Controller Driver Issue [Solved]</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-stop-assassins-creed-valhalla-from-frequently-crashing-on-your-computer/"><u>How to Stop Assassin's Creed: Valhalla From Frequently Crashing on Your Computer</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-integrate-advanced-note-organization-on-mematic/"><u>In 2024, Integrate Advanced Note Organization on Mematic</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-htc-u23-pro-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass HTC U23 Pro FRP Without Computer</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/inside-the-world-of-ipads-a-detailed-model-comparison-guide/"><u>Inside the World of iPads: A Detailed Model Comparison Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/racing-rivals-clash-black-gopro-vs-ghost-s-drift-edition-for-2024/"><u>Racing Rivals Clash Black GoPro Vs. Ghost-S Drift Edition for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-sound-from-laptop-audio-internal-speakers-step-by-step-tips/"><u>Reviving Sound From Laptop Audio Internal Speakers – Step-by-Step Tips</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/simple-repairs-for-common-winwordexe-application-glitches-a-step-by-step-guide/"><u>Simple Repairs for Common WINWORD.EXE Application Glitches - A Step-by-Step Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solving-iphones-cellular-data-issues-top-10-quick-fixes/"><u>Solving iPhone's Cellular Data Issues: Top 10 Quick Fixes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unused-printer-new-machine-alert/"><u>Unused Printer: New Machine Alert</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-avi-video-rotation-software-top-picks/"><u>Updated In 2024, Free AVI Video Rotation Software Top Picks</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win7-offline-printer-back-online/"><u>Win7 Offline Printer Back Online</u></a></li>
 </ul></div>
 
