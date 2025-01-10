@@ -1,7 +1,7 @@
 ---
 title: Installation of Printer Finalized
-date: 2024-12-30T19:33:32.730Z
-updated: 2025-01-02T17:20:59.490Z
+date: 2025-01-09T03:31:52.487Z
+updated: 2025-01-09T19:07:50.965Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 
  “**Unable to install Printer.Operation could not be completed** ” could occur during installing printer or using the printer, especially after a Windows upgrade or reinstall. The problem can be caused by several issues. If you run into this problem, just try the **three**  solutions below and the problem should resolve.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution**1: Start the Print Spooler service**
 
  The problem can occur if the print spooler service is stopped. So make sure the service is started. If it’s stopped, start it. To check and start the service, follow these steps:
@@ -33,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 2) Type **services.msc** in the run box and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57870f53c80aa.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Double-click on**Sprint Spooler** to open the Properties dialog box.
 
@@ -76,7 +68,7 @@ This should fix the problem. If not, proceed to solution 2.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627664eb496.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) After updating the driver, check to see if the problem is resolved.
@@ -100,19 +92,23 @@ To delete the printer keys, here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5797354018fd8.png)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **C:\\Windows\\System32\\Spool\\Drivers\\w32x86**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57973526811ea.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2) Press **Win+R** (Windows logo key and R key) at the same time to invoke the Run box.
 
 3) Type**regedit**  in the run box and click **OK** to open  the Registry Editor dialog box.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/img_56fb391581cd9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Locate the following registry key according to the system version installed on your PC . If you’re not sure what specific version of Windows you have, refer to [Quickly Get Operating System Version](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -122,10 +118,14 @@ To delete the printer keys, here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57972e8c6def5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57972ed64a5f9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 For   **64-bit** operating system:
@@ -134,15 +134,15 @@ For   **64-bit** operating system:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57972e8c6def5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57972f5298c63.png)
 
  5) Select this folder and you will see all printer registry entries in right pane. Right-click on the entry and select**Delete** from the context menu. Delete all registry entries here.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57981fd9161d2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Start the “Print Spooler” service.
 
@@ -167,24 +167,21 @@ For   **64-bit** operating system:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/resolved-hp-deskjet-d1360-printer-drivers-wont-install-in-windows-7-8-8110/"><u>[Resolved] HP Deskjet D1360 Printer Drivers Won’t Install in Windows 7, 8, 8.1,10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/system-issue-unable-to-locate-hp-print-drivers-on-win11/"><u>[System Issue] - Unable to Locate HP Print Drivers on Win11</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-essential-editing-tricks-for-peak-obs-performance/"><u>[Updated] 2024 Approved Essential Editing Tricks for Peak OBS Performance</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-pitch-preservation-monitoring-microphones/"><u>[Updated] 2024 Approved Pitch Preservation Monitoring Microphones</u></a></li>
-<li><a href="https://win11.techidaily.com/adding-the-windows-calculator-button-on-your-microsoft-excel-2013-quick-access-toolbar-a-comprehensive-tutorial/"><u>Adding the Windows Calculator Button on Your Microsoft Excel 2013 Quick Access Toolbar - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/dell-v305-aio-printer-driver-update-in-windows-7/"><u>Dell V305 AIO Printer Driver Update in Windows 7</u></a></li>
-<li><a href="https://blog-min.techidaily.com/demystifying-ethereum-gas-charges-what-you-need-to-know-about-eth-network-expenses/"><u>Demystifying Ethereum Gas Charges: What You Need to Know About ETH Network Expenses</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/direct-to-streamer-duel-choose-your-platform-for-2024/"><u>Direct-to-Streamer Duel Choose Your Platform for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-fixes-for-windows-11-not-shutting-down-correctly/"><u>Essential Fixes for Windows 11 Not Shutting Down Correctly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722960912608-get-the-latest-nvidia-graphics-drivers-for-windows-11-simple-download-process/"><u>Get the Latest NVIDIA Graphics Drivers for Windows 11 - Simple Download Process</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/installing-canon-printer-step-by-step/"><u>Installing Canon Printer - Step-by-Step</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instantly-resolve-printer-disconnection/"><u>Instantly Resolve Printer Disconnection</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/local-network-printer-service-in-standby-mode/"><u>Local Network Printer Service in Standby Mode</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/networking-issues-fixed-win7-printer-online/"><u>Networking Issues Fixed: Win7 Printer Online</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-refusing-to-use-all-colors/"><u>Printer Refusing to Use All Colors</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/securely-acquire-the-most-recent-broadcom-bluetooth-software-support-for-windows-systems-versions-10-8-and-7/"><u>Securely Acquire the Most Recent Broadcom Bluetooth Software Support for Windows Systems (Versions 10, 8 & 7)</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/simultaneously-running-windows-defender-and-a-secondary-av-is-it-feasible/"><u>Simultaneously Running Windows Defender and a Secondary AV: Is It Feasible?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/techniques-to-rectify-iphone-photo-out-of-focus/"><u>Techniques to Rectify iPhone Photo Out-of-Focus</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unable-to-locate-canon-pixma-mp620-drivers-on-win10/"><u>Unable to Locate Canon Pixma MP620 Drivers on WIN10</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-elevate-your-content-the-essential-video-tutorial-for-youtube-photos/"><u>[New] Elevate Your Content The Essential Video Tutorial for YouTube Photos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-leading-websites-for-seamless-integration-of-text-overlays/"><u>[New] In 2024, Leading Websites for Seamless Integration of Text Overlays</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-short-track-speed-skating-olympics-2022-highlights/"><u>[New] Short Track Speed Skating Olympics 2022 Highlights</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2023-how-to-find-videos-on-facebook-in-2024/"><u>[Updated] 2023 | How to Find Videos on Facebook, In 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/b200-problem-resolved/"><u>B200: Problem Resolved</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-your-smart-companion-alexa-vs-google-assistant-finding-the-right-one/"><u>Choosing Your Smart Companion: Alexa Vs. Google Assistant - Finding the Right One</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-se-2022-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone SE (2022) Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-printer-communication-error/"><u>Fixed Printer Communication Error</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-androids-fastest-video-speed-adjusters/"><u>In 2024, Android's Fastest Video Speed Adjusters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/installing-and-running-chatgpt-on-a-linux-machine-made-simple/"><u>Installing and Running ChatGPT on a Linux Machine Made Simple</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/network-hiccup-unexpected-printer-connection/"><u>Network Hiccup: Unexpected Printer Connection</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-hp-printing-blockade-oxc4eb827f/"><u>Overcoming HP Printing Blockade: OXC4EB827F</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-the-printer-setup-error-for-hp-deskjet-d1360-on-windows-systems/"><u>Resolving the Printer Setup Error for HP Deskjet D1360 on Windows Systems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/understanding-and-solving-epson-printing-anomalies/"><u>Understanding and Solving Epson Printing Anomalies</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-magic-6-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Honor Magic 6 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unraveling-the-secrets-of-pcl-xl-repairs/"><u>Unraveling the Secrets of PCL XL Repairs</u></a></li>
 </ul></div>
 
