@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Persistent Bugs Causing Manor Lords PC Instability
-date: 2025-01-06T16:37:16.839Z
-updated: 2025-01-09T22:33:18.935Z
+date: 2025-01-08T19:33:50.659Z
+updated: 2025-01-15T17:59:34.072Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 ## Diagnosing and Repairing Minecraft Launcher's 0X80amoor: Windows 11/10 Users, Here's How
 
 Many Minecraft users complain that the error code 0x803f8001 appears when starting Minecraft Launcher. Even after restarting the PC, it still doesn’t work. If you are looking for solutions, you come to the right place. Here are a set of valid methods for solving it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -43,18 +39,18 @@ Many Minecraft users complain that the error code 0x803f8001 appears when starti
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-07_19-50-12-4.jpg)
 3. Click**Check for updates** under Windows Update.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-08_19-48-21.jpg)
 4. Windows will automatically download and install the available updates. Or if you turn off the automatic updates, click**Download** to install available updates.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-07_12-25-28.jpg)
 5. After you’ve installed available updates, restart your PC and then launch the Minecraft Launcher. If the error still exists, move to the next method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Adjust the time/region settings of your PC
@@ -65,20 +61,12 @@ Many Minecraft users complain that the error code 0x803f8001 appears when starti
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-07_19-50-12-2-1.jpg)
 2. Under Date ＆ Time, enable the**On** buttons under**Set time automatically** and**Set time zone automatically** . Then click the**Sync now** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-06_15-50-33.jpg)
 3. Check if the time setting has been adjusted.
 
 4. Click**Region** on the left panel and then select your country or region (Make sure it is consistent with your location).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-09_09-11-24.jpg)
 5. When the time and region settings are corrected, check if the Minecraft Launcher error is solved. If not, move to the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Run Fortect to repair system files
 
@@ -93,10 +81,6 @@ Many Minecraft users complain that the error code 0x803f8001 appears when starti
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -116,6 +100,10 @@ Many Minecraft users complain that the error code 0x803f8001 appears when starti
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-07_09-21-12-1.jpg)
 3. Reboot your PC and then restart the Microsoft Store.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click the user icon and select**Sign in** to type your login information.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-08_19-55-34-1.jpg)
 
@@ -130,6 +118,10 @@ Many Minecraft users complain that the error code 0x803f8001 appears when starti
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-07_19-50-12-3-1.jpg)
 3. Click**Apps** **& features** . Scroll your mouse down until you find Minecraft Launcher. Click**Minecraft Launcher** and then select the**Uninstall** button.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-09_08-43-36.jpg)
 4. After the uninstallation finishes, you can start to reinstall it from the**Microsoft Store** .
 
@@ -140,12 +132,12 @@ Many Minecraft users complain that the error code 0x803f8001 appears when starti
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-06_18-09-14-1.jpg)
 7. Click the**Get** button for installing the App.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-06_18-11-04-1.jpg)
 8. You can follow the on-screen instructions to install the App. Once the**Minecraft Launcher** is reinstalled, see if the Minecraft Launcher works normally.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Reset Microsoft Store cache
 
@@ -155,6 +147,10 @@ Many Minecraft users complain that the error code 0x803f8001 appears when starti
 2. Type**wsreset.exe** (you can just copy and paste it) and then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-07_09-53-33.jpg)
 3. The black windows below will pop up. Meanwhile, it will reset the Microsoft Store cache automatically.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-07_19-48-11.jpg)
 4. Once the reset finishes, the Microsoft Store windows will appear on the taskbar at the bottom of your screen. Then you can check if the problem is solved.
@@ -172,15 +168,11 @@ Many Minecraft users complain that the error code 0x803f8001 appears when starti
 4. Slide your mouse down until you find Windows Store Apps. Click**Windows Store Apps** and then select**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-09_09-25-29-1.jpg)
 5. The troubleshooter will fix problems it might find. After the troubleshooter finishes work, see if the Minecraft Launcher starts normally. If not, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Uninstall and reinstall Microsoft Gaming Services
 
@@ -193,20 +185,28 @@ Many Minecraft users complain that the error code 0x803f8001 appears when starti
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-07_20-01-36.jpg)
 3. Type the command below (you can just copy and paste it) and then press**Enter** . Windows will uninstall gaming services.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **`get-appxpackage Microsoft.GamingServices | remove-AppxPackage -allusers`**  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-07_19-58-20.jpg)
 4. To reinstall Microsoft Gaming Services, you can type the command below (you can just copy and paste it) and then press**Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **`start ms-windows-store://pdp/?productid=9MWPM2CQNLHN`**  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-07_19-59-23.jpg)
 5. The Microsoft store will open up the Gaming Services automatically. Then click the**Get** button to install it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-08_20-09-02-1.jpg)
 6. You can follow the on-screen instructions to install the Gaming Services. After you reinstall the Gaming services, you can check if the Minecraft Launcher error is solved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In short, I hope this article is helpful to you. If you have any questions, please feel free to leave a comment below.
 
@@ -225,14 +225,24 @@ Many Minecraft users complain that the error code 0x803f8001 appears when starti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-videographers-guide-to-capturing-sports-competitions/"><u>[New] 2024 Approved Videographer's Guide to Capturing Sports Competitions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-a-roadmap-to-crafting-popular-vlogging-narratives/"><u>[New] A Roadmap to Crafting Popular Vlogging Narratives</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-comprehensive-list-of-8-prime-youtube-to-avi-tools-for-2024/"><u>[Updated] Comprehensive List of 8 Prime YouTube-to-AVI Tools for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-windowed-world-of-video-editing-a-selective-recommendation-guide/"><u>[Updated] Windowed World of Video Editing A Selective Recommendation Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-printer-setup-simplified-with-pictures/"><u>Canon Printer Setup Simplified - With Pictures</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-permissions-violation-by-hidden-system/"><u>Printer Permissions Violation by Hidden System</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/stop-printerevolving-spooler-error-wx-w10-and-w11/"><u>Stop Printer'evolving Spooler Error (WX, W10 & W11)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-omoton-t1-your-budget-friendly-tablet-stand-solution/"><u>The Ultimate Guide to the Omoton T1 - Your Budget-Friendly Tablet Stand Solution!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/why-no-colored-pages/"><u>Why No Colored Pages?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-hds-finest-picks-reviewing-top-screen-recorders/"><u>[New] In 2024, HD's Finest Picks Reviewing Top Screen Recorders</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-maintain-eye-contact-this-helps-establish-rapport-with-the-speaker-and-shows-your-engagement/"><u>[New] In 2024, Maintain Eye Contact This Helps Establish Rapport with the Speaker and Shows Your Engagement</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-valhallas-fury-gods-of-war-converge-for-2024/"><u>[New] Valhalla's Fury Gods of War Converge for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unveiling-the-magic-of-moving-texts-a-guide-for-insta-pros/"><u>[Updated] 2024 Approved Unveiling the Magic of Moving Texts A Guide for Insta Pros</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-ipad-screen-recording-made-simple-a-handy-overview/"><u>[Updated] In 2024, IPad Screen Recording Made Simple A Handy Overview</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-wholesome-wisdom-videographically-cooking-up-dishes/"><u>2024 Approved Wholesome Wisdom Videographically Cooking Up Dishes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/efficient-fix-disconnected-printer-back-online/"><u>Efficient Fix: Disconnected Printer Back Online</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-w11-scanner-output-issues/"><u>Fix W11 Scanner Output Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/harmonizing-office-efficiency-with-quick-fixes-for-printerpluslaptop-linkage/"><u>Harmonizing Office Efficiency with Quick Fixes for Printer+Laptop Linkage</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-samsung-galaxy-s23plus-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Samsung Galaxy S23+ to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/immediate-fixes-for-lags-in-printing/"><u>Immediate Fixes for Lags in Printing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-ice-warriors-top-performances-at-2022-olympics/"><u>In 2024, Ice Warriors Top Performances at 2022 Olympics</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/installing-mf4770n-support-software-windows-xp-7/"><u>Installing MF4770n Support Software Windows XP-7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/rdr-reuniting-raid-arrays-drive-rescue/"><u>RDR: Reuniting RAID Arrays - Drive Rescue</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/stopping-intermittent-spooler-crashes-in-win107-devices/"><u>Stopping Intermittent Spooler Crashes in Win10/7 Devices</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-metaverse-versus-multi-meva-comprehensive-differences-overviewed-for-2024/"><u>The Metaverse Versus Multi-Meva Comprehensive Differences Overviewed for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unlocking-advanced-vfx-techniques-expert-tips-on-chroma-key-kinemaster-for-2024/"><u>Unlocking Advanced VFX Techniques Expert Tips on Chroma Key (KineMaster) for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/updated-system-disabled-printer-reports/"><u>Updated System, Disabled Printer Reports</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win711-hp-printer-network-recovery-tips/"><u>Win7/11 HP Printer Network Recovery Tips</u></a></li>
 </ul></div>
 
