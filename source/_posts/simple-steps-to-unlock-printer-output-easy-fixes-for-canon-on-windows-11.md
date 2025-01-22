@@ -1,7 +1,7 @@
 ---
 title: "Simple Steps to Unlock Printer Output: Easy Fixes for Canon on Windows 11"
-date: 2025-01-10T17:39:11.408Z
-updated: 2025-01-15T21:48:31.285Z
+date: 2025-01-20T00:14:01.966Z
+updated: 2025-01-21T18:14:51.852Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/b2bf4cd4c4150768a4991186ca82f84c6e82b391b
 
  Besides, with regular use of Fortect, your PC will be protected against file loss, malware, hardware failures, and several other bugs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How does Fortect work
 
  1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
@@ -33,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/b2bf4cd4c4150768a4991186ca82f84c6e82b391b
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair-1200x742.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If your problem persists, try the fixes below.
@@ -43,6 +47,10 @@ If your problem persists, try the fixes below.
 3. **[Update your printer driver](#fix3)**
 4. **[Set Canon as the default printer](#fix4)**
 5. **[Delete print jobs from the print queue](#fix5)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Check the connection status
 
@@ -72,10 +80,6 @@ If your printer is still not working properly, proceed to the next fix.
  1) In the Search bar, type**windows defender firewall** . Then click**Windows Defender Firewall** from the results.  
   
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/windows-defender-firewall.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) On the left side of the window, click**Turn Windows Defender Firewall on or off** .  
   
@@ -109,10 +113,6 @@ You can disable the firewall in software by clicking the link below.
 
  Since Canon has several official websites like [Canon UK](https://www.canon.co.uk/) ,[Canon USA](https://www.usa.canon.com/) ,[Canon Europe](https://www.canon-europe.com/) , etc., they may not share the same model. So you can use the browser to search for the specific driver directly. Or you can go to the Support Center, enter the model of your device in the search field, and follow the instructions to download and install the driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 2: Automatically update your printer driver (recommended)
 
  If you don’t have the time, patience or computer skills to update drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -140,10 +140,6 @@ Here’s how you can update your drivers with Driver Easy:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Set Canon as the default printer
 
  When you’re trying to print something, your computer will automatically assign these printing tasks to the default printer unless you choose another one on purpose. So your printer will not be working if you neither set it as a default option to print nor select it as the dedicated printer.
@@ -160,21 +156,21 @@ Here’s how you can update your drivers with Driver Easy:
   
 ![set Canon printer as the default printer](https://images.drivereasy.com/wp-content/uploads/2021/01/in-the-control-panel.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Right-click your Canon printer and select**Set as default printer** from the list.  
   
 ![set Canon printer as the default printer](https://images.drivereasy.com/wp-content/uploads/2021/01/set-as-default-printer.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now perform printing tasks to check if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Delete print jobs from the print queue
 
@@ -202,19 +198,23 @@ Now perform printing tasks to check if it works.
 
 ![stop the Print Spooler](https://images.drivereasy.com/wp-content/uploads/2021/01/stop-the-printing-service.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note: Do not close the Services window, simply minimize it as you’ll go back to it later.
 
  4) After the print spooler service has stopped, press the**Windows logo key** and**R** at the same time to open the Run box. Then type**spool** in the field and press**Enter** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/spool-in-the-run-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Open the**PRINTERS** folder.  
   
 ![open the printers folder](https://images.drivereasy.com/wp-content/uploads/2021/01/printers-folder.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Delete any files in this folder.
 
@@ -225,7 +225,7 @@ Now perform printing tasks to check if it works.
 ![start the printing services](https://images.drivereasy.com/wp-content/uploads/2021/01/start-printing-services.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now attempt a test print to check if it brings your printer back to normal state.
@@ -251,24 +251,17 @@ Now perform printing tasks to check if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-youtubes-vista-an-in-depth-tutorial-on-video-submissions/"><u>[Updated] Mastering YouTube's Vista An In-Depth Tutorial on Video Submissions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-professional-stability-systems-for-youtube-filmmakers/"><u>[Updated] Professional Stability Systems for YouTube Filmmakers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-safekeep-stories-the-unlimited-save-service/"><u>[Updated] Safekeep Stories The Unlimited Save Service</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-streamline-your-tech-expertise-with-io-screen-recording/"><u>[Updated] Streamline Your Tech Expertise with IO Screen Recording</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-ultimate-freefire-tag-collection-enhance-your-youtube-channels/"><u>[Updated] Ultimate FreeFire Tag Collection Enhance Your YouTube Channels</u></a></li>
-<li><a href="https://windows11.techidaily.com/5-tips-for-turning-around-a-frozen-windows-hello-system/"><u>5 Tips for Turning Around a Frozen Windows Hello System</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-xiaomi-13t-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Xiaomi 13T to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-tecno-pop-8-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Tecno Pop 8 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/cdw-duo-fan-guide-for-brother-9330c/"><u>CDW Duo Fan Guide for Brother 9330C</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/disabling-printer-on-windows-instantly/"><u>Disabling Printer on Windows Instantly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-printing-hurdles-on-windows-11/"><u>Overcoming Printing Hurdles on Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/pprinterror-active-directory-service-unavailable/"><u>PPrintError: Active Directory Service Unavailable</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reconnect-and-resume-a-step-by-step-guide-for-printers/"><u>Reconnect and Resume: A Step-by-Step Guide for Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restoring-clear-document-reception-from-hp-printer/"><u>Restoring Clear Document Reception From HP Printer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/reviving-your-hp-displays-effective-solutions-for-when-they-stop-working/"><u>Reviving Your HP Displays: Effective Solutions for When They Stop Working</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/stop-the-print-jamming-on-windows-11-now/"><u>Stop the Print Jamming on Windows 11 Now</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tips-to-unblock-print-spoolers/"><u>Tips to Unblock Print Spoolers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-dvd-to-mp4-transformation-with-winx-platinum-ripper-fast-high-quality-hevch2j64-encoding-achieved-within-5-minutes/"><u>Ultimate DVD to MP4 Transformation with WinX Platinum Ripper – Fast, High-Quality HEVC/H.2j64 Encoding Achieved Within 5 Minutes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unable-to-print-ad-service-interrupted/"><u>Unable To Print: AD Service Interrupted</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-filmmaking-simplified-create-an-inviting-youtube-subscription-button-in-filmora/"><u>[Updated] 2024 Approved Filmmaking Simplified Create an Inviting YouTube Subscription Button in Filmora</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-accessing-your-subscriber-details-directly/"><u>[Updated] Accessing Your Subscriber Details Directly</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-deciphering-youtube-monetization-success-codes-for-2024/"><u>[Updated] Deciphering YouTube Monetization Success Codes for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-a-guide-to-creative-use-of-supplementary-footage-b-roll/"><u>2024 Approved A Guide to Creative Use of Supplementary Footage (B-Roll)</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/endless-white-printouts-deciphering-the-epson-mishap/"><u>Endless White Printouts: Deciphering the Epson Mishap</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/from-frustration-to-functionality-blank-page-cured/"><u>From Frustration to Functionality: Blank Page Cured</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-delete-inactive-printers-in-windows-easy-way/"><u>How To Delete Inactive Printers in Windows Easy Way</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-infinix-note-30-vip-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Infinix Note 30 VIP by Name | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/optimized-installation-process-hp-officejet-pro-8600-windows-driver/"><u>Optimized Installation Process: HP OfficeJet Pro 8600 Windows Driver</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-scanner-issue-on-windows-11/"><u>Resolving Scanner Issue on Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-why-wont-my-mass-effect-legendary-edition-start/"><u>Troubleshooting Guide: Why Won't My Mass Effect Legendary Edition Start?</u></a></li>
 </ul></div>
 

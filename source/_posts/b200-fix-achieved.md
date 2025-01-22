@@ -1,7 +1,7 @@
 ---
 title: B200 Fix Achieved
-date: 2025-01-13T19:52:59.599Z
-updated: 2025-01-15T19:10:18.578Z
+date: 2025-01-15T03:40:24.166Z
+updated: 2025-01-21T18:42:17.178Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/19a61f5995d579c8b7ad201fc517afd84cc338957
 
  Keep getting the error code B200? You’re not alone! Many Canon users are reporting it. But don’t worry. You can fix it Here are 3 solutions to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 simple fixes to try
 
  In most cases, getting the error B200 indicates that the printhead of your Canon printer is dead. Apart from that, defective ink cartridges and a corrupt printer driver can also trigger this problem. But before you rush out to buy a new printhead, check the fixes below.
@@ -31,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/19a61f5995d579c8b7ad201fc517afd84cc338957
 1. **[Update your printer driver](#a)**
 2. **[Check your ink cartridges](#b)**
 3. **[Clean the printhead](#c)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your printer driver
 
@@ -49,17 +49,9 @@ There are two ways you can update your printer driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/b200-error-code-canon-driver-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Enter the name of the serial number of your Canon product and search for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/b200-error-code-canon-driver-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
 
@@ -79,6 +71,10 @@ There are two ways you can update your printer driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-229.png)
@@ -86,10 +82,6 @@ There are two ways you can update your printer driver:
  You can do it for free if you like. But it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](mailto:support@drivereasy.com) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Check your ink cartridges
 
@@ -103,6 +95,10 @@ There are two ways you can update your printer driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/toner-581905_1920-1024x768.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Check the ink levels on your printer
 
  Check the ink levels on your Canon printer and replace your cartridges if necessary.
@@ -115,12 +111,16 @@ There are two ways you can update your printer driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/cartridges-828195_1920-1-1024x981.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Make sure your cartridges all work properly, then reinstall it.
 
  Now, reopen your Canon printer. If your problem still exists, try the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Clean the printhead
@@ -163,18 +163,20 @@ The printhead is very delicate. Please proceed with caution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/driver-difficulty-unable-to-locate-hp-driver-on-winxo/"><u>[Driver Difficulty] - Unable to Locate HP Driver on WinXO</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-usb-printers-not-working-after-sleep-in-windows-7/"><u>[Solved] USB Printers Not Working After Sleep in Windows 7</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-elite-mac-options-surpassing-bandicams-video-capabilities/"><u>2024 Approved Elite Mac Options Surpassing Bandicam's Video Capabilities</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574003773-canon-printer-is-offline-heres-how-to-fix-it/"><u>Canon Printer Is Offline? Here's How to Fix It!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-12-pro-max-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro Max Online? Here are 6 Easy Ways</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-pick-the-best-days-to-post-on-youtube/"><u>In 2024, Pick the Best Days to Post on YouTube!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-sonic-and-the-hedgehog-switch-edition-top-10/"><u>In 2024, Sonic and the Hedgehog Switch Edition (Top 10)</u></a></li>
-<li><a href="https://win-studio.techidaily.com/microsoft-claims-engineers-are-enthralled-by-windows-11s-innovative-features-insights-from-zdnet/"><u>Microsoft Claims Engineers Are Enthralled by Windows 11'S Innovative Features: Insights From ZDNet</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/officejet-pro-8600-printer-support-package-windows-based/"><u>Officejet Pro 8600 Printer Support Package, Windows-Based</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-puzzle-mysterious-setup-error/"><u>Printer Puzzle: Mysterious Setup Error</u></a></li>
-<li><a href="https://facebook.techidaily.com/tech-tidbit-facebook-prototype-smartwatch-features-dual-lenses/"><u>Tech Tidbit: Facebook Prototype Smartwatch Features Dual Lenses?</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-reversing-video-in-final-cut-pro-tips-tricks-and-techniques/"><u>Updated 2024 Approved Reversing Video in Final Cut Pro Tips, Tricks, and Techniques</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win-hp-printer-setup-manual/"><u>Win HP Printer Setup Manual</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/compatibility-issue-canon-pixma-mp620-and-win10-not-linked/"><u>[Compatibility Issue] Canon Pixma MP620 & WIN10 Not Linked</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1728502140953-pcpc/"><u>「移動時にノートPCとデスクトップPCの情報を同期する方法」</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-your-roadmap-to-creating-top-notch-srt-files/"><u>2024 Approved Your Roadmap to Creating Top-Notch SRT Files</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/accelerated-release-of-print-queued-tasks/"><u>Accelerated Release of Print Queued Tasks</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-print-troubleshoot-0x97/"><u>Epson Print Troubleshoot: 0X97</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-wireless-printing-issue-with-hp-envy-5680v5/"><u>Fixed Wireless Printing Issue with HP Envy 5680V5</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-revive-unresponsive-canon-printer/"><u>How to Revive Unresponsive Canon Printer?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/illuminating-your-android-videos-a-quick-guide/"><u>Illuminating Your Android Videos A Quick Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-azure-for-audio-transcriptions-a-beginners-manual/"><u>In 2024, Azure for Audio Transcriptions A Beginner’s Manual</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-examples-for-chatgpt-qanda-on-github-repositories/"><u>Leading Examples for ChatGPT Q&A on GitHub Repositories</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mastering-the-art-of-fixing-printer-problems-after-win-10/"><u>Mastering the Art of Fixing Printer Problems After Win 10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-intermittent-printer-spooler-halt-in-win-117/"><u>Resolving Intermittent Printer Spooler Halt in Win 11/7</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-complete-guide-to-crafting-luts-in-3d/"><u>The Complete Guide to Crafting LUTs in 3D</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/time-honored-treasures-free-of-restrictions/"><u>Time-Honored Treasures, Free of Restrictions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/top-drone-picks-available-now/"><u>Top Drone Picks Available Now</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Instruction: Setting Up HP Printer on PC"
-date: 2025-01-09T21:23:07.628Z
-updated: 2025-01-15T21:48:44.717Z
+date: 2025-01-14T21:05:04.131Z
+updated: 2025-01-22T04:27:40.761Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c3069
 3. [**Wired connection to your computer**](#c)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: USB connection to your computer
@@ -38,19 +38,11 @@ thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c3069
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/universal-1828_960_720-300x200.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 A USB cable
 
 **1)** Turn on your computer and your HP printer.
 
 **2)** Use a USB cable to connect the USB port on the rear of your HP printer and your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Wireless (Wi-Fi) connection to your computer (a wireless-capable printer is needed)
 
@@ -64,6 +56,10 @@ If your HP printer is **wireless-capable**  , you can connect your printer to yo
 
 **4)** On your HP printer control panel, go to the **Setup** , **Network** , or **Wireless** menu, and then open **Wireless Setup Wizard**  to follow the on-screen instructions to connect the printer to your network.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Wired connection to your computer
 
  You can also connect your HP printer and your computer to your router with a standard Ethernet cable.
@@ -73,7 +69,7 @@ If your HP printer is **wireless-capable**  , you can connect your printer to yo
 **2)**  Remove any plug from the Ethernet port (the port with the ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eac2c5fcbd.png)  logo) on the rear of your printer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap14-150x150.png)
@@ -84,7 +80,15 @@ The Ethernet port
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap17-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Ethernet cable
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 2: Install the printer driver for your HP printer
 
@@ -104,10 +108,6 @@ The Ethernet cable
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap15.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you have any issue with**Driver Easy** , please contact Driver Easy’s support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  for advice. You should attach the URL of this article so they can help you better.
@@ -121,7 +121,7 @@ The Ethernet cable
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap2-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Click **Devices and Printers** to view your HP printer.
@@ -155,20 +155,21 @@ The Ethernet cable
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/rafting-engaging-youtube-beginnings-two-methods/"><u>[New] Crafting Engaging YouTube Beginnings Two Methods</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-revolutionize-your-feed-with-these-10-insta-tools/"><u>[New] In 2024, Revolutionize Your Feed with These 10 Insta-Tools</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-streamlining-your-instagram-archive-with-ease-for-2024/"><u>[Updated] Streamlining Your Instagram Archive with Ease for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-witty-world-hilarity-on-screen-from-your-favorite-youtubers/"><u>[Updated] Witty World Hilarity on Screen From Your Favorite YouTubers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/finding-the-right-hp-d1360-print-drivers-in-windows-ecosystems/"><u>Finding the Right HP D1360 Print Drivers in Windows Ecosystems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixation-on-pcl-xl-a-handy-manual/"><u>Fixation on PCL XL: A Handy Manual</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-high-performance-video-calls-a-curated-ranking-of-top-10-apps/"><u>In 2024, High-Performance Video Calls A Curated Ranking of Top 10 Apps</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-oppo-a1-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Oppo A1 5G</u></a></li>
-<li><a href="https://games-able.techidaily.com/limiting-game-bar-distractions-on-windows-1011-systems/"><u>Limiting Game Bar Distractions on Windows 10/11 Systems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mastering-printer-fault-resolutions/"><u>Mastering Printer Fault Resolutions</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-best-6-video-dubbing-software-for-pc/"><u>New In 2024, Best 6 Video Dubbing Software for PC</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/not-all-colors-printing-as-expected/"><u>Not All Colors Printing as Expected</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574064539-post-update-printer-problem-resolved-and-happy-again/"><u>Post-Update Printer Problem: Resolved and Happy Again</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printers-now-consistently-full-page-output/"><u>Printers Now Consistently Full-Page Output</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reviving-inactive-hp-printing-units/"><u>Reviving Inactive HP Printing Units</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-prime-time-video-capture-for-windows-users-10-best/"><u>[New] 2024 Approved Prime Time Video Capture for Windows Users - 10 Best</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-best-in-class-our-comprehensible-guide-to-top-12-vlogging-cameras/"><u>[New] 2024 Approved The Best in Class Our Comprehensible Guide to Top 12 Vlogging Cameras</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-no-print-after-win7-device-suspend/"><u>[Solved] No Print After Win7 Device Suspend</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canon-printer-installation-made-simple-image-driven/"><u>Canon Printer Installation Made Simple (Image-Driven)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canon-printer-unresponsive-seek-help-fast/"><u>Canon Printer: Unresponsive, Seek Help Fast</u></a></li>
+<li><a href="https://win-popular.techidaily.com/effective-strategies-to-avoid-pc-issues-on-windows-expert-advice-by-yl-computing/"><u>Effective Strategies to Avoid PC Issues on Windows - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elite-assessment-why-the-dji-mavic-2-pro-is-king-among-expert-drones/"><u>Elite Assessment: Why the DJI Mavic 2 Pro Is King Among Expert Drones</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-all-pages-print-glitch/"><u>Fix All-Pages Print Glitch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-sharing-your-printer-with-multiple-devices-through-effective-networking/"><u>Guide: Sharing Your Printer with Multiple Devices Through Effective Networking</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-apple-iphone-13-pro-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass Apple iPhone 13 Pro Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-tecno-spark-10-4g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Tecno Spark 10 4G</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-and-fixing-os-failures-error-0xc0000001/"><u>Preventing and Fixing OS Failures: Error 0xC0000001</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolve-print-hang-up-swiftly/"><u>Resolve Print Hang-Up Swiftly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolve-print-spooler-problems-in-win10/"><u>Resolve Print Spooler Problems in WIN10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/set-up-your-mfc-9330cdw-brother-fan/"><u>Set Up Your MFC-9330CDW Brother Fan</u></a></li>
 </ul></div>
 

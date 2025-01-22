@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Printer That Won’t Print
-date: 2025-01-14T18:47:00.705Z
-updated: 2025-01-15T17:47:24.221Z
+date: 2025-01-15T17:17:32.554Z
+updated: 2025-01-21T22:27:05.729Z
 tags:
   - win11
   - win10
@@ -50,20 +50,28 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
 **![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593fb867beb0b.png)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **b)**  Select**Devices and Printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **c)**  In**Printers** section, right click on your printer and then select**Set as default printer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593fb95ba1bf4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **d)**  You printer is now set to default!  
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3) Cancel all print jobs
 
@@ -88,15 +96,11 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a2b245ae5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **f)**  The print queue of your printer is clear. Now check and see if your printer can run normally.  
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4) Update printer driver
 
@@ -112,22 +116,18 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59536d887738b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the result, click on the**Update** button next to your printer. Then you can download the**latest and credible** driver for your device. After that you can use the files just downloaded and install the driver on your own.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59537ca159019.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  But if you want the program to**complete the whole update process** for you, you can upgrade it to [**Pro version**](https://tools.techidaily.com/drivereasy/download/) .
 
  In fact,**Driver Easy Pro** can not only help you**speed up** the update process, but also update**all** the outdated drivers**at once** . In addition, its powerful features can help you deal with**various** driver issues with just**a few** clicks. **This is the tool that can really save you much time and energy!**
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5) Check hardware status
 
@@ -154,22 +154,19 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-pros-guide-to-capturing-every-angle-for-2024/"><u>[New] Pro's Guide to Capturing Every Angle for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-key-components-to-successful-ad-textual-content-creation/"><u>[Updated] 2024 Approved Key Components to Successful Ad Textual Content Creation</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-jumpstart-your-youtube-channel-growth-with-key-editing-skills-from-sony-vegas-for-2024/"><u>[Updated] Jumpstart Your YouTube Channel Growth with Key Editing Skills From Sony Vegas for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-v27e-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo V27e Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brother-cdw-duo-fan-setup-instructions/"><u>Brother CDW Duo Fan Setup Instructions</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brother-wireless-mfc-9330cdw-instructions/"><u>Brother Wireless MFC-9330CDW Instructions</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/end-repeated-print-job-failures-guide-for-windows-107-users/"><u>End Repeated Print Job Failures: Guide for Windows 10/7 Users</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhance-your-printing-experience-with-canon-windows-10-tips/"><u>Enhance Your Printing Experience with Canon, Windows 10 Tips</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-online-offline-print-status-anomaly/"><u>Fixing Online-Offline Print Status Anomaly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hack-your-way-through-pcl-xl-troubles/"><u>Hack Your Way Through PCL XL Troubles</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/hits-at-hyperspeed-the-fast-track-to-100-million-views-on-youtube-in-24/"><u>Hits at Hyperspeed The Fast Track to 100 Million Views on YouTube in '24</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/immediate-action-on-queued-printer-work/"><u>Immediate Action on Queued Printer Work</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-enhance-your-xiaomi-experience-with-easy-record-screens/"><u>In 2024, Enhance Your Xiaomi Experience with Easy Record Screens</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/monochrome-output-despite-color-settings/"><u>Monochrome Output Despite Color Settings</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-installation-latest-dell-printer-driver-software-available-here/"><u>Seamless Installation: Latest Dell Printer Driver Software Available Here</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-screen-savvy-starting-point-deciphering-display-standards/"><u>[New] Screen-Savvy Starting Point Deciphering Display Standards</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-ultimate-shoppers-list-select-box-personalization-sites-for-2024/"><u>[Updated] Ultimate Shopper's List Select Box Personalization Sites for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2023s-best-updated-lg-bp550-overview/"><u>2023'S Best Updated LG BP550 Overview</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-kid-tested-wet-weather-videography-gear-for-newbies/"><u>2024 Approved Kid-Tested Wet Weather Videography Gear for Newbies</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-fix-hp-printer-not-responding/"><u>How to Fix HP Printer Not Responding</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-fix-pcl-xl-error-easily/"><u>How to Fix PCL XL Error Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-plus-shift-plus-s-shortcut-failure-in-windows-1110-systems/"><u>How to Resolve Windows + Shift + S Shortcut Failure in Windows 11/10 Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/langchain-llm-essentials-starting-point-for-newcomers/"><u>LangChain LLM Essentials: Starting Point for Newcomers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quickprint-queue-clearance-guide/"><u>Quickprint Queue Clearance Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reactivating-pcs-scanner-connection-on-win10/"><u>Reactivating PC's Scanner Connection on Win10</u></a></li>
+<li><a href="https://facebook.techidaily.com/reeling-in-tiktoks-challenge-is-reel-a-facebook-savior/"><u>Reeling in TikTok's Challenge: Is Reel a Facebook Savior?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restore-inkjet-connectivity-for-windows-vistaxp-users/"><u>Restore Inkjet Connectivity for Windows Vista/XP Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-7-engaging-word-puzzles-perfect-for-post-wordle-fun/"><u>Top 7 Engaging Word Puzzles Perfect for Post-Wordle Fun</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unknown-computer-known-printer-case-closed/"><u>Unknown Computer, Known Printer - Case Closed</u></a></li>
 </ul></div>
 

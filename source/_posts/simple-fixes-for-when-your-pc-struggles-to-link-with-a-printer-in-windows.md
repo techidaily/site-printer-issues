@@ -1,7 +1,7 @@
 ---
 title: Simple Fixes for When Your PC Struggles to Link with a Printer in Windows
-date: 2025-01-13T16:52:30.228Z
-updated: 2025-01-15T22:37:05.442Z
+date: 2025-01-18T18:21:50.869Z
+updated: 2025-01-21T23:44:33.952Z
 tags:
   - win11
   - win10
@@ -47,10 +47,6 @@ Follow steps below to stop Print Spooler service then start it again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592282c0cbfe5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. In the**Name** list, locate and double-click on service **Print Spooler** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592282f40baaf.jpg) 
@@ -59,12 +55,16 @@ Follow steps below to stop Print Spooler service then start it again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59228346254fb.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. Click**Start** button to start the service again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5922837fce75a.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5\. Click**OK** button.
@@ -81,10 +81,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592284396a5e3.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Click**Add a printer** at the top of the window.**Note:** To continue, you need to login to the computer as an administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592284c312e63.jpg) 
@@ -92,6 +88,10 @@ Follow these steps:
  4\. Select**Add a network, wireless or Bluetooth printer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592285527f2ca.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5\. Select**Create a new port** , change the “Type of port” to**Local Port** then click**Next** button.
 
@@ -101,9 +101,17 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59228a6291554.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7\. Select the**printer model** from the directory and click**Next** button. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59228e9593ce0.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8\. Follow the rest on-screen instructions to finish adding the printer.
 
@@ -119,6 +127,10 @@ Follow steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59228fef1fe19.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. In the left pane, click**All Drivers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59229062a2cbc.jpg) 
@@ -126,10 +138,6 @@ Follow steps below:
  4\. In the right pane, right-click on the printer driver and click**Delete** on the pop-up menu. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592290cca70ff.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you see more than one printer driver names, repeat steps above to remove them one by one.
 
@@ -146,10 +154,6 @@ Follow steps below:
  1\. Open**C:\\Windows\\system32** and find the file “**mscms.dll** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592294768b3e2.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2\. Copy the file to the following path:
 
@@ -171,10 +175,6 @@ Follow steps below:
  3\. Type **regedit** in the run box and click**OK** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5922973c415cc.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4\. Expand   **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Print\\Providers\\Client Side Rendering Print Provider** . Right-click on **Client Side Rendering Print Provider** and select**Delete.** 
 
@@ -201,18 +201,17 @@ Follow steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-navigating-googles-augmented-reality-adornments/"><u>[New] 2024 Approved Navigating Google's Augmented Reality Adornments</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-gopro-vs-drift-ghost-speed-camera-showdown-explained-for-2024/"><u>[New] GoPro vs Drift Ghost - Speed Camera Showdown Explained for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/accelerated-release-of-print-queued-tasks/"><u>Accelerated Release of Print Queued Tasks</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/beginners-pathway-photos-transformed-into-videos-via-pixiz-for-2024/"><u>Beginner's Pathway Photos Transformed Into Videos via Pixiz for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-print-troubleshoot-0x97/"><u>Epson Print Troubleshoot: 0X97</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-wireless-printing-issue-with-hp-envy-5680v5/"><u>Fixed Wireless Printing Issue with HP Envy 5680V5</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-revive-unresponsive-canon-printer/"><u>How to Revive Unresponsive Canon Printer?</u></a></li>
-<li><a href="https://windows11.techidaily.com/laymans-guide-to-setting-up-a-triple-column-board-on-windows-11/"><u>Layman's Guide to Setting Up a Triple Column Board on Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-samsung-smart-tv-apps-top-information-you-should-know/"><u>Mastering Samsung Smart TV Apps – Top Information You Should Know</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mastering-the-art-of-fixing-printer-problems-after-win-10/"><u>Mastering the Art of Fixing Printer Problems After Win 10</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-discoveries-the-world-of-toms-technology-insight/"><u>Pioneering Hardware Discoveries: The World of Tom's Technology Insight</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-intermittent-printer-spooler-halt-in-win-117/"><u>Resolving Intermittent Printer Spooler Halt in Win 11/7</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-6-mobile-substitutes-for-chatgpt-enhancing-ai-conversations-on-the-go/"><u>Top 6 Mobile Substitutes for ChatGPT: Enhancing AI Conversations on the Go</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-printer-not-working-on-windows-11-windows-11-printer-issues/"><u>[FIXED] Printer Not Working on Windows 11? Windows 11 Printer Issues</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-tackling-massed-up-tiktoks-expert-edits-for-less-chaos/"><u>2024 Approved Tackling Massed-Up TikToks Expert Edits for Less Chaos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nce-allure-3-ultimate-video-growth-methods/"><u>Audience Allure 3 Ultimate Video Growth Methods</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/correct-printing-resumed-on-hp-printer-after-glitch/"><u>Correct Printing Resumed on HP Printer After Glitch</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/ensuring-compliance-a-guide-to-pre-upload-on-tiktok-for-2024/"><u>Ensuring Compliance A Guide to Pre-Upload on TikTok for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-fortnite-from-continuously-crashing-on-your-computer/"><u>How To Stop Fortnite From Continuously Crashing On Your Computer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-s23-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy S23 To Phone | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-networked-hp-printer-on-w7/"><u>Restoring Networked HP Printer on W7</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/snd-wav-omzetten-zonder-risicos-eenvoudig-en-gratis-online-door-movavi/"><u>SND-WAV Omzetten Zonder Risico's: Eenvoudig en Gratis Online Door Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-repairing-non-responsive-keys-on-macbook-pro/"><u>Step-by-Step Guide: Repairing Non-Responsive Keys on MacBook Pro</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-inaccessible-printer-network/"><u>Troubleshooting: Inaccessible Printer Network</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unblocking-hp-printer-issues/"><u>Unblocking HP-Printer Issues</u></a></li>
 </ul></div>
 

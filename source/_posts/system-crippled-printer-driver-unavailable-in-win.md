@@ -1,7 +1,7 @@
 ---
 title: "[SYSTEM CRIPPLED] Printer Driver Unavailable in Win"
-date: 2025-01-09T17:06:40.487Z
-updated: 2025-01-15T16:44:05.540Z
+date: 2025-01-20T03:23:13.036Z
+updated: 2025-01-21T17:49:02.793Z
 tags:
   - win11
   - win10
@@ -22,18 +22,10 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 
  This frustrating problem is usually caused by an**incorrect or corrupt printer driver** , and it should be pretty easy to fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes…
 
 1. **[Reinstall your printer driver (RECOMMENDED)](#method1)**
 2. **[Install all available Windows updates](#method2)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your printer driver (RECOMMENDED)
 
@@ -49,13 +41,13 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a16664c47596.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click **Uninstall**  if you’re prompted to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a166d61b6e23.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) **[Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.** It will automatically recognize your system, and find and install the correct printer driver for it, along with any other drivers that need updating. (Or, if you’d prefer, you can download and install the necessary driver manually. To do this, you have to visit your printer manufacturer’s website, locate the correct driver for your printer model and version of Windows, and then download and install it.)
 
@@ -63,15 +55,19 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1672bcbc0a7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this. Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it, you can get a full refund, no questions asked. (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to your printer in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a166e3214a67.jpg)
 
- 8) Restart your computer and try to print a file to see if your printer works. If it does, congratulations, you’ve resolved your problem! If it doesn’t, move on to Fix 2 below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 8) Restart your computer and try to print a file to see if your printer works. If it does, congratulations, you’ve resolved your problem! If it doesn’t, move on to Fix 2 below.
 
 ### Fix 2: Install all available Windows updates
 
@@ -89,8 +85,16 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 ![win 11 update windows 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-update-windows-1.jpg)
 3. Then click**Check for updates** . Windows will then check if there are any newly released updates. If so, it will automatically download and install the updates for you. It might take some time.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-update-windows-2.jpg)
 4. You may repeat these steps until it prompts**You’re up to date** when you click**Check for updates** to make sure you have all the updates installed. Restart your computer when it’s done.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note that the screenshots were captured from a Windows 11 system. For a Windows 10 system, the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
@@ -103,10 +107,6 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a167b717a88d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **Install updates** .
 
@@ -135,24 +135,16 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-best-mac-apps-for-high-quality-gif-saving-for-2024/"><u>[New] Best Mac Apps for High-Quality GIF Saving for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-cloud-costs-top-picks-for-value/"><u>[New] Cloud Costs Top Picks for Value</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/rafting-professional-content-on-youtube-via-enhancements-for-2024/"><u>[New] Crafting Professional Content on YouTube via Enhancements for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-top-5-inspiring-book-trailers/"><u>[New] Top 5 Inspiring Book Trailers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-dissecting-youtube-policies-and-creative-commons-licensing-dichotomy/"><u>2024 Approved Dissecting YouTube Policies and Creative Commons Licensing Dichotomy</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-precision-recorder-ads-free-edition/"><u>2024 Approved Precision Recorder - Ads-Free Edition</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/addressing-hp-printer-fault-0xoxc4eb827f/"><u>Addressing HP Printer Fault: 0XOXC4EB827F</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/advanced-techniques-to-setup-hp-print-devices-in-win10-os/"><u>Advanced Techniques to Setup HP Print Devices in Win10 OS</u></a></li>
-<li><a href="https://video-capture.techidaily.com/best-escape-challenges-top-ten-must-play-rooms/"><u>Best Escape Challenges Top Ten Must-Play Rooms</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/bitraser-professional-usb-eraser-available-for-immediate-buy/"><u>BitRaser Professional USB Eraser Available for Immediate Buy</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-magic-6-lite-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor Magic 6 Lite Location Settings | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-nubia-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Nubia Is Unlocked</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/keep-it-running-smoothly-update-dells-inkjet-aio-on-windows-7/"><u>Keep It Running Smoothly: Update Dell's Inkjet AIO on Windows 7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/new-printer-added-operation-without-issues/"><u>New Printer Added: Operation Without Issues</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcome-non-printing-in-canon-printers-windows-edition/"><u>Overcome Non-Printing in Canon Printers, Windows Edition</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-guide-linking-your-canon-to-wi-fi/"><u>Quick Guide: Linking Your Canon to Wi-Fi</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-tip-uninstalling-default-print-devices/"><u>Quick Tip: Uninstalling Default Print Devices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restoring-link-between-sibling-and-online-printer/"><u>Restoring Link Between Sibling and Online Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/turn-your-non-printing-canon-into-a-reliable-device-with-tips/"><u>Turn Your Non-Printing Canon Into a Reliable Device with Tips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-calendar-integration-for-efficient-google-meets/"><u>[New] In 2024, Calendar Integration for Efficient Google Meets</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cultivating-a-positive-mindset-against-cyberbullying/"><u>[New] In 2024, Cultivating a Positive Mindset Against Cyberbullying</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-crafting-shareable-instagram-stories-that-spread-like-wildfire/"><u>[Updated] 2024 Approved Crafting Shareable Instagram Stories That Spread Like Wildfire</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-your-canva-video-game-editing-and-mixing-soundtracks/"><u>Elevate Your Canva Video Game Editing & Mixing Soundtracks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-broken-iphone-6s-plus-screen-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Data from Broken iPhone 6s Plus Screen | Stellar</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/lighten-up-on-slow-prints-quickly/"><u>Lighten Up on Slow Prints Quickly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-errors-detected-during-printer-setup/"><u>No Errors Detected During Printer Setup</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-a-silent-canon-printer/"><u>Reviving a Silent Canon Printer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-macbook-peripherals-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated MacBook Peripherals - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unprinted-pages-issue-on-hp-printer-fixed/"><u>Unprinted Pages Issue on HP Printer Fixed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-10-printer-spooler-non-responsive/"><u>Windows 10 Printer Spooler Non-Responsive</u></a></li>
 </ul></div>
 

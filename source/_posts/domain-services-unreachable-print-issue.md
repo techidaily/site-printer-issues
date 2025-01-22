@@ -1,7 +1,7 @@
 ---
 title: Domain Services Unreachable, Print Issue
-date: 2025-01-09T00:34:01.656Z
-updated: 2025-01-16T00:58:28.199Z
+date: 2025-01-17T20:46:38.378Z
+updated: 2025-01-21T20:26:04.771Z
 tags:
   - win11
   - win10
@@ -29,12 +29,16 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
 
 1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png) and **R**  at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Type **services.msc**  and press **Enter**  to open the **Services**  window:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a50a818f88a.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click on **Printer Spooler**  service and click **Start** .  
@@ -54,22 +58,18 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
 1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png) and **R**  at the same time to invoke the Run box.
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Type **regedit**  and press **Enter** to open Registry Editor.  
   
 **![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-23.jpg)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click **Yes** when prompted by User Account Control,.
  3) On Registry window, go to **HKEY\_CURRENT\_USER** \> **Software**  \> **Microsoft**  \> **Windows NT**  \> **CurrentVersion** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Right-click on **Devices**  under **CurrentVersion**  dialog.  
  Then click **Permissions** .  
@@ -77,14 +77,14 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-14.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Click your account and tick on**Allow** of **Full Control** . Then click **Apply**  \> **OK** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-13.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Do the same settings to give your account full control of **PrinterPorts**  and **Windows** .  
   
@@ -92,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) Close the Registry Editor window and check to see if you could print files successfully.
@@ -114,22 +114,19 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/os-troubleshoot-unseen-network-printer-on-windows-pcs/"><u>[OS Troubleshoot] Unseen Network Printer on Windows PCs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-how-to-use-snapchat-to-send-a-snap-with-cartoon-face-lens/"><u>[Updated] How to Use Snapchat to Send a Snap with Cartoon Face Lens</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-master-recorder-a-comprehensive-review-of-screen-recording-for-2024/"><u>[Updated] Master Recorder A Comprehensive Review of Screen Recording for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/addressing-error-xf09-on-epson-devices/"><u>Addressing Error #XF09 on Epson Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ais-double-edged-sword-in-software-development/"><u>AI's Double-Edged Sword in Software Development</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/b200-issue-eliminated/"><u>B200 Issue Eliminated</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/effortlessly-connect-canon-printer-online/"><u>Effortlessly Connect Canon Printer Online</u></a></li>
-<li><a href="https://fox-info.techidaily.com/exploring-the-world-of-book-trailers-with-top-5-picks/"><u>Exploring the World of Book Trailers with Top 5 Picks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-fix-and-prevent-fps-drops-in-destiny-2s-latest-expansion-beyond-light/"><u>How to Fix and Prevent FPS Drops in Destiny 2’S Latest Expansion: Beyond Light</u></a></li>
-<li><a href="https://win-blog.techidaily.com/lost-connection-woes-in-terraria-master-these-6-fixes-to-get-back-on-track/"><u>Lost Connection Woes in Terraria? Master These 6 Fixes to Get Back on Track!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printers-unforeseen-setup-snag-found/"><u>Printer's Unforeseen Setup Snag Found</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printers-wont-print-all-pages-2024-fix/"><u>Printers Won't Print All Pages [2024 Fix]</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/pro-tips-for-video-conference-recordings-desktop-edition-for-2024/"><u>Pro Tips for Video Conference Recordings Desktop Edition for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-navigating-to-the-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Navigating to the Windows Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-unresponsive-hp-devices/"><u>Troubleshooting Unresponsive HP Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-smooth-spotify-link-functionality-in-windows-11/"><u>Unlocking Smooth Spotify Link Functionality in Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unraveling-printer-malfunction-mystery/"><u>Unraveling Printer Malfunction Mystery</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-emoji-mastery-for-engaging-youtube-discussions/"><u>[Updated] 2024 Approved Emoji Mastery for Engaging YouTube Discussions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-animation-in-instagram-stories-a-step-by-step-guide/"><u>[Updated] Mastering Animation in Instagram Stories A Step-by-Step Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/b200-correction-implemented/"><u>B200 Correction Implemented</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/b200-fix-achieved/"><u>B200 Fix Achieved</u></a></li>
+<li><a href="https://games-able.techidaily.com/geforce-now-passes-aimed-at-serious-gamers/"><u>GeForce NOW Passes - Aimed at Serious Gamers?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-samsung-galaxy-a15-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Samsung Galaxy A15 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-behind-the-scenes-youtube-live-thumbnail-secrets/"><u>In 2024, Behind the Scenes YouTube Live Thumbnail Secrets</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/maximum-video-stowage-on-a-single-64gb-unit/"><u>Maximum Video Stowage on a Single 64Gb Unit</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-os-error-drivers-not-found/"><u>Printer OS Error: Drivers Not Found</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-printer-fault-eco-error/"><u>Resolved: Printer Fault #Eco-Error</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/resolving-the-cannot-play-mp3-files-error-in-windows-media-player/"><u>Resolving the 'Cannot Play MP3 Files' Error in Windows Media Player</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unlocking-a-world-of-possibits-with-macbook-airs-screen-recording-feature/"><u>Unlocking a World of Possibits with MacBook Air's Screen Recording Feature</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/wake-up-call-faulty-usb-printers-in-windows-7-mode/"><u>Wake Up Call: Faulty USB Printers in Windows 7 Mode</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-printer-not-responding-spooler-issue/"><u>Windows Printer Not Responding: Spooler Issue</u></a></li>
 </ul></div>
 

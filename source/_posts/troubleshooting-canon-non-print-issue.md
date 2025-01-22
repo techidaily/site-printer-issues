@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Canon Non-Print Issue
-date: 2025-01-09T20:43:03.931Z
-updated: 2025-01-15T19:18:01.912Z
+date: 2025-01-18T03:53:18.597Z
+updated: 2025-01-21T22:17:30.152Z
 tags:
   - win11
   - win10
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/00e1438c22966a36d893eecd9042143ec66d34204
  If you connect your printer via Bluetooth, make sure you place your printer close enough to your computer. You can also try re-pairing the printer with your computer and see if this fixes your problem. Check your printer manual to know how to re-pair your printer and your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Set your printer as default printer
@@ -54,17 +54,9 @@ thumbnail: https://thmb.techidaily.com/00e1438c22966a36d893eecd9042143ec66d34204
 
 **1)** On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f05e61151ac.png) and **R** at the same time to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Type “_**control**_ ” and press**Enter** on your keyboard. This will open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f05fa653ea6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Under**View by** , select**Large icons** .
 
@@ -81,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/00e1438c22966a36d893eecd9042143ec66d34204
 Your printer has already been set as the default printer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Update your printer driver
@@ -98,18 +90,18 @@ Your printer has already been set as the default printer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f066eb5612c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to your printer to download the latest and correct driver for this device. You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click on Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f06a24669a8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Restart your computer, then check to see if your printer is able to print.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Check the Print Spooler service
@@ -128,10 +120,6 @@ To check this service:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f29629de1e9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Make sure Startup type is set to**Automatic** and Service status is**Running** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f299190ca46.png)
@@ -141,12 +129,16 @@ To check this service:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f2984ab53d0.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)** Click**OK** to save the changes and exit the dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f29d7e9e7e4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)** Check to see if your printer works.
 
@@ -163,7 +155,7 @@ To check this service:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f1bc9808a1b.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Double click**Print Spooler** in the list of services.
@@ -174,13 +166,17 @@ To check this service:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f2a1317d8a2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Minimize the Services window. Then open**File Explorer** (on your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f05e61151ac.png)**  and**E**  at the same time).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f2a36c12e67.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)**  Copy and paste the following address to the address bar and press**Enter** on your keyboard to go to this location (where the print jobs is stored).
 
@@ -199,6 +195,10 @@ To check this service:
 **9)** Click the**Start** button. After the service is started, click**OK** to save the change and close this dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f2a9e345daa.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **10)** Close all the opened windows and turn off your computer.
 
@@ -246,22 +246,22 @@ To check this service:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-audio-clarity-10-pro-tips-for-high-quality-recordings-for-2024/"><u>[New] Audio Clarity 10 Pro Tips for High-Quality Recordings for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-mastering-the-skies-with-xiaomis-4k-drone-for-2024/"><u>[New] Mastering the Skies with Xiaomi's 4K Drone for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/isionedit-ace-for-2024/"><u>[New] VisionEdit Ace for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/bridge-connectivity-gaps-for-windows-10-printing-issues/"><u>Bridge Connectivity Gaps for Windows 10 Printing Issues</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-printer-connection-made-easy-images-included/"><u>Canon Printer Connection Made Easy (Images Included)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhanced-connection-routes-between-hp-printers-and-laptops/"><u>Enhanced Connection Routes Between HP Printers and Laptops</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expand-your-digital-horizons-with-the-asrock-z890-taichi-aqua-equipped-with-dual-thunderbolt-and-ten-usb-type-c-ports/"><u>Expand Your Digital Horizons with the ASRock Z890 Taichi Aqua - Equipped with Dual Thunderbolt and Ten USB Type-C Ports</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-non-operational-scanner-on-windows-11/"><u>Fixing Non-Operational Scanner on Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-easily-disable-secure-boot-and-trusted-platform-module-for-drivers-on-windows-11/"><u>How to Easily Disable Secure Boot & Trusted Platform Module for Drivers on Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-nokia-xr21-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Nokia XR21.</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-pop-8-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Tecno Pop 8 Phone Without Password?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-stable-discord-sound-quality-expert-strategies-and-fixes-for-the-modern-user/"><u>Mastering Stable Discord Sound Quality - Expert Strategies and Fixes for the Modern User</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/paperless-challenges-ended-with-windows-upgrade/"><u>Paperless Challenges Ended with Window's Upgrade</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-duplicate-printer-usage-detection/"><u>Resolved: Duplicate Printer Usage Detection</u></a></li>
-<li><a href="https://article-files.techidaily.com/sea-dwellers-in-focus-tips-for-shooting-stunning-gopro-video-below-water/"><u>Sea Dwellers in Focus Tips for Shooting Stunning GoPro Video Below Water</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/successfully-mended-hp-printer-no-output/"><u>Successfully Mended HP Printer No Output</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-techniques-for-offline-printers/"><u>Troubleshooting Techniques for Offline Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-not-detected-unable-to-connect-pixma-mp620-to-win10/"><u>[Driver Not Detected] Unable to Connect Pixma MP620 to WIN10</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-gym-goer-to-broadcayer-set-up-a-sports-vlog-on-macos/"><u>[Updated] From Gym Goer to Broadcayer Set Up a Sports Vlog on macOS</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-is-photoshops-stabilization-feature-aiding-creativity/"><u>[Updated] Is Photoshop's Stabilization Feature Aiding Creativity?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/conquer-print-issues-with-comprehensive-windows-hp-guide/"><u>Conquer Print Issues with Comprehensive Windows HP Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/domains-offline-causing-printer-errors/"><u>Domains Offline - Causing Printer Errors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-nexiq-usb-link-pro-software-free-trial-available/"><u>Download and Install Nexiq USB Link Pro Software - Free Trial Available</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ending-white-sheet-saga-with-hp-printer-fix/"><u>Ending White Sheet Saga with HP Printer Fix</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/farewell-to-printer-frustration-win-10s-solution-found/"><u>Farewell to Printer Frustration: Win 10'S Solution Found</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-7-plus-official-method-to-unlock-your-iphone-7-plus-by-drfone-ios/"><u>How To Unlock iPhone 7 Plus Official Method to Unlock Your iPhone 7 Plus</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-multitasking-sync-many-yt-videos-simultaneously/"><u>In 2024, Mastering Multitasking Sync Many YT Videos Simultaneously</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-nvenc-encoder-usage-in-handbrake-for-optimal-video-compression-and-quality/"><u>Mastering NVENC Encoder Usage in Handbrake for Optimal Video Compression and Quality</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mastering-the-art-of-configuring-your-hp-printer-on-pcs/"><u>Mastering the Art of Configuring Your HP Printer on PCs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/secure-removal-of-drivers-for-printer-devices/"><u>Secure Removal of Drivers for Printer Devices</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211450266-9781955413282-the-art-of-your-energy-ii/"><u>The Art of Your Energy II | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-optimizing-win-11s-taskbar/"><u>The Ultimate Guide to Optimizing Win 11'S Taskbar</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unexpected-print-problem-discovered/"><u>Unexpected Print Problem Discovered</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Can't Get My Canon Printer on Board
-date: 2025-01-12T17:25:46.341Z
-updated: 2025-01-15T18:39:13.967Z
+date: 2025-01-15T20:31:02.176Z
+updated: 2025-01-21T17:38:47.088Z
 tags:
   - win11
   - win10
@@ -59,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
 
  Check your printer manual for information about how to re-pair your printer and your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Run the printer troubleshooter
 
  The Windows built-in troubleshooter can check your Canon printer and fix its issues. To run the printer troubleshooter:
@@ -71,19 +75,11 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b3207300145c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Open the troubleshooter:
 
  Click **Printer** and then **Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b32079041de8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Follow the on-screen instructions to complete the troubleshooting.
 
@@ -95,20 +91,20 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot-1200x699.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Other troubleshooters** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters-1200x699.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Click on the**Run** button next to**Printer** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-Troubleshooter-Printer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hopefully this will fix your printer. But if not, there are three more fixes for you to try…
@@ -121,6 +117,10 @@ To reset this service:
 
 **1)** On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f05e61151ac.png) and **R** at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Type “_**services.msc**_ ” and press**Enter** on your keyboard. This will open the Services window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f1bc9808a1b.png)
@@ -129,10 +129,14 @@ To reset this service:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320bb1ea13a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Check to see if your printer is able to print.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Configure the correct printer port for your printer
@@ -145,12 +149,16 @@ To reset this service:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f05fa653ea6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Under**View by** , select**Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f05f6349879.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click**Devices and Printers** .
@@ -165,10 +173,6 @@ To reset this service:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b321538f2ef1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **7)** Click the**Port** tab, then check the port that:
 
 * Contains the name of your printer;
@@ -182,10 +186,6 @@ To reset this service:
 **8)** Click the**General** tab, then click**Print Test Page** to check you’ve made the right change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b321a5ef2bf8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you haven’t, repeat step 7 and 8 until your printer is working properly.
 
@@ -208,7 +208,7 @@ To reset this service:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b02a3d8e2197.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free, but it’s partly manual.
@@ -233,17 +233,17 @@ To reset this service:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-expertly-crafted-video-making-software-iphone-android/"><u>[New] 2024 Approved Expertly Crafted Video-Making Software (iPhone, Android)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-comprehensive-check-on-dji-mavic-pro-vision-headset/"><u>[Updated] Comprehensive Check on DJi Mavic Pro Vision Headset</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-poco-x6-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Poco X6 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brother-air-glide-cdw-duo-instructions/"><u>Brother Air Glide CDW Duo Instructions</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-poco-x6-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/exiting-loop-hp-printer-no-longer-suffering-from-ghosts/"><u>Exiting Loop: HP Printer No Longer Suffering From Ghosts</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-the-no-content-print-jobs-on-an-epson-device/"><u>Fixing the 'No Content' Print Jobs on an Epson Device</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-unavailable-printer-network-status/"><u>Fixing Unavailable Printer Network Status</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/immediate-cessation-of-live-streaming-in-quicktime-for-2024/"><u>Immediate Cessation of Live Streaming in QuickTime for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-high-fidelity-capture-mastering-screen-recording-tools-for-macos/"><u>In 2024, High Fidelity Capture Mastering Screen Recording Tools for macOS</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-8s-proplus-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 8S Pro+ Phone without Any Data Loss</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/pathway-to-youtube-partnerships-simplifying-the-process-for-small-creators-for-2024/"><u>Pathway to YouTube Partnerships Simplifying the Process for Small Creators for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-10-premier-vimeo-extraction-programs-reviewed/"><u>[New] In 2024, 10 Premier Vimeo Extraction Programs Reviewed</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-from-antagonism-to-action-a-clear-framework-for-handling-virtual-harassment-on-discord/"><u>[Updated] From Antagonism to Action A Clear Framework for Handling Virtual Harassment on Discord</u></a></li>
+<li><a href="https://techtrends.techidaily.com/aprende-el-oficio-con-winxvideo-ai-una-guia-completa-para-mejorar-grabar-editar-comprimir-y-convertir-videos-perfectamente/"><u>Aprende El Oficio Con Winxvideo AI: Una Guía Completa Para Mejorar, Grabar, Editar, Comprimir Y Convertir Vídeos Perfectamente</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/from-unboxed-to-printed-the-complete-win-hp-printer-guidebook/"><u>From Unboxed to Printed: The Complete Win HP Printer Guidebook</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/getting-your-w7s-offline-hp-print-running/"><u>Getting Your W7's Offline HP Print Running</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/identified-non-owner-print-job-intervention/"><u>Identified Non-Owner Print Job Intervention</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-flaskful-formula-freaks/"><u>In 2024, FLASKFUL FORMULA FREAKS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/introducing-improved-windows-11-geforce-210-drivers/"><u>Introducing Improved Windows 11 GeForce 210 Drivers</u></a></li>
+<li><a href="https://win-special.techidaily.com/metodi-efficaci-per-il-recupero-di-file-eliminati-da-un-computer-dell-tutorial-comprehensivo/"><u>Metodi Efficaci per Il Recupero Di File Eliminati Da Un Computer Dell: Tutorial Comprehensivo</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-linked-in-seconds/"><u>Printer Linked in Seconds</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-ultimate-airflow-comprehensive-insights-into-id-coolings-new-royalty-the-frozn-a720-and-a-review-guide/"><u>Unveiling Ultimate Airflow: Comprehensive Insights Into ID-Cooling's New Royalty – The FROZN A720 and A # Review Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-this-asus-notebook-outshines-your-macbook-unveiling-its-advantages/"><u>Why This Asus Notebook Outshines Your MacBook: Unveiling Its Advantages</u></a></li>
 </ul></div>
 

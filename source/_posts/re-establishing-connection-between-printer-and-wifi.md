@@ -1,7 +1,7 @@
 ---
 title: Re-Establishing Connection Between Printer & WiFi
-date: 2025-01-11T20:11:01.290Z
-updated: 2025-01-15T17:59:12.017Z
+date: 2025-01-20T19:00:58.684Z
+updated: 2025-01-22T04:41:09.596Z
 tags:
   - win11
   - win10
@@ -54,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/4db6ae504f1bfc8456d6bcf83012c53d92e6a263d
 
  Check if you can print now. If the problem persists, continue to the next method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Update Printer Driver
 
  The problem can be caused by faulty printer drivers. So you can update the printer driver and see if this works.
@@ -69,17 +73,9 @@ thumbnail: https://thmb.techidaily.com/4db6ae504f1bfc8456d6bcf83012c53d92e6a263d
 ![Driver Easy Free Scan Now](https://images.drivereasy.com/wp-content/uploads/2017/02/Driver-Easy-Free-Scan-Now.jpg)
 3. Click the **Update** button next to the flagged printer device to automatically download the correct version of this driver, then you can manually install it (you can do this with the _**FREE**_ version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click _**Update All**_ ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Update-drivers-with-Driver-Easy-Pro-1.jpg)
 4. After updating the printer driver, check to see if the offline problem is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Check Printing Status
 
@@ -90,24 +86,32 @@ thumbnail: https://thmb.techidaily.com/4db6ae504f1bfc8456d6bcf83012c53d92e6a263d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fbce29ce5.png)
 3. Click**Devices and printers** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fbb2818a8.jpg)
 4. Right-click the icon with a green check-mark and click **See what’s printing** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fc6ee1965.png)
 5. If what you see here is a grey icon without the green check-mark, right-click the icon and click **Set as Default Printer** . Then right-click it and click**See what’s printing** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e9c83c14189.png)
 6. Click**Printer** . If you can see a tick next to the option**Pause printing** and**Use Printer Offline** , click them to remove the ticks.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fc46d664b.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fc46d664b.png)
 
  See if you can print now. If this issue persists, try the next fix, below.
 
@@ -128,15 +132,7 @@ thumbnail: https://thmb.techidaily.com/4db6ae504f1bfc8456d6bcf83012c53d92e6a263d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f1a16a7e270.png)
 5. Close the Properties window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Check if your printer is online now. If not, move on to the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 5: Add a second printer
 
@@ -150,15 +146,15 @@ thumbnail: https://thmb.techidaily.com/4db6ae504f1bfc8456d6bcf83012c53d92e6a263d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fbce29ce5.png)
 2. Click **Devices and printers** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fbb2818a8.jpg)
 3. Right-click your printer and select**Printer properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fd2c6fb8a.png)
 4. Click the**Ports** tab, then**Add Port** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fd55ed964.png)
 5. Select**Standard TCP/IP Port** , then click**New Port** .  
@@ -166,14 +162,18 @@ thumbnail: https://thmb.techidaily.com/4db6ae504f1bfc8456d6bcf83012c53d92e6a263d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fd728aa09.png)
 6. Click**Next** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fda0e3c3c.png)
 7. Type in the**printer’s IP address** . Click**Next** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fe1829457.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fe1829457.png)
 
  As mentioned, finding the IP address for your printer differs from one printer to another. If you still have the instruction of your printer, go fetch it and see if you can find the way. If not, go to the manufacturer’s support website and search for detailed instructions.
 
@@ -200,24 +200,19 @@ Your offline printer should work flawlessly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-mastering-audio-quality-integrating-srt-into-mp4-for-2024/"><u>[New] Mastering Audio Quality Integrating SRT Into MP4 for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-expert-reviews-find-the-best-8-5k-computer-displays/"><u>[Updated] 2024 Approved Expert Reviews - Find the Best 8 5K Computer Displays</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-acclaimed-selections-discover-the-best-10-vimeo-file-harvesters-for-2024/"><u>[Updated] Acclaimed Selections Discover the Best 10 Vimeo File Harvesters for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1728470633693-windows-10/"><u>如何在 Windows 10 中進行電源管理資料夾鏡像產生指南</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/conquering-the-blank-page-battlefield-for-printers/"><u>Conquering the Blank Page Battlefield for Printers</u></a></li>
-<li><a href="https://common-error.techidaily.com/dell-camera-malfunction-heres-how-to-solve-it-on-windows-computers/"><u>Dell Camera Malfunction? Here's How to Solve It on Windows Computers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guide-joining-officejet-8720-to-home-computers/"><u>Guide: Joining OfficeJet 8720 to Home Computers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-exploring-social-boundaries-sign-up-for-a-facebook-profile/"><u>In 2024, Exploring Social Boundaries Sign Up for a Facebook Profile</u></a></li>
-<li><a href="https://extra-support.techidaily.com/no-charges-yes-to-superior-free-webm-player-selections-for-2024/"><u>No Charges? Yes to Superior, Free WebM Player Selections for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-not-responding-to-color-requests/"><u>Printer Not Responding to Color Requests</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restored-printer-link-to-spooler/"><u>Restored PRINTER Link to Spooler</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/simplify-print-setup-wi-fi-connection-for-canon/"><u>Simplify Print Setup: Wi-Fi Connection for Canon</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/stop-your-wastelanded-printer-on-windows-11/"><u>Stop Your Wastelanded Printer on Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/swiftly-reunite-disconnected-printer/"><u>Swiftly Reunite Disconnected Printer</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-iphone-12-pro-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From iPhone 12 Pro</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-nubia-z50-ultra-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Nubia Z50 Ultra Screen | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/usb-printer-error-unresponsive-on-win7-restart/"><u>USB Printer Error: Unresponsive on Win7 Restart</u></a></li>
-<li><a href="https://win-online.techidaily.com/whats-fresh-in-the-movavi-video-converter-world-discover-the-new-improvements/"><u>What's Fresh in the Movavi Video Converter World? Discover the New Improvements!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-wide-applications-mf4770n-firmware-update/"><u>Windows-Wide Applications: MF4770n Firmware Update</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-decoding-youtube-community-terms-and-policies/"><u>[Updated] 2024 Approved Decoding YouTube Community Terms and Policies</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210545395-9781399704908-astrology-self-care-aquarius/"><u>Astrology Self-Care: Aquarius | Free Book</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574135496-enhance-printer-velocity-now/"><u>Enhance Printer Velocity Now</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-inkjet-non-operational-state/"><u>Fixed Inkjet Non-Operational State</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/hardness-must-be-balanced-with-biocompatibility-to-prevent-damage-to-opposing-teeth-and-tissues/"><u>Hardness Must Be Balanced with Biocompatibility to Prevent Damage to Opposing Teeth and Tissues.</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hassle-free-connections-3-innovative-ways-to-link-laptop-plus-hp/"><u>Hassle-Free Connections: 3 Innovative Ways to Link Laptop + HP</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-realme-c67-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Realme C67 4G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-through-system-checks-fixes-for-initial-power-on-self-test-problems/"><u>Navigating Through System Checks: Fixes for Initial Power On Self Test Problems</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-from-words-to-music-audio-conversion-of-textual-content-on-various-platforms/"><u>New From Words to Music Audio Conversion of Textual Content on Various Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-and-repairing-your-windows-default-download-area/"><u>Reactivating and Repairing Your Windows Default Download Area</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/repair-guide-for-non-printing-machines/"><u>Repair Guide for Non-Printing Machines</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/smoothly-reactivated-scanner-on-windows-11/"><u>Smoothly Reactivated Scanner on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-affordable-tunes-securing-a-student-discount-on-apple-music/"><u>Unlocking Affordable Tunes: Securing a Student Discount on Apple Music</u></a></li>
 </ul></div>
 

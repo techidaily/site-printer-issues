@@ -1,7 +1,7 @@
 ---
 title: Ultimate Troubleshooting Techniques for Fixing Unexpected App Closures
-date: 2025-01-09T16:10:12.764Z
-updated: 2025-01-15T19:57:11.131Z
+date: 2025-01-18T19:35:49.856Z
+updated: 2025-01-21T18:51:49.223Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/fa21f0e3da9170853bae87f9e51fccaaee500ab18
 
 Many Destiny 2 players are reporting that they get the error ‘ **You have lost connection to the Destiny 2 servers. Your permissions to access online multiplayer gameplay may have changed or your profile may have been signed in elsewhere.** ‘ and wonder how to solve this error instead of waiting for a few minutes, perhaps for days.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why am I receiving this error?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/attention.jpg)
@@ -30,10 +34,6 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 * Internet-related issues
 
  If you’re encountering this error constantly, you may want to use the following troubleshooting steps:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1\. Clear the cache
 
@@ -56,10 +56,6 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 
 ![confirm clear cache](https://images.drivereasy.com/wp-content/uploads/2021/07/confirm_clear_cache.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This process will not affect your currently installed games, but you will need to log into Steam afterwards.
 
 ## Fix 2\. Switch to a wired connection
@@ -71,6 +67,10 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 * Move the console/computer as close as possible to the WiFi source.
 * Turn off or disable all other devices connected to the WiFi network while playing Destiny 2.
 * Avoid obstructions between the console/computer and the WiFi source whenever possible, especially large appliances or other electronics.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3\. Update your network adapter driver
 
@@ -87,10 +87,6 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![network adapter driver](https://images.drivereasy.com/wp-content/uploads/2021/02/family-controller.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 
@@ -99,10 +95,6 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4\. Perform a network reset
 
  Performing a network reset potentially fixes any strange settings that may be preventing you from connecting, thus solve your ‘**You have lost connection to the Destiny 2 servers** ‘ error. Here’s how:
@@ -110,6 +102,10 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 1. In the Windows search box, type**cmd** . Under**Command Prompt** , select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)
 2. Click**OK** to confirm your action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Once the Command Prompt window is open, type the following command lines (press**Enter** after entering each command line):  
 **`netsh winsock reset`**  
@@ -120,6 +116,10 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2021/07/reset.png)
 4. You’ll need to restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5\. Change your DNS server
 
  Some Destiny players find it helps when they change the DNS server to Google 8.8.8.8 and 4.4.4.4\. Below you’ll find the exact steps to do that:
@@ -129,6 +129,10 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 3. Right-click your current network connection, and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
 
@@ -136,7 +140,7 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
@@ -149,6 +153,10 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 
  If you worked hard through the basic troubleshooting guide but still the error ‘**You have lost connection to the Destiny 2 servers** ‘ persists, you can try setting up UPnP or Port Forwarding (we don’t recommend doing both of them).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1\. Enable UPnP
 
 1. In the Windows Seach bar, type in**cm** d and select**Command Prompt** .  
@@ -157,6 +165,10 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 
 ![default gateway is your router's ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/default-gateway.jpg)
 3. Copy-paste the Default Gateway address into your computer’s browser, and log in with the correct user name and password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Find the**UPnP** setting, usually located under the “LAN” or “Firewall” category.
 5. Enable UPnP and click**Save** to apply the changes.
@@ -173,18 +185,10 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/command-prompt.jpg)
 2. Type in **ipconfig /all** and press **Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ip configuration](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfig.jpg)
 3. Take tote of the following: **IPv4 Address, Subnet Mask, Default Gateway**  and **DNS Servers** .  
 
 ![ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** Default Gateway is your router’s IP Address, which you can copy-paste to your browser’s address bar.
 
@@ -201,13 +205,13 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 3. Double-click **Internet Protocol Version 4 (TCP/IPv4)**  from the list.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![configure IPV4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPv4-1.jpg)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4\. Select **Use the following IP address** , and **Use the following DNS server automatically** , and enter the details you copied from Command Prompt: IP address, subnet mask, default gateway, and DNS servers.  
@@ -221,10 +225,6 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 3. Search for the **Port Forwarding**  or **Advanced** or **Virtual Server** section.  
 ![server](https://images.drivereasy.com/wp-content/uploads/2021/07/servers.jpg)
 4. Enter the IP Address of your PC in the relevant box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Choose both **TCP** and **UDP**  ports for your games in the appropriate box.  
 ![port forwading ](https://images.drivereasy.com/wp-content/uploads/2021/07/7777.jpg)
@@ -279,15 +279,22 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-discover-the-depth-of-4k-with-the-nikon-d500-camera/"><u>[New] 2024 Approved Discover the Depth of 4K with the Nikon D500 Camera</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-mastery-of-mobile-and-desktop-calendar-integration-with-zoom/"><u>[New] In 2024, Mastery of Mobile and Desktop Calendar Integration with Zoom</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-retro-revelry-on-snapchat-camera-roll-insights/"><u>[Updated] In 2024, Retro Revelry on Snapchat Camera Roll Insights</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/avoiding-offline-troubles-with-a-neighborhood-printer/"><u>Avoiding Offline Troubles with a Neighborhood Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/corrected-printer-error-messages/"><u>Corrected Printer Error Messages</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-printer-driver-issues-on-windows-11/"><u>Fix Printer Driver Issues on Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-repair-a-missing-rpcrt4-library-on-your-pc/"><u>How to Correctly Repair a Missing Rpcrt_4 Library on Your PC</u></a></li>
-<li><a href="https://fox-search.techidaily.com/iphone-bilder-wiederherstellen-tipps-und-tricks-zum-entfernen-von-unerwunschten-fotos/"><u>IPhone Bilder Wiederherstellen - Tipps Und Tricks Zum Entfernen Von Unerwünschten Fotos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722002846299-misinformation-busted-there-is-no-legitimate-chatgpt-window-software-dont-fall-for-malware-traps/"><u>Misinformation Busted: There Is No Legitimate ChatGPT Window Software; Don’t Fall for Malware Traps</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-service-disabled-trouble-in-windows/"><u>Printer Service Disabled: Trouble in Windows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-ultimate-color-tweaking-discover-top-tips-for-enhancing-hues-for-2024/"><u>[New] Ultimate Color Tweaking Discover Top Tips for Enhancing Hues for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canon-printer-woes-here-are-your-five-easy-fixes-in-windows-11/"><u>Canon Printer Woes? Here Are Your Five Easy Fixes in Windows 11!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ceased-color-inaccuracy-issue-with-hp-photosmart-g450/"><u>Ceased Color Inaccuracy Issue with HP PhotoSmart G450</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/cutting-edge-windows-7-software-for-dell-inkjet-aios/"><u>Cutting Edge: Windows 7 Software for Dell Inkjet AIOs</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discover-the-power-of-revo-uninstaller-pro-5-advanced-app-removal-solutions/"><u>Discover the Power of Revo Uninstaller Pro 5: Advanced App Removal Solutions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enabling-duplex-print-for-office-hp-devices/"><u>Enabling Duplex Print for Office HP Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/from-unprintable-to-perfect-hp-printers-recovery-story/"><u>From Unprintable to Perfect: HP Printer's Recovery Story</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-ai-prompt-engineering-shape-career-stability-for-tech-enthusiasts/"><u>How Does AI Prompt Engineering Shape Career Stability for Tech Enthusiasts?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-link-your-hp-deskjet-3055-to-computer-wi-fi/"><u>How to Link Your HP DeskJet 3055 to Computer Wi-Fi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-g310-phone-without-password-by-drfone-android/"><u>How To Unlock Nokia G310 Phone Without Password?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/joining-process-attaching-hp-officejet-to-desktop-pcs/"><u>Joining Process: Attaching HP Officejet to Desktop PCs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/network-services-interrupted-printer-fails/"><u>Network Services Interrupted, Printer Fails</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/perfect-your-virtual-meeting-vibes-google-meet-background-tips/"><u>Perfect Your Virtual Meeting Vibes Google Meet Background Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solution-for-fixing-the-absent-msvcr80dll-file-on-windows-systems/"><u>Step-by-Step Solution for Fixing the Absent msvcr80.dll File on Windows Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-fcp-project-saving-cheat-sheet/"><u>Updated The Ultimate FCP Project Saving Cheat Sheet</u></a></li>
 </ul></div>
 

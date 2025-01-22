@@ -1,7 +1,7 @@
 ---
 title: Halted Outputs Ceased on Epson Model
-date: 2025-01-14T22:47:58.838Z
-updated: 2025-01-15T19:23:11.972Z
+date: 2025-01-20T04:11:33.286Z
+updated: 2025-01-21T20:32:42.368Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/6b2ec2941933023600c9882b03f190635c85fa9ba
  This is a frustrating issue. You can’t print anything with your Epson printer, and this may stop you from getting your work done. But don’t worry. It can be fixed…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## To fix your Epson printer not printing issue
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/6b2ec2941933023600c9882b03f190635c85fa9ba
 5. [**Clear all print jobs**](#e)
 6. [**Use another program to print your document**](#f)
 7. [**Check the status of your printer**](#g)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1: Check your printer connection
 
@@ -77,27 +73,27 @@ thumbnail: https://thmb.techidaily.com/6b2ec2941933023600c9882b03f190635c85fa9ba
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f05fa653ea6.png)
 2. Under**View by** , select**Large icons** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f05f6349879.jpg)
 3. Click**Devices and Printers** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f0600edfd3e.jpg)
 4. Right-click your printer, and select**Set as default printer** .  
 
-![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b30c9804bf35.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b30c9804bf35.jpg)
+
  Hopefully, this helps you solve your problem. But if not, there are five more fixes for you to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Update your printer driver
 
@@ -112,15 +108,15 @@ thumbnail: https://thmb.techidaily.com/6b2ec2941933023600c9882b03f190635c85fa9ba
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/epson-print.png)
 4. After updating, restart your computer to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Check the Print Spooler service
 
@@ -135,11 +131,15 @@ To check this service:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f29629de1e9.jpg)
 3. Make sure its Startup type is set to**Automatic** and its Service status is**Running** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f299190ca46.png)
 4. If not, set its Startup type to**Automatic** , and click the**Start** button.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f2984ab53d0.png)
@@ -147,10 +147,6 @@ To check this service:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f29d7e9e7e4.png)
 6. Check to see if your Epson printer is able to print now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If it does, great! But if not, there are three more fixes for you to try…
 
@@ -170,10 +166,6 @@ To clear your print jobs:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f29629de1e9.jpg)
 3. Click**Stop** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f2a1317d8a2.png)
 4. Minimize the Services window. Then open**File Explorer** (on your keyboard, press the**Windows logo key** and**E**  at the same time).  
 
@@ -186,6 +178,10 @@ To clear your print jobs:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f2ab14ccc48.jpg)
 7. Restore the Services window. Then double click the**Print Spooler** service.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/img_59f29629de1e9.jpg)
 8. Click the**Start** button. After the service is started, click**OK** to save the change and close this dialog.  
 
@@ -196,6 +192,10 @@ To clear your print jobs:
 11. Leave your printer for at least one minute.
 12. Plug the power cable to your printer and turn it on.
 13. Turn on your computer. Then check to see if your Epson printer is able to print.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 6: Use another program to print your document
 
@@ -228,24 +228,20 @@ To clear your print jobs:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/outube-earnings-unveiled-average-adsense-payments-per-thousand-views/"><u>[New] Youtube Earnings Unveiled Average AdSense Payments Per Thousand Views</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-turn-youtube-live-feeds-into-mp3-with-online-tools-2023/"><u>[Updated] In 2024, Turn YouTube Live Feeds Into MP3 with Online Tools 2023</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/connecting-canon-printer-to-win7-successful/"><u>Connecting Canon Printer to Win7 Successful</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/essential-steps-to-restore-your-canon-printers-function/"><u>Essential Steps to Restore Your Canon Printer's Function</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/help-needed-printers-unplanned-shift/"><u>Help Needed: Printer's Unplanned Shift</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-honor-magic-6-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Honor Magic 6 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-galaxy-a14-4g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Galaxy A14 4G</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mfc-9330-driver-quick-installation-steps/"><u>MFC-9330 Driver: Quick Installation Steps</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/optimal-use-of-zoom-features-on-chromebooks/"><u>Optimal Use of Zoom Features on ChromeBooks</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reestablish-printer-with-ease-and-speed/"><u>Reestablish Printer with Ease & Speed</u></a></li>
-<li><a href="https://driver-download.techidaily.com/seamless-integration-download-and-setup-drivers-for-your-hp-envy-5661/"><u>Seamless Integration: Download and Setup Drivers for Your HP Envy 566^1</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-leftright-earheadphone-audio-issues-in-windows/"><u>Solving Left/Right Earheadphone Audio Issues in Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamline-printing-speed-today/"><u>Streamline Printing Speed Today</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-inkjet-print-latency/"><u>Troubleshooting Inkjet Print Latency</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unclogging-xerox-paper-path-errors/"><u>Unclogging Xerox Paper Path Errors</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unexpected-printer-error-alert/"><u>Unexpected Printer Error Alert</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-unbiased-review-of-avs-video-editor-features-pricing-and-more/"><u>Updated 2024 Approved Unbiased Review of AVS Video Editor Features, Pricing, and More</u></a></li>
-<li><a href="https://win-studio.techidaily.com/yl-software-tutorial-modifying-safety-configurations-in-the-windows-control-panel-easily/"><u>YL Software Tutorial: Modifying Safety Configurations in the Windows Control Panel Easily</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/lear-cut-content-how-to-minimize-unwanted-elements-in-video/"><u>[New] Clear Cut Content How to Minimize Unwanted Elements in Video</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-how-to-hide-hashtags-on-instagram/"><u>[New] How to Hide Hashtags on Instagram</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-quick-steps-for-effective-double-take-filming/"><u>[Updated] In 2024, Essential Quick Steps for Effective Double Take Filming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-total-command-mastery-powerdirector-review-and-guide/"><u>2024 Approved Total Command Mastery PowerDirector Review & Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/achieve-lightning-fast-connectivity-across-your-household-with-orbis-wifi-6-tri-band-mesh-network-our-full-system-review/"><u>Achieve Lightning Fast Connectivity Across Your Household with Orbi's WiFi 6 Tri-Band Mesh Network - Our Full System Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-timers-swiftly-fix-scheduler-errors/"><u>Enhance Timers: Swiftly Fix Scheduler Errors</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-itel-a60-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Itel A60?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mending-non-operational-printers/"><u>Mending Non-Operational Printers</u></a></li>
+<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574160377-reconnect-your-silent-canon-printer-now/"><u>Reconnect Your Silent Canon Printer Now</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/repaired-network-communication-issue/"><u>Repaired Network Communication Issue</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revamp-printer-functions-install-new-hp-inkjets-software/"><u>Revamp Printer Functions: Install New HP Inkjets Software</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-disabled-scan-in-win11/"><u>Reviving Disabled Scan in Win11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-14-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 14 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-10-re-enable-scanned-device-connection/"><u>Windows 10: Re-Enable Scanned Device Connection</u></a></li>
 </ul></div>
 

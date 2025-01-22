@@ -1,7 +1,7 @@
 ---
 title: "Cracking the Code: Printer Error X97"
-date: 2025-01-10T16:44:17.943Z
-updated: 2025-01-15T17:22:56.310Z
+date: 2025-01-18T21:59:54.514Z
+updated: 2025-01-22T03:56:49.882Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 3. **[Run the Windows printer troubleshooter](#c)**
 4. **[Update your printer driver](#d)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reboot your printer
 
  A simple reboot can address many common printer issues. Try restarting your printer to see if that also works for you. Here is how:
@@ -51,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 **5)** (Don’t release the power button.) Plug the power cable back in to the power outlet and hold the button for another 1 minute.
 
 **6)** Release power button, then check your printer to see if you still get the error message.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Check your ink cartridges
 
@@ -90,25 +82,25 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-842.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Select **Troubleshooting** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-843.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Click **Use a printer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-844.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-845.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for your computer to automatically detect your printer issue, and then follow the on-screen instructions to fix it. If no printer issue is identified, try [**fix 4**](#d) , below.
 
@@ -118,15 +110,27 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-846.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Select **Troubleshooting settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-847.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click **Printer,**  and then click **Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-849.png)
 
  Wait for the troubleshooting process to be complete, then reopen your printer to check if this fixed your issue. If not, read on and check the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your printer driver
 
@@ -159,10 +163,6 @@ OR
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the printer driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -199,17 +199,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-crafting-a-resume-that-shines-in-design-industry/"><u>[New] In 2024, Crafting a Resume that Shines in Design Industry</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-crafting-your-dream-minecraft-house-with-ease/"><u>[Updated] Crafting Your Dream Minecraft House with Ease</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-x-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone X Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/corrected-code-b200/"><u>Corrected Code B200</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-harmony-color-calibrator/"><u>In 2024, Harmony Color Calibrator</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-xiaomi-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Xiaomi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ipad-pro-or-macbook-air-an-in-depth-comparison-to-help-decide-the-ideal-device-for-your-lifestyle/"><u>IPad Pro or MacBook Air: An In-Depth Comparison to Help Decide the Ideal Device For Your Lifestyle</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/making-offline-brother-printer-a-priority-again/"><u>Making Offline Brother Printer a Priority Again</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printers-no-more-missing-pages-heres-why/"><u>Printers: No More Missing Pages, Here's Why</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/solving-driver-installation-issues-a-step-by-step-guide-for-scanners-in-windows-insights-from-yl-computing/"><u>Solving Driver Installation Issues: A Step-by-Step Guide for Scanners in Windows - Insights From YL Computing</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tackling-non-responsive-printer-errors-in-nt-systems/"><u>Tackling Non-Responsive Printer Errors in NT Systems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/visual-installation-guide-for-a-new-canon-printer/"><u>Visual Installation Guide for a New Canon Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/error-fixing-unable-to-add-hp-d1360-drivers-in-windows-oses/"><u>[Error Fixing] Unable to Add HP D1360 Drivers in Windows OSes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-instagram-storytelling-integrating-fun-custom-emojis/"><u>[New] Mastering Instagram Storytelling Integrating Fun, Custom Emojis</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-webcam-use-for-professional-meeting-records-for-2024/"><u>[New] Mastering Webcam Use for Professional Meeting Records for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-advanced-tips-for-maximum-digital-storage/"><u>[Updated] 2024 Approved Advanced Tips for Maximum Digital Storage</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/addressing-printer-no-show-on-windows-me-edition/"><u>Addressing Printer No-Show on Windows ME Edition</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canon-mf4770n-driver-update-in-windows-1087/"><u>Canon MF4770n Driver Update in Windows 10/8/7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/decoding-ink-cartridge-errors-in-printers/"><u>Decoding Ink Cartridge Errors in Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enabling-correct-power-settings-on-devices/"><u>Enabling Correct Power Settings on Devices</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-6s-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 6s without Password?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/optimize-mf4770n-functionality-in-windows-ecosystems/"><u>Optimize MF4770n Functionality in Windows Ecosystems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quit-juxtaposing-voices-of-ai-siri-and-chatgpt-unveiled/"><u>Quit Juxtaposing Voices of AI: Siri and ChatGPT Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/undetectable-disk-hiding-methods-in-windows-10-and-11/"><u>Undetectable Disk Hiding Methods in Windows 10 & 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Smoothly Reactivated Scanner on Windows 11
-date: 2025-01-08T22:06:18.250Z
-updated: 2025-01-15T17:24:52.936Z
+date: 2025-01-17T00:02:51.131Z
+updated: 2025-01-21T17:33:51.845Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a9
 Read on. 🙂
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -31,6 +31,10 @@ Read on. 🙂
 1. [**Check the connection of your Printer**](#m1)
 2. [**Reinstall your printer driver**](#m2)
 3. [**Get rid of ‘Scan to computer is no longer activated’ error**](#m3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Check the connection of your Printer
 
@@ -54,17 +58,9 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf305cb04.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the open window, find and expand the**Print queues** catalog. Then right-click on your printer software to choose**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf9b29be7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Restart your computer to let Windows reinstall the printer driver for you automatically.
 
@@ -78,6 +74,10 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597af8932fbfe.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5976a910cca49.jpg)
@@ -86,6 +86,10 @@ You need to do these steps:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Get rid of ‘Scan to computer is no longer activated’ error
 
  If you can use you printer properly, however, the error message Scan to computer is not activated keeps poping-up every 2-5 minutes, it would annoys you deeply. Follow the steps below to get rid of it:  
@@ -93,10 +97,6 @@ You need to do these steps:
  1) On your keyboard, press**Ctrl** +**Shift** +**Esc** keys at the same time to open Task Manager. Here we will do some settings under both Process tab and Startup tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee238c2f07.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Find**scanToPCActivationApp** under**Processes** tab. Then right-click on it to choose**End task** .
 
@@ -107,7 +107,7 @@ You need to do these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee2dfcd442.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That’s all there is to it.
@@ -132,14 +132,21 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-azure-speech-to-text-a-step-by-step-guide/"><u>[New] Mastering Azure Speech-to-Text A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-exclusive-list-of-affordable-video-conferencing-apps-a-business-and-education-edition/"><u>[Updated] Exclusive List of Affordable Video Conferencing Apps A Business & Education Edition</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-viral-harmony-essential-soundtracks-for-popular-video-shorts/"><u>2024 Approved Viral Harmony Essential Soundtracks For Popular Video Shorts</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-get-an-offline-printer-running-on-vistaxp/"><u>How to Get an Offline Printer Running on Vista/XP</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/immediate-action-on-queued-print-processes/"><u>Immediate Action on Queued Print Processes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/immediate-plug-in-for-print-devices/"><u>Immediate Plug-In for Print Devices</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-window-wisdom-taking-precise-screen-captures/"><u>In 2024, Window Wisdom Taking Precise Screen Captures</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/techniques-to-fix-silent-hp-multi-fax-printers/"><u>Techniques to Fix Silent HP Multi-Fax Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixation-local-network-printer-spooler-stuck/"><u>[FIXATION] Local Network Printer Spooler Stuck</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-enhancing-smooth-playback-stop-frame-gaps-in-obs/"><u>[New] In 2024, Enhancing Smooth Playback Stop Frame Gaps in OBS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-transforming-text-the-illustrator-3d-approach/"><u>[New] Transforming Text The Illustrator 3D Approach</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-ultimate-resource-list-get-youtube-previews-and-templates-online/"><u>[New] Ultimate Resource List Get YouTube Previews and Templates Online</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/update-required-mp620-not-recognized-by-windows/"><u>[Update Required] MP620 Not Recognized by Windows</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-from-concept-to-reality-selecting-top-3d-animators-software/"><u>[Updated] From Concept to Reality Selecting Top 3D Animators' Software</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unlock-your-potential-one-thousand-new-likesmonth-for-2024/"><u>[Updated] Unlock Your Potential One Thousand New Likes/Month for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-crafting-captivating-presentations-by-adding-tunes/"><u>2024 Approved Crafting Captivating Presentations by Adding Tunes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/acancel-free-setup-for-wi-fi-connected-printers/"><u>Acancel-Free Setup for Wi-Fi Connected Printers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/advanced-mac-screen-plus-sound-capturer-extraordinaire/"><u>Advanced Mac Screen + Sound Capturer Extraordinaire</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-photo-printer-endless-white-paper-output/"><u>Epson Photo Printer: Endless White Paper Output</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-resolve-deathloop-game-wont-start/"><u>Fixing the Issue: How to Resolve 'Deathloop' Game Won't Start</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-pioneering-apps-for-synching-pictures-and-beats/"><u>In 2024, Pioneering Apps For Synching Pictures & Beats</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-more-white-pages-a-printers-triumph-story/"><u>No More White Pages: A Printer's Triumph Story</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/whiteout-printing-issue-plaguing-my-epson-model/"><u>Whiteout Printing Issue Plaguing My Epson Model</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/winnt-reactivate-sluggish-uncooperative-printer/"><u>WinNT: Reactivate Sluggish, Uncooperative Printer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Techniques for Reviving Inactive HP Copiers
-date: 2025-01-14T19:20:24.478Z
-updated: 2025-01-15T22:25:03.610Z
+date: 2025-01-19T22:15:35.293Z
+updated: 2025-01-22T03:00:10.718Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
  It can also be your Printer Spooler service, and you might need to restart the service for it to work again. In this post, we’ll walk you through the steps to fix the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -47,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 
 3) Check if your HP printer is able to print now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2\. Reinstall the printer driver
 
  When the HP printer is not responding, you can fix it easily by reinstalling the printer driver. Here’s how:
@@ -58,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
  1) On your keyboard, press the**Windows + R** and enter**devmgmt.msc** .
 
 ![devmgmt.msc](https://images.drivereasy.com/wp-content/uploads/2021/01/devmgmt.msc_.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Expand the**Printers** category. Then right-click your printer and select**Uninstall device** .
 
@@ -67,15 +67,15 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/confirm-deletetion.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Now the Printers category will be gone. You can either install the latest driver automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  within 2 clicks or use the following steps to do it manually if you like.
 
  4) Go to**Settings** \>**Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/devices.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) On the left pane, select**Printers & scanners** .
 
@@ -84,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
  6) Select your printer, and click**Remove device** . Select**Yes** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/remove-the-current-printer.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) Once complete, click**Add a printer a scanner** and select your printer.
 
@@ -104,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 
 If this method doesn’t do the trick, you can try the fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3\. Use the generic driver
 
  If the printer driver is already updated, but the HP printer is still not responding, there might be something wrong with the manufacturer’s driver. Therefore, you can use the genetic driver:
@@ -120,9 +112,17 @@ If this method doesn’t do the trick, you can try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-printer-driver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select**Browse my computer for drivers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/browse-my-computer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Choose**Let me pick from a list of available drivers on my computer** .
 
@@ -132,14 +132,10 @@ If this method doesn’t do the trick, you can try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/generic-drivers.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Now the driver should be updated to the generic device now. You can check the status of the printer. If you’re still having the HP printer not responding problem, you can perform a Windows Update or try the Windows built-in troubleshooter, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4\. Use the Windows Troubleshooter
@@ -150,6 +146,10 @@ If this method doesn’t do the trick, you can try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/control.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select**Large icons** , and click**Device and Printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/open-control-panel.jpg)
@@ -159,7 +159,7 @@ If this method doesn’t do the trick, you can try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/troubleshoot-printer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Follow on the on-screen instructions to complete the troubleshooting.
@@ -185,24 +185,22 @@ If this method doesn’t do the trick, you can try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-secrets-of-hosting-no-cost-seminars-on-the-worlds-largest-video-platform/"><u>[New] Secrets of Hosting No-Cost Seminars on the World’s Largest Video Platform</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-remove-default-podcast-listings-from-spotify-playlists/"><u>[Updated] 2024 Approved Remove Default Podcast Listings From Spotify Playlists</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-cinematic-experiences-on-your-desktop-with-windows-hdr/"><u>[Updated] Crafting Cinematic Experiences on Your Desktop with Windows HDR</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/boost-printing-speed-instantly/"><u>Boost Printing Speed Instantly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/boosting-drive-efficiency-mf4770n-and-windows-systems/"><u>Boosting Drive Efficiency: MF4770n & Windows Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-computer-secrets-on-toms-gear-hub/"><u>Discover Computer Secrets on Tom's Gear Hub</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-honor-90-pro-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Honor 90 Pro.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-install-new-drivers-for-your-microsoft-sculpt-keyboard/"><u>How To Seamlessly Install New Drivers For Your Microsoft Sculpt Keyboard</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-se-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone SE Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/new-fixed-version-printing-whole-documents/"><u>New Fixed Version: Printing Whole Documents</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/premium-free-fb-media-designer-toolkit-for-2024/"><u>Premium Free FB Media Designer Toolkit for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/rapid-removal-from-printer-job-backlog/"><u>Rapid Removal From Printer Job Backlog</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revive-print-functionality-top-5-tips-and-tricks-for-a-working-canon-printer-in-windows-11/"><u>Revive Print Functionality: Top 5 Tips & Tricks for a Working Canon Printer in Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamlining-hp-color-laser-all-in-one-installation/"><u>Streamlining HP Color Laser All-In-One Installation</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tips-for-restoring-hp-print-functionality/"><u>Tips for Restoring HP Print Functionality</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transform-powerpoint-slides-into-pdf-files-at-no-cost-a-comprehensive-guide/"><u>Transform PowerPoint Slides Into PDF Files at No Cost - A Comprehensive Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-guide-your-canon-printer-wont-print/"><u>Troubleshooting Guide: Your Canon Printer Won't Print</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ultimate-guide-preserving-your-favorite-tiktok-clips/"><u>Ultimate Guide: Preserving Your Favorite TikTok Clips</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/winning-strategies-for-installing-hp-printer-software/"><u>Winning Strategies for Installing HP Printer Software</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-mastering-tiktok-videos-editing-hacks-revealed/"><u>[New] In 2024, Mastering TikTok Videos Editing Hacks Revealed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-obs-camera-not-working-problem-solved-for-2024/"><u>[New] OBS Camera Not Working Problem [Solved] for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-turn-youtube-live-feeds-into-mp3-with-online-tools-2023/"><u>[Updated] Turn YouTube Live Feeds Into MP3 with Online Tools 2023</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-snapshot-sophistication-editing-to-dazzle/"><u>2024 Approved Snapshot Sophistication Editing to Dazzle</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-blueprint-of-dynamic-dialogue-in-scripts/"><u>2024 Approved The Blueprint of Dynamic Dialogue in Scripts</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-nvidia-graphics-drivers-compatible-versions-for-windows-10-11-7-and-8/"><u>Download NVIDIA Graphics Drivers: Compatible Versions for Windows 10, 11, 7 & 8</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eliminating-empty-pages-a-printers-success-story/"><u>Eliminating Empty Pages: A Printer's Success Story</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hidden-users-print-request-on-printer-noticed/"><u>Hidden User's Print Request on Printer Noticed</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-honor-x9a-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Honor X9a Phone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-the-art-of-anonymity-in-video-hiding-private-data/"><u>In 2024, The Art of Anonymity in Video Hiding Private Data</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reconnecting-scanner-to-windows-10-post-update/"><u>Reconnecting Scanner to Windows 10 Post-Update</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/scan-activation-error-resolved-in-win11/"><u>Scan Activation Error Resolved in Win11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/streamlining-print-devices-from-win-1011/"><u>Streamlining Print Devices From Win 10/11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/supercharge-dells-v305-inkjets-with-new-windows-driver/"><u>Supercharge Dell's V305 Inkjets with New Windows Driver</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-windows-xp11-non-stopping-print-service/"><u>Troubleshooting Windows XP/11: Non-Stopping Print Service</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ultimate-guide-to-get-the-latest-driver-updates-for-your-hp-envy-20-notebook/"><u>Ultimate Guide to Get the Latest Driver Updates for Your HP ENVY 20 Notebook</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/wireless-setup-for-officejet-pro-m110-series-a-complete-walkthrough/"><u>Wireless Setup for Officejet Pro M110 Series: A Complete Walkthrough</u></a></li>
 </ul></div>
 

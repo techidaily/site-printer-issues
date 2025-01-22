@@ -1,7 +1,7 @@
 ---
 title: "Quickly Rectify Non-Printing Problem: Top 5 Techniques to Aid Canon Print on Window 11"
-date: 2025-01-14T21:45:11.794Z
-updated: 2025-01-15T23:54:49.132Z
+date: 2025-01-17T03:38:43.366Z
+updated: 2025-01-22T03:53:24.814Z
 tags:
   - win11
   - win10
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/b00ef75a586fb477d808aa5f3851d99d406553f7b
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair-1200x742.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If your problem persists, try the fixes below.
@@ -45,7 +45,7 @@ If your problem persists, try the fixes below.
 5. **[Delete print jobs from the print queue](#fix5)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Check the connection status
@@ -78,7 +78,7 @@ If your printer is still not working properly, proceed to the next fix.
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/windows-defender-firewall.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the left side of the window, click**Turn Windows Defender Firewall on or off** .  
@@ -88,6 +88,10 @@ If your printer is still not working properly, proceed to the next fix.
  3) Tick**Turn off Windows Defender Firewall** for both public and private networks. Then click**OK** to confirm the changes.  
   
 ![turn off windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/turn-off-windows-defender-firewall-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **To configure firewall settings in other security software:**
 
@@ -108,7 +112,7 @@ You can disable the firewall in software by clicking the link below.
  There are mainly two ways you can update your printer driver:[manually](#option1) and [automatically](#option2) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Manually update your printer driver
@@ -116,6 +120,10 @@ You can disable the firewall in software by clicking the link below.
  Canon’s website is available to download Canon product drivers. You can go to their website to find and download the driver you need. Below, you’ll find out how to download and install the driver from the official website.
 
  Since Canon has several official websites like [Canon UK](https://www.canon.co.uk/) ,[Canon USA](https://www.usa.canon.com/) ,[Canon Europe](https://www.canon-europe.com/) , etc., they may not share the same model. So you can use the browser to search for the specific driver directly. Or you can go to the Support Center, enter the model of your device in the search field, and follow the instructions to download and install the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your printer driver (recommended)
 
@@ -137,10 +145,6 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Canon-G7020-1200x900.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -161,7 +165,7 @@ Here’s how you can update your drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select **Small icons** from the drop-down menu next to **View by** . Then, click **Devices and Printers** .  
@@ -171,10 +175,6 @@ Here’s how you can update your drivers with Driver Easy:
  4) Right-click your Canon printer and select**Set as default printer** from the list.  
   
 ![set Canon printer as the default printer](https://images.drivereasy.com/wp-content/uploads/2021/01/set-as-default-printer.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now perform printing tasks to check if it works.
 
@@ -216,6 +216,10 @@ Now perform printing tasks to check if it works.
   
 ![open the printers folder](https://images.drivereasy.com/wp-content/uploads/2021/01/printers-folder.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6) Delete any files in this folder.
 
 7) After deleting these files, close the**spool** folder.
@@ -223,10 +227,6 @@ Now perform printing tasks to check if it works.
 8) Go back to the**Services** window. Right click on the**Print Spooler** service and select**Start** .  
   
 ![start the printing services](https://images.drivereasy.com/wp-content/uploads/2021/01/start-printing-services.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now attempt a test print to check if it brings your printer back to normal state.
 
@@ -251,20 +251,21 @@ Now perform printing tasks to check if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-taking-control-mastering-the-art-of-background-removal/"><u>[New] In 2024, Taking Control Mastering the Art of Background Removal</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-musicreactionhits-yts-top-10-vids-of-23/"><u>[Updated] In 2024, The #MusicReactionHits YT's Top 10 Vids of '23</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-8-premium-free-srt-translation-services-online/"><u>[Updated] Unveiling 8 Premium Free SRT Translation Services Online</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-windows-11-photo-inspector/"><u>2024 Approved Prime Windows 11 Photo Inspector</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/best-source-to-download-the-newest-intel-hd-graphics-4400-drivers-today/"><u>Best Source to Download the Newest Intel HD Graphics 4400 Drivers Today</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/getting-in-tune-with-safety-strategies-for-finding-the-correct-key-code-for-your-car-radio/"><u>Getting in Tune with Safety: Strategies for Finding the Correct Key Code for Your Car Radio</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-d3derr-notavailable/"><u>How To Fix D3DERR NOTAVAILABLE</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/innovative-digital-editing-software-without-cost/"><u>Innovative Digital Editing Software Without Cost</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/installing-your-canon-printer-an-illustrated-tutorial/"><u>Installing Your Canon Printer - An Illustrated Tutorial</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/my-canon-printer-wont-respond-what-now/"><u>My Canon Printer Won't Respond, What Now?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printing-powerhouse-latest-updates-for-dell-printer-windows-7/"><u>Printing Powerhouse: Latest Updates for Dell Printer WIndows 7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/strategies-to-forget-a-connected-printer-in-win-1011/"><u>Strategies to Forget a Connected Printer in Win 10/11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshoot-windows-10-printer-software/"><u>Troubleshoot Windows 10 Printer Software</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshoot-windows-11-printing-glitches/"><u>Troubleshoot Windows 11 Printing Glitches</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/usb-printer-non-operation-on-windows-7-post-sleep/"><u>USB Printer Non-Operation on Windows 7 Post Sleep</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-one-on-one-youtube-streams-on-mobile-without-thousanders-club/"><u>[New] 2024 Approved One-on-One Youtube Streams on Mobile Without Thousanders' Club</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-survivors-guide-top-6-mc-house-plans-for-2024/"><u>[New] Survivor's Guide Top 6 MC House Plans for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-screen-recorder-for-youtube-for-2024/"><u>[Updated] Best Screen Recorder for YouTube for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-transform-your-instagram-vocal-identity-today/"><u>[Updated] In 2024, Transform Your Instagram Vocal Identity Today</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/activating-scanner-on-latest-win11-release/"><u>Activating Scanner on Latest Win11 Release</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/demystifying-quick-fixes-for-pcl-xl-glitches/"><u>Demystifying Quick Fixes for PCL XL Glitches</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-methods-for-transforming-your-mov-movies-into-versatile-mpeg-4-files/"><u>Easy Methods for Transforming Your MOV Movies Into Versatile MPEG-4 Files</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eliminating-ghost-prints-on-monitors/"><u>Eliminating Ghost Prints on Monitors</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epsons-unprintable-feature-fixed-quickly/"><u>Epson's Unprintable Feature Fixed Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-unsupported-platform-detected-error-while-installing-your-intel-serial-io-driver/"><u>Fixing the 'Unsupported Platform Detected' Error While Installing Your Intel Serial IO Driver</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-printer-blank-page-problem-solved/"><u>HP Printer Blank Page Problem Solved</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-artistry-selecting-from-6-best-nft-makers/"><u>Navigating Artistry Selecting From 6 Best NFT Makers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-all-pages-seamlessly/"><u>Print All Pages Seamlessly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/successfully-added-new-printer/"><u>Successfully Added New Printer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-2023s-must-have-mac-applications-curated-experts/"><u>Ultimate Guide to 2023'S Must-Have Mac Applications - Curated Experts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-editing-mp4-videos-on-mac-and-windows-a-complete-guide-for-all-levels/"><u>Updated Editing MP4 Videos on Mac and Windows A Complete Guide for All Levels</u></a></li>
 </ul></div>
 

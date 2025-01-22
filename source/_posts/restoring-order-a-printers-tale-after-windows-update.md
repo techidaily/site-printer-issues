@@ -1,7 +1,7 @@
 ---
 title: "Restoring Order: A Printer's Tale After Windows Update"
-date: 2025-01-12T23:01:10.056Z
-updated: 2025-01-15T22:26:36.884Z
+date: 2025-01-20T23:46:05.564Z
+updated: 2025-01-21T21:13:55.173Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/521e77f0b3c0772eff4a23cfd11435c9aec9bd0ff
 
 **Your printer stopped working after Windows 10 Update** ? You’re certainly not alone – hundreds of users are reporting it. The good news is, it’s not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix**printer stopped working after Windows 10 Update**
 
  Here are 5 fixes that have helped other users resolve the**printer stopped working after Windows 10 Update** problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/521e77f0b3c0772eff4a23cfd11435c9aec9bd0ff
 3. **[Update your printer driver](#F3)**
 4. **[Reset the print spooler](#F4)**
 5. **[Run Windows Troubleshooter](#F5)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Power cycle your printer
 
@@ -49,7 +49,7 @@ Here is how to power cycle your printer:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Make sure your printer is connected
@@ -59,10 +59,6 @@ Here is how to power cycle your printer:
  Once you have confirmed the connection, check to see if the printer not printing problem is fixed. If yes, then you’ve solved the problem. If it still doesn’t work, please try**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your printer driver
 
@@ -78,13 +74,13 @@ Here is how to power cycle your printer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap19-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-188.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -107,6 +103,10 @@ Here is how to do it:
  2) In the**Services** window, scroll down until you find**Print Spooler** , then right-click on it and click**Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-194.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) On your keyboard, press the**Windows logo key** and**R** at the same time, then type**%WINDIR%\\system32\\spool\\printers** and press**Enter** .
 
@@ -135,7 +135,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-208.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the**Troubleshoot** window, scroll down to the**Get up and running** section, click on**Printer** \>**Run the troubleshooter** .
@@ -165,19 +165,17 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/update-required-mp620-not-recognized-by-windows/"><u>[Update Required] MP620 Not Recognized by Windows</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-decoding-apples-leap-comparing-m1-pro-and-m1-max-capabilities-for-2024/"><u>[Updated] Decoding Apple's Leap Comparing M1 Pro & M1 Max Capabilities for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-v30-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo V30</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-poco-x6-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-photo-printer-endless-white-paper-output/"><u>Epson Photo Printer: Endless White Paper Output</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/in-depth-guide-to-superior-windows-search-without-ls/"><u>In-Depth Guide to Superior Windows Search without LS</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/navigating-through-hp-printer-setup-wizards-in-windows/"><u>Navigating Through HP Printer Setup Wizards in Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/offline-printer-status-solved-win7-hp-troubleshooting-guide/"><u>Offline Printer Status Solved: Win7 HP Troubleshooting Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-perplexing-problem-of-irreversible-errors-in-directx-technology/"><u>Solving The Perplexing Problem of Irreversible Errors in DirectX Technology</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-invisible-culprits-behind-chat-and-social-outages/"><u>The Invisible Culprits Behind Chat and Social Outages</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/whiteout-printing-issue-plaguing-my-epson-model/"><u>Whiteout Printing Issue Plaguing My Epson Model</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/winnt-reactivate-sluggish-uncooperative-printer/"><u>WinNT: Reactivate Sluggish, Uncooperative Printer</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-digital-content-upgrade-changing-numbers-on-tiktok-quickly/"><u>[New] 2024 Approved Digital Content Upgrade Changing Numbers on TikTok Quickly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-accelerate-or-slow-down-on-the-screen-netflix/"><u>[New] Accelerate or Slow Down on the Screen (Netflix)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-capturing-clarity-in-close-ups-the-filmmakers-kinemaster-guide/"><u>[New] Capturing Clarity in Close-Ups The Filmmaker’s Kinemaster Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-filmoras-top-10-for-seamless-image-transitions/"><u>[Updated] Filmora's Top 10 for Seamless Image Transitions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-twitch-recapture-method-restart-livestreams/"><u>2024 Approved Twitch Recapture Method Restart Livestreams</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/brother-cdw-wireless-setup-step-by-step/"><u>Brother CDW Wireless Setup: Step by Step</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/effortless-removal-of-external-printers/"><u>Effortless Removal of External Printers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/aging-youtubes-cc-for-high-quality-video-creation/"><u>Leveraging YouTube’s CC for High-Quality Video Creation</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-non-operational-driver-missing/"><u>Printer Non-Operational: Driver Missing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tips-to-surpass-chatgpts-character-threshold/"><u>Tips to Surpass ChatGPT's Character Threshold</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-reliable-multitasking-experience/"><u>Win11: Reliable Multitasking Experience</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-printer-spooler-stopped-functioning/"><u>Windows Printer Spooler: Stopped Functioning</u></a></li>
 </ul></div>
 

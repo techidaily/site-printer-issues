@@ -1,7 +1,7 @@
 ---
 title: Fixing Erratic Printer Spooler Behavior (Win 11 & Older)
-date: 2025-01-12T19:17:52.324Z
-updated: 2025-01-15T20:41:08.437Z
+date: 2025-01-19T02:26:54.582Z
+updated: 2025-01-21T19:42:30.615Z
 tags:
   - win11
   - win10
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
  If you’re on Windows 7 or 10, and you’re seeing this error saying your**print spooler isn’t running** , you’re not alone. Many Windows users are reporting it. But the good news is you can fix it. This article gives you 5 solutions to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s the print spooler?
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 4. **[Delete your print spooler files](#F4)**
 5. **[Update your printer driver](#F5)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Restart the Print Spooler service
 
 1) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run box.
@@ -54,7 +50,15 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a515fac43cb.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Check to see if your printer works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Check if the Print Spooler service is set to Automatic
 
@@ -68,10 +72,6 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a50a818f88a.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Right-click **Print Spooler** , then click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a54177dc82e.jpg)
@@ -83,7 +83,7 @@ To set it to auto:
 5) Check to see if your printer works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Change the Print Spooler Recovery options
@@ -97,6 +97,10 @@ To set it to auto:
 2) Type**services.msc** and press**Enter** to open the**Services** window:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a50a818f88a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-click **Print Spooler** , then click **Properties** .
 
@@ -118,13 +122,13 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a50a818f88a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Click **Print Spooler** , then **Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a5269d7216e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click**—** to minimize the Services window:
 
@@ -142,27 +146,27 @@ To set it to auto:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/empty.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run box.
 
 9) Type control and press**Enter** to open Control Panel:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a53a72eb0b7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  10) On the open window, choose to view by**Catalog** . Then click**View devices and printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/control-Panel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  11) Right-click on your printer and click **Remove device** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/REMOVE.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  12) Click**Services** icon in your taskbar to return to Services window:
 
@@ -173,7 +177,7 @@ To set it to auto:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a538386c9a4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  14)Click the **Devices and Printers icon**  in your taskbar to return to the Devices and Printers window:
@@ -187,7 +191,7 @@ To set it to auto:
 16) Check to see if your printer works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 5: Update your printer driver
@@ -203,10 +207,6 @@ To set it to auto:
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975af310cda9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Click the **Update**  button next to a flagged printer driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
@@ -233,21 +233,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hasty-guide-from-raw-images-to-high-quality-youtube-thumbnail-art/"><u>[New] 2024 Approved Hasty Guide From Raw Images to High-Quality YouTube Thumbnail Art</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-essential-youtube-strategies-compiling-10-basic-yet-engaging-ideas-for-everyone/"><u>[New] Essential YouTube Strategies Compiling 10 Basic Yet Engaging Ideas for Everyone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-zooming-techniques-for-detailed-cinematography/"><u>[New] In 2024, Zooming Techniques for Detailed Cinematography</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-secure-photos-the-best-apps-decoded/"><u>[New] Secure Photos The Best Apps Decoded</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-insiders-guide-to-crafting-powerful-youtube-banners/"><u>[New] The Insider's Guide to Crafting Powerful YouTube Banners</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-desktop-recording-head-to-head-obs-vs-shadowplay/"><u>[Updated] In 2024, Desktop Recording Head-to-Head OBS Vs. ShadowPlay</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-tiktok-content-creation-navigating-copyright-rules/"><u>2024 Approved TikTok Content Creation Navigating Copyright Rules</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/addressed-printer-no-start-error/"><u>Addressed Printer No Start Error</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/argumentative-review-5-compelling-reasons-for-a-new-ipad/"><u>Argumentative Review: 5 Compelling Reasons for a New iPad</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/dell-inkjet-aio-updater-for-win7/"><u>Dell Inkjet AIO Updater for Win7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ended-canons-code-b200-misstep/"><u>Ended Canon's Code B200 Misstep</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-display-apple-iphone-14-pro-max-screen-on-pc-easily-drfone-by-drfone-ios/"><u>How to Display Apple iPhone 14 Pro Max Screen on PC Easily? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcame-hp-printers-spooler-error/"><u>Overcame HP Printer's Spooler Error</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/preventing-disruptions-from-windows-710s-printer-service/"><u>Preventing Disruptions From Windows 7/10'S Printer Service</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/steps-to-stop-intermittent-print-job-failures-windows/"><u>Steps to Stop Intermittent Print Job Failures (Windows)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/zeroing-in-on-printer-default-error-0x00000709-victory/"><u>Zeroing In on Printer Default Error 0X00000709 Victory</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-cutting-edge-capture-selecting-top-smartphone-cameras-in-high-res-video/"><u>[New] 2024 Approved Cutting Edge Capture Selecting Top Smartphone Cameras in High-Res Video</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-remove-recommended-podcasts-from-spotify/"><u>[New] How To Remove Recommended Podcasts From Spotify</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-essential-urls-for-accessing-copyright-free-gaming-scores/"><u>[New] In 2024, Essential URLs for Accessing Copyright-Free Gaming Scores</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-tunetrekker-venturing-past-dacast/"><u>[Updated] In 2024, TuneTrekker Venturing Past DaCast</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-record-twitch-stream-5-solutions/"><u>[Updated] Record Twitch Stream [5 Solutions]</u></a></li>
+<li><a href="https://games-able.techidaily.com/android-apps-adapt-to-linux-ecosystem/"><u>Android Apps Adapt to Linux Ecosystem</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/boost-print-speed-and-quality-download-hp-officejet-firmware/"><u>Boost Print Speed & Quality - Download HP Officejet Firmware</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/decoding-laser-printer-errors/"><u>Decoding Laser Printer Errors</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/diagnose-and-fix-your-print-job-woes-with-expert-tips-from-yl-computing/"><u>Diagnose and Fix Your Print Job Woes with Expert Tips From YL Computing</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enabling-duplex-printing-on-your-hp-printer-setup/"><u>Enabling Duplex Printing on Your HP Printer Setup</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhance-efficiency-printer-software-update-for-dell-and-win7/"><u>Enhance Efficiency: Printer Software Update for Dell & Win7</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723004507464-epic-games-launcher-black-screen-trouble-heres-how-you-can-get-it-working-again/"><u>Epic Games Launcher Black Screen Trouble? Here’s How You Can Get It Working Again</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/new-mf4770n-software-package-for-windows-users/"><u>New MF4770n Software Package for Windows Users</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-hijacked-multiple-sessions-spotted/"><u>Printer Hijacked? Multiple Sessions Spotted</u></a></li>
 </ul></div>
 

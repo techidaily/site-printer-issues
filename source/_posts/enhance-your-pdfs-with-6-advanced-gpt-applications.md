@@ -1,7 +1,7 @@
 ---
 title: Enhance Your PDFs with 6 Advanced GPT Applications
-date: 2025-01-13T16:59:30.582Z
-updated: 2025-01-16T00:16:09.285Z
+date: 2025-01-20T20:47:30.244Z
+updated: 2025-01-21T21:03:56.211Z
 tags:
   - chatgpt
   - open-ai
@@ -16,7 +16,7 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 ## ChatGPT Enhanced with New Capabilities - Key Attractions Revealed
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Image Input and Output Capabilities
 
  ChatGPT is now capable of taking images as input and generating images as output! The new image input capability allows users to upload images directly into their chat interactions with ChatGPT. This feature expands the ways users can seek help and share information, making it possible to discuss visual content seamlessly.
@@ -46,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
  In this example, I asked ChatGPT for recipes for the items visible in the fridge.
 
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
 
@@ -69,13 +69,13 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
 
@@ -87,6 +87,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Upgraded Code Analysis
 
  The previous ChatGPT Code Interpreter is now called Advanced Data Analysis (ADA). Since it is already out of beta and ChatGPT plugins are no longer available, ADA is now an integrated feature within both ChatGPT-4 and ChatGPT-4o, and both Free and Plus tier users now have this feature. No plugin or activation is needed; simply prompt ChatGPT to run, analyze, or write code, and it should do the rest for you.
@@ -96,7 +100,7 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
@@ -106,10 +110,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ## Temporary Chat
 
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.
 
@@ -132,18 +132,18 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-fullview-media-collaboration-guidebook-for-2024/"><u>[New] FullView Media Collaboration Guidebook for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-how-to-do-screen-recording-on-ipad/"><u>[Updated] 2024 Approved How to Do Screen Recording on iPad?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-xiaomi-13t-pro-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Xiaomi 13T Pro.</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/correct-misaligned-images-from-w11-printers/"><u>Correct Misaligned Images From W11 Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epsons-white-paper-trap-how-to-prevent-it/"><u>Epson's White Paper Trap: How to Prevent It?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guidelines-to-reactivate-dormant-hp-printers/"><u>Guidelines to Reactivate Dormant HP Printers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-y27-4g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Y27 4G</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-incrementally-lower-decibels-in-logic-pro/"><u>In 2024, How to Incrementally Lower Decibels in Logic Pro</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-recognition-failure-hp-driver-missing-in-win1011/"><u>Printer Recognition Failure: HP Driver Missing in WIN10/11</u></a></li>
-<li><a href="https://win-trending.techidaily.com/professional-cat-themes-for-your-pc-premium-wallpapers-images-and-designs-with-yl-software/"><u>Professional Cat Themes for Your PC: Premium Wallpapers, Images & Designs with YL Software</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revive-your-canon-printers-print-function-with-these-5-windows-11-tricks/"><u>Revive Your Canon Printer's Print Function with These 5 Windows 11 Tricks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/streamlined-sonic-experience-techniques-to-connect-and-configure-multiple-bluetooth-speakers-together/"><u>Streamlined Sonic Experience: Techniques to Connect and Configure Multiple Bluetooth Speakers Together</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-motorola-moto-g14-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Motorola Moto G14.</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-hasten-haste-in-videos-with-top-apps-android/"><u>[New] Hasten Haste in Videos with Top Apps, Android</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-peering-into-youtube-interactive-threads/"><u>[Updated] In 2024, Peering Into YouTube Interactive Threads</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/beginner-friendly-gaming-meets-health-discover-how-nintendo-systems-can-boost-your-workout-routine/"><u>Beginner-Friendly Gaming Meets Health: Discover How Nintendo Systems Can Boost Your Workout Routine</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-not-detected-windows-print-error/"><u>Driver Not Detected: Windows Print Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicating-windows-10-screen-phantasm/"><u>Eradicating Windows 10 Screen Phantasm</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/exploring-efficient-methods-printer-and-laptop-harmony-achieved/"><u>Exploring Efficient Methods: Printer & Laptop Harmony Achieved</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/finding-hp-printer-drivers-on-windows-1011/"><u>Finding HP Printer Drivers on Windows 10/11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-a-print-device-that-wont-blink-back/"><u>Fixing a Print Device That Won't Blink Back</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-voyage-to-greatness-youtubes-best-travel-vids/"><u>In 2024, Voyage to Greatness YouTube's Best Travel Vids</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-non-functional-screen-savers-on-windows-11-devices-quickly/"><u>Resolve Non-Functional Screen Savers on Windows 11 Devices Quickly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/silent-shutdown-wake-up-with-these-troubleshooting-steps/"><u>Silent Shutdown? Wake Up With These Troubleshooting Steps</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/speedy-updates-for-sluggish-printers/"><u>Speedy Updates for Sluggish Printers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-genshin-impact-easy-steps-when-facing-start-up-problems/"><u>Troubleshoot Genshin Impact: Easy Steps When Facing Start-Up Problems</u></a></li>
 </ul></div>
 

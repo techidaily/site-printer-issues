@@ -1,7 +1,7 @@
 ---
 title: Overcoming Inactive Scanner on Windows 11
-date: 2025-01-11T01:11:50.958Z
-updated: 2025-01-15T18:08:39.147Z
+date: 2025-01-15T17:17:24.875Z
+updated: 2025-01-22T00:43:36.521Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ Read on. 🙂
 2. [**Reinstall your printer driver**](#m2)
 3. [**Get rid of ‘Scan to computer is no longer activated’ error**](#m3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Check the connection of your Printer
 
  Once the error pops up on your Windows 10, and you cannot print the files with your printer, please check the connection between your printer and computer first.
@@ -44,6 +40,10 @@ Read on. 🙂
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Reinstall your printer driver
 
  A corrupted driver software can also cause the message pop up. In such case, you can try to solve it through updating the printer driver.
@@ -54,9 +54,17 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf305cb04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the open window, find and expand the**Print queues** catalog. Then right-click on your printer software to choose**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf9b29be7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Restart your computer to let Windows reinstall the printer driver for you automatically.
 
@@ -71,24 +79,16 @@ You need to do these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597af8932fbfe.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5976a910cca49.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Get rid of ‘Scan to computer is no longer activated’ error
 
@@ -107,7 +107,7 @@ You need to do these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee2dfcd442.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That’s all there is to it.
@@ -132,14 +132,24 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-discover-reliable-free-mobile-communication-tools-with-advanced-security-features/"><u>[New] 2024 Approved Discover Reliable Free Mobile Communication Tools with Advanced Security Features</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-vlc-video-record-a-critique/"><u>[Updated] In 2024, VLC Video Record A Critique</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-a-quick-guide-to-firefoxs-innovative-pip-mode/"><u>2024 Approved A Quick Guide to Firefox's Innovative PIP Mode</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/breathe-new-life-into-non-printing-brother-printer-in-windows-1011/"><u>Breathe New Life Into Non-Printing Brother Printer in Windows 10/11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enabling-duplex-print-on-hp-workstation/"><u>Enabling Duplex Print on HP Workstation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974606177-lenovo-tap-latency-issue-now-fixed/"><u>Lenovo Tap Latency Issue, Now Fixed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolve-print-queue-hang-up-promptly/"><u>Resolve Print Queue Hang-Up Promptly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574161603-successfully-installed-printer/"><u>Successfully Installed Printer.</u></a></li>
-<li><a href="https://discover-help.techidaily.com/1726027315755-tverpc/"><u>TVerPC上での動画下落に困ったとき、こうするべし</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-efficient-use-of-vlc-for-media-creation/"><u>[New] 2024 Approved Efficient Use of VLC for Media Creation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-enriched-browsing-experience-with-these-top-5-chrome-tools/"><u>[Updated] Enriched Browsing Experience with These Top 5 Chrome Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-find-the-best-online-subtitle-converters-for-no-cost/"><u>2024 Approved Find the Best Online Subtitle Converters for No Cost</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-xiaomi-redmi-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/aerial-mastery-reviewed-the-essence-of-gopro-karma/"><u>Aerial Mastery Reviewed The Essence of GoPro Karma</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968416950-download-and-setup-brother-hl-3170cdw-driver-software-in-minutes/"><u>Download & Setup: Brother HL-^3170cdw Driver Software in Minutes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/error-b200-no-longer-exists/"><u>Error B200 No Longer Exists</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-stop-unwanted-blank-page-issues-on-epson/"><u>How to Stop Unwanted Blank Page Issues on Epson</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-unplug-the-mystery-behind-canon-printer-offline/"><u>How To Unplug the Mystery Behind Canon Printer Offline</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-navigating-through-8-prime-free-srt-translation-options/"><u>In 2024, Navigating Through 8 Prime Free SRT Translation Options</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-youtube-full-length-view-control-for-2024/"><u>Mastering YouTube Full-Length View Control for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mfc-9330-wireless-setup-guide-for-brother-fans/"><u>MFC-9330 Wireless Setup Guide for Brother Fans</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-print-error-on-hp-deskjet-4120x-resolved/"><u>No-Print Error on HP DeskJet 4120X Resolved</u></a></li>
+<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-order-a-printers-tale-after-windows-update/"><u>Restoring Order: A Printer's Tale After Windows Update</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reveal-missing-printer-on-your-windows-system/"><u>Reveal Missing Printer on Your Windows System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-benefits-why-switching-from-chatgpt-to-claude-3-is-a-smart-move/"><u>Top Benefits: Why Switching From ChatGPT to Claude 3 Is a Smart Move</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshoot-non-printing-brother-printer-in-windows-oses/"><u>Troubleshoot Non-Printing Brother Printer in Windows OSes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unblocking-hp-inkjet-on-windows-11-offline/"><u>Unblocking HP Inkjet on Windows 11 Offline</u></a></li>
 </ul></div>
 

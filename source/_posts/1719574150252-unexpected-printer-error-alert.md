@@ -1,7 +1,7 @@
 ---
 title: Unexpected Printer Error Alert!
-date: 2025-01-12T19:38:06.109Z
-updated: 2025-01-15T23:39:41.931Z
+date: 2025-01-19T02:06:37.702Z
+updated: 2025-01-21T21:02:12.287Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 ## Unexpected Printer Error Alert
 
  Recently quite a few Windows users are reporting the **Your Printer has Experienced an Unexpected Configuration Problem** error. What happens is that their printer does not print anything, and the message pops up along with codes such as**0x80070002,** **0x80040154** . If you also encounter this situation, don’t worry – it’s often not hard to fix at all…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix Your Printer has Experienced an Unexpected Configuration Problem
 
@@ -36,15 +40,15 @@ Here is how to do it:
 
  1) On your keyboard, press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and**R** at the same time, then type**ms-settings:printers** and press**Enter** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-56.png)
 
  2) Click**the + icon** beside**Add a printer or scanner** . Then wait for your printer to show up again and click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-57.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Now that you have re-added your printer, check your printer to see if you can get it running without error. If yes, then congrats! If the error still pops up, please try**Fix 2** , below.
 
@@ -68,6 +72,10 @@ Here is how to make your printer shareable:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-50.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Try printing something and see if the error still pops up. If the error doesn’t occur again, then you’ve solved the problem! If the error still pops up, please try**Fix 3** , below.
 
 ---
@@ -86,12 +94,16 @@ Here is how to make your printer shareable:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap19-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-70.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -101,6 +113,10 @@ Here is how to make your printer shareable:
 5) Again, print a document on your printer to see if the **Your Printer has Experienced an Unexpected Configuration Problem** error is resolved. If yes, then great! If the error still happens, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Clear Spooler Files
 
@@ -113,10 +129,6 @@ Here are the steps:
  1) On your keyboard, press the**Windows logo key** and**R** at the same time, then type **services.msc**  and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-193.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) In the **Services** window, scroll down until you find **Print Spooler** , then right-click on it and click **Stop** .
 
@@ -140,16 +152,12 @@ Keep the Services window open and proceed with the following steps.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-63.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In**Startup type** , select**Automatic** and click**Start** . Then click**OK** to apply the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-64.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Restart your computer and test to see if the error is fixed.
@@ -157,10 +165,6 @@ Keep the Services window open and proceed with the following steps.
  Still no joy? Please try**Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Run Windows Troubleshooter
 
@@ -170,16 +174,12 @@ Keep the Services window open and proceed with the following steps.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-208.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the **Troubleshoot**  window, scroll down to the **Get up and running**  section, click on **Printer** \> **Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-209.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait for Windows to diagnose the problem and follow the on-screen instructions to resolve the **Your Printer has Experienced an Unexpected Configuration Problem** error.
@@ -205,19 +205,22 @@ Keep the Services window open and proceed with the following steps.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/compatibility-issue-canon-pixma-mp620-and-win10-not-linked/"><u>[Compatibility Issue] Canon Pixma MP620 & WIN10 Not Linked</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-expert-tips-for-mastering-iphones-sound-capture/"><u>[New] Expert Tips for Mastering iPhone's Sound Capture</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/astery-over-moments-jake-pauls-youtube-saga/"><u>[New] Mastery Over Moments Jake Paul's YouTube Saga</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-weaving-external-pages-into-your-insta-narrative-for-2024/"><u>[New] Weaving External Pages Into Your Insta Narrative for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-proiphone-photo-techniques-for-beginners/"><u>[Updated] Proiphone Photo Techniques for Beginners</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-stream-instagram-and-youtube-a-step-by-step-guide-for-2024/"><u>[Updated] Stream Instagram & YouTube A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719580959940-17-spanish-sayings-that-will-make-you-sound-like-a-native/"><u>17 Spanish Sayings That Will Make You Sound Like A Native</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/accelerated-release-of-print-queued-tasks/"><u>Accelerated Release of Print Queued Tasks</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/ballot-bonanza-prime-election-strategy-games-for-2024/"><u>Ballot Bonanza Prime Election Strategy Games for 2024</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/chinese-australian-intellectual-yang-faces-terminal-illness-in-detention-human-rights-activists-urge-china-for-immediate-release-and-medical-care/"><u>Chinese-Australian Intellectual Yang Faces Terminal Illness in Detention; Human Rights Activists Urge China for Immediate Release & Medical Care</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-print-troubleshoot-0x97/"><u>Epson Print Troubleshoot: 0X97</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-revive-unresponsive-canon-printer/"><u>How to Revive Unresponsive Canon Printer?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mastering-the-art-of-fixing-printer-problems-after-win-10/"><u>Mastering the Art of Fixing Printer Problems After Win 10</u></a></li>
-<li><a href="https://article-files.techidaily.com/secretive-suggestions-for-enhanced-vlc-usage-for-2024/"><u>Secretive Suggestions for Enhanced VLC Usage for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-effortless-srt-conversion-the-ultimate-txt-solution-in-a-flash/"><u>[New] 2024 Approved Effortless SRT Conversion The Ultimate TXT Solution in a Flash</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enhancing-youtube-videos-with-professional-techniques-using-wmm-for-2024/"><u>[New] Enhancing YouTube Videos with Professional Techniques Using WMM for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unveiling-the-role-of-authenticity-in-online-self-portraits/"><u>[Updated] 2024 Approved Unveiling the Role of Authenticity in Online Self-Portraits</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-googleplus-photo-frame-settings/"><u>[Updated] In 2024, Google+ Photo Frame Settings</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/bridging-gap-fast-printer-connection/"><u>Bridging Gap: Fast Printer Connection</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-fault-code-0x97-uncovered-and-resolved/"><u>Epson Fault Code 0X97 Uncovered & Resolved</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/express-yourself-authentically-on-instagram-with-these-captions-for-2024/"><u>Express Yourself Authentically on Instagram with These Captions for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-in-effect-for-b200/"><u>Fix In Effect for B200</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-f54-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Samsung Galaxy F54 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/keep-your-hp-4630-at-the-forefront-with-timely-driver-upgrades/"><u>Keep Your HP 4630 at the Forefront with Timely Driver Upgrades</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/metodi-veloci-e-semplici-per-eliminare-gli-elementi-inutilizzati-dal-tuo-archivio-outlook/"><u>Metodi Veloci E Semplici per Eliminare Gli Elementi Inutilizzati Dal Tuo Archivio Outlook</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mf4770n-enhanced-support-for-windows-versions-108/"><u>MF4770n Enhanced Support for WIndows Versions 10/8</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/paper-trail-points-to-unidentified-user/"><u>Paper Trail Points to Unidentified User</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/steps-to-stop-and-resolve-printer-spooling-trouble/"><u>Steps to Stop and Resolve Printer Spooling Trouble</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-cartridge-replacement-failures/"><u>Troubleshooting Cartridge Replacement Failures</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-your-iphones-voicemail-function-effective-strategies-for-quick-repair-9-ways/"><u>Unlock Your iPhone's Voicemail Function: Effective Strategies for Quick Repair (9 Ways)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-edit-like-a-pro-video-file-editing-on-mac-os-x-yosemite-made-easy/"><u>Updated In 2024, Edit Like a Pro Video File Editing on Mac OS X Yosemite Made Easy</u></a></li>
 </ul></div>
 

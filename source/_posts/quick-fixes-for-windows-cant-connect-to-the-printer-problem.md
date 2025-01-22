@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for 'Windows Can't Connect to the Printer' Problem
-date: 2025-01-08T21:38:34.719Z
-updated: 2025-01-15T22:15:20.198Z
+date: 2025-01-14T18:03:39.874Z
+updated: 2025-01-22T01:36:55.991Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ When you are trying to add a network shared printer, if you receive message “W
 [**Solution 4: Copy “mscms.dll” Manually**](https://tools.techidaily.com/drivereasy/download/)   
 [**Solution 5: Delete a Subkey**](https://tools.techidaily.com/drivereasy/download/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##   **Solution 1: Restart Print Spooler Service** 
 
 Follow steps below to stop Print Spooler service then start it again.
@@ -46,10 +50,6 @@ Follow steps below to stop Print Spooler service then start it again.
  2\. Type **services.msc** in the run box and click**OK** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592282c0cbfe5.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3\. In the**Name** list, locate and double-click on service **Print Spooler** .
 
@@ -64,7 +64,7 @@ Follow steps below to stop Print Spooler service then start it again.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5922837fce75a.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5\. Click**OK** button.
@@ -86,7 +86,7 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592284c312e63.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4\. Select**Add a network, wireless or Bluetooth printer** .
@@ -96,10 +96,6 @@ Follow these steps:
  5\. Select**Create a new port** , change the “Type of port” to**Local Port** then click**Next** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5922878323a31.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6.**Enter a port name** in the box. The port name is the printer’s address. The address format is **\\\\IP address or the Computer Name\\Printer’s Name** (refer to the following screen). Then click**OK** button.
 
@@ -123,13 +119,13 @@ Follow steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59228fef1fe19.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. In the left pane, click**All Drivers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59229062a2cbc.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. In the right pane, right-click on the printer driver and click**Delete** on the pop-up menu. 
 
@@ -145,15 +141,15 @@ Follow steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592292ec90631.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ##  Solution 4: Copy “mscms.dll” Manually
 
  1\. Open**C:\\Windows\\system32** and find the file “**mscms.dll** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592294768b3e2.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2\. Copy the file to the following path:
 
@@ -175,6 +171,10 @@ Follow steps below:
  3\. Type **regedit** in the run box and click**OK** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5922973c415cc.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. Expand   **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Print\\Providers\\Client Side Rendering Print Provider** . Right-click on **Client Side Rendering Print Provider** and select**Delete.** 
 
@@ -201,16 +201,21 @@ Follow steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-proving-ground-8-outstanding-tablets-beyond-filmoras-borders/"><u>[New] 2024 Approved Proving Ground 8 Outstanding Tablets Beyond Filmora's Borders</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-harmonizing-your-browsing-experience-with-automatic-youtube-playback-on-facebook/"><u>[New] In 2024, Harmonizing Your Browsing Experience with Automatic YouTube Playback on Facebook</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-elevate-your-storytelling-on-snapchat-with-top-tips/"><u>[Updated] In 2024, Elevate Your Storytelling on Snapchat with Top Tips</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-zero-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-reestablish-link-with-your-canon-printer/"><u>How to Reestablish Link With Your Canon Printer</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-the-blueprint-composing-a-hit-mukbang-video/"><u>In 2024, The Blueprint Composing a Hit Mukbang Video</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/installation-tips-for-seamlessly-connecting-your-hp-officejet-4500i/"><u>Installation Tips for Seamlessly Connecting Your HP Officejet 4500I</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/mastering-the-art-of-shortening-videos-for-instagram-mac/"><u>Mastering the Art of Shortening Videos for Instagram (Mac)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/non-responsive-printer-halted-what-to-do/"><u>Non-Responsive Printer Halted, What to Do?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/top-effort-for-quick-setup-youtube-biz-channel-ideas-for-2024/"><u>Top Effort for Quick Setup YouTube Biz Channel Ideas for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/usb-printer-fails-to-respond-post-suspend-win7/"><u>USB Printer Fails to Respond Post Suspend, Win7</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-best-free-ad-less-android-video-editors/"><u>[New] 2024 Approved Best Free, Ad-Less Android Video Editors</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-harnessing-hype-strategies-to-elevate-your-instagram-presence/"><u>[New] 2024 Approved Harnessing Hype Strategies to Elevate Your Instagram Presence</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-enhance-your-presence-how-to-change-voice-effectively-on-ig/"><u>[New] Enhance Your Presence How to Change Voice Effectively on IG</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-from-amateur-to-expert-iphones-audio-recording-journey/"><u>2024 Approved From Amateur to Expert IPhone's Audio Recording Journey</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bypassing-the-bundle-securing-internet-access-without-a-phone-line-or-cable-connection/"><u>Bypassing the Bundle: Securing Internet Access without a Phone Line or Cable Connection</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-fault-code-0x97-uncovered-and-resolved/"><u>Epson Fault Code 0X97 Uncovered & Resolved</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/full-screen-magic-trick-solved/"><u>Full Screen Magic Trick Solved</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-hp-stream-drivers-downloads-for-speedy-setup/"><u>Hassle-Free HP Stream Drivers Downloads for Speedy Setup</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/keep-your-hp-4630-at-the-forefront-with-timely-driver-upgrades/"><u>Keep Your HP 4630 at the Forefront with Timely Driver Upgrades</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mf4770n-enhanced-support-for-windows-versions-108/"><u>MF4770n Enhanced Support for WIndows Versions 10/8</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-print-server-disconnect/"><u>Overcoming Print Server Disconnect</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/paper-trail-points-to-unidentified-user/"><u>Paper Trail Points to Unidentified User</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reinstating-print-spooler-services-correctly/"><u>Reinstating Print Spooler Services Correctly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-basics-of-ray-tracing-in-computer-graphics-a-complete-overview/"><u>The Basics of Ray Tracing in Computer Graphics – A Complete Overview</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/tiny-snippets-deciphered-important-facts/"><u>Tiny Snippets Deciphered Important Facts</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshoot-epson-printer-error-codes-on-w11/"><u>Troubleshoot Epson Printer Error Codes on W11</u></a></li>
 </ul></div>
 

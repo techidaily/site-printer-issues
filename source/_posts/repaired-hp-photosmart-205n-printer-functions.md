@@ -1,7 +1,7 @@
 ---
 title: Repaired HP Photosmart 205N Printer Functions
-date: 2025-01-08T22:18:10.036Z
-updated: 2025-01-15T22:56:11.270Z
+date: 2025-01-18T03:47:32.324Z
+updated: 2025-01-22T03:18:04.679Z
 tags:
   - win11
   - win10
@@ -48,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/10/de-update-all-hp-printer.jpg)
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -68,17 +68,21 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb867beb0b.png)
 2. In Control Panel select**Devices and Printers** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 3. In the**Printers** section, right-click on your HP printer and then select**Set as default printer** . Click on**Yes** if prompted.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5476a01d.png)
 4. There is now a tick below the icon of your HP printer. That means it is now set as the default printer.  
 
-![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5fe2a9b6.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5fe2a9b6.png)
 
 ## Fix 4: Cancel all print jobs
 
@@ -91,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e955d3a5d.png)
 3. Open the**Printer** menu and then select**Open As Administrator** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea27610b0.png)
 4. Open**Printer** menu again. This time select**Cancel All Documents** .  
 
@@ -102,15 +102,11 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
 5. **Confirm** your action.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987eaa0030f9.png)
 6. You have canceled all print jobs of your printer. Now check and see if it can run normally.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Check printer status
 
@@ -140,7 +136,7 @@ Here’s how to use Fortect to repair system files on your PC:
 4. If you need to proceed with the repair function, you’ll be required to purchase the full version.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Restart your computer for the changes to take effect.
@@ -158,12 +154,16 @@ Check your computer to see if your printer works properly.
 2. Click**Yes** when prompted to confirm.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/sfc-scannow.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the printer works properly.
@@ -185,24 +185,24 @@ Check your computer to see if your printer works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-comprehensive-overview-mastering-the-art-of-screen-capturing-with-aiseesoft/"><u>[New] Comprehensive Overview Mastering the Art of Screen Capturing with Aiseesoft</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-simplified-guide-to-switching-clownfish-voices-on-win-for-2024/"><u>[New] Simplified Guide to Switching Clownfish Voices on Win for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-full-guide-on-speeding-up-facebook-videos-best-extensions-apps-and/"><u>[Updated] Full Guide on Speeding Up Facebook Videos- Best Extensions, Apps, And</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/beginners-guide-to-setting-up-a-canon-printer-with-images/"><u>Beginner's Guide to Setting up a Canon Printer (with Images)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/code-b200-resolution-achieved/"><u>Code B200 Resolution Achieved</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-newest-nvidia-geforce-rtx-3080-ti-drivers-on-windows-10-8-and-7/"><u>Download the Newest NVIDIA GeForce RTX 3080 Ti Drivers on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://fox-access.techidaily.com/ffmpegs-audio-recapture-challenge-for-2024/"><u>FFmpeg's Audio Recapture Challenge for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/get-your-mfc-9330-cdw-up-and-running/"><u>Get Your MFC-9330 CDW Up and Running</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-offline-status-on-windows-107-solved/"><u>HP Printer Offline Status on Windows 10/7 [Solved]</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-on-demand-video-text-transformers-prime-selections/"><u>In 2024, On-Demand Video-Text Transformers Prime Selections</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-top-stunts-and-tricks-at-snowboarding-x-olympics/"><u>In 2024, Top Stunts and Tricks at Snowboarding X-Olympics</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/master-your-memories-stellar-imaging-recovery-for-windows-8-pro-and-home/"><u>Master Your Memories: Stellar Imaging Recovery for Windows 8 Pro & Home</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-stops-printing-post-win11-installation/"><u>Printer Stops Printing Post Win11 Installation</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-incompatible-printer-drivers-for-hp-d1360-in-windows/"><u>Resolving Incompatible Printer Drivers for HP D1360 in Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-no-response-from-networked-printer/"><u>Resolving No Response From Networked Printer</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/stop-the-storage-how-to-disable-chatgpts-memory-tracker/"><u>Stop the Storage: How to Disable ChatGPT’s Memory Tracker</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-freiwillige-dvd-ripper-tools-fur-windows-1011-vergleichen-beste-optionen-2023/"><u>Top-Freiwillige DVD-Ripper Tools Für Windows 10/11 Vergleichen - Beste Optionen 2023</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/why-my-printer-skips-colors/"><u>Why My Printer Skips Colors?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win-117-fix-for-non-responsive-printer-spooler/"><u>Win 11/7 Fix for Non-Responsive Printer Spooler</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-dilemma-windows-11-ignoring-pixma-mp620/"><u>[Driver Dilemma] Windows 11 Ignoring Pixma MP620</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-lost-windows-cant-find-printer-device/"><u>[DRIVER LOST] Windows Can't Find Printer Device</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-a-new-era-in-iptv-recording-technology-exploration-for-2024/"><u>[New] A New Era in IPTV Recording Technology Exploration for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-dissecting-xvideohubs-capabilities-in-a-full-breakdown-review/"><u>[New] Dissecting XVideoHub's Capabilities in a Full Breakdown Review</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-essence-of-engaging-live-broadcasts-360-video-techniques-for-youtube/"><u>[New] The Essence of Engaging Live Broadcasts 360° Video Techniques for Youtube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-action-ammo-face-off-prodigy-cameras-compared-black-vs-session/"><u>[Updated] Action Ammo Face-Off Prodigy Cameras Compared – Black vs Session</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-gaming-gains-total-earnings-for-pewdiepie/"><u>[Updated] Gaming Gains Total Earnings for PewDiePie</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-pinnacle-cloud-solutions-highest-rated-reviewed/"><u>[Updated] In 2024, Pinnacle Cloud Solutions Highest-Rated Reviewed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/address-duplex-mismatches-on-windows-11/"><u>Address Duplex Mismatches on Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/intuitive-firmware-update-process-for-hp-printers-especially-4630/"><u>Intuitive Firmware Update Process for HP Printers, Especially 4630</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-epson-error-code-0x97/"><u>Overcoming Epson Error Code 0X97</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-setup-error-only-blank-sheets-from-epson/"><u>Printer Setup Error: Only Blank Sheets From Epson</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printerranker-setting-snafu-alert/"><u>Printer'ranker: Setting Snafu Alert</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722975962679-quick-and-simple-steps-updating-your-dell-inspiron-7001-g7s-drivers-in-no-time/"><u>Quick & Simple Steps: Updating Your Dell Inspiron 7001 G7's Drivers in No Time!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/rapid-response-to-queued-prints/"><u>Rapid Response to Queued Prints</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-a-canon-device-that-wont-react/"><u>Reviving a Canon Device That Won't React</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/say-hi-in-another-language-today-at-nearly-no-cost-to-you/"><u>Say Hi in Another Language Today – At Nearly No Cost to You!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-10-strategies-for-crafting-engaging-podcast-graphics/"><u>Top 10 Strategies for Crafting Engaging Podcast Graphics</u></a></li>
+<li><a href="https://facebook.techidaily.com/top-5-revenue-strategies-for-fb-and-ig-success/"><u>Top 5 Revenue Strategies for FB & IG Success</u></a></li>
 </ul></div>
 

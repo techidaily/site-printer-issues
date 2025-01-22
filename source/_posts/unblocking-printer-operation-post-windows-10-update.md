@@ -1,7 +1,7 @@
 ---
 title: Unblocking Printer Operation Post-Windows 10 Update
-date: 2025-01-08T18:59:37.473Z
-updated: 2025-01-15T21:54:12.180Z
+date: 2025-01-14T21:44:01.977Z
+updated: 2025-01-21T23:23:55.016Z
 tags:
   - win11
   - win10
@@ -66,13 +66,13 @@ Here is how to power cycle your printer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap19-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-188.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -83,7 +83,7 @@ Here is how to power cycle your printer:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Reset the print spooler
@@ -100,10 +100,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-194.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) On your keyboard, press the**Windows logo key** and**R** at the same time, then type**%WINDIR%\\system32\\spool\\printers** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-195.png)
@@ -114,20 +110,20 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-197.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Click**Start** , then in**Startup** **Type** , select**Automatic** and click**OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-198.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Check to see if your printer works properly. If it still doesn’t work, please move on to**Fix 5** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Run Windows Troubleshooter
@@ -137,6 +133,10 @@ Here is how to do it:
  1) On your keyboard, press**the Windows logo key** and type**troubleshoo** t, then click on**Troubleshoot settings** once it pops up as a search result.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-208.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the**Troubleshoot** window, scroll down to the**Get up and running** section, click on**Printer** \>**Run the troubleshooter** .
 
@@ -165,18 +165,20 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/driver-issue-canon-pixma-mp620-unsupported-by-win10/"><u>[Driver Issue] Canon Pixma MP620 Unsupported by WIN10</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-excellent-storage-upgrade-for-sony-a7s-ii-cameras/"><u>[Updated] 2024 Approved Excellent Storage Upgrade for Sony A7S II Cameras</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-safe-and-sound-sending-your-private-youtube-videos-online/"><u>[Updated] Safe and Sound Sending Your Private YouTube Videos Online</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726030040741-musescore/"><u>完璧なサウンド出力: MuseScoreで高解像度オーディオを作成するためのテクニック</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/disconnecting-all-print-devices-at-once-on-pc/"><u>Disconnecting All Print Devices at Once on PC</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/eradicate-brother-printers-no-print-dilemma-on-windows/"><u>Eradicate Brother Printer's No-Print Dilemma on Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-fix-stop-0x00000078-errors/"><u>How to Fix STOP 0X00000078 Errors</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-nokia-g42-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Nokia G42 5G</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-solve-brother-printer-offline-problem/"><u>How to Solve Brother Printer Offline Problem</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/next-level-broadcast-software-beyond-streamlabs/"><u>Next-Level Broadcast Software Beyond StreamLabs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-woes-after-suspend-on-windows-7-systems/"><u>Printer Woes After Suspend on Windows 7 Systems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-scan-to-computer-is-no-longer-activated-on-windows-11/"><u>Solved: Scan to Computer Is No Longer Activated on Windows 11</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-mocking-sponge-bob-meme-generator/"><u>Updated In 2024, Mocking Sponge Bob Meme Generator</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-turtle-beach-recon-70-mic-not-working/"><u>[FIXED] Turtle Beach Recon 70 Mic Not Working</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-how-do-i-peruse-all-the-video-and-photo-files-shared-by-friends/"><u>[New] In 2024, How Do I Peruse All the Video and Photo Files Shared by Friends?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-insight-into-youtubes-latest-income-and-rewards/"><u>[New] Insight Into YouTube's Latest Income and Rewards</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-creating-a-lasting-impression-the-ultimate-youtube-live-thumbnail-guide/"><u>[Updated] Creating a Lasting Impression The Ultimate YouTube Live Thumbnail Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/boost-your-watch-dogs-legion-experience-solutions-for-higher-fps-and-less-latency/"><u>Boost Your Watch Dogs: Legion Experience – Solutions for Higher FPS and Less Latency</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/defeating-the-bugs-how-to-handle-and-fix-fortnites-ls-0013-problem/"><u>Defeating the Bugs: How to Handle and Fix Fortnite's LS-0013 Problem</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-on-correcting-package-errors-in-windows-11/"><u>Expert Tips on Correcting Package Errors in Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-stop-assassins-creed-valhalla-from-frequently-crashing-on-your-computer/"><u>How to Stop Assassin's Creed: Valhalla From Frequently Crashing on Your Computer</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-htc-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on HTC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-realme-gt-neo-5-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Realme GT Neo 5 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-sound-from-laptop-audio-internal-speakers-step-by-step-tips/"><u>Reviving Sound From Laptop Audio Internal Speakers – Step-by-Step Tips</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sunbrites-55-inch-veranda-tv-engineered-for-durability-and-brilliant-4k-hd-display-in-any-weather/"><u>SunBrite's 55-Inch Veranda TV: Engineered for Durability & Brilliant 4K HD Display in Any Weather</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-audio-issues-configuring-new-speakers-on-windows-10/"><u>Troubleshooting Audio Issues: Configuring New Speakers on Windows 10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-guide-resolving-discord-streaming-disruptions/"><u>Troubleshooting Guide: Resolving Discord Streaming Disruptions</u></a></li>
 </ul></div>
 

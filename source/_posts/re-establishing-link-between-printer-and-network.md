@@ -1,7 +1,7 @@
 ---
 title: Re-Establishing Link Between Printer & Network
-date: 2025-01-09T17:44:25.781Z
-updated: 2025-01-15T18:10:54.471Z
+date: 2025-01-15T16:01:02.291Z
+updated: 2025-01-21T23:48:23.542Z
 tags:
   - win11
   - win10
@@ -54,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/f35affd0446f81f879a70f50fd131f599003c290d
 
  Check if you can print now. If the problem persists, continue to the next method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Update Printer Driver
 
  The problem can be caused by faulty printer drivers. So you can update the printer driver and see if this works.
@@ -70,12 +74,16 @@ thumbnail: https://thmb.techidaily.com/f35affd0446f81f879a70f50fd131f599003c290d
 3. Click the **Update** button next to the flagged printer device to automatically download the correct version of this driver, then you can manually install it (you can do this with the _**FREE**_ version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click _**Update All**_ ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Update-drivers-with-Driver-Easy-Pro-1.jpg)
 4. After updating the printer driver, check to see if the offline problem is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Check Printing Status
 
@@ -87,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/f35affd0446f81f879a70f50fd131f599003c290d
 3. Click**Devices and printers** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fbb2818a8.jpg)
@@ -97,17 +105,13 @@ thumbnail: https://thmb.techidaily.com/f35affd0446f81f879a70f50fd131f599003c290d
 5. If what you see here is a grey icon without the green check-mark, right-click the icon and click **Set as Default Printer** . Then right-click it and click**See what’s printing** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e9c83c14189.png)
 6. Click**Printer** . If you can see a tick next to the option**Pause printing** and**Use Printer Offline** , click them to remove the ticks.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fc46d664b.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  See if you can print now. If this issue persists, try the next fix, below.
 
@@ -119,10 +123,6 @@ thumbnail: https://thmb.techidaily.com/f35affd0446f81f879a70f50fd131f599003c290d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e9c9a41d161.png)
 2. On your keyboard, press the**P** key to faster locate**Print Spooler** item. See if its status is**Running** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f1a101e6655.png)
 3. If you can’t see its status here, right-click Print Spooler service and click**Start** .  
 
@@ -131,10 +131,6 @@ thumbnail: https://thmb.techidaily.com/f35affd0446f81f879a70f50fd131f599003c290d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f1a16a7e270.png)
 5. Close the Properties window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Check if your printer is online now. If not, move on to the next fix, below.
 
@@ -157,11 +153,15 @@ thumbnail: https://thmb.techidaily.com/f35affd0446f81f879a70f50fd131f599003c290d
 4. Click the**Ports** tab, then**Add Port** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fd55ed964.png)
 5. Select**Standard TCP/IP Port** , then click**New Port** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fd728aa09.png)
 6. Click**Next** .  
@@ -170,7 +170,7 @@ thumbnail: https://thmb.techidaily.com/f35affd0446f81f879a70f50fd131f599003c290d
 7. Type in the**printer’s IP address** . Click**Next** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fe1829457.png)
@@ -200,20 +200,22 @@ Your offline printer should work flawlessly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-diving-deep-into-samsung-photo-enhancers-guide/"><u>[New] In 2024, Diving Deep Into Samsung Photo Enhancers Guide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/earn-youtube-video-ad-building-at-no-cost-for-2024/"><u>[New] Learn YouTube Video Ad Building at No Cost for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-master-the-craft-refining-title-and-description-in-igtv-videos/"><u>[New] Master the Craft Refining Title & Description in IGTV Videos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-master-list-of-best-mp4-players-for-2024/"><u>[Updated] Master List of Best MP4 Players for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-pioneers-of-prose-and-plot-the-worlds-best-top-8-for-2024/"><u>[Updated] Pioneers of Prose and Plot The World's Best (Top 8) for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-pro-tips-on-selecting-the-best-mac-snipers/"><u>2024 Approved Pro Tips on Selecting the Best Mac Snipers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-for-post-update-printer-failure/"><u>Fix for Post-Update Printer Failure</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/intro-to-using-snap-camera-effectively-in-meetings-for-2024/"><u>Intro to Using Snap Camera Effectively in Meetings for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resetting-scanner-activation-on-windows-10-system/"><u>Resetting Scanner Activation on Windows 10 System</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/service-not-active-local-printer-spooler/"><u>Service Not Active: Local Printer Spooler</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/silencing-the-silent-printouts-in-your-device/"><u>Silencing the Silent Printouts in Your Device</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/step-by-step-guide-to-installing-hp-envy-504-printers/"><u>Step-by-Step Guide to Installing HP Envy 504 Printers</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-the-error-0x800705b4-that-stops-updating-your-windows-11-system/"><u>Step-by-Step Solutions for the 'Error 0X800705B4' That Stops Updating Your Windows 11 System</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/step-by-step-incorporating-hp-printer-in-pc-network/"><u>Step-by-Step: Incorporating HP Printer in PC Network</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-11-restored-scan-operation/"><u>Windows 11: Restored Scan Operation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/oost-your-chances-strategic-keywords-for-youtubers-for-2024/"><u>[New] Boost Your Chances Strategic Keywords for YouTubers for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-how-to-fix-distorted-aspect-ratio-when-converting-dvd-vob-files-to-mp4-using-handbrake/"><u>1. How to Fix Distorted Aspect Ratio when Converting DVD VOB Files to MP4 Using Handbrake</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-wanderlust-wonders-crafting-engaging-travel-content-for-your-audience/"><u>2024 Approved Wanderlust Wonders Crafting Engaging Travel Content for Your Audience</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-realme-gt-neo-5-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Realme GT Neo 5</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/beyond-obs-streamer-friendly-broadcast-software/"><u>Beyond OBS Streamer-Friendly Broadcast Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-gpt-be-depended-on-for-accurate-wellbeing-advice/"><u>Can GPT Be Depended on for Accurate Wellbeing Advice?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/convert-rw2-images-into-png-format-for-free-with-movavi-image-editor-online/"><u>Convert RW2 Images Into PNG Format for Free with Movavi Image Editor Online</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/easy-steps-to-accelerate-prints/"><u>Easy Steps to Accelerate Prints</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enabling-wireless-connectivity-for-hp-print/"><u>Enabling Wireless Connectivity for HP Print</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/is-asmr-good-for-you-learn-the-benefits-here-for-2024/"><u>Is ASMR Good for You? Learn the Benefits Here for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/is-sns-hdr-the-best-for-your-hdr-needs-insights/"><u>Is SNS HDR the Best for Your HDR Needs? Insights</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcome-canon-printer-puzzles-in-windows-11-here-are-five-easy-solutions/"><u>Overcome Canon Printer Puzzles in Windows 11 - Here Are Five Easy Solutions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-office-printer-breakdowns/"><u>Overcoming Office Printer Breakdowns</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reactivating-scanned-device-on-recent-windows-update/"><u>Reactivating Scanned Device on Recent Windows Update</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/repaired-epson-printer-printing-anomalies/"><u>Repaired: Epson Printer Printing Anomalies</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-windows-hp-printer-offline/"><u>Resolving Windows HP Printer Offline</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/scanner-activation-a-win10-fix-guide/"><u>Scanner Activation: A Win10 Fix Guide</u></a></li>
 </ul></div>
 

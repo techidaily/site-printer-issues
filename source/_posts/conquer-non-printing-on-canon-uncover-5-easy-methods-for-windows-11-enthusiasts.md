@@ -1,7 +1,7 @@
 ---
 title: Conquer Non-Printing on Canon - Uncover 5 Easy Methods for Windows 11 Enthusiasts
-date: 2025-01-11T22:18:20.004Z
-updated: 2025-01-15T21:32:22.100Z
+date: 2025-01-15T20:39:00.492Z
+updated: 2025-01-21T21:40:32.044Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/d03489546d1b061501196d90eec003105f028cda3
 
  Besides, with regular use of Fortect, your PC will be protected against file loss, malware, hardware failures, and several other bugs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How does Fortect work
 
  1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
@@ -36,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/d03489546d1b061501196d90eec003105f028cda3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair-1200x742.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If your problem persists, try the fixes below.
 
 1. **[Check the connection status](#fix1)**
@@ -43,10 +43,6 @@ If your problem persists, try the fixes below.
 3. **[Update your printer driver](#fix3)**
 4. **[Set Canon as the default printer](#fix4)**
 5. **[Delete print jobs from the print queue](#fix5)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Check the connection status
 
@@ -78,16 +74,12 @@ If your printer is still not working properly, proceed to the next fix.
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/windows-defender-firewall.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the left side of the window, click**Turn Windows Defender Firewall on or off** .  
   
 ![disable Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/turn-Windows-Defender-Firewall-on-or-off.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Tick**Turn off Windows Defender Firewall** for both public and private networks. Then click**OK** to confirm the changes.  
   
@@ -106,7 +98,7 @@ You can disable the firewall in software by clicking the link below.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Update your printer driver
@@ -120,6 +112,10 @@ You can disable the firewall in software by clicking the link below.
  Canon’s website is available to download Canon product drivers. You can go to their website to find and download the driver you need. Below, you’ll find out how to download and install the driver from the official website.
 
  Since Canon has several official websites like [Canon UK](https://www.canon.co.uk/) ,[Canon USA](https://www.usa.canon.com/) ,[Canon Europe](https://www.canon-europe.com/) , etc., they may not share the same model. So you can use the browser to search for the specific driver directly. Or you can go to the Support Center, enter the model of your device in the search field, and follow the instructions to download and install the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your printer driver (recommended)
 
@@ -148,6 +144,10 @@ Here’s how you can update your drivers with Driver Easy:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Set Canon as the default printer
 
  When you’re trying to print something, your computer will automatically assign these printing tasks to the default printer unless you choose another one on purpose. So your printer will not be working if you neither set it as a default option to print nor select it as the dedicated printer.
@@ -161,7 +161,7 @@ Here’s how you can update your drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select **Small icons** from the drop-down menu next to **View by** . Then, click **Devices and Printers** .  
@@ -169,7 +169,7 @@ Here’s how you can update your drivers with Driver Easy:
 ![set Canon printer as the default printer](https://images.drivereasy.com/wp-content/uploads/2021/01/in-the-control-panel.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Right-click your Canon printer and select**Set as default printer** from the list.  
@@ -202,13 +202,13 @@ Now perform printing tasks to check if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/services-msc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In the Services window, scroll down to the**Print Spooler** . Right-click it and select**Stop** .
 
 ![stop the Print Spooler](https://images.drivereasy.com/wp-content/uploads/2021/01/stop-the-printing-service.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Note: Do not close the Services window, simply minimize it as you’ll go back to it later.
 
@@ -251,19 +251,22 @@ Now perform printing tasks to check if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-mastering-youtube-titulos-con-algoritmos/"><u>[New] 2024 Approved Mastering YouTube Títulos Con Algoritmos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-unlocking-youtubes-potential-subscriber-triumph-tactics/"><u>[New] In 2024, Unlocking YouTube's Potential Subscriber Triumph Tactics</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-path-to-powerdirector-proficiency-2024-edition/"><u>[New] The Ultimate Path to PowerDirector Proficiency - 2024 Edition</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-streamlit-splendor-hues-and-highlights-technique-for-2024/"><u>[Updated] Streamlit Splendor Hues and Highlights Technique for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-partnership-for-perfecting-your-date-life/"><u>AI Partnership for Perfecting Your Date Life</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/boosting-your-youtube-earnings-on-mobile-devices-a-comprehensive-guide/"><u>Boosting Your YouTube Earnings on Mobile Devices - A Comprehensive Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/compreeed-software-bundle-officejet-pro-8600-windows-integration/"><u>Compreeed Software Bundle: OfficeJet Pro 8600, Windows Integration</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/efficiently-end-print-job-wait/"><u>Efficiently End Print Job Wait</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/from-blank-to-brilliant-overcoming-print-troubles/"><u>From Blank to Brilliant: Overcoming Print Troubles</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Sony Xperia 5 V? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/integrated-printer-utilities-hp-officejet-pro-8600-win32-version/"><u>Integrated Printer Utilities: HP OfficeJet Pro 8600, Win32 Version</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/steps-to-troubleshoot-unresponsive-hp-print-subsystems/"><u>Steps to Troubleshoot Unresponsive HP Print Subsystems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tackling-noisy-or-disruptive-printers/"><u>Tackling Noisy or Disruptive Printers</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2581659-9780008205447-the-dragon-in-2017-your-chinese-horoscope/"><u>The Dragon in 2017: Your Chinese Horoscope | Free Book</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-complete-guide-to-samsungs-comprehensive-picture-editing-tools-2023/"><u>[New] The Complete Guide to Samsung’s Comprehensive Picture Editing Tools, 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/20-fast-and-quick-mobile-games-to-kill-time-on-android-and-iphone/"><u>20 Fast and Quick Mobile Games to Kill Time on Android and iPhone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/fy-videographic-excellence-choose-from-these-7-audios/"><u>Amplify Videographic Excellence - Choose From These 7 Audios</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/boost-operational-efficiency-with-mf4770n-on-w11w8w7-windows/"><u>Boost Operational Efficiency with MF4770n on W11/W8/W7 Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/elucrante-the-importance-of-xinput13dll-in-devices/"><u>Elucrante: The Importance of XINPUT1_3.dll in Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enable-your-brother-printer-to-print-on-windows-1011-successfully/"><u>Enable Your Brother Printer to Print on Windows 10/11 Successfully</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-multifunction-device-shows-unwanted-emptiness/"><u>Epson Multifunction Device Shows Unwanted Emptiness</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guide-to-enable-brother-9330cdw-driver/"><u>Guide to Enable Brother 9330CDW Driver</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 To Other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-lava-agni-2-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Lava Agni 2 5G</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-entering-a-friends-tiktok-live-a-step-by-step-guide/"><u>In 2024, Entering a Friend's TikTok Live A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-from-data-to-drama-utilizing-google-trends-in-video-planning/"><u>In 2024, From Data to Drama Utilizing Google Trends in Video Planning</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcome-epson-paper-jam/"><u>Overcome Epson Paper Jam</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printers-unexpected-configuration-blunder/"><u>Printer's Unexpected Configuration Blunder</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-the-frequent-failure-of-print-spooler-service/"><u>Resolving the Frequent Failure of Print Spooler Service</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-scanner-no-longer-offline/"><u>Windows 11: Scanner No Longer Offline</u></a></li>
 </ul></div>
 

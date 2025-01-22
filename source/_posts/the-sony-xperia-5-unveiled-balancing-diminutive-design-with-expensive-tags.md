@@ -1,7 +1,7 @@
 ---
 title: "The Sony Xperia 5 Unveiled: Balancing Diminutive Design with Expensive Tags"
-date: 2025-01-14T22:49:10.528Z
-updated: 2025-01-15T18:00:50.699Z
+date: 2025-01-16T21:08:45.179Z
+updated: 2025-01-22T00:29:01.220Z
 categories:
   - BestProducts
 description: "This Article Describes The Sony Xperia 5 Unveiled: Balancing Diminutive Design with Expensive Tags"
@@ -13,13 +13,13 @@ thumbnail: https://thmb.techidaily.com/cc90cfb91ad0a20c12f9d720fc85b3d9e0382268e
 
 4.2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Dying Light
 
 ![Dying Light](https://www.lifewire.com/thmb/ExEFo7aByvSphU-Qxeq8zUjf8lk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Dying-Light-Zombie-Game-PS4-1-f2e898d54052439c9e158d01dc3d691a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -40,6 +40,10 @@ Lifewire / Kelsey Simon
 [View On Amazon](https://www.amazon.com/dp/B00D2ZK1IG/?tag=lifewire-onsite-prod-20&ascsubtag=4778324%7Cn8b17d62e028148938085d16c4455799211%7CB00D2ZK1IG) [View On Gamestop.com](https://www.gamestop.com/video-games/playstation-4/games/products/dying-light/10111372.html)
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Dying Light
 
@@ -77,14 +81,10 @@ Lifewire / Kelsey Simon
 ![Dying Light](https://www.lifewire.com/thmb/P3rXmBBI1GdQfgi0vVT9xKcFw90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-2-db5990d1f64341eaae79e22a71bb8f95.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Plot: A character torn between obligation and friendship**
 
@@ -99,14 +99,10 @@ Harran is a whole different city at night.
 ![Dying Light](https://www.lifewire.com/thmb/8G35q3VsoSEuht_3bqsGm0Pwz-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-7-d9d2bbe8881e476f8dfb3c13059634ed.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Gameplay: Parkour and zombies galore**
 
@@ -122,10 +118,6 @@ Harran is a whole different city at night.
 
 ![Dying Light](https://www.lifewire.com/thmb/YctEePpYKsIXQ5kU-hQ8w7o9CDo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-4-1edeaf05c6ba435e9b81e68a13831ac6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Kelsey Simon
 
 ## **Graphics: Attention to detail**
@@ -136,11 +128,19 @@ Harran is a whole different city at night.
 
 ![Dying Light](https://www.lifewire.com/thmb/sy9NHLj8JNe2eaeS9HJJdejt6QE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-6-56ef808272b544e6a1038f4a5d0280f1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
 ## **Price: Worth the cost, especially with a friend**
 
  On PlayStation 4, you can purchase the game for $14, a fantastic value. You’ll get more than enough gameplay and fun to justify a purchase at that low cost. However, if you want to play on[PC](https://www.lifewire.com/best-desktop-pcs-4045927) , you’ll have to either wait for the game to go on sale, or you’ll have to pay $40\. Considering the game is older now, we’d suggest getting the game on sale (it goes on sale often through Steam). There’s a lot of fun to be had in Dying Light, especially if you have a friend to play with, so if you’re thinking about getting the game, we’d say go for it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Competition: Other zombie and parkour games**
 
@@ -175,21 +175,22 @@ Harran is a whole different city at night.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/best-methods-for-infinix-smart-7-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Infinix Smart 7 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/brighten-up-video-on-iphone-five-practical-steps-for-2024/"><u>Brighten Up Video on iPhone Five Practical Steps for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brother-printer-errors-try-these-fixes-on-windows-1011/"><u>Brother Printer Errors? Try These Fixes on Windows 10/11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/dismantling-the-mystery-of-non-printing-machines/"><u>Dismantling the Mystery of Non-Printing Machines</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-hp-deskjet-3050-series-printer-drivers-for-windows-users/"><u>Easy Installation Guide: HP Deskjet 30,50 Series Printer Drivers for Windows Users</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elevating-video-visibility-through-thumbnails-for-2024/"><u>Elevating Video Visibility Through Thumbnails for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/filmmaking-made-easy-pc-mac-and-smartphone-techniques-for-2024/"><u>Filmmaking Made Easy PC, Mac & Smartphone Techniques for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-issue-with-installing-printer/"><u>Fixed Issue with Installing Printer</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Infinix Smart 7? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-infinix-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Infinix IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-hp-printing-blockade-oxc4eb827f/"><u>Overcoming HP Printing Blockade: OXC4EB827F</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-recovery-steps/"><u>Printer Recovery Steps</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ssionals-picks-best-editors-for-online-streams/"><u>Professionals' Picks Best Editors for Online Streams</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/secure-and-update-hp-officejet-4630-driver-edition/"><u>Secure & Update: HP Officejet 4630 Driver Edition</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/step-by-step-guide-to-remove-hardware-printers/"><u>Step-By-Step Guide to Remove Hardware Printers</u></a></li>
-<li><a href="https://win-net.techidaily.com/1728470669945-windowsaomei-backupper/"><u>Windows上でシステムリカバリ用にAOMEI Backupperでインポートを実践する</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-optimizing-youtube-and-twitch-with-obs-streaming-techniques/"><u>[Updated] In 2024, Optimizing YouTube & Twitch with OBS Streaming Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-5-efficient-mac-snippers-for-quick-captures/"><u>[Updated] Top 5 Efficient Mac Snippers for Quick Captures</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/directions-assembling-hp-print-with-your-pc/"><u>Directions: Assembling HP Print with Your PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/economical-systems-optimized-by-ideal-obs-settings-for-2024/"><u>Economical Systems Optimized by Ideal OBS Settings for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-printer-error-now-working/"><u>Epson Printer Error, Now Working</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/finding-canon-mp620-drivers-challenge-for-win10-users/"><u>Finding Canon MP620 Drivers - Challenge for WIN10 Users</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/foreign-processors-print-job-revealed/"><u>Foreign Processor's Print Job Revealed</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-recover-unseen-images-from-your-icloud-backup-a-step-by-step-guide-6-methods/"><u>How to Recover Unseen Images From Your iCloud Backup: A Step-by-Step Guide (6 Methods)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-art-of-solving-hearthstone-pc-game-freezes-and-crashes/"><u>Mastering the Art of Solving Hearthstone PC Game Freezes and Crashes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/navigate-non-prints-on-canon-easily-discover-these-simple-steps-for-window-11-users/"><u>Navigate Non-Prints on Canon Easily: Discover These Simple Steps for Window 11 Users</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-unlimited-video-merging-7-best-watermark-free-solutions/"><u>New 2024 Approved Unlimited Video Merging 7 Best Watermark-Free Solutions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-printer-unresponsiveness-in-windows-millennium-edition/"><u>Overcoming Printer Unresponsiveness in Windows Millennium Edition</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/preventative-measures-against-spooler-shutdowns-win/"><u>Preventative Measures Against Spooler Shutdowns (Win)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/securing-stunning-media-backdrops-at-cost-effective-rates/"><u>Securing Stunning Media Backdrops at Cost-Effective Rates</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-honor-play-7t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Honor Play 7T without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-7-printer-status-now-functional/"><u>Windows 7 Printer Status: Now Functional</u></a></li>
 </ul></div>
 

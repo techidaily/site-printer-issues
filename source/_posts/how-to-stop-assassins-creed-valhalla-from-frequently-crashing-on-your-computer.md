@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Assassin's Creed: Valhalla From Frequently Crashing on Your Computer"
-date: 2025-01-08T19:20:09.367Z
-updated: 2025-01-15T23:44:39.316Z
+date: 2025-01-19T21:27:42.341Z
+updated: 2025-01-21T23:07:25.381Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/8e9871ece440ba59c8d9840801e94460c09fbc87b
  And just like what happened with the release of[Watch Dogs: Legion](https://www.epicgames.com/store/en-US/p/watch-dogs-legion?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=0a84818055e740a7be21a2e5b6162703) , many gamers start reporting the**constant crashes with AC Valhalla** . But don’t worry if you happen to be one of them. After some diggings on Reddit and YouTube, we’ve gathered several fixes that worked for many Vikings. Try them and get back to Valhalla right away.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/8e9871ece440ba59c8d9840801e94460c09fbc87b
 6. [**Disable peripherals**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Check the launcher log](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall Assassin’s Creed Valhalla](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
 
@@ -62,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/8e9871ece440ba59c8d9840801e94460c09fbc87b
 
  If you’re sure that your gaming rig is ready for the game, you can take a look at the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  So let’s start from some easy troubleshooting. The in-game crashes or crashing at clicking “New Game” might indicate**an integrity issue with your game files** . It’s a common issue when you encounter network glitches. You can follow these steps to check and repair any corrupted files:
@@ -72,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/8e9871ece440ba59c8d9840801e94460c09fbc87b
 3. Select **Verify files** . Then wait for the checking to complete.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you can launch Assassin’s Creed Valhalla and check if it crashes again.
 
@@ -87,15 +99,7 @@ You can use these steps to check for Windows updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . Windows will automatically download and install all the available updates. This might take up to an hour depending on your Internet speed.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In some cases, you might need to check several times to get all the updates. Simply repeat these steps until it prompts**You’re up to date** when you click**Check for updates** .
 
@@ -130,14 +134,14 @@ If the crash happens again, you can take a look at the next fix.
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -164,10 +168,6 @@ If the crash happens again, you can take a look at the next fix.
  To some pro-gamers, a controller can be a whole lot more comfortable than a mouse and keyboard. While peripherals surely add more fun to games, there have been reports that they can also have compatibility issues with new titles. So if you’re using peripherals (e.g. controllers) in Assassin’s Creed Valhalla, try**returning to the classic mouse and keyboard bundle** and see if it helps.
 
  If disabling peripherals doesn’t work for you, or you’re not using any at the first place, you can take a look at the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Check the launcher log
 
@@ -196,17 +196,22 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-segmentscreen-examination-for-2024/"><u>[New] SegmentScreen Examination for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-beyond-replication-innovating-virtual-reality-experiences/"><u>[Updated] Beyond Replication Innovating Virtual Reality Experiences</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-6-video-editing-apps-for-macos-big-sur-11/"><u>2024 Approved Top 6 Video Editing Apps for macOS Big Sur 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-epson-wf-2750-printer-setup-with-our-step-by-step-driver-downloading-instructions/"><u>Complete Epson WF-2750 Printer Setup with Our Step by Step Driver Downloading Instructions</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-hq-blank-page-conundrum-resolved/"><u>Epson HQ Blank Page Conundrum Resolved</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Vivo S17e? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/improve-gameplay-flow-2-methods-for-checking-android-fps/"><u>Improve Gameplay Flow: 2 Methods for Checking Android FPS</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-honor-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Honor Devices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-activity-multiple-users-detected/"><u>Printer Activity: Multiple Users Detected</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/proficient-movie-recording-multiplatform-devices-unveiled-for-2024/"><u>Proficient Movie Recording Multiplatform Devices Unveiled for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolve-print-head-alignment-issues-in-w11/"><u>Resolve Print Head Alignment Issues in W11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/step-in-picture-getting-your-canon-printer-ready/"><u>Step-In-Picture: Getting Your Canon Printer Ready</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-best-action-cameras-with-front-facing-screen-for-2024/"><u>[New] Best Action Cameras with Front Facing Screen for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-10-choices-the-ultimate-gb-emulator-list-android/"><u>[New] Top 10 Choices The Ultimate GB Emulator List, Android</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/technical-glitch-canon-pixma-mp620-drivers-on-win11-unseen/"><u>[Technical Glitch] Canon Pixma MP620 Drivers on Win11 Unseen</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-skype-to-mp3-capturing-calls-at-no-charge-for-2024/"><u>[Updated] Skype to MP3 Capturing Calls at No Charge for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/breaking-the-code-on-non-printing-printers/"><u>Breaking the Code on Non-Printing Printers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/como-transformar-archivos-de-audio-wav-a-formato-mp3-sin-costo-alguno-con-herramientas-en-linea/"><u>Cómo Transformar Archivos De Audio WAV a Formato MP3 Sin Costo Alguno Con Herramientas en Línea</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-canons-error-b200/"><u>Fixed Canon's Error: B200</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-online-converter-transform-trp-to-mpeg-with-movavi/"><u>Free Online Converter - Transform TRP to MPEG with Movavi</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-assessing-the-full-video-range-within-a-64128gb-memory-pool/"><u>In 2024, Assessing the Full Video Range Within a 64/128GB Memory Pool</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-approach-for-rotating-and-interlacing-multiple-videographies-android/"><u>In 2024, Innovative Approach for Rotating & Interlacing Multiple Videographies (Android)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printers-color-rejection/"><u>Printer's Color Rejection</u></a></li>
+<li><a href="https://techidaily.com/remove-infinix-note-30-vip-racing-edition-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Infinix Note 30 VIP Racing Edition unlock screen</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-the-erratic-behavior-of-print-spooler-windows/"><u>Troubleshooting the Erratic Behavior of Print Spooler (Windows)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unbelievable-deal-get-the-newest-ipad-9th-generation-at-only-250-following-apples-recent-launch-shop-now-on-zdnet/"><u>Unbelievable Deal: Get the Newest iPad 9Th Generation at Only $250 Following Apple’s Recent Launch – Shop Now on ZDNet</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unblocking-offline-status-hp-printer-on-dos-systems/"><u>Unblocking Offline Status: HP Printer on DOS Systems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-paper-trail-issue-error-0x00000709-solution-found/"><u>Windows Paper Trail Issue - Error 0X00000709 Solution Found</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-xp-non-responsive-printer-issue-resolved/"><u>Windows XP: Non-Responsive Printer Issue Resolved</u></a></li>
 </ul></div>
 

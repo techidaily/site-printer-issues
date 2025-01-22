@@ -1,7 +1,7 @@
 ---
 title: "Windows Printer Spooler: Stopped Functioning"
-date: 2025-01-15T00:17:49.876Z
-updated: 2025-01-15T23:26:54.684Z
+date: 2025-01-20T02:38:47.308Z
+updated: 2025-01-22T01:03:26.221Z
 tags:
   - win11
   - win10
@@ -44,18 +44,14 @@ thumbnail: https://thmb.techidaily.com/0f3aee40842c77652092959c44bb37ef79d636e0b
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/print-spooler-services-properties-2.jpg)
 4. Navigate to the**Recovery** tab. Make sure**First failure** and**Second failure** are set to**Restart the Service** ,**Reset fail count after** is set to**1** days,**Restart service** after**1** minutes. Once completed, click**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/print-spooler-services-properties-3.jpg)
 5. Restart your PC and check if the Print Spooler service is up and running. If you have access to the printer, give it a reboot as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If the error persists, you can check out the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: **Run the troubleshooter**
 
@@ -65,10 +61,18 @@ If the error persists, you can check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/update-and-security.png)
 2. On the left pane, select**Troubleshoot** . Click**Additional troubleshooters** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Select**Printer** . Then follow the on-screen instructions to troubleshoot.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/troubleshooter-printer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the troubleshooter can’t help you fix the issue, take a look at the next method.
 
@@ -80,19 +84,19 @@ If the error persists, you can check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/just-a-run-box.jpg)
 2. Type or paste**devmgmt.msc** . Then click**OK** to open Device Manager.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/device-manager-run-box-ok.jpg)
 3. Click to expand the**Print queues** category. Right-click your printer and select**Uninstall device** . (If you can’t find your printer in Device Manager, you can [download Driver Easy](https://tools.techidaily.com/drivereasy/download/) to scan for missing drivers.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/device-manager-reinstall-printer-02.jpg)
 4. Click**Uninstall** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/device-manager-reinstall-printer-03.jpg)
 
@@ -104,25 +108,17 @@ If the error persists, you can check out the next fix.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de-update-printer-m477.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating all the drivers, restart your PC and check if the printer is working now.
 
  If the latest driver doesn’t give you luck, simply move on to the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4:**Install all Windows updates**
 
@@ -134,15 +130,19 @@ If the error persists, you can check out the next fix.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  If this fix doesn’t give you luck, you can continue to the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5:**Check for corrupted system files**
 
@@ -180,18 +180,17 @@ If the error persists, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-elevate-video-quality-with-vlcs-high-resolution-webcam-recording/"><u>[New] In 2024, Elevate Video Quality with VLC's High-Resolution Webcam Recording</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-top-10-capture-cards-for-youtube-you-should-know/"><u>[New] The Top 10 Capture Cards for YouTube You Should Know</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/all-page-printer-issues-resolved/"><u>All-Page Printer Issues Resolved</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/smanship-in-marvellous-marvel-creation/"><u>Craftsmanship in Marvellous Marvel Creation</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/demystifying-error-x97-on-epson-printers/"><u>Demystifying Error X97 on Epson Printers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-non-functional-mic-during-zoom-calls-on-windows-11-and-10/"><u>Fixing the Issue: Non-Functional Mic During Zoom Calls on Windows 11 & 10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-install-a-new-canon-printer-step-by-step/"><u>How To Install a New Canon Printer (Step-by-Step)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-react-when-your-printer-disconnects/"><u>How to React When Your Printer Disconnects</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Tecno Spark Go (2024)? | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/mastering-gadgets-and-components-with-toms-essential-hardware-wisdom/"><u>Mastering Gadgets and Components with Tom's Essential Hardware Wisdom</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/poco-x6-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco X6 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/simplifying-pcl-xl-error-correction/"><u>Simplifying PCL XL Error Correction</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/synchronized-soundtracks-the-years-most-recurring-tiktok-songs/"><u>Synchronized Soundtracks The Year’s Most Recurring TikTok Songs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagrams-updated-strategy-and-its-effects/"><u>[Updated] 2024 Approved Instagram’s Updated Strategy and Its Effects</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-avoid-lag-and-enhance-engagement-mastering-xboxs-zooming-features/"><u>[Updated] In 2024, Avoid Lag & Enhance Engagement Mastering Xbox's Zooming Features</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-top-6-free-audio-apps-convert-youtube-hits-to-your-android-device/"><u>2024 Approved Top 6 Free Audio Apps - Convert YouTube Hits to Your Android Device</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/hing-videos-with-no-cost-sounds-legally-for-2024/"><u>Enriching Videos with No-Cost Sounds Legally for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/essential-tips-for-fixing-windows-11-printer/"><u>Essential Tips for Fixing Windows 11 Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-printer-achieves-zero-blank-page-mishaps/"><u>HP Printer Achieves Zero Blank Page Mishaps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-a-step-by-step-strategy-for-dominating-the-digital-marketing-arena/"><u>In 2024, A Step-by-Step Strategy for Dominating the Digital Marketing Arena</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/inaccessible-domains-causing-print-errors/"><u>Inaccessible Domains Causing Print Errors</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/live-broadcast-perfection-comparing-top-screen-recorders-for-2024/"><u>Live Broadcast Perfection Comparing Top Screen Recorders for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mf4770n-integration-boost-system-software-updates-windows/"><u>MF4770n Integration Boost: System Software Updates Windows</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-file-compatibility-hurdles/"><u>Overcoming File Compatibility Hurdles</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574150252-unexpected-printer-error-alert/"><u>Unexpected Printer Error Alert!</u></a></li>
 </ul></div>
 

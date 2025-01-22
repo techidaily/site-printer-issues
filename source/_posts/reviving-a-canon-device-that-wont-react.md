@@ -1,7 +1,7 @@
 ---
 title: Reviving a Canon Device That Won't React
-date: 2025-01-14T22:36:28.722Z
-updated: 2025-01-16T01:02:07.107Z
+date: 2025-01-15T23:50:13.942Z
+updated: 2025-01-22T02:52:47.937Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
  Many Canon printer users are having a not responding issue with their printer. Their Canon printer isn’t responsive or displays a “printer not responding” error when they attempt to print something.
 
  This is very frustrating. You can’t print any document with your Canon printer because of this issue. But don’t worry. It can be fixed…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -63,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
  Check your printer manual for information about how to re-pair your printer and your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Run the printer troubleshooter
 
  The Windows built-in troubleshooter can check your Canon printer and fix its issues. To run the printer troubleshooter:
@@ -76,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 **1)**  Press the **Windows logo key** , then type “_**troubleshoot**_ “. Click **Troubleshoot** or**Troubleshooting** in the results.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b32073b11af4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b3207300145c.jpg)
 
@@ -117,17 +105,21 @@ To reset this service:
 
 **1)** On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f05e61151ac.png) and **R** at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Type “_**services.msc**_ ” and press**Enter** on your keyboard. This will open the Services window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f1bc9808a1b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click **Print Spooler** , then click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320bb1ea13a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Check to see if your printer is able to print.
 
@@ -138,7 +130,7 @@ To reset this service:
 **1)** On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f05e61151ac.png) and **R**  on your keyboard at the same time to invoke the Run box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Type “_**control**_ ” and press**Enter** on your keyboard.
@@ -149,12 +141,16 @@ To reset this service:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f05f6349879.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click**Devices and Printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0600edfd3e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Right-click your Canon printer, then click**Printer properties** .
@@ -164,6 +160,10 @@ To reset this service:
 **6)** Click**Change Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b321538f2ef1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)** Click the**Port** tab, then check the port that:
 
@@ -180,13 +180,13 @@ To reset this service:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b321a5ef2bf8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you haven’t, repeat step 7 and 8 until your printer is working properly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 5: Update your printer driver
@@ -208,7 +208,7 @@ To reset this service:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b02a3d8e2197.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free, but it’s partly manual.
@@ -233,16 +233,17 @@ To reset this service:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-financial-fortitude-for-youtubers-beyond-basic-earnings/"><u>[New] 2024 Approved Financial Fortitude for YouTubers Beyond Basic Earnings</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-decoding-the-best-timing-strategies-for-instagram-posts/"><u>[Updated] Decoding the Best Timing Strategies for Instagram Posts</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-ultimate-tutorial-crafting-magnetic-tiktok-openers-with-macos-for-2024/"><u>[Updated] The Ultimate Tutorial Crafting Magnetic TikTok Openers with MacOS for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-5-apps-for-capturing-precise-android-displays/"><u>2024 Approved Top 5 Apps for Capturing Precise Android Displays</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-s23-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Itel S23 Bootloader Easily</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-inkless-printer-issues/"><u>Overcoming Inkless Printer Issues</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-unlisted-solutions-for-windows-xp-11/"><u>Printer Unlisted: Solutions for Windows XP-11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solving-the-mystery-of-epson-error-0x97/"><u>Solving the Mystery of Epson Error 0X97</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/speeding-up-prints-simplest-fixes/"><u>Speeding Up Prints: Simplest Fixes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-guide-flawlessly-handle-pcl-xl-mistakes/"><u>Troubleshooting Guide: Flawlessly Handle PCL XL Mistakes</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>What Legendaries Are In Pokemon Platinum On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-instant-video-link-up-using-whatsapp-desktop-for-pc-calls/"><u>[New] 2024 Approved Instant Video Link-Up Using WhatsApp Desktop for PC Calls</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-terrarium-tales-the-top-five-gold-quests/"><u>[New] 2024 Approved Terrarium Tales The Top Five Gold Quests</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-art-of-enticing-instagram-followers-a-puzzle-post-primer-for-2024/"><u>[New] The Art of Enticing Instagram Followers A Puzzle Post Primer for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/code-b200-resolution-achieved/"><u>Code B200 Resolution Achieved</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/get-your-mfc-9330-cdw-up-and-running/"><u>Get Your MFC-9330 CDW Up and Running</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-infinix-gt-10-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Infinix GT 10 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-printer-offline-status-on-windows-107-solved/"><u>HP Printer Offline Status on Windows 10/7 [Solved]</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-stops-printing-post-win11-installation/"><u>Printer Stops Printing Post Win11 Installation</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-no-response-from-networked-printer/"><u>Resolving No Response From Networked Printer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/secure-browsing-with-tor-on-windows-10-enhancing-your-digital-privacy/"><u>Secure Browsing with Tor on Windows 10: Enhancing Your Digital Privacy</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-complete-tutorial-on-refreshing-driver-software-in-windows-10/"><u>The Complete Tutorial on Refreshing Driver Software in Windows 10</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-best-bokeh-effects-apps-for-2024/"><u>Updated Best Bokeh Effects Apps for 2024</u></a></li>
 </ul></div>
 

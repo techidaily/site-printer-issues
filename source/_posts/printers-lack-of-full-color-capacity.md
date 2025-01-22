@@ -1,7 +1,7 @@
 ---
 title: Printer's Lack of Full Color Capacity
-date: 2025-01-12T21:58:14.669Z
-updated: 2025-01-15T18:14:53.056Z
+date: 2025-01-19T04:08:47.044Z
+updated: 2025-01-21T16:01:51.944Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 
  Printer not functioning normally is a common issue. It can happen anytime and give you a headache. For example, you’re in a hurry but your printer is acting up and won’t print your document in color. If you’re experiencing this problem, you’ve come to the right place. In this article, we’ll show you how to fix your printer when it’s not printing in color.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all, just work your way down the list until you find the one that does the trick!
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 
 [4: Repair system files](#fix4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Perform basic troubleshooting
 
  When your printer only prints in black-and-white all of a sudden, the first thing you can do is performing some basic troubleshooting. Sometimes you’ll just need to replace the ink cartridge or adjust a setting, and your printer will work just fine. To perform basic troubleshooting, you can follow these steps:
@@ -43,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 * Restart your printer and test the issue again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Try to print from a different device
@@ -51,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
  If you’ve tested the basics and everything seems just fine, then the problem may be with your PC. You can try to send the print job on another PC, your phone, or tablet, to see if can print your document in color.
 
  If it does, then you may need to [update your driver (see the next fix)](#fix3) . If your printer still won’t print in color, then it could be a hardware issue. Consider seeking help from a printer technician or replace your printer if it’s an old one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Update your printer driver
 
@@ -72,11 +76,11 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_12-11-25.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](mailto:support@drivereasy.com) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Repair system files
 
@@ -91,14 +95,10 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -124,24 +124,18 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-premium-internet-havens-tune-downloads-directory/"><u>[New] Premium Internet Havens Tune Downloads Directory</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-perfect-your-online-storytelling-top-101-tips-for-facebook-biographies-for-2024/"><u>[Updated] Perfect Your Online Storytelling Top 101 Tips for Facebook Biographies for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-future-of-virtual-spaces-comparing-meta-and-omniverse/"><u>[Updated] The Future of Virtual Spaces Comparing Meta and Omniverse</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-windows-11-unlocked-top-features-on-display/"><u>[Updated] Windows 11 Unlocked Top Features on Display</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/a-straightforward-approach-to-pcl-xl-malfunctions/"><u>A Straightforward Approach to PCL XL Malfunctions</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/dont-let-offline-be-the-end-for-your-canon-printer/"><u>Don’t Let Offline Be the End for Your Canon Printer</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-honor-90-lite-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Honor 90 Lite Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-google-pixel-8-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Google Pixel 8 Pro to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/improve-printers-pace-at-a-glance/"><u>Improve Printer's Pace at a Glance</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-spooler-failures-on-windows-7-10-and-11/"><u>Overcoming Spooler Failures on Windows 7, 10 & 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reprogram-inkjet-and-laser-drivers-for-win10-pcs/"><u>Reprogram Inkjet & Laser Drivers for Win10 PCs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revolutionize-your-workspace-linking-laptop-plus-hp-printer/"><u>Revolutionize Your Workspace: Linking Laptop + HP Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solve-print-queue-problems-on-windows-11/"><u>Solve Print Queue Problems on Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/stay-charged-and-cool-unveiling-the-ultimate-3-in-1-magsafe-dock-for-apple-users-exclusive-review-on-zdnet/"><u>Stay Charged and Cool: Unveiling the Ultimate 3-in-1 MagSafe Dock for Apple Users - Exclusive Review on ZDNet</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/stop-your-printer-from-jamming-in-windows-11/"><u>Stop Your Printer From Jamming in Windows 11</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-guide-to-fostering-viewer-commitment-in-youtube-videos-for-2024/"><u>The Ultimate Guide to Fostering Viewer Commitment in YouTube Videos for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/top-off-your-printing-experience-latest-aio-updates-in-windows-7/"><u>Top Off Your Printing Experience: Latest AIO Updates in WIndows 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-voice-communication-issues-in-league-of-legends/"><u>Troubleshooting Guide: Fixing Voice Communication Issues in League of Legends</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723011958748-troubleshooting-oxygen-not-included-game-crashes-solutions-inside/"><u>Troubleshooting Oxygen Not Included Game Crashes: Solutions Inside</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-step-by-step-guide-to-professional-instagram-live-conversations-for-2024/"><u>[New] Step-by-Step Guide to Professional Instagram Live Conversations for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-access-granted-after-troubleshooting/"><u>[PRINT] Access Granted After Troubleshooting</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-becoming-an-instagram-reel-prodigy/"><u>[Updated] 2024 Approved Becoming an Instagram Reel Prodigy</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-8-android-apps-to-change-slow-motion-videos-to-regular-speed-videos/"><u>[Updated] Top 8 Android Apps to Change Slow-Motion Videos to Regular-Speed Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/collabcanvas-pro-instagram-video-mosaics-unite/"><u>CollabCanvas Pro Instagram Video Mosaics Unite</u></a></li>
+<li><a href="https://review-topics.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-xiaomi-redmi-note-12t-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Xiaomi Redmi Note 12T Pro in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ng-traction-on-youtube-the-successful-sponsorship-roadmap-by-famebit/"><u>Gaining Traction on YouTube The Successful Sponsorship Roadmap by FameBit</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-13-ultrafrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi 13 UltraFRP Lock</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printing-woes-config-error-help-needed/"><u>Printing Woes: Config Error, Help Needed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reach-new-horizons-in-printer-functionality-4630-driver-upgrade-guide/"><u>Reach New Horizons in Printer Functionality: 4630 Driver Upgrade Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-reviving-your-firestick-remote-from-complete-disarray/"><u>Step-by-Step Guide: Reviving Your Firestick Remote From Complete Disarray</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transformative-srt-editing-techniques-for-apple-devices/"><u>Transformative SRT Editing Techniques for Apple Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/usb-printer-malfunction-during-win7-restart-from-sleep/"><u>USB Printer Malfunction During Win7 Restart From Sleep</u></a></li>
 </ul></div>
 

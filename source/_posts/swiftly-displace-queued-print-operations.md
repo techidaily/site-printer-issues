@@ -1,7 +1,7 @@
 ---
 title: Swiftly Displace Queued Print Operations
-date: 2025-01-08T20:23:48.134Z
-updated: 2025-01-15T17:58:50.169Z
+date: 2025-01-16T18:51:22.452Z
+updated: 2025-01-21T18:26:49.674Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/d08434487f817b4e37cfe7558cadbd43386d2a121
  Have you ever run into a situation like this: you sent a job to the printer, but it just refused to print? Your print job fails and gets stuck in a queue. However you try to delete or cancel your print job, it just won’t go away!
 
  Don’t panic. Many users have reported the same issue, and it’s quite easy to fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -43,15 +47,19 @@ thumbnail: https://thmb.techidaily.com/d08434487f817b4e37cfe7558cadbd43386d2a121
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/stop-the-service.jpg)
 5. Navigate to**C:\\Windows\\System32\\spool\\PRINTERS** and delete all files in the folder. (Do NOT delete the folder itself.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/delete.jpg)
 6. In the Services window, right-click**Print Spooler** and select**Start** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/start-service.jpg)
 7. Go back to the**Print Job** queue. All print jobs should have been removed now and you can start printing again normally.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Have trouble deleting the files?**
   
@@ -66,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/d08434487f817b4e37cfe7558cadbd43386d2a121
 1. Type**cmd** in the search box and Run it as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/command-prompt-admin.jpg)
 2. In the Command Prompt window, enter the following commands separately:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 net stop spooler
 
@@ -91,10 +95,6 @@ This will clear all of your print jobs stuck in a queue.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/note.jpg)
 3. Then click**File** \>**Save as…**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
    * Change the file type to**All files**  
    * Name your file whatever you want, but add a**.bat** suffix.  
    * Make sure the Encoding type is**ANSI** .  
@@ -103,7 +103,7 @@ This will clear all of your print jobs stuck in a queue.
 4. Double-click the batch file to clear the print queue anytime you want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Reinstall the printer driver
@@ -142,7 +142,7 @@ This will clear all of your print jobs stuck in a queue.
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Try printing again. Your printer should be working properly now.
@@ -172,22 +172,17 @@ Feel free to drop us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-best-6-multilingual-video-decoders/"><u>[New] 2024 Approved Best 6 Multilingual Video Decoders</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-improve-productivity-learn-to-record-macs-screen-using-shortcut-keys-for-2024/"><u>[New] Improve Productivity Learn to Record Mac's Screen Using Shortcut Keys for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-hp-printer-driver-is-unavailable-on-windows-1110/"><u>[Solved] HP Printer Driver Is Unavailable on Windows 11/10</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-doubled-surface-capture-method-for-2024/"><u>[Updated] Doubled Surface Capture Method for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-pixma-mp620-searching-for-driver-on-win11/"><u>Canon Pixma MP620: Searching for Driver on Win11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/combat-brother-printer-not-printing-quagmire-reinstating-functionality-on-windows/"><u>Combat Brother Printer Not Printing Quagmire, Reinstating Functionality on Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhancing-efficiency-at-manchester-university-nhs-foundation-trust-with-total-automated-billing-systems-and-secured-financial-operations/"><u>Enhancing Efficiency at Manchester University NHS Foundation Trust with Total Automated Billing Systems and Secured Financial Operations</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/enhancing-your-content-with-effortlessly-added-youtube-subtitles-for-2024/"><u>Enhancing Your Content with Effortlessly Added YouTube Subtitles for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-photo-printer-over-printing-white-paper/"><u>Epson Photo Printer: Over-Printing White Paper</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Nokia G42 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-13-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 13 to Computer? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-xiaomi-redmi-note-12-pro-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Xiaomi Redmi Note 12 Pro 5G Phone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-setup-halted-win10-doesnt-recognize-mp620-driver/"><u>Printer Setup Halted: WIN10 Doesn't Recognize MP620 Driver</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-printer-connection-remedy/"><u>Quick Printer Connection Remedy</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/revolutionizing-patient-outreach-with-fb-ads/"><u>Revolutionizing Patient Outreach with FB Ads</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/speedy-clearance-of-stalled-print-queue/"><u>Speedy Clearance of Stalled Print Queue</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/syncing-up-hp-printer-with-pc-settings/"><u>Syncing Up HP Printer with PC Settings</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-essential-underwater-videography-best-action-cameras-for-snorkelers/"><u>[New] Essential Underwater Videography Best Action Cameras for Snorkelers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-strategies-for-efficient-business-teleconferencing-for-2024/"><u>[Updated] Strategies for Efficient Business Teleconferencing for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-oppo-a2-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Oppo A2</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/bridge-the-gap-reactivate-and-recover-from-printer-disconnect/"><u>Bridge the Gap: Reactivate and Recover From Printer Disconnect</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/conquer-non-printing-on-canon-uncover-5-easy-methods-for-windows-11-enthusiasts/"><u>Conquer Non-Printing on Canon - Uncover 5 Easy Methods for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/correct-windows-11-printer-connection-fails/"><u>Correct Windows 11 Printer Connection Fails</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-free-qualcomm-atheros-ar938x-drivers-without-hassle/"><u>Download the Free Qualcomm Atheros AR938X Drivers Without Hassle</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y27s-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y27s to Outlook | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mary-jo-foley-reflects-on-an-impactful-journey-with-microsoft-at-zdnet/"><u>Mary Jo Foley Reflects on an Impactful Journey with Microsoft at ZDNet</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-printer-disconnection-challenges/"><u>Overcoming Printer Disconnection Challenges</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-error-0x800f081f-during-net-framework-35-setup/"><u>Troubleshooting Guide: Resolving Error 0X800F081F During .NET Framework 3.5 Setup</u></a></li>
 </ul></div>
 

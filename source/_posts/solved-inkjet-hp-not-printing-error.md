@@ -1,7 +1,7 @@
 ---
 title: "Solved: Inkjet HP Not Printing Error"
-date: 2025-01-13T22:56:49.725Z
-updated: 2025-01-15T22:42:15.648Z
+date: 2025-01-18T21:24:25.582Z
+updated: 2025-01-22T04:54:23.471Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 5. **[Check printer status](#e)**
 6. [**Repair corrupted system files**](#RE)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Perform basic troubleshooting
 
  You can do some troubleshooting at first when you find your HP printer stops working. You should check the status of the**connection** between your printer and your computer. Make sure your devices are**properly connected** with each other, and the**network** or the**cable** you use to connect these devices is normal.
@@ -52,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/10/de-update-all-hp-printer.jpg)
 4. After updating, restart your computer to take effect.
@@ -68,17 +68,29 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb867beb0b.png)
 2. In Control Panel select**Devices and Printers** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 3. In the**Printers** section, right-click on your HP printer and then select**Set as default printer** . Click on**Yes** if prompted.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5476a01d.png)
 4. There is now a tick below the icon of your HP printer. That means it is now set as the default printer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5fe2a9b6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Cancel all print jobs
 
@@ -94,19 +106,11 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea27610b0.png)
 4. Open**Printer** menu again. This time select**Cancel All Documents** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea70940b1.png)
 5. **Confirm** your action.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987eaa0030f9.png)
 6. You have canceled all print jobs of your printer. Now check and see if it can run normally.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Check printer status
 
@@ -135,10 +139,6 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 4. If you need to proceed with the repair function, you’ll be required to purchase the full version.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Restart your computer for the changes to take effect.
 
  The full version of Fortect comes with a 60-day money-back guarantee and full customer support. If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact their support team.
@@ -154,7 +154,7 @@ Check your computer to see if your printer works properly.
 2. Click**Yes** when prompted to confirm.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
@@ -162,7 +162,7 @@ Check your computer to see if your printer works properly.
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
@@ -185,14 +185,16 @@ Check your computer to see if your printer works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-key-points-to-consider-when-opting-for-a-youtube-tv-subscription/"><u>[New] 2024 Approved Key Points to Consider When Opting for a YouTube TV Subscription</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-connectivity-crunch-windows-7-usb-printer-dormancy/"><u>[Resolved] Connectivity Crunch: Windows 7 USB Printer Dormancy</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-elevating-video-sharing-from-youtube-to-insta-for-2024/"><u>[Updated] Elevating Video Sharing From YouTube to Insta for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-quickcast-your-youtube-selection-playlists/"><u>[Updated] Quickcast Your Youtube Selection, Playlists!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win-error-unable-to-locate-printer-drivers/"><u>[WIN ERROR] Unable to Locate Printer Drivers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/bringing-back-life-to-dead-printer/"><u>Bringing Back Life to Dead Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-pixma-mp620-uninstall-failed-in-win11/"><u>Canon Pixma MP620 Uninstall Failed in Win11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/deleting-with-determination-how-to-eradicate-stubborn-folders-in-windows-using-revo-uninstaller/"><u>Deleting with Determination: How to Eradicate Stubborn Folders in WINDOWS Using Revo Uninstaller</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ting-viewers-prime-video-ideas-for-channels/"><u>Elevating Viewers Prime Video Ideas for Channels</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-chorus-of-services-integrating-your-musical-library-for-2024/"><u>[New] Chorus of Services Integrating Your Musical Library for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-initiate-into-a-tiktok-live-with-ease/"><u>[New] In 2024, Initiate Into a TikTok Live with Ease</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-sites-where-virtual-worlds-come-alive/"><u>[Updated] 2024 Approved Sites Where Virtual Worlds Come Alive</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-secrets-the-best-dronescopic-stabilizers-reviewed/"><u>2024 Approved Unveiling Secrets The Best Dronescopic Stabilizers Reviewed</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1728501832122-aomei-backupper/"><u>如何使用AOMEI Backupper創建伺服器映像版本 - 教學課程</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-and-why-to-cut-off-your-vizios-wi-fi-access-for-enhanced-privacy/"><u>How and Why to Cut Off Your Vizio's Wi-Fi Access for Enhanced Privacy</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/missing-network-printer-how-to-restore-visibility/"><u>Missing Network Printer - How to Restore Visibility</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/preventing-and-remedying-paper-misalignment/"><u>Preventing and Remedying Paper Misalignment</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-problem-post-upgrade-success-story/"><u>Printer Problem Post Upgrade: Success Story</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ultimate-tips-for-canon-print-setup/"><u>Ultimate Tips for Canon Print Setup</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/wiederherstellung-und-behebung-von-systemdatenschaden-auf-windows-betriebssystemen-windows-11-10-8/"><u>Wiederherstellung Und Behebung Von Systemdatenschäden Auf Windows-Betriebssystemen (Windows 11, 10, 8,</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Non-Printing Brother Printer in Windows OSes
-date: 2025-01-10T19:51:23.296Z
-updated: 2025-01-16T00:00:47.914Z
+date: 2025-01-18T23:42:41.306Z
+updated: 2025-01-22T03:11:00.782Z
 tags:
   - win11
   - win10
@@ -20,9 +20,17 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 
  Brother printer not printing when you’re in urgent need of a document? This could be very annoying. You may wonder why the printer is not working and how to fix it. Read this post and you’ll learn 7 effective fixes to get back in action quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why is my Brother printer not printing?
 
  There are several reasons that your Brother printer fails to work properly, including**incorrect connectivity** ,**outdated printer driver** and**faulty configurations** . Whatever the cause is, you can fix it in a few steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Here’re the fixes
 
@@ -55,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2 – Set your Brother printer as the default device
 
  Your computer tends to use the default printer every time you print. Therefore, you should set your Brother printer as the default device to undertake all the print jobs. Here’s how:
@@ -62,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Type**control** in the field and click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/2-1-2.jpg)
 2. Select**Small icons** from the drop-down menu next to**View by** . Then, click**Devices and Printers** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/2-2-2.jpg)
 3. Right-click your**Brother printer** and click**Set as default printer** .  
@@ -90,22 +98,14 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/3-3-2.jpg)
 4. Set the**Startup type** to**Automatic** . Then, click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/3-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now see if your Brother printer returns to normal and acts the way it should. If the same problem occurs, the culprit may be your printer driver, and please check out Fix 4.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4 – Update your printer driver
@@ -113,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
  A range of printer-related problems is caused by a wrong or out-of-date printer driver. So if you’re troubled by the non-working Brother printer, be sure to update its driver and see if the problem gets resolved. There’re two options for you:**[manually](#option1)** or**[automatically](#option2)** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1 – Download and install the driver manually
@@ -121,10 +121,6 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
  Brother keeps updating drivers for its printers. You can search for the latest driver on **[Brother’s support website](https://support.brother.com/g/b/productsearch.aspx?c=us%5Fot&lang=en&content=dl)**  , find the one corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download it.
 
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2 – Automatically update the printer driver
 
@@ -158,16 +154,8 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/4-1-4.jpg)
 2. Right-click**Print Spooler** and click**Stop** . Then, minimize the Services window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/4-2-2.jpg)
 3. On your keyboard, press the**Windows logo key** and**E** at the same time to open the File Explorer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Copy the address_**%windir%\\System32\\spool\\PRINTERS**_ and paste it to the address bar. Then, press**Enter** on your keyboard.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/4-3-3.jpg)
@@ -175,10 +163,6 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 
 6. Re-open the Services window. Then, click**Print Spooler** and click**Start** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/4-5-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you finish the steps above, restart your PC for the changes to take effect. Then, test if your Brother printer works as intended. If not, try the next fix.
 
@@ -196,23 +180,39 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Check the status of your Brother printer to see if this method gives you luck. If not, check out the next solution.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7 – Print from other programs
 
  Sometimes, the Brother printer not printing issue only happens with certain programs. You can test the printer by**printing from another program** . If it works well, the problem lies in the application you run and you should contact its vendor or developer for further assistance. But if the problem remains, please proceed to the last fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 8 – Factory reset your Brother printer
 
@@ -243,17 +243,24 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-turn-video-soundtracks-into-audible-files/"><u>[Updated] 2024 Approved How to Turn Video Soundtracks Into Audible Files</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-easy-route-to-capturing-every-gameplay-moment-for-2024/"><u>[Updated] The Easy Route to Capturing Every Gameplay Moment for 2024</u></a></li>
-<li><a href="https://discover-help.techidaily.com/1728472792846-404/"><u>404エラーでページを探す方法 - 効果的な解決策</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/disabling-scanner-error-cleared-in-win11/"><u>Disabling Scanner Error Cleared in Win11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhanced-performance-officejet-pro-8600-driver-for-windows/"><u>Enhanced Performance: Officejet Pro 8600 Driver for Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-samsung-galaxy-z-flip-5-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Samsung Galaxy Z Flip 5 to iPod | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/master-the-art-of-mobile-movie-watching-with-top-10-ios-apps/"><u>Master the Art of Mobile Movie Watching with Top 10 iOS Apps</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/maximize-printer-potential-with-hp-inkjet-updates/"><u>Maximize Printer Potential with HP Inkjet Updates</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/setting-up-your-hp-laserjet-remote-connection/"><u>Setting Up Your HP LaserJet Remote Connection</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-complexity-of-conversation-bots-unpacking-the-eight-core-problems-in-gpt/"><u>The Complexity of Conversation Bots: Unpacking the Eight Core Problems in GPT</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-premium-microphone-selection-for-your-podcast/"><u>The Premium Microphone Selection for Your Podcast</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-13-mini-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your iPhone 13 mini</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-sierras-icloud-drives-the-full-experience/"><u>[New] Comprehensive Sierra's iCloud Drives – The Full Experience</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-how-to-edit-uploaded-published-youtube-videos/"><u>[Updated] How to Edit Uploaded/ Published YouTube Videos</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-issue-mp620-driver-not-detected/"><u>[Windows Issue] MP620 Driver Not Detected</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-eye-catching-images-windows-10s-screenshot-feature/"><u>2024 Approved Eye-Catching Images Windows 10'S Screenshot Feature</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/addressing-hp-printer-fault-0xoxc4eb827f/"><u>Addressing HP Printer Fault: 0XOXC4EB827F</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/advanced-techniques-to-setup-hp-print-devices-in-win10-os/"><u>Advanced Techniques to Setup HP Print Devices in Win10 OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/end-of-the-line-for-non-printed-pages/"><u>End of the Line for Non-Printed Pages</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-samsung-galaxy-f54-5g-by-fonelab-android-recover-video/"><u>How to recover old videos from your Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-officejet-pro-8600-printer-manager-for-windows-systems/"><u>HP Officejet Pro 8600 Printer Manager for Windows Systems</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-giggle-engine-for-the-internet/"><u>In 2024, Giggle Engine for the Internet</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-infinix-note-30-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-se-2022-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your iPhone SE (2022)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/keep-it-running-smoothly-update-dells-inkjet-aio-on-windows-7/"><u>Keep It Running Smoothly: Update Dell's Inkjet AIO on Windows 7</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-compatibility-windows-11-and-canons-mp620/"><u>Printer Compatibility: Windows 11 and Canon's MP620</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-tip-uninstalling-default-print-devices/"><u>Quick Tip: Uninstalling Default Print Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/turn-your-non-printing-canon-into-a-reliable-device-with-tips/"><u>Turn Your Non-Printing Canon Into a Reliable Device with Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-ios-18s-advanced-ai-features-for-iphones-immediate-benefits-and-anticipated-developments-covered-by-zdnet/"><u>Unveiling iOS #18'S Advanced AI Features for iPhones: Immediate Benefits & Anticipated Developments Covered by ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Corrected Code B200
-date: 2025-01-08T20:25:15.377Z
-updated: 2025-01-15T17:36:37.273Z
+date: 2025-01-17T02:03:55.356Z
+updated: 2025-01-21T17:45:18.595Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 
  Keep getting the error code B200? You’re not alone! Many Canon users are reporting it. But don’t worry. You can fix it Here are 3 solutions to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 simple fixes to try
 
  In most cases, getting the error B200 indicates that the printhead of your Canon printer is dead. Apart from that, defective ink cartridges and a corrupt printer driver can also trigger this problem. But before you rush out to buy a new printhead, check the fixes below.
@@ -27,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 1. **[Update your printer driver](#a)**
 2. **[Check your ink cartridges](#b)**
 3. **[Clean the printhead](#c)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your printer driver
 
@@ -49,13 +49,13 @@ There are two ways you can update your printer driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/b200-error-code-canon-driver-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Enter the name of the serial number of your Canon product and search for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/b200-error-code-canon-driver-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
 
@@ -75,13 +75,13 @@ There are two ways you can update your printer driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-229.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like. But it’s partly manual.
 
@@ -99,10 +99,6 @@ There are two ways you can update your printer driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/toner-581905_1920-1024x768.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Check the ink levels on your printer
 
  Check the ink levels on your Canon printer and replace your cartridges if necessary.
@@ -115,12 +111,16 @@ There are two ways you can update your printer driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/cartridges-828195_1920-1-1024x981.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Make sure your cartridges all work properly, then reinstall it.
 
  Now, reopen your Canon printer. If your problem still exists, try the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Clean the printhead
@@ -163,21 +163,24 @@ The printhead is very delicate. Please proceed with caution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-step-by-step-to-effortless-iphone-screen-recording/"><u>[New] 2024 Approved Step-by-Step to Effortless IPhone Screen Recording</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-navigating-virtual-meeting-platforms-zooming-onto-your-android/"><u>[Updated] 2024 Approved Navigating Virtual Meeting Platforms Zooming Onto Your Android</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-advanced-screen-recording-methods-on-dell-laptops/"><u>[Updated] Advanced Screen Recording Methods on Dell Laptops</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-improve-your-videography-the-itunes-way/"><u>[Updated] Improve Your Videography The iTunes Way</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-art-of-aligning-brands-with-youtube-content/"><u>[Updated] The Art of Aligning Brands with YouTube Content</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/warning-print-service-not-starting-correctly/"><u>[WARNING] Print Service Not Starting Correctly</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/dreame-bot-l10-pro-overview-innovative-room-cleaning-automation-using-lidar-technology/"><u>Dreame Bot L10 Pro Overview: Innovative Room Cleaning Automation Using LiDAR Technology</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/embrace-change-upgrading-from-windows-7-to-11/"><u>Embrace Change: Upgrading From Windows 7 To 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/error-code-0x97-the-epson-fix/"><u>Error Code 0X97: The Epson Fix</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/finding-windows-11-support-for-mp620-printer/"><u>Finding Windows 11 Support for MP620 Printer</u></a></li>
-<li><a href="https://fox-access.techidaily.com/luxury-leisure-levels-review-roundup-for-2024/"><u>LUXURY LEISURE LEVELS Review Roundup for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mastering-the-installation-of-canon-print-devices/"><u>Mastering the Installation of Canon Print Devices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcome-canons-non-print-dilemma-with-these-quick-fixes-in-windows-11/"><u>Overcome Canon's Non-Print Dilemma with These Quick Fixes in Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/securely-update-your-mac-with-macos-1441-a-guide-from-zdnet/"><u>Securely Update Your Mac with macOS 14.4.1: A Guide From ZDNet</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/speed-up-stalled-printer-tasks/"><u>Speed Up Stalled Printer Tasks</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-7-printer-repaired/"><u>Windows 7 Printer Repaired</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ssential-video-gear-for-youtube-starters-for-2024/"><u>[New] Essential Video Gear for YouTube Starters for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iphones-best-camera-combo-utilities/"><u>[New] IPhone's Best Camera Combo Utilities</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-laughter-ledger-twittersphere-tales-for-2024/"><u>[New] Laughter Ledger Twittersphere Tales for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-removing-your-facebook-live-video-tech-steps-for-2024/"><u>[New] Removing Your Facebook Live Video Tech Steps for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/a-visual-process-guide-on-setting-up-your-canon-printer/"><u>A Visual Process Guide on Setting up Your Canon Printer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-codes-will-machines-grasp-human-sorrow-and-joy/"><u>Beyond Codes: Will Machines Grasp Human Sorrow and Joy?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/celebrating-digiartys-milestone-special-plans-for-the-18-year-jubilee/"><u>Celebrating Digiarty's Milestone - Special Plans for the 18-Year Jubilee</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/error-eradicated-printer-for-epson-works/"><u>Error Eradicated: Printer for Epson Works</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/improve-print-quality-fixing-win10-drivers/"><u>Improve Print Quality: Fixing WIN10 Drivers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reconnected-print-spooler-in-win7/"><u>Reconnected Print Spooler in Win7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reversing-printer-freezes/"><u>Reversing Printer Freezes</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/segment-your-network-using-vlans-and-restrict-nas-access-through-appropriate-subnetting-reducing-exposure-to-potential-threats/"><u>Segment Your Network Using VLANs and Restrict NAS Access Through Appropriate Subnetting, Reducing Exposure to Potential Threats.</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solving-error-epson-fault-code/"><u>Solving Error: Epson Fault Code</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/speed-up-unresolved-printer-queue-issue/"><u>Speed Up Unresolved Printer Queue Issue</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/swift-repair-for-xerox-error-alert-0x1/"><u>Swift Repair for Xerox Error Alert 0X1</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-effective-ai-strategies-for-success/"><u>Top 7 Effective AI Strategies for Success</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/ultimate-list-of-unmissable-virtual-playgrounds-for-2024/"><u>Ultimate List of Unmissable Virtual Playgrounds for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/winnt2000-reactivate-sluggish-printer-response/"><u>WinNT/2000: Reactivate Sluggish Printer Response</u></a></li>
 </ul></div>
 

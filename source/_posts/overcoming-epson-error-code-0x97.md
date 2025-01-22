@@ -1,7 +1,7 @@
 ---
 title: Overcoming Epson Error Code 0X97
-date: 2025-01-09T20:53:58.452Z
-updated: 2025-01-15T22:46:00.715Z
+date: 2025-01-18T19:44:11.959Z
+updated: 2025-01-21T22:22:42.300Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 **Why do I get the Error Code 0x97?**
  Error code 0x97 is probably caused by a hardware failure. When you get the error code, it’s very likely that certain interior parts of your printer can’t function correctly. But don’t worry! Before you take your printer to a repair store and replace any hardware, try the fixes below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -35,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 2. **[Check your ink cartridges](#b)**
 3. **[Run the Windows printer troubleshooter](#c)**
 4. **[Update your printer driver](#d)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Reboot your printer
 
@@ -55,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 **5)** (Don’t release the power button.) Plug the power cable back in to the power outlet and hold the button for another 1 minute.
 
 **6)** Release power button, then check your printer to see if you still get the error message.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Check your ink cartridges
 
@@ -73,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
  If all your cartridges are in good condition, your problem may be caused by a poor connection between your cartridges and your printer. To fix it, reinstall your cartridges.
 
  Make sure your cartridges all work properly, and then reopen your printer to test your issue. If your problem still exists, check the fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Run the Windows printer troubleshooter
 
@@ -98,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-843.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click **Use a printer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-844.png)
@@ -118,17 +106,21 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-846.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Select **Troubleshooting settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-847.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click **Printer,**  and then click **Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-849.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait for the troubleshooting process to be complete, then reopen your printer to check if this fixed your issue. If not, read on and check the fix below.
 
@@ -164,11 +156,19 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the printer driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-229.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like. But it’s partly manual.
 
@@ -199,18 +199,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-a-comprehensive-introduction-to-color-grading-with-luts/"><u>[New] 2024 Approved A Comprehensive Introduction to Color Grading with LUTs</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-social-media-fusion-tweet-facebook-connectivity/"><u>[New] 2024 Approved Social Media Fusion Tweet-Facebook Connectivity</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/addressing-epsons-error-x97/"><u>Addressing Epson's Error X97</u></a></li>
-<li><a href="https://games-able.techidaily.com/bluetooth-harmony-with-ps5-gaming-setup/"><u>Bluetooth Harmony with PS5 Gaming Setup</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/dismantle-disconnection-get-your-printer-printing-again/"><u>Dismantle Disconnection: Get Your Printer Printing Again</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enabling-brother-inkjet-without-faults/"><u>Enabling Brother Inkjet Without Faults</u></a></li>
-<li><a href="https://blog-min.techidaily.com/groundbreaking-launch-mercedes-benz-unveils-plans-for-pioneering-electric-vehicle-charger-by-years-end/"><u>Groundbreaking Launch: Mercedes-Benz Unveils Plans for Pioneering Electric Vehicle Charger by Year's End</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/live-stream-tech-showdown-assessing-xsplit-and-obs-features/"><u>Live Stream Tech Showdown Assessing XSplit and OBS Features</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-social-connectivity-from-instagram-to-tiktoks-playground/"><u>Mastering Social Connectivity From Instagram to TikTok's Playground</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-remedy-for-server-stopped-errors-plaguing-microsoft-store-on-windows-11-and-11/"><u>Quick Remedy for 'Server Stopped' Errors Plaguing Microsoft Store on Windows 11 & 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-steps-to-setup-canon-printer-in-pictures/"><u>Quick Steps to Setup - Canon Printer in Pictures</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/rejuvenate-your-mf4770n-experience-for-win11-8-7/"><u>Rejuvenate Your MF4770n Experience for Win11, 8, 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-chromes-battery-boost-activating-energy-saving-settings-for-optimal-performance-why-it-matters/"><u>Unlocking Chrome's Battery Boost: Activating Energy Saving Settings for Optimal Performance (Why It Matters)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-from-captured-moment-to-moving-picture/"><u>[Updated] In 2024, From Captured Moment to Moving Picture</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-funimate-video-retrieval/"><u>2024 Approved Step-by-Step Funimate Video Retrieval</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/clearing-up-the-blank-page-mystery-in-printers/"><u>Clearing Up the Blank Page Mystery in Printers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-latest-in-hardware-with-toms-technology-insights/"><u>Discover the Latest in Hardware with Tom's Technology Insights</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/end-of-unprintable-axes-hp-printer-functioning-properly/"><u>End of Unprintable Axes: HP Printer Functioning Properly</u></a></li>
+<li><a href="https://fox-access.techidaily.com/feathered-salsa-dancer/"><u>Feathered Salsa Dancer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/gone-are-the-days-of-missing-printer-pages/"><u>Gone Are The Days of Missing Printer Pages</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/gopro-sd-5/"><u>GoPro SDカードエラーを解決する: 5つの有効な方法</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-and-prevent-crashes-overcoming-biomutants-pc-troubles-in-202nffixing-biomutant-on-pc-for-a-seamless-gaming-experience-tips-and-strategies/"><u>How to Fix and Prevent Crashes: Overcoming Biomutant's PC Troubles in 202nfFixing Biomutant on PC for a Seamless Gaming Experience - Tips & Strategies</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oppo-a1-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/rehabilitating-erratic-scanning-units/"><u>Rehabilitating Erratic Scanning Units</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/system-enhancement-mf4770n-software-upgrade-windows/"><u>System Enhancement: MF4770n Software Upgrade WIndows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unleash-full-capacity-in-hp-officejet-4630-with-update/"><u>Unleash Full Capacity in HP Officejet 4630 with Update</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/winerror-resolved-setting-primary-printer-0x00000709/"><u>WinError Resolved - Setting Primary Printer (0X00000709)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-valorant-on-pc-overcoming-frames-drops/"><u>Winning Valorant on PC: Overcoming Frames Drops</u></a></li>
 </ul></div>
 

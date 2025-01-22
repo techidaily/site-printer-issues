@@ -1,7 +1,7 @@
 ---
 title: Reviving Sound From Laptop Audio Internal Speakers – Step-by-Step Tips
-date: 2025-01-10T23:57:00.149Z
-updated: 2025-01-15T16:58:47.730Z
+date: 2025-01-17T16:53:47.595Z
+updated: 2025-01-22T02:37:49.368Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ When you try to play music or video on your laptop, but just find**no sound on t
 [ **3\. Reinstall your sound card driver** ](<https://www.drivereasy.com/knowledge/laptop-internal-speakers-no-sound-solved/#Fix> 3. Reinstall your sound driver)
 [ **4\. Update your sound card driver** ](<https://www.drivereasy.com/knowledge/laptop-internal-speakers-no-sound-solved/#Fix> 4. Update your sound card driver) ``
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your speakers volume
 
  1)`` Make sure your laptop sound isn’t muted.
@@ -30,16 +34,12 @@ When you try to play music or video on your laptop, but just find**no sound on t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-17.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Drag the slider to increase the volume to test if the sound could work.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-22.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Set your speakers as default device
@@ -53,7 +53,7 @@ When you try to play music or video on your laptop, but just find**no sound on t
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:**  If you couldn’t find your speakers on the playback device list, it might be disabled.
@@ -65,7 +65,7 @@ Go with the easy steps to show it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) When your speakers shows up, right-click on it to choose**Enable** . Then you can set it as the default device.
@@ -88,13 +88,13 @@ Go with the easy steps to show it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your PC to make change take effect. Windows will automatically reinstall sound driver for you now.
 
  5) Check if speakers works on your laptop now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Update**your sound card driver**
 
@@ -131,16 +131,22 @@ Any problems just feel free to leave your comment below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-leading-edge-selecting-9-superior-online-microphone-recorders/"><u>[New] 2024 Approved Leading Edge Selecting 9 Superior Online Microphone Recorders</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-no-cost-endless-chuckles-the-meme-makers-manual/"><u>[New] In 2024, No Cost, Endless Chuckles The Meme Makers' Manual</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-social-media-power-up-grouping-multiple-photos-and-vids-for-instagram-for-2024/"><u>[New] Social Media Power-Up Grouping Multiple Photos & Vids for Instagram for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-game-changer-samsung-ue590-4k-monitor/"><u>[New] Unveiling the Game Changer - Samsung UE590 4K Monitor</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-add-timestamp-on-youtube-video-link-desktop-and-mobile-for-2024/"><u>[Updated] How to Add Timestamp on YouTube Video Link? [Desktop and Mobile] for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enrich-printer-capabilities-dell-software-update-for-windows-7/"><u>Enrich Printer Capabilities: Dell Software Update for Windows 7</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Lava Blaze Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/inkjet-resumed-solved-epson-printer/"><u>Inkjet Resumed: Solved [Epson Printer]</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reconciled-printer-not-responding/"><u>Reconciled: Printer Not Responding</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/selecting-the-top-8-linux-screenshots-tools-for-2024/"><u>Selecting the Top 8 Linux Screenshots Tools for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/why-is-my-printer-black-and-white/"><u>Why Is My Printer Black & White?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-decrypting-the-mystery-understanding-unlisted-content-on-youtube/"><u>[Updated] In 2024, Decrypting the Mystery Understanding 'Unlisted' Content on YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-navigating-instagram-data-a-complete-analysis-for-businesses-and-individuals/"><u>[Updated] Navigating Instagram Data A Complete Analysis for Businesses and Individuals</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/10-installation-aufbauen-sie-ihre-umgebung-mit-fehlerbehebungs-und-wiederherstellungsmethoden-effizient/"><u>10 Installation - Aufbauen Sie Ihre Umgebung Mit Fehlerbehebungs- Und Wiederherstellungsmethoden Effizient</u></a></li>
+<li><a href="https://facebook.techidaily.com/a-deep-dive-into-metas-enhanced-user-privacy-measures/"><u>A Deep Dive Into Meta’s Enhanced User Privacy Measures</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ceased-epson-standby-error/"><u>Ceased Epson Standby Error</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/connect-printer-with-a-click-no-delay/"><u>Connect Printer with a Click, No Delay</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-smart-home-experience-with-the-limited-time-offer-on-amazons-30-echo-dot-the-perfect-budget-friendly-solution/"><u>Enhance Your Smart Home Experience with the Limited-Time Offer on Amazon's $30 Echo Dot: The Perfect Budget-Friendly Solution!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-clear-the-liquid-alert-on-an-iphone-when-using-a-usb-c-charging-cable/"><u>How to Clear the Liquid Alert on an iPhone When Using a USB-C Charging Cable</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-react-printer-disconnects-during-print-job/"><u>How To React: Printer Disconnects During Print Job</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-lost-or-stolen-iphone-8-plus-in-easy-steps-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Data From Lost or Stolen iPhone 8 Plus In Easy Steps | Stellar</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-set-up-a-wireless-printer-with-hp-color-life-series/"><u>How To: Set Up a Wireless Printer with HP Color Life Series</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-screencast-primer-fundamental-knowledge-for-video-enthusiasts/"><u>In 2024, The Screencast Primer Fundamental Knowledge for Video Enthusiasts</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/precision-in-pages-a-success-story-for-printers/"><u>Precision in Pages: A Success Story for Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/recommendations-for-reactivating-hp-print-headless-systems/"><u>Recommendations for Reactivating HP Print Headless Systems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reignite-your-brother-printers-print-function-on-windows-1011/"><u>Reignite Your Brother Printer's Print Function on Windows 10/11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-offline-hp-xp-paper-issue/"><u>Troubleshooting Offline HP XP Paper Issue</u></a></li>
 </ul></div>
 

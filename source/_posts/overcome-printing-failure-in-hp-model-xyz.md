@@ -1,7 +1,7 @@
 ---
 title: Overcome Printing Failure in HP Model XYZ
-date: 2025-01-09T21:15:40.002Z
-updated: 2025-01-16T00:00:11.772Z
+date: 2025-01-17T17:56:56.513Z
+updated: 2025-01-22T04:02:04.867Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
  You can do some troubleshooting at first when you find your HP printer stops working. You should check the status of the**connection** between your printer and your computer. Make sure your devices are**properly connected** with each other, and the**network** or the**cable** you use to connect these devices is normal.
 
  You can also try restarting your HP printer.**Turn** it**off** completely and**unplug the power cord** , leave it for a couple of minutes, and then**plug** the cord**back** and**power on** the printer. See if your printer can print as normally as before.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update or reinstall the printer driver
 
@@ -68,24 +64,24 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb867beb0b.png)
 2. In Control Panel select**Devices and Printers** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 3. In the**Printers** section, right-click on your HP printer and then select**Set as default printer** . Click on**Yes** if prompted.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5476a01d.png)
 4. There is now a tick below the icon of your HP printer. That means it is now set as the default printer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5fe2a9b6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Cancel all print jobs
@@ -97,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 2. Right-click on your HP printer in the**Printers** section and select**See what’s printing** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e955d3a5d.png)
@@ -106,12 +102,12 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea27610b0.png)
 4. Open**Printer** menu again. This time select**Cancel All Documents** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea70940b1.png)
 5. **Confirm** your action.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987eaa0030f9.png)
 6. You have canceled all print jobs of your printer. Now check and see if it can run normally.
@@ -158,12 +154,16 @@ Check your computer to see if your printer works properly.
 2. Click**Yes** when prompted to confirm.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/sfc-scannow.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the printer works properly.
@@ -185,24 +185,17 @@ Check your computer to see if your printer works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-the-ultimate-guide-to-channel-description-perfection/"><u>[New] 2024 Approved The Ultimate Guide to Channel Description Perfection</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/oordinating-multiple-channels-on-one-screen-for-2024/"><u>[New] Coordinating Multiple Channels on One Screen for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-next-gen-videostreaming-hubs-triumph-beyond-youtube/"><u>[Updated] Next-Gen Videostreaming Hubs Triumph Beyond Youtube</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/compatible-utilities-hp-officejet-pro-8600-printer-software/"><u>Compatible Utilities: HP Officejet Pro 8600 Printer Software</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/complete-insight-the-full-picture-of-bublcam-360/"><u>Complete Insight The Full Picture of Bublcam 360</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-resetting-windows-11-applications/"><u>Guide to Resetting Windows 11 Applications</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-magic-vs-2-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Magic Vs 2 to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-huawei-nova-y71-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Huawei Nova Y71 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-nubia-red-magic-8s-pro-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Nubia Red Magic 8S Pro Phone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-repairing-a-stand-alone-headphone/"><u>In 2024, Repairing a Stand-Alone Headphone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instant-resolution-for-caught-in-printer-jobs/"><u>Instant Resolution for Caught-In Printer Jobs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/perfect-print-all-pages-now-available/"><u>Perfect Print: All Pages Now Available</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-fixes-for-canon-printer-non-operational-in-windows-10/"><u>Quick Fixes for Canon Printer Non-Operational in Windows 10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reactivation-of-online-scan-achieved-on-win11/"><u>Reactivation of Online Scan Achieved on Win11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restoring-perfect-document-output/"><u>Restoring Perfect Document Output</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reviving-non-responsive-printers/"><u>Reviving Non-Responsive Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-non-starting-spooler-on-your-pc-windows/"><u>Troubleshooting Non-Starting Spooler on Your PC (Windows)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unavailable-domain-services-prevents-printer-access/"><u>Unavailable Domain Services Prevents Printer Access</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722974683870-update-and-install-amd-radeon-rx-480-drivers-with-simple-steps/"><u>Update and Install AMD Radeon RX 480 Drivers with Simple Steps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-broadcasting-podcasts-on-instagram-features/"><u>[Updated] Broadcasting Podcasts on Instagram Features</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/avoiding-offline-troubles-with-a-neighborhood-printer/"><u>Avoiding Offline Troubles with a Neighborhood Printer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-overview-understanding-your-windows-crash-dumps/"><u>Comprehensive Overview: Understanding Your Windows Crash Dumps</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-touch-input-layout-on-newest-windows-os-win-11-edition/"><u>Correcting Touch Input Layout on Newest Windows OS - Win 11 Edition</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-optimal-performance-of-hp-scanjet-by-updating-its-drivers-in-windows-10-8-and-7/"><u>Ensure Optimal Performance of HP Scanjet by Updating Its Drivers in Windows (10, 8 & 7)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-printer-driver-issues-on-windows-11/"><u>Fix Printer Driver Issues on Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-tecno-spark-20-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Tecno Spark 20? Try These Fixes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mobile-editing-hacks-writing-on-photos/"><u>In 2024, Mobile Editing Hacks Writing on Photos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-pixelpilot-w11-lightweight-screenshot-and-recording-app/"><u>In 2024, PixelPilot W11 Lightweight Screenshot & Recording App</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/paperjam-prevention-tips/"><u>PaperJam Prevention Tips</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-service-disabled-trouble-in-windows/"><u>Printer Service Disabled: Trouble in Windows</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-c67-4g-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from C67 4G</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Addressing Clogged Toner Cartridges
-date: 2025-01-10T16:48:13.449Z
-updated: 2025-01-15T19:54:05.097Z
+date: 2025-01-19T23:38:00.764Z
+updated: 2025-01-21T22:25:22.141Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/14595ce84d31d38abb3ed2fa0891687712e003ea9
 [**5) Check hardware status**](#e)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1) Basic troubleshooting
 
  Once you find that your printer won’t print, you should check the status of the connection between your printer and computer. Make sure your printer is**properly connected** , and the**wireless network or cable** you use to connect your printer is**normal** .
@@ -45,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/14595ce84d31d38abb3ed2fa0891687712e003ea9
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2) Set your printer as default
@@ -66,8 +62,16 @@ thumbnail: https://thmb.techidaily.com/14595ce84d31d38abb3ed2fa0891687712e003ea9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593fb95ba1bf4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **d)**  You printer is now set to default!  
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3) Cancel all print jobs
 
@@ -79,25 +83,25 @@ thumbnail: https://thmb.techidaily.com/14595ce84d31d38abb3ed2fa0891687712e003ea9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59409bcecf2e7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **c)** Open**Printer** menu and then select**Open As Administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940dc98227ab.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **d)** Open**Printer** menu again. Select**Cancel All Documents** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a25f033a4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **e)** **Confirm** your action.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a2b245ae5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **f)**  The print queue of your printer is clear. Now check and see if your printer can run normally.  
   
@@ -119,10 +123,6 @@ thumbnail: https://thmb.techidaily.com/14595ce84d31d38abb3ed2fa0891687712e003ea9
  In the result, click on the**Update** button next to your printer. Then you can download the**latest and credible** driver for your device. After that you can use the files just downloaded and install the driver on your own.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59537ca159019.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  But if you want the program to**complete the whole update process** for you, you can upgrade it to [**Pro version**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -154,21 +154,21 @@ thumbnail: https://thmb.techidaily.com/14595ce84d31d38abb3ed2fa0891687712e003ea9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/network-fix-windows-810-printer-missing-issue/"><u>[Network Fix] Windows 8/10 Printer Missing Issue</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-ultimate-list-greatest-anime-opener-tunes-for-2024/"><u>[New] Ultimate List Greatest Anime Opener Tunes for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-directdownload-studio-fb/"><u>[Updated] 2024 Approved DirectDownload Studio FB</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-boost-your-instagram-vids-visibility/"><u>[Updated] In 2024, How to Boost Your Instagram Vids' Visibility</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/a-visual-process-guide-on-setting-up-your-canon-printer/"><u>A Visual Process Guide on Setting up Your Canon Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/easy-route-reconnecting-print-devices/"><u>Easy Route: Reconnecting Print Devices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-set-up-and-install-a-canon-printer-with-photos/"><u>How to Set Up and Install a Canon Printer with Photos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-pioneering-virtual-realities-in-live-video-feeds/"><u>In 2024, Pioneering Virtual Realities in Live Video Feeds</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-step-by-step-webcam-recording-on-hp-systems/"><u>In 2024, Step-by-Step Webcam Recording on HP Systems</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-comedy-codex-a-practical-tutorial-for-gif-creation/"><u>In 2024, The Comedy Codex A Practical Tutorial for GIF Creation</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-the-art-of-accessibility-how-pexelscom-transforms-design-processes-for-2024/"><u>New The Art of Accessibility How Pexels.com Transforms Design Processes for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/preparing-your-pc-and-room-for-the-ultimate-vr-for-2024/"><u>Preparing Your PC and Room for the Ultimate VR for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reconnected-print-spooler-in-win7/"><u>Reconnected Print Spooler in Win7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-frequent-spooler-halt-issues-on-pcs-running-windows/"><u>Resolving Frequent Spooler Halt Issues on PCs Running Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solve-your-hp-keyboard-woes-a-comprehensive-fix-for-common-wireless-issues/"><u>Solve Your HP Keyboard Woes - A Comprehensive Fix for Common Wireless Issues</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solving-error-epson-fault-code/"><u>Solving Error: Epson Fault Code</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-printer-not-working-on-windows-11-windows-11-printer-issues/"><u>[FIXED] Printer Not Working on Windows 11? Windows 11 Printer Issues</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-steps-for-controlling-video-comment-settings-in-youtube/"><u>[New] 2024 Approved Steps for Controlling Video Comment Settings in YouTube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-rapid-revamp-of-images-navigating-the-photos-editor-in-win10/"><u>[Updated] 2024 Approved Rapid Revamp of Images Navigating the Photos Editor in WIN10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1715937940695-updated-in-2024-how-to-choose-between-filmora-and-democreator/"><u>[Updated] In 2024, How to Choose Between Filmora and Democreator?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/advanced-drives-mf4770n-software-upgrade-windows/"><u>Advanced Drives: MF4770n Software Upgrade Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/correct-printing-resumed-on-hp-printer-after-glitch/"><u>Correct Printing Resumed on HP Printer After Glitch</u></a></li>
+<li><a href="https://win-special.techidaily.com/data-rescue-retrieving-information-from-damaged-windows-operating-systems-through-5-effective-techniques/"><u>Data Rescue: Retrieving Information From Damaged Windows Operating Systems Through 5 Effective Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-intel-serial-port-drivers-instant-downloads/"><u>Get the Latest Intel Serial Port Drivers - Instant Downloads!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/658093-9781446406861-just-do-it-now/"><u>Just Do It Now! | Free Book</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/optimal-sound-systems-under-100-for-immersive-gameplay/"><u>Optimal Sound Systems Under $100 for Immersive Gameplay</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-your-exe-program-crash-troubleshooting-and-fixes-successful/"><u>Overcome Your EXE Program Crash: Troubleshooting and Fixes Successful!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-networked-hp-printer-on-w7/"><u>Restoring Networked HP Printer on W7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tackling-pcl-xl-mistakes-with-ease/"><u>Tackling PCL XL Mistakes with Ease</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tips-to-revive-non-printing-hp-all-in-ones/"><u>Tips to Revive Non-Printing HP All-In-Ones</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-inaccessible-printer-network/"><u>Troubleshooting: Inaccessible Printer Network</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/varieties-of-fb-video-screens/"><u>Varieties of FB Video Screens</u></a></li>
 </ul></div>
 

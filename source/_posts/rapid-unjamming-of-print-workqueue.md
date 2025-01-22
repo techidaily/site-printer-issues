@@ -1,7 +1,7 @@
 ---
 title: Rapid Unjamming of Print Workqueue
-date: 2025-01-14T21:39:17.311Z
-updated: 2025-01-15T20:10:12.493Z
+date: 2025-01-20T18:50:16.440Z
+updated: 2025-01-22T00:50:54.925Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 * **Fix 2 –[Reinstall your printer driver](#m2)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Clear the print queue
@@ -43,22 +43,26 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/services-run-box.jpg)
 3. Scroll down to**Print Spooler** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Right-click**Print Spooler** and select**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/stop-the-service.jpg)
 5. Navigate to**C:\\Windows\\System32\\spool\\PRINTERS** and delete all files in the folder. (Do NOT delete the folder itself.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/delete.jpg)
 6. In the Services window, right-click**Print Spooler** and select**Start** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/start-service.jpg)
 7. Go back to the**Print Job** queue. All print jobs should have been removed now and you can start printing again normally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Have trouble deleting the files?**
@@ -103,7 +107,7 @@ This will clear all of your print jobs stuck in a queue.
 4. Double-click the batch file to clear the print queue anytime you want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Reinstall the printer driver
@@ -137,10 +141,6 @@ This will clear all of your print jobs stuck in a queue.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now-1.png)
 3. Click the Update button next to your sound card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **OR** click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-1.jpg)
 4. Restart your computer for the changes to take effect.
@@ -172,20 +172,24 @@ Feel free to drop us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-sleep-aid-asmr-techniques-unveiled/"><u>[New] Sleep Aid ASMR Techniques Unveiled</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshoot-print-service-non-functioning-windows/"><u>[TROUBLESHOOT] Print Service Non-Functioning Windows</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-leveraging-zoom-in-email-chats-a-guide-to-gmail-users/"><u>[Updated] 2024 Approved Leveraging Zoom in Email Chats – A Guide to Gmail Users</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-ideal-camcorders-for-high-definition-podcasts/"><u>[Updated] In 2024, Ideal Camcorders for High-Definition Podcasts</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-securing-your-snapchat-footage-a-step-by-step-process/"><u>[Updated] In 2024, Securing Your Snapchat Footage A Step-by-Step Process</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/5-effective-fixes-for-the-opening-sound-device-error-in-audacity/"><u>5 Effective Fixes for the 'Opening Sound Device' Error in Audacity</u></a></li>
-<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guide-to-setup-brothers-mfc-9330cdw-fan/"><u>Guide to Setup Brother's MFC-9330CDW Fan</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/preventing-constant-spooler-crashes-a-guide-for-windows-users/"><u>Preventing Constant Spooler Crashes: A Guide for Windows Users</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/rapid-solution-for-printer-not-plugged-in/"><u>Rapid Solution for Printer Not Plugged In</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/smooth-operations-new-printing-toolkit-for-windows-7-dell/"><u>Smooth Operations: New Printing Toolkit for Windows 7 Dell</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-dilemma-getting-your-windows-11-microphone-back-up-and-running/"><u>Solving the Dilemma: Getting Your Windows 11 Microphone Back Up and Running</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-c51-by-fonelab-android-recover-data/"><u>The way to get back lost data from C51</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unrecognized-print-activity-sheds-light/"><u>Unrecognized Print Activity Sheds Light</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-essential-steps-to-thrive-in-discord-livestreaming-for-2024/"><u>[New] The Essential Steps to Thrive in Discord Livestreaming for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-delving-into-youtubes-digital-video-workshop-for-2024/"><u>[Updated] Delving Into YouTube's Digital Video Workshop for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-how-to-record-audio-from-youtube/"><u>[Updated] How to Record Audio From YouTube</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/2-steps-to-set-up-canon-printer-with-pictures/"><u>2 Steps to Set up Canon Printer (With Pictures)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/breaking-barriers-reconnecting-brothers-networked-printer/"><u>Breaking Barriers: Reconnecting Brother's Networked Printer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-battery-issues-on-your-acer-device-when-it-wont-charge/"><u>Diagnosing Battery Issues on Your Acer Device – When It Won’t Charge</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/digital-dream-team-best-screen-capture-software-online/"><u>Digital Dream Team Best Screen Capture Software Online</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-zte-blade-a73-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-found-inkjet-not-printing-epson/"><u>Fix Found: Inkjet Not Printing [Epson]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-stop-apple-music-from-automatically-playing/"><u>How to Stop Apple Music From Automatically Playing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-s18-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo S18 Pro to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/interpreting-codes-for-inkjet-problems/"><u>Interpreting Codes for Inkjet Problems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mastering-canon-printer-wi-fi-setup/"><u>Mastering Canon Printer Wi-Fi Setup</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reestablish-links-essential-steps-to-solve-printer-woes/"><u>Reestablish Links: Essential Steps to Solve Printer Woes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solving-network-disconnectivity-in-hp-printers/"><u>Solving Network Disconnectivity in HP Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/step-by-step-tech-merging-8720-printer-into-pc-system/"><u>Step by Step Tech: Merging 8720 Printer Into PC System</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/streamlined-method-to-track-down-your-voice-in-youtube-threads-for-2024/"><u>Streamlined Method to Track Down Your Voice in YouTube Threads for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-50-amazing-cyber-monday-offers-on-elite-cleaning-robots-score-discounts-on-roomba-and-roborock-models-gadgetzoo/"><u>Top 50 Amazing Cyber Monday Offers on Elite Cleaning Robots: Score Discounts on Roomba & Roborock Models | GadgetZoo</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-hp-d1360-print-driver-installation-across-windows-systems/"><u>Troubleshooting HP D1360 Print Driver Installation Across Windows Systems</u></a></li>
 </ul></div>
 

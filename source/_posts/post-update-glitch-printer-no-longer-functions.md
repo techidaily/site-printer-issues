@@ -1,7 +1,7 @@
 ---
 title: "Post-Update Glitch: Printer No Longer Functions"
-date: 2025-01-11T21:01:59.660Z
-updated: 2025-01-15T23:41:09.062Z
+date: 2025-01-16T23:42:18.342Z
+updated: 2025-01-21T18:37:11.626Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/00e6694a6e8523368549c14f60a0299171aaa2659
 **Your printer stopped working after Windows 10 Update** ? You’re certainly not alone – hundreds of users are reporting it. The good news is, it’s not hard to fix at all…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix**printer stopped working after Windows 10 Update**
@@ -48,10 +48,6 @@ Here is how to power cycle your printer:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Make sure your printer is connected
 
  If your printer is not properly connected, your printer probably won’t work. So you should make sure it is well connected.
@@ -59,6 +55,10 @@ Here is how to power cycle your printer:
  Once you have confirmed the connection, check to see if the printer not printing problem is fixed. If yes, then you’ve solved the problem. If it still doesn’t work, please try**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your printer driver
 
@@ -74,12 +74,16 @@ Here is how to power cycle your printer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap19-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-188.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -108,15 +112,15 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-195.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Select**all the files** within the folder and_delete_ them. This is to clear the print queues.
 
  5) Go back to the**Services** window, locate**Print Spooler** and double-click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-197.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Click**Start** , then in**Startup** **Type** , select**Automatic** and click**OK** to save the changes.
 
@@ -137,10 +141,6 @@ Here is how to do it:
  2) In the**Troubleshoot** window, scroll down to the**Get up and running** section, click on**Printer** \>**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-209.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Wait for Windows to diagnose the problem and follow the on-screen instructions to resolve the printing not working situation.
 
@@ -165,16 +165,19 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-enhancing-presentations-with-powerpoints-speech-recognition-tool/"><u>[New] In 2024, Enhancing Presentations with PowerPoint's Speech Recognition Tool</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-secret-strategies-to-outshine-with-canva-photos/"><u>[Updated] In 2024, Secret Strategies to Outshine with Canva Photos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-ultimate-blueprint-for-tiktok-media-transfer/"><u>[Updated] In 2024, The Ultimate Blueprint for TikTok Media Transfer</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/best-ios-photo-editors-to-eliminate-objects-effectively-for-2024/"><u>Best iOS Photo Editors to Eliminate Objects Effectively for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brother-cdw-wireless-setup-step-by-step/"><u>Brother CDW Wireless Setup: Step by Step</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/effortless-removal-of-external-printers/"><u>Effortless Removal of External Printers</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/how-to-avoid-constant-paper-jams-in-your-scanner-expert-tips-from-yl-computing/"><u>How to Avoid Constant Paper Jams in Your Scanner: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-netflix-library-essential-teen-flicks-you-shouldnt-miss/"><u>Navigating the Netflix Library: Essential Teen Flicks You Shouldn’t Miss</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printers-not-responding-post-wake-from-sleep-w7/"><u>Printers Not Responding Post Wake From Sleep, W7</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-five-strategic-ai-avenues-for-cyber-illegalities/"><u>Unlocking Five Strategic AI Avenues for Cyber Illegalities</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-printer-spooler-stopped-functioning/"><u>Windows Printer Spooler: Stopped Functioning</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-unlocking-whatsapps-full-arsenal-for-efficient-communication/"><u>[New] In 2024, Unlocking WhatsApp's Full Arsenal for Efficient Communication</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-discover-the-future-of-screens-with-camstudios-2023-review/"><u>[Updated] 2024 Approved Discover the Future of Screens with CamStudio's 2023 Review</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlock-50-exclusive-youtube-banner-free-gifts/"><u>[Updated] Unlock 50 Exclusive YouTube Banner Free Gifts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-from-standard-to-spectacomed-adding-fonts-to-after-effects-workflow/"><u>2024 Approved From Standard to Spectacomed Adding Fonts to After Effects Workflow</u></a></li>
+<li><a href="https://games-able.techidaily.com/combat-driver-not-starting-frustration-windows-11-guide/"><u>Combat Driver Not Starting Frustration: Windows 11 Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-printer-blackout-blank-sheets-every-time/"><u>Epson Printer Blackout: Blank Sheets Every Time</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-techniques-to-get-your-iphone-voicemail-working-again-top-9-methods/"><u>Essential Techniques to Get Your iPhone Voicemail Working Again: Top 9 Methods</u></a></li>
+<li><a href="https://solve-info.techidaily.com/finereader-14-von-abbyy-neue-funktionen-fur-zusatzliche-pdf-dateitypen-unterstutzen/"><u>FineReader 14 Von ABBYY: Neue Funktionen Für Zusätzliche PDF-Dateitypen Unterstützen</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/five-easy-ways-to-make-your-canon-printer-start-printing-again-in-windows-11/"><u>Five Easy Ways to Make Your Canon Printer Start Printing Again in Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-drivers-not-found-error-on-w11-systems/"><u>Fix Drivers Not Found Error on W11 Systems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-unresponsive-solutions-needed/"><u>Printer Unresponsive: Solutions Needed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/remedying-persistent-spooler-problems-in-windows-systems/"><u>Remedying Persistent Spooler Problems in Windows Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-xiaomi-14-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Xiaomi 14 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win9598-printer-non-engagement-a-fix-guide/"><u>Win95/98 Printer Non-Engagement: A Fix Guide</u></a></li>
 </ul></div>
 

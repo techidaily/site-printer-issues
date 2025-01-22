@@ -1,7 +1,7 @@
 ---
 title: Fix Windows Millennium XP's Sluggish Printer Response
-date: 2025-01-11T20:39:25.982Z
-updated: 2025-01-15T21:13:12.318Z
+date: 2025-01-15T21:34:13.176Z
+updated: 2025-01-21T18:33:53.817Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
  Additionally, you can also try**restarting** all devices related to printing jobs. They include your**printer, computer, and WiFi router** (if your printer use wireless connection). You should shut them down completely, leave them for a while, and then power them on again. After that you can print something to see if this fixes the problem.  
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2) Run printer troubleshooter
 
  Windows system has a built-in printer troubleshooter that can diagnose your printer issues. You can run this tool as a way to help you fix the printer not responding error.
@@ -50,17 +54,9 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595469d0b5f8f.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **b)**  If you are using**Windows 10** , click on**Printer** and then on**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59546a6bbf65e.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **c)**  For**Windows 7** , click on**Use a printer** under**Hardware and Sound** .
 
@@ -83,9 +79,17 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595471a35b437.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **c)**  Click on**Stop** button under**Service status** and then on**Start** . (If the Service status is**Stopped** , then directly hit the**Start** button.) After that, hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5954724027192.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **d)**  You have just restarted Print Spooler service. Now try your printer and see if the not responding error is gone.  
   
@@ -98,29 +102,25 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595476501c3bd.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **b)**  Click on**Devices and Printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595476948d409.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **c)**  In**Printers** section, right click on your printer and then select**Printer properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595477595478e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **d)**  Select**Change properties**  on**General** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595478ceef471.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **e)**  Go to**Ports** tab. Under**Print to the following port(s)** , **tick**  the port that contains**the name of your printer** . You should note that the**Description** of the port should include**USB** or**DOT4** if you are using**USB connection** , or**WSD** ,**network** or**IP** if**network connection** is used. After choosing the port, hit**Apply** .
 
@@ -130,15 +130,11 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59547e1a648fd.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **g)**  You may need to repeat step**e** and**f**  until you can confirm you have applied the right change.  
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5) Check printer driver
@@ -158,6 +154,10 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 **b)** Click on**Update** button next to your printing device. Driver Easy will download the latest credible driver for you. Then you can install the driver on your own.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59537ca159019.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **c)**  If you want Driver Easy to complete the installation for you, you can use its **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . It will do the whole update process **automatically** . Also, you can update**all** drivers by hitting**Update All** button.
 
@@ -184,24 +184,19 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-youtubes-earnings-explained-making-money-from-ads/"><u>[New] 2024 Approved YouTube’s Earnings Explained Making Money From Ads</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-missing-hp-support-in-windows-1110/"><u>[Print] Missing HP Support in Windows 11/10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/update-needed-drivers-not-installing-hp-deskjet-d1360-on-windows/"><u>[Update Needed] Drivers Not Installing: HP Deskjet D1360 on Windows</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-capture-and-share-your-digital-world-effortlessly-for-2024/"><u>[Updated] Capture and Share Your Digital World Effortlessly for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-10-fastest-growing-youtube-channels-to-inspire-you/"><u>[Updated] In 2024, 10 Fastest Growing YouTube Channels to Inspire You</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-free-cross-platform-4k-playback-tools-for-win-and-os-x-devices/"><u>2024 Approved Free, Cross-Platform 4K Playback Tools for Win & OS X Devices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/correcting-sheet-overflow-in-an-epson-device/"><u>Correcting Sheet Overflow in an Epson Device</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-printer-malfunctions-post-win11-rollout/"><u>Fixed: Printer Malfunctions Post Win11 Rollout</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-back-to-normal-goodbye-ghost-bars/"><u>HP Printer Back to Normal: Goodbye, Ghost Bars</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on OnePlus 12R? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/is-it-sensible-to-replace-idevice-power-units/"><u>Is It Sensible to Replace iDevice Power Units?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-hp-officejet-4500-printer-software-upgrade-available-for-free/"><u>Latest HP Officejet 4500 Printer Software Upgrade Available for Free !</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-contrast-and-color-on-your-samsung-4k-television/"><u>Mastering the Art of Contrast and Color on Your Samsung 4K Television</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mf4770n-software-revamp-for-windows-108-upgrades/"><u>MF4770n Software Revamp for WIndows 10/8 Upgrades</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solve-w11-color-calibration-problems/"><u>Solve W11 Color Calibration Problems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-inkjet-hp-not-printing-error/"><u>Solved: Inkjet HP Not Printing Error</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/swift-strategies-correcting-pcl-xl-faults/"><u>Swift Strategies: Correcting PCL XL Faults</u></a></li>
-<li><a href="https://win-popular.techidaily.com/the-melodic-djs-guide-to-perfectly-aligned-mixes-understanding-harmonic-matching-in-pcdj/"><u>The Melodic DJ's Guide to Perfectly Aligned Mixes: Understanding Harmonic Matching in PCDJ</u></a></li>
-<li><a href="https://win-studio.techidaily.com/windows11107/"><u>Windowsで失われたデータの救出手順：11/10/7方法集</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-next-gen-of-video-visionaries/"><u>[Updated] In 2024, Next Gen of Video Visionaries</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-look-at-engaging-with-youtube-comment-threads/"><u>[Updated] In-Depth Look at Engaging with YouTube Comment Threads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/breakthrough-in-high-fps-tcl-introduces-a-revolutionary-4k-gaming-screen-1000-hz/"><u>Breakthrough in High FPS: TCL Introduces a Revolutionary 4K Gaming Screen (1,000 Hz)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatbot-face-off-gemini-versus-chatgpt-plus-for-enhanced-interaction/"><u>Chatbot Face-Off: Gemini Versus ChatGPT Plus for Enhanced Interaction</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guiding-through-printer-malfunction-fixes/"><u>Guiding Through Printer Malfunction Fixes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-vivo-v27e-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Vivo V27e FRP Without Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-fixing-audacitys-failed-sound-device-openings-on-win-os/"><u>Methods for Fixing Audacity's Failed Sound Device Openings on Win OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mf4770n-drivers-enhance-windows-11-8-7-integration/"><u>MF4770n Drivers - Enhance Windows 11, 8, 7 Integration</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/never-again-the-end-of-blank-printouts/"><u>Never Again: The End of Blank Printouts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/proactive-measures-to-save-and-secure-your-classroom-talks-on-macos/"><u>Proactive Measures to Save and Secure Your Classroom Talks on MacOS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-sibling-print-device-from-online-standby-mode/"><u>Reviving Sibling Print Device From Online Standby Mode</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/stop-and-fix-spooler-error-in-win-7-printers/"><u>Stop and Fix Spooler Error in Win 7 Printers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/strategies-for-leveraging-azure-voice-to-text-technology/"><u>Strategies for Leveraging Azure Voice-to-Text Technology</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-printer-nightmares-solutions-here/"><u>Windows 11 Printer Nightmares? Solutions Here</u></a></li>
 </ul></div>
 

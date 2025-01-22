@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Printer Spits Out Unprinted Sheets"
-date: 2025-01-09T18:09:17.822Z
-updated: 2025-01-15T16:50:06.396Z
+date: 2025-01-20T22:13:52.354Z
+updated: 2025-01-21T18:04:39.609Z
 tags:
   - win11
   - win10
@@ -95,13 +95,13 @@ If all your cartridges are in good condition, reinstall your cartridges.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-29-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-29-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -109,10 +109,6 @@ If all your cartridges are in good condition, reinstall your cartridges.
 **4)** Try printing a page to test your issue.
 
 If your printer still won’t print normally, then try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Run the Windows printer troubleshooter
 
@@ -131,21 +127,17 @@ If your printer still won’t print normally, then try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-30-34.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click **Use a printer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-30-43.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-30-58.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Wait for your computer to automatically detect your printer issue, and then follow the on-screen instructions to fix it. When the troubleshooting process is complete, print a page to see if your printer works correctly.
 
@@ -157,6 +149,10 @@ If your printer still won’t print normally, then try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-31-44.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Select **Troubleshooting settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-31-53.jpg)
@@ -165,12 +161,16 @@ If your printer still won’t print normally, then try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-32-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Try printing a page after the troubleshooting is complete.
 
 If your problem persists, read on and check the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Configure the Printer Spooler Service
@@ -182,7 +182,7 @@ If your problem persists, read on and check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-32-16.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Select **Services** .
@@ -197,16 +197,12 @@ If your problem persists, read on and check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-32-37.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)**  Open Windows File Explorer (on your keyboard, press the **Windows logo**  key and **E**  at the same time).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-32-56.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)** Go to **C:\\Windows\\System32\\spool\\PRINTERS** , then delete all files in this folder.
@@ -228,10 +224,14 @@ If your problem persists, read on and check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-35-29.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **10)** Try printing a page to test your problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Repair System Files
 
@@ -271,22 +271,22 @@ If your problem persists, read on and check the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-mastering-whatsapps-call-conversation-strategy/"><u>[Updated] Mastering WhatsApp's Call Conversation Strategy</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-8-free-4k-video-player-software-for-windows-pcandmac/"><u>Best 8 Free 4K Video Player Software for Windows PC&Mac</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/effortless-aspect-ratio-shifting-online/"><u>Effortless Aspect Ratio Shifting Online</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/elevating-tiktok-aesthetics-the-zoom-approach/"><u>Elevating TikTok Aesthetics The Zoom Approach</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/endless-blank-pages-no-more-fixing-printer-issues/"><u>Endless Blank Pages No More: Fixing Printer Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-how-to-stop-metro-exodus-from-crashing-your-pc/"><u>Fixes & Solutions: How to Stop Metro Exodus From Crashing Your PC</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-to-save-your-pc-files-on-a-usb-flash-drive-in-windows-versions-7-8-10-or-11/"><u>How to Save Your PC Files on a USB Flash Drive in Windows Versions 7, 8, 10 or 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-find-x6-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Oppo Find X6 Phone Without Password?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instantaneous-fix-guide-unwinding-pcl-xl-errors/"><u>Instantaneous Fix Guide: Unwinding PCL XL Errors</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/manual-setting-up-hp-officejet-on-desktop-system/"><u>Manual: Setting up HP Officejet on Desktop System</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/methods-to-reactivate-sleepy-hp-laser-printers/"><u>Methods to Reactivate Sleepy HP Laser Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/missing-network-printer-how-to-restore-visibility/"><u>Missing Network Printer - How to Restore Visibility</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/preventing-and-remedying-paper-misalignment/"><u>Preventing and Remedying Paper Misalignment</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-problem-post-upgrade-success-story/"><u>Printer Problem Post Upgrade: Success Story</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-hp-zbook-firefly-15-g8-portable-powerhouse-reviewed/"><u>The Ultimate Guide to the HP ZBook Firefly 15 G8: Portable Powerhouse Reviewed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ultimate-tips-for-canon-print-setup/"><u>Ultimate Tips for Canon Print Setup</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-future-of-computing-in-windows-11/"><u>[New] 2024 Approved The Future of Computing in Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-proper-mastery-of-quick-mac-recording-shortcut-strategies-at-hand-for-2024/"><u>[New] Proper Mastery of Quick Mac Recording Shortcut Strategies at Hand for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-add-music-in-premiere-pro/"><u>2024 Approved Add Music In Premiere Pro</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/combat-repeated-print-job-errors-in-windows-operating-systems/"><u>Combat Repeated Print Job Errors in Windows Operating Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhanced-yakuza-the-third-pc-fix-now-runs-smoothly-without-any-hitches/"><u>Enhanced Yakuza The Third Pc Fix Now Runs Smoothly Without Any Hitches</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-printer-error-due-to-active-directory-halt/"><u>Fixed: Printer Error Due to Active Directory Halt</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-printer-link-issues-fastly/"><u>Fixing Printer Link Issues Fastly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-achieve-the-perfect-screen-angle-a-90-degree-guide/"><u>How to Achieve the Perfect Screen Angle: A 90-Degree Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-lava-yuva-3-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Lava Yuva 3 Through Google Earth?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-infinix-smart-7-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Infinix Smart 7 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-choice-final-cut-pro-or-lumafusion-for-your-video-needs-for-2024/"><u>New The Ultimate Choice Final Cut Pro or LumaFusion for Your Video Needs for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printing-misdemeanor-by-unknown-system/"><u>Printing Misdemeanor by Unknown System</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-guide-resolving-pcl-xl-glitches/"><u>Quick Guide: Resolving PCL XL Glitches</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/swift-jolt-to-halted-print-queues/"><u>Swift Jolt to Halted Print Queues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/techniques-for-resolving-non-responsive-hp-scanners/"><u>Techniques for Resolving Non-Responsive HP Scanners</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-hp-printer-no-response/"><u>Troubleshooting HP Printer No Response</u></a></li>
+<li><a href="https://win11.techidaily.com/1726030041701-youtube/"><u>YouTube ミュージックダウンロードガイド - 曲を正しく記録するための効果的な手法</u></a></li>
 </ul></div>
 

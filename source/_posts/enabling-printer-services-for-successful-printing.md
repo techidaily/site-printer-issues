@@ -1,7 +1,7 @@
 ---
 title: Enabling Printer Services for Successful Printing
-date: 2025-01-08T16:26:16.129Z
-updated: 2025-01-16T00:25:52.616Z
+date: 2025-01-21T02:12:37.748Z
+updated: 2025-01-22T02:40:17.277Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/c6fb0c53f67d408b9f1a8e71dd93d74b8d8f511c1
 [**5) Check hardware status**](#e)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1) Basic troubleshooting
 
  Once you find that your printer won’t print, you should check the status of the connection between your printer and computer. Make sure your printer is**properly connected** , and the**wireless network or cable** you use to connect your printer is**normal** .
@@ -53,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/c6fb0c53f67d408b9f1a8e71dd93d74b8d8f511c1
  **a)**  Press **Win + R**  keys. Type “_**control**_ ” and hit**Enter** .
 
 **![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593fb867beb0b.png)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **b)**  Select**Devices and Printers** .
 
@@ -75,32 +75,24 @@ thumbnail: https://thmb.techidaily.com/c6fb0c53f67d408b9f1a8e71dd93d74b8d8f511c1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59409bcecf2e7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **c)** Open**Printer** menu and then select**Open As Administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940dc98227ab.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **d)** Open**Printer** menu again. Select**Cancel All Documents** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a25f033a4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **e)** **Confirm** your action.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a2b245ae5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **f)**  The print queue of your printer is clear. Now check and see if your printer can run normally.  
@@ -120,9 +112,17 @@ thumbnail: https://thmb.techidaily.com/c6fb0c53f67d408b9f1a8e71dd93d74b8d8f511c1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59536d887738b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the result, click on the**Update** button next to your printer. Then you can download the**latest and credible** driver for your device. After that you can use the files just downloaded and install the driver on your own.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59537ca159019.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  But if you want the program to**complete the whole update process** for you, you can upgrade it to [**Pro version**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -154,22 +154,16 @@ thumbnail: https://thmb.techidaily.com/c6fb0c53f67d408b9f1a8e71dd93d74b8d8f511c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-gopro-match-made-in-heaven-camera-showdowns/"><u>[New] In 2024, GoPro Match Made in Heaven Camera Showdowns</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-the-essence-of-pfp-in-the-world-of-tiktok-for-2024/"><u>[New] The Essence of PFP in the World of TikTok for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-effortless-itunes-for-podcast-enthusiasts/"><u>[Updated] 2024 Approved Effortless iTunes for Podcast Enthusiasts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-inverting-iphone-video-order/"><u>2024 Approved Step-by-Step Inverting iPhone Video Order</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/breakthrough-techniques-joining-your-laptop-and-hp-in-156-characters-or-less/"><u>Breakthrough Techniques: Joining Your Laptop and HP in 156 Characters or Less</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/comment-formater-et-installer-de-nouveau-un-systeme-dexploitation-windows-via-le-bios/"><u>Comment Formater Et Installer De Nouveau Un Système D'Exploitation Windows via Le BIOS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-tutorial-for-android-users-wanting-imessage-support/"><u>Complete Tutorial for Android Users Wanting iMessage Support</u></a></li>
-<li><a href="https://some-tips.techidaily.com/delay-in-launching-apples-innovative-ai-capabilities-now-expected-by-october-insights-from-tech-journal/"><u>Delay in Launching Apple's Innovative AI Capabilities, Now Expected by October - Insights From Tech Journal</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hardware-setup-hp-printer-driver-not-in-windows-os/"><u>Hardware Setup: HP Printer Driver Not in Windows OS</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-step-by-step-recording-slideshow-via-webcam/"><u>In 2024, Step-by-Step Recording Slideshow via Webcam</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/no-response-from-my-canon-printout-machine/"><u>No Response From My Canon Printout Machine</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-hiccup-configuration-issue-surfaced/"><u>Printer Hiccup: Configuration Issue Surfaced</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-network-reestablished-windows-7/"><u>Printer Network Reestablished, Windows 7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/steps-to-troubleshoot-unresponsive-hp-printers/"><u>Steps to Troubleshoot Unresponsive HP Printers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-essentials-of-narrowing-virtual-room-spaces-for-2024/"><u>The Essentials of Narrowing Virtual Room Spaces for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574032401-trouble-printing-on-windows-11-lets-fix-it/"><u>Trouble Printing on Windows 11? Let's Fix It!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unite-your-workspace-3-cutting-edge-solutions-for-hp-and-laptop-connection/"><u>Unite Your Workspace: 3 Cutting-Edge Solutions for HP and Laptop Connection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-ais-role-in-prompt-generation-and-career-viability/"><u>Decoding AI's Role in Prompt Generation & Career Viability</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-not-found-windows-10-and-pixma-mp620-disconnect/"><u>Driver Not Found: Windows 10 and Pixma MP620 Disconnect</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhance-w11-printer-response-times/"><u>Enhance W11 Printer Response Times</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-iphone-6-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your iPhone 6 and iPad</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-problems-in-adding-printer/"><u>No Problems in Adding Printer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/stream-ultra-realistic-3d-movies-with-ease-through-your-home-device-via-fandango/"><u>Stream Ultra-Realistic 3D Movies with Ease Through Your Home Device via Fandango</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-selection-of-premium-gaming-chairs/"><u>The Ultimate Selection of Premium Gaming Chairs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unblocked-scanner-operation-in-windows-11-os/"><u>Unblocked Scanner Operation in Windows 11 OS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unpacking-the-impact-of-youtubes-shorts-programme-for-2024/"><u>Unpacking the Impact of YouTube's Shorts Programme for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-printer-troubleshooting-guide/"><u>Windows 11 Printer Troubleshooting Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-motorola-moto-e13-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Motorola Moto E13? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

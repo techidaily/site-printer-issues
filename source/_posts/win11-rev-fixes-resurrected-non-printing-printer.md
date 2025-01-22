@@ -1,7 +1,7 @@
 ---
 title: "Win11 Rev Fixes: Resurrected Non-Printing Printer"
-date: 2025-01-15T00:12:50.175Z
-updated: 2025-01-16T00:19:44.174Z
+date: 2025-01-14T20:21:38.766Z
+updated: 2025-01-21T22:43:42.314Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
 **Your printer stopped working after Windows 10 Update** ? You’re certainly not alone – hundreds of users are reporting it. The good news is, it’s not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix**printer stopped working after Windows 10 Update**
 
  Here are 5 fixes that have helped other users resolve the**printer stopped working after Windows 10 Update** problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -31,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 3. **[Update your printer driver](#F3)**
 4. **[Reset the print spooler](#F4)**
 5. **[Run Windows Troubleshooter](#F5)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Power cycle your printer
 
@@ -53,7 +45,7 @@ Here is how to power cycle your printer:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Make sure your printer is connected
@@ -78,9 +70,17 @@ Here is how to power cycle your printer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap19-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-188.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -100,12 +100,16 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-193.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the**Services** window, scroll down until you find**Print Spooler** , then right-click on it and click**Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-194.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) On your keyboard, press the**Windows logo key** and**R** at the same time, then type**%WINDIR%\\system32\\spool\\printers** and press**Enter** .
@@ -125,10 +129,6 @@ Here is how to do it:
  7) Check to see if your printer works properly. If it still doesn’t work, please move on to**Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Run Windows Troubleshooter
 
@@ -165,22 +165,20 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-retrieve-your-voice-on-youtube-comments-for-2024/"><u>[Updated] How To Retrieve Your Voice on YouTube (Comments) for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-tips-for-reducing-unsteady-shots/"><u>[Updated] In 2024, Tips for Reducing Unsteady Shots</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-twist-and-turn-tales-transforming-visual-content-on-instagram-platforms/"><u>[Updated] Twist and Turn Tales Transforming Visual Content on Instagram Platforms</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-decoding-the-meaning-behind-fbs-blue-status-indicator/"><u>2024 Approved Decoding the Meaning Behind FB's Blue Status Indicator</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-fault-code-0x97-uncovered-and-resolved/"><u>Epson Fault Code 0X97 Uncovered & Resolved</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/keep-your-hp-4630-at-the-forefront-with-timely-driver-upgrades/"><u>Keep Your HP 4630 at the Forefront with Timely Driver Upgrades</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mf4770n-enhanced-support-for-windows-versions-108/"><u>MF4770n Enhanced Support for WIndows Versions 10/8</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-no-support-errors-5-effective-steps/"><u>Navigating Windows No-Support Errors: 5 Effective Steps</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-free-msnbc-live-online-stream-for-the-latest-shows-for-all-devices/"><u>New 2024 Approved Free MSNBC Live Online Stream for the Latest Shows for All Devices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-print-server-disconnect/"><u>Overcoming Print Server Disconnect</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/paper-trail-points-to-unidentified-user/"><u>Paper Trail Points to Unidentified User</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reinstating-print-spooler-services-correctly/"><u>Reinstating Print Spooler Services Correctly</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-rated-ipad-protection-covers-your-ultimate-buying-guide/"><u>Top Rated iPad Protection Covers : Your Ultimate Buying Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshoot-epson-printer-error-codes-on-w11/"><u>Troubleshoot Epson Printer Error Codes on W11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-cartridge-replacement-failures/"><u>Troubleshooting Cartridge Replacement Failures</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Itel P55 5G? | Dr.fone</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/winx-media-transfer-pro-top-app-for-moving-photos-and-music-videos-between-your-iphone-ipad-and-computer/"><u>WinX Media Transfer Pro - Top App for Moving Photos and Music Videos Between Your iPhone, iPad & Computer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/os-compatibility-unable-to-connect-to-hp-print-service-on-windows/"><u>[OS Compatibility] - Unable to Connect to HP Print Service on Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-voice-with-cloud-services-top-5-online-chromebook-audio-editors/"><u>[Updated] Transform Voice with Cloud Services Top 5 Online Chromebook Audio Editors</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-a-detailed-and-trustworthy-review-of-murfai-ai-text-to-speech-tool/"><u>2024 Approved A Detailed and Trustworthy Review of Murf.ai AI Text-to-Speech Tool</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/correct-installation-of-upgraded-printer-drivers/"><u>Correct Installation of Upgraded Printer Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-time-before-next-login-after-failure-in-win-1011/"><u>Customizing Time Before Next Login After Failure in Win 10/11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-hp-print-misstep-code-oxc4eb827f/"><u>Fixing HP Print Misstep: Code OXC4EB827F</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-essential-fast-control-tools-for-gaming-enthusiasts/"><u>In 2024, Essential Fast-Control Tools for Gaming Enthusiasts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-independent-filming-freedoms-agreement/"><u>In 2024, Independent Filming Freedoms Agreement</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-premier-picks-highest-rated-mp4s/"><u>In 2024, Premier Picks Highest Rated MP4s</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/missing-printer-device-windows-710-troubleshooting-steps/"><u>Missing Printer Device? Windows 7/10 Troubleshooting Steps</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/modern-methods-of-mixing-media-the-latest-on-adding-sound-to-ae-projects-2023s-insights-and-tips-for-2024/"><u>Modern Methods of Mixing Media The Latest on Adding Sound to AE Projects (2023S Insights and Tips) for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-inkless-printer-issues/"><u>Overcoming Inkless Printer Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/post-update-nozzle-necessity-neglected/"><u>Post-Update, Nozzle Necessity Neglected</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-tecno-pova-6-pro-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Tecno Pova 6 Pro 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Infinix Note 30 | Dr.fone</u></a></li>
 </ul></div>
 

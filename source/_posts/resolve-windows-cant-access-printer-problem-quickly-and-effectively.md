@@ -1,7 +1,7 @@
 ---
 title: Resolve 'Windows Can't Access Printer' Problem Quickly & Effectively
-date: 2025-01-14T21:59:47.968Z
-updated: 2025-01-15T16:36:34.825Z
+date: 2025-01-15T18:39:18.469Z
+updated: 2025-01-22T04:26:52.555Z
 tags:
   - win11
   - win10
@@ -37,10 +37,6 @@ When you are trying to add a network shared printer, if you receive message “W
 [**Solution 4: Copy “mscms.dll” Manually**](https://tools.techidaily.com/drivereasy/download/)   
 [**Solution 5: Delete a Subkey**](https://tools.techidaily.com/drivereasy/download/) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##   **Solution 1: Restart Print Spooler Service** 
 
 Follow steps below to stop Print Spooler service then start it again.
@@ -51,21 +47,29 @@ Follow steps below to stop Print Spooler service then start it again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592282c0cbfe5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. In the**Name** list, locate and double-click on service **Print Spooler** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592282f40baaf.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3\. Under Service status, click**Stop** button. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59228346254fb.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. Click**Start** button to start the service again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5922837fce75a.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5\. Click**OK** button.
 
@@ -81,10 +85,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592284396a5e3.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Click**Add a printer** at the top of the window.**Note:** To continue, you need to login to the computer as an administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592284c312e63.jpg) 
@@ -93,17 +93,21 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592285527f2ca.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5\. Select**Create a new port** , change the “Type of port” to**Local Port** then click**Next** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5922878323a31.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6.**Enter a port name** in the box. The port name is the printer’s address. The address format is **\\\\IP address or the Computer Name\\Printer’s Name** (refer to the following screen). Then click**OK** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59228a6291554.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7\. Select the**printer model** from the directory and click**Next** button. 
 
@@ -132,7 +136,7 @@ Follow steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592290cca70ff.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you see more than one printer driver names, repeat steps above to remove them one by one.
@@ -150,10 +154,6 @@ Follow steps below:
  1\. Open**C:\\Windows\\system32** and find the file “**mscms.dll** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592294768b3e2.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2\. Copy the file to the following path:
 
@@ -201,20 +201,21 @@ Follow steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-ultimate-10-apps-to-boost-audio-velocity/"><u>[Updated] Ultimate 10 Apps to Boost Audio Velocity</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/7-creative-video-concepts-to-boost-your-fitness-channel-for-2024/"><u>7 Creative Video Concepts to Boost Your Fitness Channel for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ceased-non-printer-error-on-hp-laserjet-pro-m637/"><u>Ceased Non-Printer Error on HP LaserJet Pro M637</u></a></li>
-<li><a href="https://win-able.techidaily.com/dead-by-daylight-playable-again-your-ultimate-fix-for-error-8014/"><u>Dead By Daylight Playable Again? Your Ultimate Fix for Error 8014</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guide-to-overcoming-silent-hp-network-printers/"><u>Guide to Overcoming Silent HP Network Printers</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-oneplus-nord-ce-3-lite-5g-by-drfone-android/"><u>How to Bypass FRP on OnePlus Nord CE 3 Lite 5G?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mended-printer-not-responding/"><u>Mended Printer Not Responding</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-drive-issue-cant-connect-on-pc/"><u>Printer Drive Issue: Can't Connect on PC</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revive-windows-9598-print-jobs-that-wont-respond/"><u>Revive Windows 95/98 Print Jobs That Won't Respond</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/second-pc-same-printer-issue-resolved/"><u>Second PC, Same Printer Issue? Resolved</u></a></li>
-<li><a href="https://some-skills.techidaily.com/thorough-review-easy-approach-to-hdr-enhancement-for-2024/"><u>Thorough Review Easy Approach to HDR Enhancement for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/thrifty-shoppers-best-bargains-in-cams-for-2024/"><u>Thrifty Shopper's Best Bargains in Cams for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-non-functional-sound-in-windows-7-systems/"><u>Troubleshooting Guide for Non-Functional Sound in Windows 7 Systems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-mastering-fbs-look-back-feature-edit-tutorial/"><u>[New] In 2024, Mastering FB's Look Back Feature Edit Tutorial</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rime-stabilization-techniques-for-youtubers/"><u>[New] Prime Stabilization Techniques for YouTubers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-art-of-cinematic-dying-in-pro/"><u>[Updated] 2024 Approved The Art of Cinematic Dying in Pro</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-pacing-your-content-the-importance-of-regularity-in-a-successful-youtube-channel-for-2024/"><u>[Updated] Pacing Your Content The Importance of Regularity in a Successful YouTube Channel for 2024</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/abbyy-welcomes-weronika-niemczyk-to-lead-human-resources-as-new-c-level-executive/"><u>ABBYY Welcomes Weronika Niemczyk to Lead Human Resources as New C-Level Executive</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/advanced-drives-mf4770n-software-upgrade-windows/"><u>Advanced Drives: MF4770n Software Upgrade Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/bridging-gap-fast-printer-connection/"><u>Bridging Gap: Fast Printer Connection</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/essential-guide-speaking-french-from-home/"><u>Essential Guide: Speaking French From Home</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-in-effect-for-b200/"><u>Fix In Effect for B200</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-chronos-shifts-using-phantoms-time-reversed-footage/"><u>In 2024, Mastering Chronos Shifts Using Phantom's Time-Reversed Footage</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-the-loading-hurdle-a-guide-to-solve-far-cry-5-stuck-screens/"><u>Overcome the Loading Hurdle – A Guide to Solve Far Cry 5 Stuck Screens</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/steps-to-stop-and-resolve-printer-spooling-trouble/"><u>Steps to Stop and Resolve Printer Spooling Trouble</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tackling-pcl-xl-mistakes-with-ease/"><u>Tackling PCL XL Mistakes with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-best-destinations-online-for-free-e-book-downloads-a-curated-top-17/"><u>The Best Destinations Online for Free E-Book Downloads: A Curated Top 17</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tips-to-revive-non-printing-hp-all-in-ones/"><u>Tips to Revive Non-Printing HP All-In-Ones</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-cartridge-replacement-failures/"><u>Troubleshooting Cartridge Replacement Failures</u></a></li>
 </ul></div>
 

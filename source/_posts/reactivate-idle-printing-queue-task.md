@@ -1,7 +1,7 @@
 ---
 title: Reactivate Idle Printing Queue Task
-date: 2025-01-09T21:20:32.084Z
-updated: 2025-01-15T22:29:04.638Z
+date: 2025-01-19T01:52:23.059Z
+updated: 2025-01-22T02:08:50.166Z
 tags:
   - win11
   - win10
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 5. Navigate to**C:\\Windows\\System32\\spool\\PRINTERS** and delete all files in the folder. (Do NOT delete the folder itself.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/delete.jpg)
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 2. In the Command Prompt window, enter the following commands separately:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 net stop spooler
@@ -92,7 +92,7 @@ This will clear all of your print jobs stuck in a queue.
 3. Then click**File** \>**Save as…**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
    * Change the file type to**All files**  
@@ -101,6 +101,14 @@ This will clear all of your print jobs stuck in a queue.
    * Save the file. (Note where the file is saved.)  
    ![](https://images.drivereasy.com/wp-content/uploads/2020/01/batch-file.jpg)
 4. Double-click the batch file to clear the print queue anytime you want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Reinstall the printer driver
 
@@ -133,17 +141,9 @@ This will clear all of your print jobs stuck in a queue.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now-1.png)
 3. Click the Update button next to your sound card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **OR** click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-1.jpg)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Try printing again. Your printer should be working properly now.
 
@@ -172,24 +172,24 @@ Feel free to drop us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-balance-youtube-with-a-full-time-job/"><u>[New] In 2024, How to Balance YouTube with a Full-Time Job</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-professional-insights-into-magix-acid-pro-and-alternatives/"><u>[Updated] 2024 Approved Professional Insights Into Magix ACID Pro and Alternatives</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-effortless-avi-gif-conversion-using-filmora-tools-for-2024/"><u>[Updated] Effortless AVI-GIF Conversion Using Filmora Tools for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-rhythmic-reworks-for-enhanced-imovie-experience/"><u>[Updated] Rhythmic Reworks for Enhanced iMovie Experience</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-vivo-y78plus-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Vivo Y78+ to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/cloudsafe-experts-opinion/"><u>CloudSafe Experts Opinion</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/corrected-issue-code-b200/"><u>Corrected Issue: Code B200</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-note-12-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi Note 12 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/installation-without-hurdles-for-printer/"><u>Installation Without Hurdles for Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instructive-blueprint-attaching-hp-printer-8720-to-windows-system/"><u>Instructive Blueprint: Attaching HP Printer 8720 to Windows System</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/mjolnirs-legacy-new-era-dawned/"><u>Mjolnir's Legacy New Era Dawned</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/prevent-windows-10-printer-malfunctions-and-fails/"><u>Prevent Windows 10 Printer Malfunctions and Fails</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-connected-problems-resolved-quickly/"><u>Printer Connected, Problems Resolved Quickly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-connectivity-disconnection/"><u>Solved Connectivity Disconnection</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/successfully-overcoming-post-upgrade-prints/"><u>Successfully Overcoming Post-Upgrade Prints</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-vivo-y36i-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo Y36i Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-5-reasons-to-choose-apcs-back-ups-be6m1-with-integrated-usb-charging-functionality-reviewed/"><u>Top 5 Reasons to Choose APC's Back-UPS BE6#M1 with Integrated USB Charging Functionality Reviewed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-epson-paperless-operation-issue/"><u>Troubleshooting Epson Paperless Operation Issue</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unveiling-the-secret-behind-empty-printouts/"><u>Unveiling the Secret Behind Empty Printouts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-ace-the-art-of-shooting-on-a-green-screen/"><u>[New] Ace the Art of Shooting on a Green Screen</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-achieving-fluidity-in-audio-blending-using-audacity-tools/"><u>[New] In 2024, Achieving Fluidity in Audio Blending Using Audacity Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ave-money-on-titles-exclusive-list-of-11-free-creators-for-2024/"><u>[New] Save Money on Titles - Exclusive List of 11 Free Creators for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-narrating-numbers-making-millions-from-your-micro-vlogs/"><u>[Updated] 2024 Approved Narrating Numbers Making Millions From Your Micro-Vlogs</u></a></li>
+<li><a href="https://win-info.techidaily.com/effortless-setup-how-to-configure-and-sync-onedrive-on-windows-11-and-10-for-optimal-file-management/"><u>Effortless Setup: How to Configure and Sync OneDrive on Windows 11 & 10 for Optimal File Management</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/error-0x00000709-cannot-set-default-printer-on-windows-solved/"><u>Error 0X00000709 Cannot Set Default Printer on Windows [Solved]</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-vivo-v29-promirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo V29 ProMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-s18-by-drfone-android/"><u>How to Bypass FRP from Vivo S18?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-d1360-printer-setup-failure-in-multiple-windows-versions/"><u>HP D1360 Printer Setup Failure in Multiple Windows Versions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oppo-reno-10-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Oppo Reno 10 Pro 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/mastery-in-free-graphics-top-online-resource-directory-for-2024/"><u>Mastery in FREE Graphics Top Online Resource Directory for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-spooler-service-activated-windows-7/"><u>Print Spooler Service Activated, Windows 7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/repairing-hp-printers-error-code-oxc4eb827f/"><u>Repairing HP Printer's Error: Code OXC4EB827F</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-no-print-issue-with-brother-printer-in-windows-oses/"><u>Resolving No-Print Issue with Brother Printer in Windows OSes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-functionality-in-dormant-hp-multi-function-devices/"><u>Restoring Functionality in Dormant HP Multi-Function Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/stepwise-journey-successfully-installing-a-hp-printer-on-windows/"><u>Stepwise Journey: Successfully Installing a HP Printer on Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/system-shenanigans-unauthorized-printer-access/"><u>System Shenanigans: Unauthorized Printer Access</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-vpn-services-for-macos-comprehensive-comparisons-and-reviews-cyberexperts/"><u>Top-Rated VPN Services for macOS: Comprehensive Comparisons & Reviews - CyberExperts</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win2k-printer-response-error-resolution-guide/"><u>Win2K Printer Response: Error Resolution Guide</u></a></li>
 </ul></div>
 

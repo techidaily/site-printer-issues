@@ -1,7 +1,7 @@
 ---
 title: Fixed Paper Size Error on HP DeskJet 3070
-date: 2025-01-12T16:07:21.207Z
-updated: 2025-01-15T19:38:00.346Z
+date: 2025-01-17T21:02:53.225Z
+updated: 2025-01-22T00:57:40.670Z
 tags:
   - win11
   - win10
@@ -48,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/10/de-update-all-hp-printer.jpg)
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 2. In Control Panel select**Devices and Printers** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
@@ -78,14 +78,10 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5476a01d.png)
 4. There is now a tick below the icon of your HP printer. That means it is now set as the default printer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5fe2a9b6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Cancel all print jobs
@@ -103,11 +99,15 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 4. Open**Printer** menu again. This time select**Cancel All Documents** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea70940b1.png)
 5. **Confirm** your action.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987eaa0030f9.png)
 6. You have canceled all print jobs of your printer. Now check and see if it can run normally.
@@ -119,7 +119,7 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
  You need to ensure your HP printer has**enough** **paper, ink, or toner** , and it is**not stuck in a paper jam** . Also, check the status of your printer cartridge and try replacing it with a new one if it is not good enough. In some cases, your HP printer stops printing after you replace its parts. If this happens you should**install the original ones back** and see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6: Repair system files
@@ -143,10 +143,6 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 4. If you need to proceed with the repair function, you’ll be required to purchase the full version.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Restart your computer for the changes to take effect.
 
  The full version of Fortect comes with a 60-day money-back guarantee and full customer support. If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact their support team.
@@ -160,6 +156,10 @@ Check your computer to see if your printer works properly.
 1. On your keyboard, press the**Windows logo key** and type cmd. Then right-click on **Command Prompt** and select **Run as administrator** .  
 ![how to open Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 2. Click**Yes** when prompted to confirm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/sfc-scannow.jpg)  
@@ -185,17 +185,19 @@ Check your computer to see if your printer works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-top-6-hottest-4k-yt-to-mp3-tools-a-direct-comparison/"><u>[New] Top 6 Hottest 4K YT To MP3 Tools A Direct Comparison</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/1724313274377-abbyy/"><u>ABBYYチェッカリスト - 金融市場で勝ち抜くための強化戦略</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/access-and-adjust-system-tools-a-comprehensive-walkthrough-for-managing-control-panels-on-external-pcs-using-yl-computing-solutions/"><u>Access & Adjust System Tools: A Comprehensive Walkthrough for Managing Control Panels on External PCs Using YL Computing Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-the-possibilities-viewing-insta-pics-without-creating-an-account/"><u>Explore the Possibilities: Viewing Insta Pics Without Creating an Account</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guide-to-reviving-dormant-hp-flexscribe-machines/"><u>Guide to Reviving Dormant HP FlexScribe Machines</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-comprehensible-guide-to-authoritative-testimonial-films/"><u>In 2024, A Comprehensible Guide to Authoritative Testimonial Films</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-bridging-the-gap-between-classic-and-contemporary-videos/"><u>In 2024, Bridging the Gap Between Classic and Contemporary Videos</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-realme-narzo-n55-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Realme Narzo N55</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-fix-new-os-upgrade-mishap/"><u>Printer Fix: New OS Upgrade Mishap</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/scan-activation-successful-in-windows-11/"><u>Scan Activation Successful in Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unavailable-domain-services-printer-malfunction/"><u>Unavailable Domain Services, Printer Malfunction</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-explore-the-world-of-tiny-screens-top-6-online-tools-for-free-and-complimentary-youtube-short-downloads/"><u>[New] 2024 Approved Explore the World of Tiny Screens Top 6 Online Tools for Free & Complimentary YouTube Short Downloads</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-shaking-no-more-evaluating-photoshops-anti-shake-feature/"><u>[New] In 2024, Shaking No More Evaluating Photoshop's Anti-Shake Feature</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-grandview-alliance-how-to-settle-on-a-cms/"><u>[Updated] 2024 Approved Grandview Alliance How to Settle on a CMS</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-enhance-your-smile-complimentary-photo-enrichment-app/"><u>[Updated] In 2024, Enhance Your Smile Complimentary Photo Enrichment App</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-epson-out-of-service/"><u>Fixed Epson Out Of Service</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574168670-how-to-fix-a-printer-that-wont-print/"><u>How to Fix a Printer That Won’t Print</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-fixed-after-new-windows-version-patch/"><u>Printer Fixed After New Windows Version Patch</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/recovering-windows-hp-printer-status/"><u>Recovering Windows HP Printer Status</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-canon-printer-issues-on-windows-10/"><u>Resolving Canon Printer Issues on Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/syntax-savants-showdown-gpt-3-vs-bards-brilliance/"><u>Syntax Savants Showdown: GPT-3 Vs. Bard’s Brilliance</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-vanguard-audio-visual-makers-virtual-showcase/"><u>The Vanguard Audio-Visual Makers' Virtual Showcase</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-hitman-3-fixing-the-pc-versions-persistent-black-screen-issue/"><u>Troubleshooting Hitman 3: Fixing the PC Version's Persistent Black Screen Issue</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-crafting-a-commanding-presence-in-audio-media-with-filmoras-filters/"><u>Updated 2024 Approved Crafting a Commanding Presence in Audio Media with Filmoras Filters</u></a></li>
 </ul></div>
 
