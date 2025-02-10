@@ -1,7 +1,7 @@
 ---
 title: Activating Scanner on Latest Win11 Release
-date: 2025-01-27T16:29:09.346Z
-updated: 2025-01-29T17:39:32.138Z
+date: 2025-02-06T19:18:09.628Z
+updated: 2025-02-09T19:01:59.151Z
 tags:
   - win11
   - win10
@@ -22,15 +22,15 @@ thumbnail: https://thmb.techidaily.com/86157a99bb3c3d407e2d01671b40c89a0f41350bb
 
 Read on. 🙂
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [**Check the connection of your Printer**](#m1)
 2. [**Reinstall your printer driver**](#m2)
 3. [**Get rid of ‘Scan to computer is no longer activated’ error**](#m3)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Check the connection of your Printer
 
@@ -43,10 +43,6 @@ Read on. 🙂
  If after making sure your printer is connected properly, the error still persists, then go on to follow method 2 to reinstall your printer driver.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Reinstall your printer driver
 
@@ -75,19 +71,23 @@ You need to do these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597af8932fbfe.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5976a910cca49.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Get rid of ‘Scan to computer is no longer activated’ error
@@ -107,7 +107,7 @@ You need to do these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee2dfcd442.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That’s all there is to it.
@@ -132,18 +132,18 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-mastering-flight-time-selecting-premium-uav-power-sources/"><u>[New] In 2024, Mastering Flight Time Selecting Premium UAV Power Sources</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-which-iphone-video-editor-stands-tall-cameo-vs-filmorago-for-2024/"><u>[New] Which iPhone Video Editor Stands Tall? Cameo Vs. FilmoraGo for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-printer-not-printing-in-color/"><u>[SOLVED] Printer Not Printing in Color</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-ideal-mic-selection-for-online-vloggers/"><u>[Updated] Ideal Mic Selection for Online Vloggers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-mp620-printer-driver-search-on-win10-unsuccessful/"><u>Canon MP620 Printer Driver Search on WIN10 Unsuccessful</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-the-past-of-im-technology-insights-into-what-is-aim/"><u>Decoding the Past of IM Technology - Insights Into What Is AIM?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exemplary-mothers-day-promotion-discover-why-this-zdnet-campaign-stands-out/"><u>Exemplary Mother's Day Promotion: Discover Why This ZDNet Campaign Stands Out!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/getting-started-cdw-duo-driver-installation/"><u>Getting Started: CDW Duo Driver Installation</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-funimates-downloading-magic/"><u>In 2024, Unlock Funimate's Downloading Magic</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/new-releases-dell-v305-driver-and-utility-supports-win7/"><u>New Releases: Dell V305 Driver & Utility Supports Win7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/pixma-mp620-drivers-lost-on-win11-systems/"><u>Pixma MP620 Drivers Lost on Win11 Systems</u></a></li>
-<li><a href="https://win-premium.techidaily.com/resolving-windows-system-crashes-and-bsod-issues-expert-tips-from-yl-computing/"><u>Resolving Windows System Crashes & BSOD Issues: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restore-scanner-link-to-computer-in-windows-10/"><u>Restore Scanner Link to Computer in Windows 10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-infinix-hot-30-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Infinix Hot 30 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversion-gratuite-dun-fichier-mpeg-en-format-avi-sur-internet-movavi/"><u>Conversion Gratuite D'un Fichier MPEG en Format AVI Sur Internet - Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gebruikersvriendelijke-online-converter-voor-nef-en-tiff-gratis-met-movavi/"><u>Gebruikersvriendelijke Online Converter Voor NEF en TIFF - Gratis Met Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-on-your-mac-a-comprehensive-fix-it-article/"><u>How to Restore Sound on Your Mac: A Comprehensive Fix-It Article</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-d1360-printer-setup-failure-in-multiple-windows-versions/"><u>HP D1360 Printer Setup Failure in Multiple Windows Versions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-innovating-sustainable-communities-within-the-concrete-jungle/"><u>In 2024, Innovating Sustainable Communities Within the Concrete Jungle</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-poco-f5-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Poco F5 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477377574-one-airpod-not-working-heres-how-you-can-fix-it/"><u>One AirPod Not Working? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-no-print-issue-with-brother-printer-in-windows-oses/"><u>Resolving No-Print Issue with Brother Printer in Windows OSes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/stepwise-journey-successfully-installing-a-hp-printer-on-windows/"><u>Stepwise Journey: Successfully Installing a HP Printer on Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-software-guide-for-video-game-shows-for-2024/"><u>Ultimate Software Guide for Video Game Shows for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unify-mf4770n-with-windows-environment-in-win11win87/"><u>Unify MF4770n with Windows Environment in Win11/Win8/7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win11-update-inkjet-issues-remedied/"><u>Win11 Update: Inkjet Issues Remedied</u></a></li>
 </ul></div>
 

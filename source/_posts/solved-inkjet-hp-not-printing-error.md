@@ -1,7 +1,7 @@
 ---
 title: "Solved: Inkjet HP Not Printing Error"
-date: 2025-01-23T17:49:08.691Z
-updated: 2025-01-29T16:39:32.227Z
+date: 2025-02-07T22:12:01.546Z
+updated: 2025-02-10T01:05:26.239Z
 tags:
   - win11
   - win10
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 6. [**Repair corrupted system files**](#RE)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Perform basic troubleshooting
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
  You can do some troubleshooting at first when you find your HP printer stops working. You should check the status of the**connection** between your printer and your computer. Make sure your devices are**properly connected** with each other, and the**network** or the**cable** you use to connect these devices is normal.
 
  You can also try restarting your HP printer.**Turn** it**off** completely and**unplug the power cord** , leave it for a couple of minutes, and then**plug** the cord**back** and**power on** the printer. See if your printer can print as normally as before.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update or reinstall the printer driver
 
@@ -56,13 +52,13 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/10/de-update-all-hp-printer.jpg)
 4. After updating, restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -76,19 +72,15 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb867beb0b.png)
 2. In Control Panel select**Devices and Printers** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 3. In the**Printers** section, right-click on your HP printer and then select**Set as default printer** . Click on**Yes** if prompted.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5476a01d.png)
 4. There is now a tick below the icon of your HP printer. That means it is now set as the default printer.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5fe2a9b6.png)
 
@@ -100,25 +92,29 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 2. Right-click on your HP printer in the**Printers** section and select**See what’s printing** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e955d3a5d.png)
 3. Open the**Printer** menu and then select**Open As Administrator** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea27610b0.png)
 4. Open**Printer** menu again. This time select**Cancel All Documents** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea70940b1.png)
 5. **Confirm** your action.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987eaa0030f9.png)
 6. You have canceled all print jobs of your printer. Now check and see if it can run normally.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Check printer status
 
@@ -161,6 +157,10 @@ Check your computer to see if your printer works properly.
 ![how to open Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 2. Click**Yes** when prompted to confirm.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/sfc-scannow.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -185,24 +185,21 @@ Check your computer to see if your printer works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-locate-hidden-watch-video-preview/"><u>[New] 2024 Approved Locate Hidden Watch Video Preview</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-an-introduction-to-effective-image-previews/"><u>[New] In 2024, An Introduction to Effective Image Previews</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-save-verbatim-audio-review-notes/"><u>[Updated] 2024 Approved Save Verbatim Audio, Review Notes</u></a></li>
-<li><a href="https://win11.techidaily.com/an-overview-of-cab-files-in-windows-and-how-to-install-them/"><u>An Overview of CAB Files in Windows and How to Install Them</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-picture-curation-techniques-for-stunning-instagram-displays/"><u>Complete Picture Curation Techniques for Stunning Instagram Displays</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/comprehensive-list-of-zoom-transcription-software-freepaid-for-2024/"><u>Comprehensive List of Zoom Transcription Software (Free/Paid) for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/corrected-epson-ink-problem-now-prints/"><u>Corrected Epson Ink Problem, Now Prints</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-fix-hp-printer-not-responding/"><u>How to Fix HP Printer Not Responding</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-fix-pcl-xl-error-easily/"><u>How to Fix PCL XL Error Easily</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-40i-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Infinix Hot 40i PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-your-tecno-phantom-v-flip-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Tecno Phantom V Flip Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-srt-breakdown-core-concepts-and-applications/"><u>In 2024, SRT Breakdown Core Concepts and Applications</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quickprint-queue-clearance-guide/"><u>Quickprint Queue Clearance Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reactivating-pcs-scanner-connection-on-win10/"><u>Reactivating PC's Scanner Connection on Win10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/simplifying-canon-printer-wireless-connection/"><u>Simplifying Canon Printer Wireless Connection</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/squashing-hp-printers-mistake-oxc4eb827f/"><u>Squashing HP Printer's Mistake: OXC4EB827F</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/step-by-step-guide-opening-an-excel-file-with-ease-tips-from-yl-software-experts/"><u>Step-by-Step Guide: Opening an Excel File with Ease - Tips From YL Software Experts</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamline-device-interaction-with-mf4770n-upgrade-in-windows-1187/"><u>Streamline Device Interaction with MF4770n Upgrade in Windows 11/8/7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unknown-computer-known-printer-case-closed/"><u>Unknown Computer, Known Printer - Case Closed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-how-to-optimize-vertical-or-horizontal-vids-on-fb/"><u>[Updated] In 2024, How To Optimize Vertical or Horizontal Vids On FB</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-advancing-well-being-with-facebook-campaign-insights/"><u>2024 Approved Advancing Well-Being with Facebook Campaign Insights</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210932894-9781855844803-cosmic-christianity-and-the-impulse-of-michael/"><u>Cosmic Christianity and the Impulse of Michael | Free Book</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/critical-choice-10-apps-to-stream-your-favorite-rugby-matches/"><u>Critical Choice 10 Apps to Stream Your Favorite Rugby Matches</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/gone-are-the-days-of-missing-printer-pages/"><u>Gone Are The Days of Missing Printer Pages</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-malfunctioning-dota-2-microphone-in-pc-settings/"><u>How to Fix a Malfunctioning Dota 2 Microphone in PC Settings</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-printer-setup-missing-driver-in-windows-os/"><u>HP Printer Setup: Missing Driver in Windows OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/post-upgrade-inkjet-printer-unresponsive/"><u>Post Upgrade, Inkjet Printer Unresponsive</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/purchase-your-own-bitraser-the-ultimate-usb-drive-data-wipe-tool/"><u>Purchase Your Own BitRaser: The Ultimate USB Drive Data Wipe Tool</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/rehabilitating-erratic-scanning-units/"><u>Rehabilitating Erratic Scanning Units</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/snap-instantly-with-iphone-time-lapse-tips-for-2024/"><u>Snap Instantly with iPhone Time Lapse Tips for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solutions-for-inactive-print-devices/"><u>Solutions for Inactive Print Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-oppo-find-n3-flip-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Oppo Find N3 Flip to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unleash-full-capacity-in-hp-officejet-4630-with-update/"><u>Unleash Full Capacity in HP Officejet 4630 with Update</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unlocking-creativity-a-guide-to-instagram-story-archiving-for-2024/"><u>Unlocking Creativity A Guide to Instagram Story Archiving for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/winerror-resolved-setting-primary-printer-0x00000709/"><u>WinError Resolved - Setting Primary Printer (0X00000709)</u></a></li>
 </ul></div>
 

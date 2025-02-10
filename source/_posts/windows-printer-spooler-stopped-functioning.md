@@ -1,7 +1,7 @@
 ---
 title: "Windows Printer Spooler: Stopped Functioning"
-date: 2025-01-25T17:28:12.236Z
-updated: 2025-01-29T17:19:31.783Z
+date: 2025-02-05T02:53:38.472Z
+updated: 2025-02-09T23:12:11.533Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/0f3aee40842c77652092959c44bb37ef79d636e0b
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/local-print-spooler-service-not-running.jpg)
 
  The Print Spooler service is an essential component to get your printer working properly. The “**local print spooler service is not running** ” error could indicate a faulty configuration, or it could mean something is wrong with the computer drivers. While there may be many reasons behind this error, it’s usually not that hard to fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -38,24 +42,24 @@ thumbnail: https://thmb.techidaily.com/0f3aee40842c77652092959c44bb37ef79d636e0b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/services-msc.jpg)
 2. Right click**Print Spooler** and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/print-spooler-services-properties.jpg)
 3. Make sure**Startup type** is set to**Automatic** . You can also try to manually start the service by clicking**Start** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/print-spooler-services-properties-2.jpg)
 4. Navigate to the**Recovery** tab. Make sure**First failure** and**Second failure** are set to**Restart the Service** ,**Reset fail count after** is set to**1** days,**Restart service** after**1** minutes. Once completed, click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/print-spooler-services-properties-3.jpg)
 5. Restart your PC and check if the Print Spooler service is up and running. If you have access to the printer, give it a reboot as well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If the error persists, you can check out the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: **Run the troubleshooter**
 
@@ -71,7 +75,7 @@ If the error persists, you can check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/troubleshooter-printer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the troubleshooter can’t help you fix the issue, take a look at the next method.
@@ -92,6 +96,10 @@ If the error persists, you can check out the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/device-manager-reinstall-printer-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Usually Windows will install the missing printer driver automatically after a reboot. But if it doesn’t, you need to go to**your printer manufacturer’s website** and search for your printer model. Be sure to download the latest correct driver installer that’s compatible with your system. If you’re not familiar with computer drivers, you can use [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) to**repair and update drivers automatically** .
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
@@ -100,7 +108,7 @@ If the error persists, you can check out the next fix.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -112,10 +120,6 @@ If the error persists, you can check out the next fix.
 
  If the latest driver doesn’t give you luck, simply move on to the next solution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4:**Install all Windows updates**
 
  Windows system updates should fix glitches and improve the overall stability. If you don’t remember when was the last time you checked for system updates, definitely do it now.
@@ -126,11 +130,11 @@ If the error persists, you can check out the next fix.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
@@ -148,14 +152,10 @@ If the error persists, you can check out the next fix.
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -180,22 +180,17 @@ If the error persists, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-depth-assessment-gopro-silver-hero4-sliver/"><u>[New] In-Depth Assessment GoPro Silver Hero4 Sliver</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-seamless-tv-recording-on-pc-with-zero-cost-software-for-2024/"><u>[New] Seamless TV Recording on PC with Zero Cost Software for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-future-of-action-photography-starts-here-xs-100-i-reviewed/"><u>[New] The Future of Action Photography Starts Here - XS 100 I Reviewed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tech-support-tip-reveal-hidden-printer-on-your-pc/"><u>[Tech Support Tip] Reveal Hidden Printer on Your PC</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/update-needed-drivers-not-installing-hp-deskjet-d1360-on-windows/"><u>[Update Needed] Drivers Not Installing: HP Deskjet D1360 on Windows</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-cyberlinks-screen-recorder-an-expert-evaluation/"><u>[Updated] 2024 Approved Cyberlink's Screen Recorder An Expert Evaluation</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-club-anthems-expertly-curated-dj-vids-downloads/"><u>[Updated] Club Anthems Expertly Curated DJ Vids Downloads</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-enhancing-fidelity-close-up-minecraft-tactics/"><u>[Updated] Enhancing Fidelity Close-Up Minecraft Tactics</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-free-software-leaders-in-chromebook-screen-recording/"><u>[Updated] Free Software Leaders in Chromebook Screen Recording</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/correcting-sheet-overflow-in-an-epson-device/"><u>Correcting Sheet Overflow in an Epson Device</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-unresponsive-xp-printer-jobs-without-delay/"><u>Fix Unresponsive XP Printer Jobs Without Delay</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/get-your-printer-back-in-action-on-windows-11/"><u>Get Your Printer Back in Action on Windows 11</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-if-you-are-looking-for-great-1080p-video-editing-softwareyoure-in-the-right-place-for-2024/"><u>New If You Are Looking for Great 1080P Video Editing Software,youre in the Right Place for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-hp-printer-blank-pages-challenge/"><u>Overcoming HP Printer Blank Pages Challenge</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-fixes-for-suddenly-offline-printers/"><u>Quick Fixes for Suddenly Offline Printers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975566645-surface-book-upgrades-easy-access-to-newest-drivers/"><u>Surface Book Upgrades: Easy Access to Newest Drivers!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-searches-for-non-existent-printer-driver/"><u>Windows Searches for Non-Existent Printer Driver</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/brother-mfc-9330cdw-setup-for-air-glide/"><u>Brother MFC-9330CDW Setup for Air Glide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-7-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone 7? | Stellar</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-vivo-s17t-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Vivo S17t Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maisto-rc-rock-crawler-evaluation-perfect-family-entertainment-in-a-remote-control-car-package/"><u>Maisto RC Rock Crawler Evaluation: Perfect Family Entertainment in a Remote Control Car Package</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/premium-recording-application-chromebook-focus/"><u>Premium Recording Application Chromebook Focus</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-driver-absence-mp620-on-windows-10-os/"><u>Printer Driver Absence: MP620 on Windows 10 OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/regaining-access-a-guide-for-offline-printers/"><u>Regaining Access: A Guide for Offline Printers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/resolving-computer-malfunctions-keep-your-battlefield-2042-run-smoothly-without-crashes/"><u>Resolving Computer Malfunctions: Keep Your Battlefield 2042 Run Smoothly Without Crashes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-inkjet-puzzled-printing/"><u>Resolving Inkjet: Puzzled Printing</u></a></li>
+<li><a href="https://win-help.techidaily.com/step-by-step-guide-adjusting-your-screen-resolution-via-windows-control-panel/"><u>Step-by-Step Guide: Adjusting Your Screen Resolution via Windows Control Panel</u></a></li>
 </ul></div>
 

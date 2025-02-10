@@ -1,7 +1,7 @@
 ---
 title: "Epson Photo Printer: Over-Printing White Paper"
-date: 2025-01-24T16:31:05.987Z
-updated: 2025-01-29T17:06:31.736Z
+date: 2025-02-02T20:31:18.050Z
+updated: 2025-02-09T22:10:14.193Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/28805214b423ac647ed00f851fe14b81181d6db73
 
  You’ll feel so weird when your Epson printer suddenly prints blanks. You might say: It had been working great since you got it. Don’t worry, it can be easy to fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Check your Device
 
 1. Make sure your printer is placed on a flat stable surface.
@@ -28,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/28805214b423ac647ed00f851fe14b81181d6db73
 5. Make sure the paper size, orientation, and layout settings in your software are correct.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes for Epson Printer Printing Blank Pages
@@ -40,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/28805214b423ac647ed00f851fe14b81181d6db73
 3. [Update your printer driver](#f3)
 4. [Install Fortect](#f4)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Check your ink cartridges
 
  There are**three situations** in checking your ink cartridges.
@@ -53,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/28805214b423ac647ed00f851fe14b81181d6db73
  The second situation is that**one of your ink cartridges is out of ink** . There is a sentence in the Epson manual which most people might ignore: **You cannot print or copy when an ink cartridge is expended even if the other cartridges are not expended.** If one of your cartridges is expended, you should replace it with a new one. Otherwise, you may encounter the printing blank pages issue.
 
  The third condition is that you’ve replaced a new ink cartridge but**you forget to remove the protective tape** . New cartridges have protective tape. Not only that it keep the ink from leaking, but it actually protects the print nozzles of sensitive ink cartridges. But you should be careful with the additional transparent plastic or a pointed mechanism, do not remove it or your cartridge will leak or malfunction.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Clean your clogged Nozzles
 
@@ -79,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/28805214b423ac647ed00f851fe14b81181d6db73
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/ep-1024x507.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.  
 
 #### Option 2–Automatically
@@ -100,10 +108,6 @@ thumbnail: https://thmb.techidaily.com/28805214b423ac647ed00f851fe14b81181d6db73
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/epson.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you encounter problems while using Driver Easy, please send an email to [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
 ### Fix 4: Install Fortect
@@ -118,15 +122,11 @@ Here’s how to use it:
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -152,24 +152,17 @@ Here’s how to use it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/harting-success-navigating-a-3-step-strategy-for-tracking-youtube-income-for-2024/"><u>[New] Charting Success Navigating a 3-Step Strategy for Tracking YouTube Income for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-exploring-the-lost-stories-of-facebook-tech-savvy-approach/"><u>[New] Exploring the Lost Stories of Facebook Tech-Savvy Approach</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-digital-chimes-discover-the-top-tone-websites/"><u>[New] In 2024, Digital Chimes Discover the Top Tone Websites</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-conquer-color-with-pro-techniques-in-photography-for-2024/"><u>[Updated] Conquer Color with Pro Techniques in Photography for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-visionary-software-solutions-for-virtual-meetings/"><u>[Updated] Visionary Software Solutions for Virtual Meetings</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-tecno-pop-8-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Tecno Pop 8</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-a-non-responsive-razor-board-why-wont-the-keys-light-up/"><u>Fixing a Non-Responsive Razor Board: Why Won't the Keys Light Up?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-blank-page-syndrome-in-print-devices/"><u>Fixing Blank Page Syndrome in Print Devices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-react-printer-disconnects-during-print-job/"><u>How To React: Printer Disconnects During Print Job</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-set-up-a-wireless-printer-with-hp-color-life-series/"><u>How To: Set Up a Wireless Printer with HP Color Life Series</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-no-response-issues-with-hp-printers/"><u>Overcoming No Response Issues with HP Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/precision-in-pages-a-success-story-for-printers/"><u>Precision in Pages: A Success Story for Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574178084-printer-woes-in-windows-11-help-needed/"><u>Printer Woes in Windows 11 - Help Needed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/recommendations-for-reactivating-hp-print-headless-systems/"><u>Recommendations for Reactivating HP Print Headless Systems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reignite-your-brother-printers-print-function-on-windows-1011/"><u>Reignite Your Brother Printer's Print Function on Windows 10/11</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-repair-for-non-responsive-logitec-c920-webcam/"><u>Step-by-Step Repair for Non-Responsive Logitec C920 Webcam</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tackled-ink-cartridge-error/"><u>Tackled Ink Cartridge Error</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-apples-new-13-inch-macbook-air-with-m2-chip-hits-historic-lows-on-cyber-monday-exclusive-offer-insights/"><u>Unbeatable Deal: Apple's New 13-Inch MacBook Air with M2 Chip Hits Historic Lows on Cyber Monday - Exclusive Offer Insights</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-nubia-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Nubia Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-canon-pixma-mp620-printer-driver-not-found-on-windows-10/"><u>[Solved] Canon Pixma MP620 Printer Driver Not Found on Windows 10</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-sharper-stars-in-iphone-nocturne-photos-for-2024/"><u>[Updated] Sharper Stars in iPhone Nocturne Photos for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/cant-connect-my-printer-help-required/"><u>Cant Connect My Printer - Help Required</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-premier-sony-tv-picks-for-202-3-in-depth-testing-and-analysis-with-zdnet-insights/"><u>Discover the Premier Sony TV Picks for 202 3: In-Depth Testing & Analysis with ZDNet Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-resolving-power-and-connectivity-problems-with-your-runmus-gaming-mic/"><u>DIY Repair: Resolving Power and Connectivity Problems with Your RUNMUS Gaming Mic</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enabling-correct-power-settings-on-devices/"><u>Enabling Correct Power Settings on Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-connect-canon-printer-to-wifi-easily/"><u>How to Connect Canon Printer to Wifi Easily</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-printer-overhaul-say-goodbye-to-unprinted-pages/"><u>HP Printer Overhaul: Say Goodbye to Unprinted Pages</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-oneplus-open-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On OnePlus Open? Fixed | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solution-for-unanticipated-kernel-traps-resulting-in-blue-screens-on-windows-10-systems/"><u>Step-by-Step Solution for Unanticipated Kernel Traps Resulting in Blue Screens on Windows 10 Systems</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/top-20-francophone-reads-for-aspiring-bookworms/"><u>Top 20 Francophone Reads for Aspiring Bookworms</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/wie-importierte-sie-ihre-outlook-kontakte-erfolgreich-mit-einer-schritt-fur-schritt-anleitung-in-die-icloud/"><u>Wie Importierte Sie Ihre Outlook-Kontakte Erfolgreich Mit Einer Schritt-Für-Schritt-Anleitung in Die iCloud?</u></a></li>
 </ul></div>
 

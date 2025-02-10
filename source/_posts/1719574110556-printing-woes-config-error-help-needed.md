@@ -1,7 +1,7 @@
 ---
 title: "Printing Woes: Config Error, Help Needed!"
-date: 2025-01-26T17:12:52.429Z
-updated: 2025-01-29T18:07:40.982Z
+date: 2025-02-04T18:59:26.811Z
+updated: 2025-02-09T22:05:11.342Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
  Recently quite a few Windows users are reporting the **Your Printer has Experienced an Unexpected Configuration Problem** error. What happens is that their printer does not print anything, and the message pops up along with codes such as**0x80070002,** **0x80040154** . If you also encounter this situation, don’t worry – it’s often not hard to fix at all…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix Your Printer has Experienced an Unexpected Configuration Problem
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
 4. **[Clear Spooler Files](#F4)**
 5. **[Run Windows Troubleshooter](#F5)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Add your printer again
 
  This error may throw up because the printer entry is glitched. So you can add your printer one more time to see if it prints properly.
@@ -41,22 +45,30 @@ Here is how to do it:
  1) On your keyboard, press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and**R** at the same time, then type**ms-settings:printers** and press**Enter** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-56.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**the + icon** beside**Add a printer or scanner** . Then wait for your printer to show up again and click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-57.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Now that you have re-added your printer, check your printer to see if you can get it running without error. If yes, then congrats! If the error still pops up, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Make the printer shareable
 
@@ -67,10 +79,6 @@ Here is how to make your printer shareable:
  1) On your keyboard, press**the Windows logo key** and**R** at the same time, then type**control printers** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-39.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) When in the**Device and Printers** screen, scroll down to the**Printers** section. Then right-click on**the printer that is giving the error** and click**Printer properties** .
 
@@ -102,10 +110,6 @@ Here is how to make your printer shareable:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-70.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -125,10 +129,6 @@ Here are the steps:
  1) On your keyboard, press the**Windows logo key** and**R** at the same time, then type **services.msc**  and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-193.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) In the **Services** window, scroll down until you find **Print Spooler** , then right-click on it and click **Stop** .
 
@@ -153,12 +153,16 @@ Keep the Services window open and proceed with the following steps.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-63.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In**Startup type** , select**Automatic** and click**Start** . Then click**OK** to apply the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-64.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Restart your computer and test to see if the error is fixed.
 
@@ -177,10 +181,6 @@ Keep the Services window open and proceed with the following steps.
  2) In the **Troubleshoot**  window, scroll down to the **Get up and running**  section, click on **Printer** \> **Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-209.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Wait for Windows to diagnose the problem and follow the on-screen instructions to resolve the **Your Printer has Experienced an Unexpected Configuration Problem** error.
 
@@ -205,22 +205,20 @@ Keep the Services window open and proceed with the following steps.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-from-novice-to-expert-creating-your-avatar-with-confidence-for-2024/"><u>[New] From Novice to Expert Creating Your Avatar with Confidence for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-key-strategies-in-building-successful-youtube-shorts-templates/"><u>[New] Key Strategies in Building Successful YouTube Shorts Templates</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-problem-hp-printer-driver-unavailable-in-winxo/"><u>[Windows Problem] HP Printer Driver Unavailable in WINXO</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1-successful-guide-streaming-your-favorite-twitch-channels-via-roku/"><u>1. Successful Guide: Streaming Your Favorite Twitch Channels via Roku</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/15-melodic-matchmakers-tailoring-audio-to-each-videos-characteristic-mood-for-2024/"><u>15 Melodic Matchmakers Tailoring Audio to Each Videos Characteristic Mood for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/addressing-errors-with-shared-printer-setup/"><u>Addressing Errors with Shared Printer Setup</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/eradicate-printer-errors-on-windows-10-pc/"><u>Eradicate Printer Errors on Windows 10 PC</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/erase-imposter-photo-mishaps-in-platform-interactions-for-2024/"><u>Erase Imposter Photo Mishaps in Platform Interactions for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/exploring-basic-math-in-the-russian-language/"><u>Exploring Basic Math in the Russian Language</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-fix-error-code-oxc4eb827f-on-hp-printers/"><u>How to Fix Error Code OXC4EB827F on HP Printers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/inexpensive-quality-camera-solutions/"><u>Inexpensive Quality Camera Solutions</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/preventing-ink-cartridge-disasters/"><u>Preventing Ink Cartridge Disasters</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-os-error-drivers-are-missing/"><u>Printer OS Error: Drivers Are MISSING</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/regain-printers-availability-with-these-tips/"><u>Regain Printer's Availability with These Tips</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-elite-set-of-android-photoshoppers-for-2024/"><u>The Elite Set of Android Photoshoppers for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/transfer-data-samsung-menjelang-windows-11-tutorial-simpan-dan-keterampilan-penyelidikan/"><u>Transfer Data Samsung Menjelang Windows 11: Tutorial Simpan Dan Keterampilan Penyelidikan</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/v305-dell-printer-driver-fix-for-windows-7/"><u>V305 Dell Printer Driver Fix for Windows 7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-inactive-print-spooler-in-windows-os/"><u>[FIX] Inactive Print Spooler in Windows OS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-noticing-lack-of-friend-requests-for-2024/"><u>[New] Noticing Lack of Friend Requests for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-perfect-iphone-images-abide-by-these-10-rules/"><u>[Updated] 2024 Approved Perfect iPhone Images Abide by These 10 Rules</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-how-to-make-a-cool-youtube-video-intro-in-imovie/"><u>[Updated] How to Make a Cool YouTube Video Intro in iMovie?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/administrators-handbook-altering-password-settings-for-different-accounts-on-windows-systems/"><u>Administrator's Handbook: Altering Password Settings for Different Accounts on Windows Systems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/boost-printer-speed-with-simple-fixes/"><u>Boost Printer Speed with Simple Fixes</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-x50-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor X50 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/flv-to-wav-movavi/"><u>FLV to WAV無限制免費轉檔 - 使用Movavi 優化轉換工具</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guide-to-restoring-communication-with-printer/"><u>Guide to Restoring Communication with Printer</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-printer-error-no-9008e/"><u>Resolved: Printer Error No. 9008E</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/romantic-rhetoric-rooted-in-the-french-soul/"><u>Romantic Rhetoric Rooted in the French Soul</u></a></li>
+<li><a href="https://fox-links.techidaily.com/turbulence-tamer-for-mobile-cinematography/"><u>Turbulence Tamer for Mobile Cinematography</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unraveling-the-mystery-printer-works-after-win-10-patch/"><u>Unraveling the Mystery: Printer Works After Win 10 Patch</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win-system-cannot-retrieve-printer-drivers/"><u>Win System: Cannot Retrieve Printer Drivers</u></a></li>
 </ul></div>
 

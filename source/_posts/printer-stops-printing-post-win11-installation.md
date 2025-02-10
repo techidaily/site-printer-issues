@@ -1,7 +1,7 @@
 ---
 title: Printer Stops Printing Post Win11 Installation
-date: 2025-01-28T18:22:00.628Z
-updated: 2025-01-29T17:43:42.653Z
+date: 2025-02-08T20:04:11.739Z
+updated: 2025-02-09T19:16:34.464Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196e
 4. **[Reset the print spooler](#F4)**
 5. **[Run Windows Troubleshooter](#F5)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Power cycle your printer
 
  Power cycling is often an effective way to fix mysterious glitches on different devices. So you can give it a try to see if this fixes the problem for you.
@@ -53,7 +57,7 @@ Here is how to power cycle your printer:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your printer driver
@@ -74,6 +78,10 @@ Here is how to power cycle your printer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-188.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -92,10 +100,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-193.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the**Services** window, scroll down until you find**Print Spooler** , then right-click on it and click**Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-194.png)
@@ -103,6 +107,10 @@ Here is how to do it:
  3) On your keyboard, press the**Windows logo key** and**R** at the same time, then type**%WINDIR%\\system32\\spool\\printers** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-195.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Select**all the files** within the folder and_delete_ them. This is to clear the print queues.
 
@@ -114,16 +122,12 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-198.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Check to see if your printer works properly. If it still doesn’t work, please move on to**Fix 5** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Run Windows Troubleshooter
@@ -137,10 +141,6 @@ Here is how to do it:
  2) In the**Troubleshoot** window, scroll down to the**Get up and running** section, click on**Printer** \>**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-209.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Wait for Windows to diagnose the problem and follow the on-screen instructions to resolve the printing not working situation.
 
@@ -165,21 +165,18 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-brainy-entertainment-roundup-selective-trivia-haven/"><u>[New] 2024 Approved Brainy Entertainment Roundup Selective Trivia Haven</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-channel-compendium-best-of-the-bunch-historical-youtubes-for-study/"><u>[New] 2024 Approved Channel Compendium Best of the Bunch - Historical YouTubes For Study</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-elevate-your-social-media-game-how-to-get-additional-free-filters/"><u>[New] Elevate Your Social Media Game How To Get Additional Free Filters</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-top-tier-videography-choose-from-15-camcorders-for-2024/"><u>[New] Top-Tier Videography Choose From 15 Camcorders for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-advanced-techniques-for-using-live-photos-in-mobile-devices/"><u>[Updated] Advanced Techniques for Using Live Photos in Mobile Devices</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-capturing-lifes-moments-with-the-virb-ultra-30-an-in-depth-guide/"><u>[Updated] Capturing Life's Moments with the VIRB Ultra 30 – An In-Depth Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/b200-bug-fixed-ready-to-go/"><u>B200 Bug Fixed, Ready to Go!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-for-changing-windows-11-search-icons-backwards/"><u>Guidelines for Changing Windows 11 Search Icons Backwards</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hardware-issue-hp-printer-not-recognized-by-os/"><u>Hardware Issue: HP Printer Not Recognized by OS</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-unfreeze-an-offline-brother-printer-online/"><u>How To Unfreeze an Offline Brother Printer Online</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/optimizing-mf4770n-driver-for-w11-w8-w7/"><u>Optimizing MF4770n Driver for W11, W8, W7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/re-establishing-scanner-link-to-computer-in-win10/"><u>Re-Establishing Scanner Link to Computer in Win10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/remedying-stuck-print-head/"><u>Remedying Stuck Print Head</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unlocking-the-full-potential-of-hp-printers-in-windows/"><u>Unlocking the Full Potential of HP Printers in Windows</u></a></li>
-<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-rhythm-and-reel-adding-music-to-ig-feeds/"><u>[Updated] 2024 Approved Rhythm and Reel Adding Music to IG Feeds</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-conquer-time-lapse-with-your-canon-camera/"><u>[Updated] In 2024, Conquer Time-Lapse with Your Canon Camera</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-infinix-hot-30i-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Infinix Hot 30i without App | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-not-found-windows-10-and-pixma-mp620-disconnect/"><u>Driver Not Found: Windows 10 and Pixma MP620 Disconnect</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhance-w11-printer-response-times/"><u>Enhance W11 Printer Response Times</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-samsung-galaxy-xcover-7-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-pitfalls-a-guide-to-why-you-shouldnt-use-chatgpt-from-your-macs-software-marketplace/"><u>Navigating the Pitfalls: A Guide to Why You Shouldn't Use ChatGPT From Your Mac’s Software Marketplace</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-problems-in-adding-printer/"><u>No Problems in Adding Printer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/superior-soundscape-audiophiles-best-listens-on-google/"><u>Superior Soundscape Audiophile's Best Listens on Google</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/top-15-free-mp3-metadata-editing-tools-of-2024-effortlessly-enhance-your-music-collection/"><u>Top 15 Free MP3 Metadata Editing Tools of 2024: Effortlessly Enhance Your Music Collection</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/turning-annual-objectives-into-tangible-results/"><u>Turning Annual Objectives Into Tangible Results</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unblocked-scanner-operation-in-windows-11-os/"><u>Unblocked Scanner Operation in Windows 11 OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-printer-troubleshooting-guide/"><u>Windows 11 Printer Troubleshooting Guide</u></a></li>
 </ul></div>
 

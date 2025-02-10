@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Turtle Beach Recon 70 Mic Not Working"
-date: 2025-01-25T18:07:49.468Z
-updated: 2025-01-29T16:38:04.613Z
+date: 2025-02-04T21:42:02.655Z
+updated: 2025-02-09T17:08:41.741Z
 tags:
   - win11
   - win10
@@ -38,24 +38,16 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Select **Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .
 
@@ -69,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)** Right click**Headset Microphone** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
@@ -78,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **9)** Click**OK** , then click**OK** .
@@ -101,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
@@ -112,7 +112,7 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Troubleshoot hardware issues
@@ -143,18 +143,24 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-reducing-volume-stealthily-on-computers-os-x-and-windows-for-2024/"><u>[New] Reducing Volume Stealthily on Computers (OS X & Windows) for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-editors-edge-advanced-techniques-for-youtube-creations/"><u>[New] The Editor's Edge Advanced Techniques for YouTube Creations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-for-streamlining-iphone-video-content/"><u>[New] The Ultimate Guide for Streamlining iPhone Video Content</u></a></li>
-<li><a href="https://games-able.techidaily.com/5-must-do-tips-for-a-lasting-reliable-switch-experience/"><u>5 Must-Do Tips for a Lasting, Reliable Switch Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-game-changing-self-cleaning-function-of-the-dual-action-robot-vacuum-and-mop-tech-insights/"><u>Discover the Game-Changing Self-Cleaning Function of the Dual Action Robot Vacuum and Mop | Tech Insights</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/effortless-steps-to-tackle-pcl-xl-setbacks/"><u>Effortless Steps to Tackle PCL XL Setbacks</u></a></li>
-<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-15-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone 15</u></a></li>
-<li><a href="https://techtrends.techidaily.com/gratuidade-ilimitada-download-de-conversor-mp3au-online-do-movavi/"><u>Gratuidade Ilimitada: Download De Conversor MP3/AU Online Do Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-nier-automata-crashes-in-pc-gaming-a-comprehensive-guide/"><u>How to Fix Nier: Automata Crashes in PC Gaming – A Comprehensive Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-troubles-try-these-5-simple-ways-to-help-your-canon-print-on-windows-11/"><u>Print Troubles? Try These 5 Simple Ways to Help Your Canon Print on Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-print-service-non-responsive/"><u>Solved: Print Service Non-Responsive</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/step-by-step-guide-to-restore-your-canons-connectivity/"><u>Step-by-Step Guide to Restore Your Canon's Connectivity</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-essential-guide-to-affordable-cross-platform-streamers-for-2024/"><u>[New] Essential Guide to Affordable, Cross-Platform Streamers for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-effortlessly-enhance-photos-how-to-remove-backgrounds-quickly/"><u>[Updated] Effortlessly Enhance Photos How to Remove Backgrounds Quickly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-tunefab-screen-recorder-review/"><u>[Updated] In 2024, Tunefab Screen Recorder Review</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/breakthrough-techniques-joining-your-laptop-and-hp-in-156-characters-or-less/"><u>Breakthrough Techniques: Joining Your Laptop and HP in 156 Characters or Less</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/bridging-the-gap-how-to-merge-your-laptop-and-hp-printer-quickly/"><u>Bridging the Gap: How to Merge Your Laptop and HP Printer Quickly</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-xcover-7-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy XCover 7 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fixing-blurry-youtube-videos-a-step-by-step-guide-for-2024/"><u>Fixing Blurry YouTube Videos A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hardware-setup-hp-printer-driver-not-in-windows-os/"><u>Hardware Setup: HP Printer Driver Not in Windows OS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-oppo-reno-8t-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Oppo Reno 8T Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-learn-final-cut-pro-from-scratch-90-day-free-trial-included/"><u>New 2024 Approved Learn Final Cut Pro From Scratch 90-Day Free Trial Included</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-response-from-my-canon-printout-machine/"><u>No Response From My Canon Printout Machine</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/perfect-picture-spotlights-how-to-zoom-in-and-out-on-insta-stories-for-2024/"><u>Perfect Picture Spotlights How to Zoom in & Out on Insta Stories for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-hiccup-configuration-issue-surfaced/"><u>Printer Hiccup: Configuration Issue Surfaced</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-network-reestablished-windows-7/"><u>Printer Network Reestablished, Windows 7</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/revolutionize-note-taking-with-mematic-app/"><u>Revolutionize Note-Taking with Mematic App</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/steps-to-troubleshoot-unresponsive-hp-printers/"><u>Steps to Troubleshoot Unresponsive HP Printers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210294150-9781641401463-stop-lying-on-god/"><u>Stop Lying On God | Free Book</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574032401-trouble-printing-on-windows-11-lets-fix-it/"><u>Trouble Printing on Windows 11? Let's Fix It!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unite-your-workspace-3-cutting-edge-solutions-for-hp-and-laptop-connection/"><u>Unite Your Workspace: 3 Cutting-Edge Solutions for HP and Laptop Connection</u></a></li>
 </ul></div>
 

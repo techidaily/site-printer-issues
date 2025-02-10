@@ -1,7 +1,7 @@
 ---
 title: Corrected Code B200
-date: 2025-01-26T17:14:06.838Z
-updated: 2025-01-29T16:25:49.901Z
+date: 2025-02-07T18:42:31.714Z
+updated: 2025-02-10T00:38:41.758Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 
  Keep getting the error code B200? You’re not alone! Many Canon users are reporting it. But don’t worry. You can fix it Here are 3 solutions to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 simple fixes to try
 
  In most cases, getting the error B200 indicates that the printhead of your Canon printer is dead. Apart from that, defective ink cartridges and a corrupt printer driver can also trigger this problem. But before you rush out to buy a new printhead, check the fixes below.
@@ -31,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 1. **[Update your printer driver](#a)**
 2. **[Check your ink cartridges](#b)**
 3. **[Clean the printhead](#c)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your printer driver
 
@@ -54,12 +46,16 @@ There are two ways you can update your printer driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/b200-error-code-canon-driver-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Enter the name of the serial number of your Canon product and search for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/b200-error-code-canon-driver-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
 
@@ -80,7 +76,7 @@ There are two ways you can update your printer driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -103,6 +99,10 @@ There are two ways you can update your printer driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/toner-581905_1920-1024x768.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Check the ink levels on your printer
 
  Check the ink levels on your Canon printer and replace your cartridges if necessary.
@@ -115,13 +115,13 @@ There are two ways you can update your printer driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/cartridges-828195_1920-1-1024x981.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Make sure your cartridges all work properly, then reinstall it.
 
  Now, reopen your Canon printer. If your problem still exists, try the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Clean the printhead
 
@@ -163,17 +163,14 @@ The printhead is very delicate. Please proceed with caution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-2023s-premier-action-cameras-for-ocean-thrills/"><u>[New] 2023'S Premier Action Cameras for Ocean Thrills</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-bitrecorder-analysis-with-other-solutions/"><u>[New] 2024 Approved BitRecorder Analysis with Other Solutions</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-exquisite-note-taking-experience-on-mematic-for-2024/"><u>[New] Exquisite Note-Taking Experience on Mematic for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-how-to-screen-record-on-hp-laptop/"><u>[New] How to Screen Record on Hp Laptop</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-become-a-lol-broadcasting-pro-with-these-three-methods/"><u>[Updated] Become a LOL Broadcasting Pro with These Three Methods</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/amplify-printing-prowess-aio-upgrades-for-windows-7/"><u>Amplify Printing Prowess: AIO Upgrades for WIndows 7</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/hours-to-gigabytes-a-guide-for-filmmakers/"><u>Hours to Gigabytes A Guide for Filmmakers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-fix-brother-printer-not-printing-on-windows-1110/"><u>How to Fix Brother Printer Not Printing on Windows 11/10</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-motorola-edge-40-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Motorola Edge 40 Pro Location | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/lack-of-color-in-produced-documents/"><u>Lack of Color in Produced Documents</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/successfully-installed-printer/"><u>Successfully Installed Printer</u></a></li>
-<li><a href="https://android-location.techidaily.com/1723262392577-unleash-the-beast-high-end-gaming-and-creativity-on-a-compact-platform-amds-nuc-mini-featuring-4k-screen-hexa-core-cpu-ram-galore-and-ssd-blitz/"><u>Unleash the Beast: High-End Gaming & Creativity on a Compact Platform - AMD's NUC Mini Featuring 4K Screen, Hexa-Core CPU, RAM Galore & SSD Blitz!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ow-often-do-youtubers-receive-income-in-2024/"><u>[New] How Often Do YouTubers Receive Income, In 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/update-alert-canon-printer-not-detected-in-win10/"><u>[Update Alert] Canon Printer Not Detected in WIN10</u></a></li>
+<li><a href="https://techidaily.com/enhancing-machine-intelligence-the-synergy-of-abbyy-and-uipath-in-advancing-automation/"><u>Enhancing Machine Intelligence: The Synergy of ABBYY & UiPath in Advancing Automation</u></a></li>
+<li><a href="https://win-dash.techidaily.com/essential-driver-downloads-and-updates-for-hp-officejet-pro-8610-on-various-windows-versions/"><u>Essential Driver Downloads & Updates for HP Officejet Pro 8610 on Various Windows Versions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-brother-printer-print-malfunction-with-simple-steps/"><u>Fix Brother Printer Print Malfunction with Simple Steps</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-disconnected-print-service/"><u>Fixing Disconnected Print Service</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-tecno-pop-7-pro-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Tecno Pop 7 Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/swift-printer-performance-tips/"><u>Swift Printer Performance Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/top-notch-hacks-navigating-instagrams-forgotten-features/"><u>Top-Notch Hacks Navigating Instagram's Forgotten Features</u></a></li>
 </ul></div>
 

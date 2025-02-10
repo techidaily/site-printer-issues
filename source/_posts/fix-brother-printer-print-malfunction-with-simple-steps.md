@@ -1,7 +1,7 @@
 ---
 title: Fix Brother Printer Print Malfunction with Simple Steps
-date: 2025-01-28T16:46:52.277Z
-updated: 2025-01-29T17:31:09.328Z
+date: 2025-02-05T19:20:33.040Z
+updated: 2025-02-09T20:56:29.950Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
  There are several reasons that your Brother printer fails to work properly, including**incorrect connectivity** ,**outdated printer driver** and**faulty configurations** . Whatever the cause is, you can fix it in a few steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Here’re the fixes
@@ -47,9 +47,17 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 
  It’s necessary for you to do some basic checks before heading into the more complicated fixes. First off, make sure the connection status between the printer and computer is in the normal state.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### If you’re using a USB printer
 
  If you connect the printer to your computer via a USB cable, simply re-plug it and also try another USB port on your computer in case the one you previously used is broken.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### If you’re using a wireless printer
 
@@ -68,14 +76,14 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 2. Select**Small icons** from the drop-down menu next to**View by** . Then, click**Devices and Printers** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/2-2-2.jpg)
 3. Right-click your**Brother printer** and click**Set as default printer** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/2-4.jpg)
@@ -83,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
  Now do some prints to test if this method helps. If yes, then congrats! If not, there’re more fixes to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3 – Restart the Print Spooler service
 
@@ -95,16 +107,8 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/3-2.jpg)
 3. After the Print Spooler service is restarted, right-click**Print Spooler** again and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/3-3-2.jpg)
 4. Set the**Startup type** to**Automatic** . Then, click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/3-4.jpg)
 
@@ -112,13 +116,13 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4 – Update your printer driver
 
  A range of printer-related problems is caused by a wrong or out-of-date printer driver. So if you’re troubled by the non-working Brother printer, be sure to update its driver and see if the problem gets resolved. There’re two options for you:**[manually](#option1)** or**[automatically](#option2)** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1 – Download and install the driver manually
 
@@ -138,10 +142,6 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/Brother-MFC-J2340DW-Printer.png)
@@ -163,15 +163,23 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 2. Right-click**Print Spooler** and click**Stop** . Then, minimize the Services window.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/4-2-2.jpg)
 3. On your keyboard, press the**Windows logo key** and**E** at the same time to open the File Explorer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Copy the address_**%windir%\\System32\\spool\\PRINTERS**_ and paste it to the address bar. Then, press**Enter** on your keyboard.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/4-3-3.jpg)
 5. Delete all the files in that folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Re-open the Services window. Then, click**Print Spooler** and click**Start** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/4-5-1.jpg)
@@ -196,17 +204,9 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Check the status of your Brother printer to see if this method gives you luck. If not, check out the next solution.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7 – Print from other programs
 
@@ -243,19 +243,24 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-clearshot-video-amplifier-cross-device-compatible/"><u>[New] ClearShot Video Amplifier - Cross-Device Compatible</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-new-download-tool-facebook-videos-for-all-oses-for-2024/"><u>[Updated] New Download Tool Facebook Videos for All OSes for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/dismantle-disconnection-get-your-printer-printing-again/"><u>Dismantle Disconnection: Get Your Printer Printing Again</u></a></li>
-<li><a href="https://win11.techidaily.com/easily-fix-no-permissions-issue-for-windows-files/"><u>Easily Fix No-Permissions Issue for Windows Files</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/efficiently-manage-hp-officejet-4630-updates/"><u>Efficiently Manage HP Officejet 4630 Updates</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enabling-brother-inkjet-without-faults/"><u>Enabling Brother Inkjet Without Faults</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-tecno-camon-30-pro-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Tecno Camon 30 Pro 5G Devices</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-enhancing-your-memories-bank-with-snapchats-images/"><u>In 2024, Enhancing Your Memories Bank with Snapchat's Images</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/portable-gaming-powerhouses-tablets-vs-smartphones/"><u>Portable Gaming Powerhouses: Tablets Vs. Smartphones</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/prioritizing-what-matters-five-critical-aspects-when-buying-your-first-activity-tracker/"><u>Prioritizing What Matters: Five Critical Aspects When Buying Your First Activity Tracker</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-steps-to-setup-canon-printer-in-pictures/"><u>Quick Steps to Setup - Canon Printer in Pictures</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/rejuvenate-your-mf4770n-experience-for-win11-8-7/"><u>Rejuvenate Your MF4770n Experience for Win11, 8, 7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win32-officejet-pro-8600-printer-installation-file/"><u>Win32 Officejet Pro 8600 Printer Installation File</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-photoshop-shake-reduction-is-it-really-useful/"><u>[New] Photoshop Shake Reduction - Is It Really Useful?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-guide-turn-off-spotifys-recommended-listings/"><u>[New] Step-by-Step Guide Turn Off Spotify's Recommended Listings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-art-of-crafting-excellent-zoom-conferences/"><u>[Updated] 2024 Approved The Art of Crafting Excellent Zoom Conferences</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-iphone-time-lapse-capturing-moments-quickly/"><u>[Updated] In 2024, IPhone Time-Lapse Capturing Moments Quickly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-pro-gamers-manual-learn-xbox-one-screen-recording-for-2024/"><u>[Updated] Pro Gamer's Manual Learn Xbox One Screen Recording for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streaming-star-status-buttons-and-growth-accolades/"><u>[Updated] Streaming Star Status - Buttons & Growth Accolades</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-cropping-skills-for-image-clarity-for-2024/"><u>Advanced Cropping Skills for Image Clarity for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/code-b200-debugged-successfully/"><u>Code B200 Debugged Successfully</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/cure-non-engagement-in-older-windows-versions-printers/"><u>Cure Non-Engagement in Older Windows Versions' Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/curing-toner-depletion-crisis/"><u>Curing Toner Depletion Crisis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/download-iphones-owners-manuals-by-model-the-ultimate-resource-list-and-tutorial/"><u>Download iPhones' Owner's Manuals by Model - The Ultimate Resource List and Tutorial</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/from-silence-to-service-restoring-online-status-in-printer/"><u>From Silence to Service: Restoring Online Status in Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/maximize-printer-potential-with-hp-inkjet-updates/"><u>Maximize Printer Potential with HP Inkjet Updates</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prodigy-ai-image-editing-arsenal/"><u>Prodigy AI Image Editing Arsenal</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-fix-for-languishing-printer-jobs/"><u>Quick Fix for Languishing Printer Jobs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-printer-connected-successfully/"><u>Resolved: PRINTER Connected Successfully</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/setting-up-your-hp-laserjet-remote-connection/"><u>Setting Up Your HP LaserJet Remote Connection</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/upgrade-and-secure-printer-communication-in-win10/"><u>Upgrade and Secure Printer Communication in Win10</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/youtube-tricks-for-enhancing-screen-real-estate-for-2024/"><u>YouTube Tricks for Enhancing Screen Real Estate for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Installing HP PhotoSmart Printer"
-date: 2025-01-22T17:53:38.411Z
-updated: 2025-01-29T17:02:10.509Z
+date: 2025-02-05T19:32:35.672Z
+updated: 2025-02-09T18:55:20.972Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/6658e9df1d38e14ee675787c7264985ccf523b4b4
  No idea how to get the wireless working on your HP printer? Don’t worry! Although it’s not always as easy as their marketing material would have you believe, it’s still very achievable.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these methods
@@ -58,10 +58,6 @@ Now let’s start!
 
 **Note** : Part of the setup process requires your computer to be temporarily disconnected from your wireless network. During this time you will not have Internet access. Be sure to save any online work or downloads before continuing with this setup method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 2: Wireless setup wizard (printer with display)
 
  This method needs you to run from the**printer’s control panel** . So it’s not available for the printer without a touch display.
@@ -88,10 +84,6 @@ Now let’s start!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/61RSlaVpCJL._SL1500_-746x1024.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 4: Windows setup
 
 **1)** On your keyboard, press the**Windows Key** (with Windows logo on it) +**I** together.
@@ -99,6 +91,10 @@ Now let’s start!
 **2)** Click**Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap41.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Turn on the printer and go to its**Network** menu.
 
@@ -109,12 +105,16 @@ Now let’s start!
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap42.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)** Select the printer from the results and click**Add device** . You should be good to go.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap46.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 5: USB cable connection (printer without display)
 
@@ -129,10 +129,6 @@ Now let’s start!
 **4)** Run the printer software installation and follow the on-screen instructions.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap40-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Bonus: Troubleshoot problems in hp wireless printer connectivity
 
@@ -161,6 +157,10 @@ Now let’s start!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap42-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Method 2\. Install Reimage
 
  Many printer issues could be related to corrupted system files.[**Fortect**](https://tools.techidaily.com/drivereasy/download/) is a powerful tool to repair and rebuild Windows. It is tailored to your specific system and is working in a private and automatic way. There’s no harm to your PC and no worries about losing any programs and your personal data.
@@ -173,11 +173,11 @@ Now let’s start!
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -202,20 +202,22 @@ Now let’s start!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-permanently-quit-youtube-shorts-now/"><u>[New] 2024 Approved Permanently Quit YouTube Shorts Now!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-craft-your-own-podcast-success-with-writing-tips-and-sample-templates/"><u>[Updated] Craft Your Own Podcast Success with Writing Tips and Sample Templates</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1-cutting-edge-mommy-skills-innovative-approaches-to-parenting-with-the-latest-apps-and-gadgets-essential-resources/"><u>1. Cutting-Edge Mommy Skills : Innovative Approaches to Parenting with the Latest Apps & Gadgets | Essential Resources</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-update-speed-of-task-monitor-win-11/"><u>Accelerate Update Speed of Task Monitor Win 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brother-wireless-mfc-9330cdw-instructions/"><u>Brother Wireless MFC-9330CDW Instructions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-lg-watch-style-examination-mastering-the-classic-wear-os-20-timepiece/"><u>Comprehensive LG Watch Style Examination - Mastering the Classic Wear OS 2.0 Timepiece</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/diagnosing-ink-and-paper-feed-issues-in-hp/"><u>Diagnosing Ink and Paper Feed Issues in HP</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/enhance-editing-unlimited-free-audio-samples-in-2024/"><u>Enhance Editing Unlimited Free Audio Samples, In 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-online-offline-print-status-anomaly/"><u>Fixing Online-Offline Print Status Anomaly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hack-your-way-through-pcl-xl-troubles/"><u>Hack Your Way Through PCL XL Troubles</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-virtual-reality-archivists-handbook-for-game-recordings/"><u>In 2024, The Virtual Reality Archivist's Handbook for Game Recordings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/price-points-and-arrival-forecast-for-the-upcoming-apple-home-assistant-robot-full-details-inside/"><u>Price Points and Arrival Forecast for the Upcoming Apple Home Assistant Robot - Full Details Inside!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reversed-printing-mishaps-hp-printer-now-solid-and-sure/"><u>Reversed Printing Mishaps: HP Printer Now Solid and Sure</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/simplify-your-inbox-how-one-simple-tactic-can-clear-out-clutter-without-creating-new-accounts-or-strict-filters-learn-the-secrets-with-zdnet/"><u>Simplify Your Inbox: How One Simple Tactic Can Clear Out Clutter Without Creating New Accounts or Strict Filters – Learn the Secrets with ZDNet</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamlining-mf4770n-functions-on-w11w8w7-os/"><u>Streamlining MF4770n Functions on W11/W8/W7 OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/error-local-printer-service-unavailable-on-pc/"><u>[ERROR] Local Printer Service Unavailable on PC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-sleephibernate-glitch-with-usb-printers-w7/"><u>[Resolved] Sleep/Hibernate Glitch with USB Printers, W7</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-best-websites-to-download-classical-ringtones/"><u>[Updated] In 2024, Best Websites to Download Classical Ringtones</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-affordable-tactics-for-combining-media-with-literature/"><u>2024 Approved Affordable Tactics for Combining Media with Literature</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-ideas-for-images-with-professional-color-palette/"><u>2024 Approved Innovative Ideas for Images with Professional Color Palette</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/7-top-free-instagram-video-clips-tools-for-daily-entertainment/"><u>7 Top Free Instagram Video Clips Tools for Daily Entertainment</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/addressing-epsons-error-x97/"><u>Addressing Epson's Error X97</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/enhance-gameplay-memories-win10-recording-methods-for-2024/"><u>Enhance Gameplay Memories Win10 Recording Methods for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/halftone-problem-with-color-prints/"><u>Halftone Problem with Color Prints</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-maximizing-video-reach-through-title-and-tag-synergy/"><u>In 2024, Maximizing Video Reach Through Title & Tag Synergy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-flight-stability-best-gimbals-for-2024/"><u>Innovative Flight Stability Best Gimbals for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-hdr-photos-advanced-techniques-in-photoshop/"><u>Mastering HDR Photos Advanced Techniques in Photoshop</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-brother-printers-offline-hurdle/"><u>Overcoming Brother Printer's Offline Hurdle</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printing-all-documents-no-gaps-updates/"><u>Printing All Documents, No Gaps Updates</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solve-canon-print-failure-on-windows-10-effectively/"><u>Solve Canon Print Failure on Windows 10 Effectively</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/step-by-step-canon-printer-wi-fi-installation/"><u>Step-by-Step Canon Printer Wi-Fi Installation</u></a></li>
+<li><a href="https://win-tips.techidaily.com/pcwindowsos/"><u>フルマニュアルで学ぶ：円滑なPCへのWindowsOS転送手順</u></a></li>
 </ul></div>
 

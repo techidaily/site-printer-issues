@@ -1,7 +1,7 @@
 ---
 title: Overcoming Inactive Scanner on Windows 11
-date: 2025-01-25T16:18:03.082Z
-updated: 2025-01-29T16:13:01.165Z
+date: 2025-02-03T01:09:16.884Z
+updated: 2025-02-09T19:14:32.551Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
 Read on. 🙂
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. [**Check the connection of your Printer**](#m1)
@@ -44,10 +40,6 @@ Read on. 🙂
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Reinstall your printer driver
 
  A corrupted driver software can also cause the message pop up. In such case, you can try to solve it through updating the printer driver.
@@ -58,13 +50,13 @@ You need to do these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf305cb04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the open window, find and expand the**Print queues** catalog. Then right-click on your printer software to choose**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ecf9b29be7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Restart your computer to let Windows reinstall the printer driver for you automatically.
 
@@ -79,12 +71,16 @@ You need to do these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597af8932fbfe.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5976a910cca49.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
 
@@ -99,7 +95,7 @@ You need to do these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee238c2f07.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Find**scanToPCActivationApp** under**Processes** tab. Then right-click on it to choose**End task** .
@@ -109,6 +105,10 @@ You need to do these steps:
  3) Find**scanToPCActivationApp** under**Startup** tab. Then right-click on it to choose**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597ee2dfcd442.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 That’s all there is to it.
 
@@ -132,20 +132,19 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-unleash-your-inner-star-bold-steps-for-youtube-success/"><u>[New] 2024 Approved Unleash Your Inner Star Bold Steps for YouTube Success</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-amateur-to-pro-video-editing-mastery-using-windows-movie-maker-windows-8/"><u>[Updated] From Amateur to Pro Video Editing Mastery Using Windows Movie Maker (Windows 8)</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1728499532738-windows/"><u>不意の事故からWindowsを守りたい: 作成されたリカバリゾーンによるシステム修復ガイド</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/amazons-latest-gadget-unveiled-the-echo-show-10-gen-3-review-bringing-automation-to-room-navigation/"><u>Amazon's Latest Gadget Unveiled - The Echo Show 10 (Gen 3) Review: Bringing Automation to Room Navigation</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1722998730569-constraint-a-use-only-the-c-major-scale-for-representation/"><u>Constraint A: Use only the C-Major Scale for Representation</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/detroit-llc-pc-version-fixed-issues-and-optimal-performance/"><u>Detroit LLC PC Version - Fixed Issues & Optimal Performance</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhance-your-pdfs-with-6-advanced-gpt-applications/"><u>Enhance Your PDFs with 6 Advanced GPT Applications</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/beat-to-buzz-creating-impact-in-10-seconds-on-youtube-for-2024/"><u>From Beat to Buzz Creating Impact in 10 Seconds on YouTube for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-6s-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 6s without Backup | Stellar</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mastering-the-quick-fixes-how-to-successfully-boot-up-warzone-20-on-a-personal-computer-new-guide-for-23/"><u>Mastering the Quick Fixes: How to Successfully Boot Up Warzone 2.0 on a Personal Computer - New Guide for 2^3</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/transform-your-laptop-into-a-morse-code-input-device-just-hit-the-lid-with-precision-disclaimers-apply/"><u>Transform Your Laptop Into a Morse Code Input Device: Just Hit the Lid with Precision - Disclaimers Apply!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-steps-for-armored-core-vi-fires-of-rubicon-failed-startup-issues/"><u>Troubleshooting Steps for Armored Core VI - Fires of Rubicon Failed Startup Issues</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ultimate-troubleshooting-techniques-for-fixing-unexpected-app-closures/"><u>Ultimate Troubleshooting Techniques for Fixing Unexpected App Closures</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-asus-rog-phone-8s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Asus ROG Phone 8s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/years-premium-choices-a-review-of-the-top-15-youtube-unboxers-2024/"><u>Year's Premium Choices A Review of the Top 15 YouTube Unboxers, 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-watermark-wisdom-the-10-best-apps-reviewed/"><u>[New] 2024 Approved Watermark Wisdom The 10 Best Apps Reviewed</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-tecno-pova-6-pro-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Tecno Pova 6 Pro 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-mfc7360n-drivers-seamless-download-and-installation-for-windows-1187-users/"><u>Brother MFC7360N Drivers: Seamless Download & Installation for Windows 11/8/7 Users</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/color-output-issue-on-printer/"><u>Color Output Issue on Printer</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/developing-your-own-crypto-trading-plan-insights-from-yl-computings-expertise/"><u>Developing Your Own Crypto Trading Plan: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-instructions-to-download-and-install-your-epson-xp-410-printers-windows-drivers/"><u>Easy Instructions to Download and Install Your Epson XP-410 Printer's Windows Drivers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhance-printing-efficiency-update-hp-officejet-firmware/"><u>Enhance Printing Efficiency: Update HP Officejet Firmware</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guide-merging-hp-printer-with-home-computing-device/"><u>Guide: Merging HP Printer with Home Computing Device</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-link-up-in-the-world-of-instagram/"><u>In 2024, How-To Link Up in the World of Instagram</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-recovering-individual-snap-secrets/"><u>In 2024, Recovering Individual Snap Secrets</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-disconnected-swift-fix/"><u>Printer Disconnected: Swift Fix</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-error-on-hp-printer-oxc4eb827f/"><u>Resolving Error on HP Printer: OXC4EB827F</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-win11s-notes-with-clever-guide/"><u>Revamp Win11's Notes with Clever Guide</u></a></li>
 </ul></div>
 

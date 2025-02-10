@@ -1,7 +1,7 @@
 ---
 title: Fixed Paper Size Error on HP DeskJet 3070
-date: 2025-01-22T17:42:36.645Z
-updated: 2025-01-29T16:43:46.536Z
+date: 2025-02-09T02:03:51.377Z
+updated: 2025-02-09T20:58:08.590Z
 tags:
   - win11
   - win10
@@ -48,15 +48,15 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/10/de-update-all-hp-printer.jpg)
 4. After updating, restart your computer to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Set your printer as default
 
@@ -71,15 +71,11 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 3. In the**Printers** section, right-click on your HP printer and then select**Set as default printer** . Click on**Yes** if prompted.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5476a01d.png)
 4. There is now a tick below the icon of your HP printer. That means it is now set as the default printer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e5fe2a9b6.png)
@@ -92,29 +88,29 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
 2. Right-click on your HP printer in the**Printers** section and select**See what’s printing** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987e955d3a5d.png)
 3. Open the**Printer** menu and then select**Open As Administrator** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea27610b0.png)
 4. Open**Printer** menu again. This time select**Cancel All Documents** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987ea70940b1.png)
 5. **Confirm** your action.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5987eaa0030f9.png)
 6. You have canceled all print jobs of your printer. Now check and see if it can run normally.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Check printer status
 
@@ -123,7 +119,7 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
  You need to ensure your HP printer has**enough** **paper, ink, or toner** , and it is**not stuck in a paper jam** . Also, check the status of your printer cartridge and try replacing it with a new one if it is not good enough. In some cases, your HP printer stops printing after you replace its parts. If this happens you should**install the original ones back** and see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6: Repair system files
@@ -165,6 +161,10 @@ Check your computer to see if your printer works properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/sfc-scannow.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the printer works properly.
 
@@ -185,20 +185,24 @@ Check your computer to see if your printer works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-use-your-switch-pro-controller-on-steam/"><u>[Updated] How to Use Your Switch Pro Controller on Steam</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-prowl-without-interrups-find-the-best-7-android-adblock-tools/"><u>[Updated] In 2024, Prowl Without Interrups Find the Best 7 Android AdBlock Tools</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-top-pioneers-making-waves-in-digital-av-creation/"><u>[Updated] Top Pioneers Making Waves in Digital AV Creation</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-visual-comedy-make-and-share-via-kapwing/"><u>[Updated] Visual Comedy Make and Share via Kapwing</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-identifying-high-growth-youtube-channels-for-personal-development/"><u>2024 Approved Identifying High-Growth YouTube Channels for Personal Development</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/ai-60120fps/"><u>AI超高速動畫优化软件 - 幀率提升至60/120fps平滑视频转换</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/effortlessly-bridge-your-printer-and-wifi-with-canon/"><u>Effortlessly Bridge Your Printer and Wifi with Canon</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-non-responsive-epson-device/"><u>Fixed Non-Responsive Epson Device</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-dead-paper-output-in-hp-printers/"><u>Fixing Dead Paper Output in HP Printers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-resolve-critical-js-error-affecting-discord-on-modern-windows-devices/"><u>How to Resolve Critical JS Error Affecting Discord on Modern Windows Devices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-driver-inaccessible-windows-1011-trouble/"><u>HP Driver Inaccessible - Windows 10/11 Trouble</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-maximize-productivity-innovative-windows-10-tips/"><u>In 2024, Maximize Productivity Innovative Windows 10 Tips</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oppo-a38-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Oppo A38 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revitalize-non-responding-printer-on-windows-me-version/"><u>Revitalize Non-Responding Printer on Windows ME Version</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/upgrading-to-flawless-mf4770n-operation-in-windows-1187/"><u>Upgrading to Flawless MF4770n Operation in Windows 11/8/7</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ransform-your-channels-views-with-strategic-insights-for-2024/"><u>[New] Transform Your Channels Views with Strategic Insights for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-reimagining-received-gifts-the-joy-of-openness/"><u>[Updated] 2024 Approved Reimagining Received Gifts The Joy of Openness</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-seamless-integration-of-nvidia-screener-techniques/"><u>[Updated] Seamless Integration of NVIDIA Screener Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-infographic-analysis-the-hottest-2023-trends/"><u>2024 Approved Infographic Analysis The Hottest 2023 Trends</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/banishing-blank-output-hp-printers-success-story/"><u>Banishing Blank Output: HP Printer's Success Story</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/bridge-connectivity-gaps-for-windows-10-printing-issues/"><u>Bridge Connectivity Gaps for Windows 10 Printing Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/cease-print-slowdown-in-winxp-solution-found/"><u>Cease Print Slowdown in WinXP - Solution Found</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/cure-winxp-slow-printer-achieve-swift-printing/"><u>Cure WinXP Slow Printer - Achieve Swift Printing</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/dj-1360-driver-issue-on-various-windows-os/"><u>DJ-1360 Driver Issue on Various Windows OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhanced-connection-routes-between-hp-printers-and-laptops/"><u>Enhanced Connection Routes Between HP Printers and Laptops</u></a></li>
+<li><a href="https://fox-links.techidaily.com/essential-guide-11-easy-to-use-waterproof-cams-for-young-filmmakers/"><u>Essential Guide 11 Easy-to-Use Waterproof Cams For Young Filmmakers</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/experience-precision-on-a-budget-with-the-moto-g-stylus-our-in-depth-analysis/"><u>Experience Precision on a Budget with the Moto G Stylus – Our In-Depth Analysis</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-most-recent-nvidia-quadro-rtx-8000-drivers-for-win-10-8-and-7-direct-download-links/"><u>Get the Most Recent Nvidia Quadro RTX 8000 Drivers for Win 10, 8 & 7 - Direct Download Links</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/getting-back-online-actions-for-print-errors/"><u>Getting Back Online: Actions for Print Errors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oneplus-data-recovery-recover-lost-data-from-oneplus-12r-by-fonelab-android-recover-data/"><u>OnePlus Data Recovery – recover lost data from OnePlus 12R</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/paperless-challenges-ended-with-windows-upgrade/"><u>Paperless Challenges Ended with Window's Upgrade</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/swiftly-solve-stuck-printer-job-queue/"><u>Swiftly Solve Stuck Printer Job Queue</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-using-videos-in-education/"><u>The Art of Using Videos in Education</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-essential-troubleshooting-checklist-to-repair-error-messages-on-your-wi-fi-access-device-or-ap/"><u>The Essential Troubleshooting Checklist to Repair Error Messages on Your Wi-Fi Access Device or AP</u></a></li>
 </ul></div>
 

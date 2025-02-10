@@ -1,7 +1,7 @@
 ---
 title: "The Sony Xperia 5 Unveiled: Balancing Diminutive Design with Expensive Tags"
-date: 2025-01-27T16:12:52.326Z
-updated: 2025-01-29T17:07:24.354Z
+date: 2025-02-04T22:28:00.387Z
+updated: 2025-02-09T17:44:27.884Z
 categories:
   - BestProducts
 description: "This Article Describes The Sony Xperia 5 Unveiled: Balancing Diminutive Design with Expensive Tags"
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/cc90cfb91ad0a20c12f9d720fc85b3d9e0382268e
 ## Dying Light
 
 ![Dying Light](https://www.lifewire.com/thmb/ExEFo7aByvSphU-Qxeq8zUjf8lk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Dying-Light-Zombie-Game-PS4-1-f2e898d54052439c9e158d01dc3d691a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -41,13 +37,13 @@ Lifewire / Kelsey Simon
 
 4.2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Dying Light
 
 ![Dying Light](https://www.lifewire.com/thmb/YWkGikwP23JK119N4M7J22dAPJY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Dying-Light-Zombie-Game-PS4-1-f2e898d54052439c9e158d01dc3d691a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -75,7 +71,7 @@ Lifewire / Kelsey Simon
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup Process: Straight into the action**
@@ -84,14 +80,10 @@ Lifewire / Kelsey Simon
 
 ![Dying Light](https://www.lifewire.com/thmb/P3rXmBBI1GdQfgi0vVT9xKcFw90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-2-db5990d1f64341eaae79e22a71bb8f95.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Plot: A character torn between obligation and friendship**
@@ -105,6 +97,10 @@ Harran is a whole different city at night.
  This is a fairly linear game with regards to the plot. There's a main storyline for you to follow, with some optional side quests that you can take or leave. The narrative does a decent job of building up the circumstances for Kyle feeling torn between his mission and these people, and you’ll learn more about the virus as you go, as well as Antizin, the fictional drug that could lead to a cure.
 
 ![Dying Light](https://www.lifewire.com/thmb/8G35q3VsoSEuht_3bqsGm0Pwz-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-7-d9d2bbe8881e476f8dfb3c13059634ed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -132,15 +128,19 @@ Harran is a whole different city at night.
 
 ![Dying Light](https://www.lifewire.com/thmb/sy9NHLj8JNe2eaeS9HJJdejt6QE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-6-56ef808272b544e6a1038f4a5d0280f1.jpg)
 
- Lifewire / Kelsey Simon
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lifewire / Kelsey Simon
 
 ## **Price: Worth the cost, especially with a friend**
 
  On PlayStation 4, you can purchase the game for $14, a fantastic value. You’ll get more than enough gameplay and fun to justify a purchase at that low cost. However, if you want to play on[PC](https://www.lifewire.com/best-desktop-pcs-4045927) , you’ll have to either wait for the game to go on sale, or you’ll have to pay $40\. Considering the game is older now, we’d suggest getting the game on sale (it goes on sale often through Steam). There’s a lot of fun to be had in Dying Light, especially if you have a friend to play with, so if you’re thinking about getting the game, we’d say go for it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Competition: Other zombie and parkour games**
 
@@ -175,24 +175,15 @@ Harran is a whole different city at night.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-infusing-humor-into-your-social-media-posts-for-2024/"><u>[New] Infusing Humor Into Your Social Media Posts for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-sharing-strategies-maximize-video-impact-from-youtube-to-facebook/"><u>[Updated] 2024 Approved Sharing Strategies Maximize Video Impact From YouTube to Facebook</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-stepwise-guide-to-youtube-video-enhancement-in-imovie/"><u>[Updated] 2024 Approved Stepwise Guide to YouTube Video Enhancement in iMovie</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/addressing-epsons-error-x97/"><u>Addressing Epson's Error X97</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/defeating-paper-jams-fixing-spooler-issues-win-1011/"><u>Defeating Paper Jams: Fixing Spooler Issues (Win 10/11)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/dismantle-disconnection-get-your-printer-printing-again/"><u>Dismantle Disconnection: Get Your Printer Printing Again</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-latest-behringer-sound-card-drivers-at-no-cost-start-here/"><u>Download the Latest Behringer Sound Card Drivers at No Cost – Start Here</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/efficiently-manage-hp-officejet-4630-updates/"><u>Efficiently Manage HP Officejet 4630 Updates</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enabling-brother-inkjet-without-faults/"><u>Enabling Brother Inkjet Without Faults</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/imaginary-giggles-generate-with-kapwings-maker/"><u>Imaginary Giggles Generate with Kapwing's Maker</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-google-pixel-7a-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Google Pixel 7a to Outlook | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-epson-artisan-1430-drivers-on-your-pc-running-windows-11-10-or-8-free/"><u>Install Epson Artisan 1430 Drivers on Your PC Running Windows 11, 10 or 8 (Free)</u></a></li>
-<li><a href="https://win-dash.techidaily.com/mastering-device-sync-correcting-driver-problems-with-your-logitech-f710-on-windows-81011/"><u>Mastering Device Sync: Correcting Driver Problems with Your Logitech F710 on Windows (8/10/11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalizing-your-profiles-destination-on-windows-11/"><u>Personalizing Your Profile’s Destination on Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-steps-to-setup-canon-printer-in-pictures/"><u>Quick Steps to Setup - Canon Printer in Pictures</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/rejuvenate-your-mf4770n-experience-for-win11-8-7/"><u>Rejuvenate Your MF4770n Experience for Win11, 8, 7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solve-inkjet-driver-errors-on-w11/"><u>Solve Inkjet Driver Errors on W11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tales-of-arise-stability-improved-crashes-no-more/"><u>Tales of Arise Stability Improved: Crashes No More</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win32-officejet-pro-8600-printer-installation-file/"><u>Win32 Officejet Pro 8600 Printer Installation File</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-creator-to-earnings-successful-youtube-short-strategies-for-2024/"><u>[New] From Creator to Earnings Successful YouTube Short Strategies for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/avoid-regrets-8-must-know-considerations-for-purchasing-the-right-tablet/"><u>Avoid Regrets: 8 Must-Know Considerations for Purchasing the Right Tablet</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/empower-your-productivity-a-critical-look-at-the-onetastic-addition-to-ms-onenote-workflow/"><u>Empower Your Productivity: A Critical Look at the Onetastic Addition to MS OneNote Workflow</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/exceptional-mobility-meets-high-performance-a-closer-look-at-the-razer-blade-pro-17/"><u>Exceptional Mobility Meets High-Performance: A Closer Look at the Razer Blade Pro 17</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-apple-iphone-xr-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone XR Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/iphones-unlocked-smart-tips-for-saving-and-playing-gifs-for-2024/"><u>IPhones Unlocked Smart Tips for Saving & Playing GIFs for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/start-capturing-with-confidence-prime-amazonbasics-tripod-review/"><u>Start Capturing with Confidence: Prime AmazonBasics Tripod Review</u></a></li>
+<li><a href="https://win-bits.techidaily.com/tecniche-essenziali-per-lottimizzazione-del-backup-e-mail-un-guida-completa/"><u>Tecniche Essenziali per L'ottimizzazione Del Backup E-Mail: Un Guida Completa</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-the-most-effective-dvd-converters-for-apple-computers-money-saving-tips-included/"><u>Ultimate Guide to the Most Effective DVD Converters for Apple Computers - Money-Saving Tips Included!</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-rapid-guide-to-exporting-whatsapp-audio-as-high-quality-mp3-for-2024/"><u>Updated Rapid Guide to Exporting WhatsApp Audio as High-Quality MP3 for 2024</u></a></li>
 </ul></div>
 

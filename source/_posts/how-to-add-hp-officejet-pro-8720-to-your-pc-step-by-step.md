@@ -1,7 +1,7 @@
 ---
 title: How to Add HP OfficeJet Pro 8720 to Your PC [Step by Step]
-date: 2025-01-23T17:22:05.189Z
-updated: 2025-01-29T16:04:17.521Z
+date: 2025-02-03T19:45:42.498Z
+updated: 2025-02-10T01:37:38.660Z
 tags:
   - win11
   - win10
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
  Are you preparing to add HP OfficeJet Pro 8720 to your PC but don’t know how to do? Don’t worry! It’s very, very easy! This article will show you how to add a printer to your PC**with step-by-step instructions** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Follow these steps**
@@ -73,11 +73,7 @@ If your printer is **wireless-capable**  , you can connect your printer to your 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap88.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Install the printer driver for your printer
@@ -91,11 +87,23 @@ If your printer is **wireless-capable**  , you can connect your printer to your 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap89.png)
 3. Click **Update** next to your printer to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap90.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Step 3: Add the printer to your PC**
 
@@ -110,25 +118,21 @@ If your printer is **wireless-capable**  , you can connect your printer to your 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap80.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **If the printer doesn’t appear** in the**Printers** section, you need to add it to your PC. Here is how to do it:
 
 1. Click**Hardware and Sound** in Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap81.png)
 2. Click **Advanced printers setup** (in Win 7, it would be**Add a printer**).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap82.png)
 3. Select your Printer and click**Next** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap83.png)
 4. Windows will start to install your printer to your PC. This may take several minutes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap84.png)
 5. When it is finished, click**Devices and Printers** .  
@@ -137,17 +141,13 @@ If your printer is **wireless-capable**  , you can connect your printer to your 
 6. Your printer should appear in the**Printers** section.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap86.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 4: Print test paper
@@ -187,24 +187,22 @@ If your printer is **wireless-capable**  , you can connect your printer to your 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-effortless-selfie-sending-learn-the-technique-now/"><u>[New] 2024 Approved Effortless Selfie Sending - Learn the Technique Now</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-tracing-the-paths-of-instagram-unfollows/"><u>[New] Tracing the Paths of Instagram Unfollows</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-exploring-whether-itop-fits-your-tech-needs-for-2024/"><u>[Updated] Exploring Whether ITop Fits Your Tech Needs for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-graphic-portrayal-of-future-social-momentum-for-2024/"><u>[Updated] Graphic Portrayal of Future Social Momentum for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-title-tag-and-description-mastery-for-youtube-success/"><u>[Updated] In 2024, Title, Tag & Description Mastery for YouTube Success</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-the-perils-of-faux-youtube-supporter-purchases/"><u>2024 Approved The Perils of Faux YouTube Supporter Purchases</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/p-dive-into-youtubes-income-models-for-2024/"><u>A Deep Dive Into YouTube’s Income Models for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/activating-scanner-on-latest-win11-release/"><u>Activating Scanner on Latest Win11 Release</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/demystifying-quick-fixes-for-pcl-xl-glitches/"><u>Demystifying Quick Fixes for PCL XL Glitches</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/eliminating-ghost-prints-on-monitors/"><u>Eliminating Ghost Prints on Monitors</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574135496-enhance-printer-velocity-now/"><u>Enhance Printer Velocity Now</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/epic-gamers-guide-fortnite-season-return-new-adventures-and-challenges/"><u>Epic Gamer's Guide: Fortnite Season Return - New Adventures and Challenges</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epsons-unprintable-feature-fixed-quickly/"><u>Epson's Unprintable Feature Fixed Quickly</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/essential-tips-for-great-title-creation-for-2024/"><u>Essential Tips for Great Title Creation for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-vivo-y100i-power-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Vivo Y100i Power 5G</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-blank-page-problem-solved/"><u>HP Printer Blank Page Problem Solved</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-all-pages-seamlessly/"><u>Print All Pages Seamlessly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/smoothly-reactivated-scanner-on-windows-11/"><u>Smoothly Reactivated Scanner on Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/successfully-added-new-printer/"><u>Successfully Added New Printer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-lens-on-innovation-how-hdri-redefines-video-production-standards/"><u>[New] A Lens on Innovation How HDRI Redefines Video Production Standards</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-beyond-illusions-examining-vrs-disadvantages/"><u>2024 Approved Beyond Illusions Examining VR's Disadvantages</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-babbage-pioneering-ai-assessment-in-the-new-era/"><u>Beyond Babbage: Pioneering AI Assessment in the New Era</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/cure-xp-printer-slowness-and-unresponsiveness-woes/"><u>Cure XP Printer Slowness & Unresponsiveness Woes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-best-youtube-beginnings-15-editing-samples/"><u>In 2024, Best YouTube Beginnings 15 Editing Samples</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/laugh-ledger-top-10-tweets-for-a-smile/"><u>Laugh Ledger Top 10 Tweets for a Smile</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mend-winxp-print-issues-non-responsive-error-solved/"><u>Mend WinXP Print Issues: Non-Responsive Error Solved</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-driver-missing-from-pc-os/"><u>Printer Driver Missing From PC OS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/proven-remedies-to-enhance-your-instagram-videography/"><u>Proven Remedies to Enhance Your Instagram Videography</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/securely-link-disconnected-printer-quickly/"><u>Securely Link Disconnected Printer Quickly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/smooth-start-initiating-your-hp-printer-for-windows-users/"><u>Smooth Start: Initiating Your HP Printer for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-microsoft-store-error-0x80073d26/"><u>Troubleshooting Microsoft Store Error 0X80073D26</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tune-up-update-dell-aio-printer-tools-on-win7-platform/"><u>Tune-Up: Update Dell AIO Printer Tools on Win7 Platform</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/k-50-exclusive-youtube-banner-free-gifts/"><u>Unlock 50 Exclusive YouTube Banner Free Gifts!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-7-usb-printer-not-printing-after-sleep/"><u>Windows 7: USB Printer Not Printing After Sleep</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-searches-but-not-finding-canon-mp620-printer-driver/"><u>Windows Searches but Not Finding: Canon MP620 Printer Driver</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Printer Setup Error: Only Blank Sheets From Epson"
-date: 2025-01-25T17:17:07.644Z
-updated: 2025-01-29T17:44:32.825Z
+date: 2025-02-08T21:45:40.217Z
+updated: 2025-02-09T22:06:56.536Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 ## Printer Setup Error: Only Blank Sheets From Epson
 
  You’ll feel so weird when your Epson printer suddenly prints blanks. You might say: It had been working great since you got it. Don’t worry, it can be easy to fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Check your Device
 
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 2. [Clean your clogged Nozzles](#f2)
 3. [Update your printer driver](#f3)
 4. [Install Fortect](#f4)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Check your ink cartridges
 
@@ -90,20 +90,20 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/%E6%96%B0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/epson.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you encounter problems while using Driver Easy, please send an email to [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Install Fortect
@@ -117,18 +117,18 @@ Here’s how to use it:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -152,20 +152,24 @@ Here’s how to use it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-streamline-workflow-learn-io-screen-recording/"><u>[New] 2024 Approved Streamline Workflow Learn IO Screen Recording</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-canon-mp620-unsupported-in-win11/"><u>[Troubleshooting] Canon MP620 Unsupported in Win11</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-flashglimpse-crafter/"><u>[Updated] In 2024, FlashGlimpse Crafter</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-ace-your-reel-rankings-by-following-leading-tiktok-strategies/"><u>2024 Approved Ace Your Reel Rankings by Following Leading TikTok Strategies</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725288351512-avchdtsmov/"><u>包括的な動画フォーマット変換ガイド：AVCHD、ts、MOV等の多数のビデオファイルをスムーズに再形成できる手法</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/boosting-operability-win11w8w7-via-mf4770n-update/"><u>Boosting Operability: Win11/W8/W7 via MF4770n Update</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-powered-marketing-copy-excellence/"><u>ChatGPT-Powered Marketing Copy Excellence</u></a></li>
-<li><a href="https://driver-download.techidaily.com/compatibility-check-and-update-instructions-for-amd-gpus-on-windows/"><u>Compatibility Check & Update Instructions for AMD GPUs on Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epsons-print-resuming/"><u>Epson's Print Resuming</u></a></li>
-<li><a href="https://win-studio.techidaily.com/guia-gratuita-para-restaurar-la-papelera-de-reciclaje-perdida-en-windows-1011/"><u>Guía Gratuita Para Restaurar La Papelera De Reciclaje Perdida en Windows 10/11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/inaccessible-domains-causing-print-errors/"><u>Inaccessible Domains Causing Print Errors</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mf4770n-integration-boost-system-software-updates-windows/"><u>MF4770n Integration Boost: System Software Updates Windows</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/reinstalling-windows-made-easy-a-step-by-step-guide-yl-computing/"><u>Reinstalling Windows Made Easy: A Step-by-Step Guide - YL Computing</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reviving-a-deadprint-a-step-by-step-guide/"><u>Reviving a Deadprint: A Step-by-Step Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/unlocking-popularity-a-comprehensive-list-of-instagrams-top-25-tags/"><u>Unlocking Popularity A Comprehensive List of Instagram's Top 25 Tags</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ptimizing-video-income-on-youtube-a-practical-guide-for-2024/"><u>[New] Optimizing Video Income on Youtube A Practical Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-channel-name-wizardry-brainstorm-and-create/"><u>[Updated] Channel Name Wizardry Brainstorm & Create!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-crafting-compelling-narratives-with-strategic-youtube-banners/"><u>[Updated] In 2024, Crafting Compelling Narratives with Strategic YouTube Banners</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-problem-hp-printer-driver-unavailable-in-winxo/"><u>[Windows Problem] HP Printer Driver Unavailable in WINXO</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/addressing-errors-with-shared-printer-setup/"><u>Addressing Errors with Shared Printer Setup</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/compact-bundle-optimized-hp-officejet-pro-8600-drivers-win32/"><u>Compact Bundle: Optimized HP Officejet Pro 8600 Drivers, Win32</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eradicate-printer-errors-on-windows-10-pc/"><u>Eradicate Printer Errors on Windows 10 PC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-fix-error-code-oxc4eb827f-on-hp-printers/"><u>How to Fix Error Code OXC4EB827F on HP Printers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-xs-max-using-icloud-website-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone XS Max using icloud website</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-on-selecting-best-free-srt-tools/"><u>In 2024, Expert Tips on Selecting Best FREE SRT Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/preventing-ink-cartridge-disasters/"><u>Preventing Ink Cartridge Disasters</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-os-error-drivers-are-missing/"><u>Printer OS Error: Drivers Are MISSING</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/regain-printers-availability-with-these-tips/"><u>Regain Printer's Availability with These Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-the-iphone-light-beam-top-12-fixes-for-a-malfunctioning-flashlight/"><u>Reviving the iPhone Light Beam: Top 12 Fixes for a Malfunctioning Flashlight</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/srt-revelation-transforming-computer-performance/"><u>SRT Revelation Transforming Computer Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-2024s-leading-wireless-charger-picks-expert-ratings-and-reviews/"><u>Ultimate Guide to 2024'S Leading Wireless Charger Picks: Expert Ratings & Reviews</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-windows-generic-volume-control-fix-guide/"><u>Unblocking Windows Generic Volume Control: Fix Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/v305-dell-printer-driver-fix-for-windows-7/"><u>V305 Dell Printer Driver Fix for Windows 7</u></a></li>
 </ul></div>
 

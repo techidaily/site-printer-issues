@@ -1,7 +1,7 @@
 ---
 title: "Success Story: Unshackling Printer From Update Chains"
-date: 2025-01-26T17:27:52.916Z
-updated: 2025-01-29T17:00:14.600Z
+date: 2025-02-04T20:28:57.157Z
+updated: 2025-02-09T17:33:39.519Z
 tags:
   - win11
   - win10
@@ -53,7 +53,7 @@ Here is how to power cycle your printer:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your printer driver
@@ -70,13 +70,13 @@ Here is how to power cycle your printer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap19-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-188.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -96,21 +96,21 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-193.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the**Services** window, scroll down until you find**Print Spooler** , then right-click on it and click**Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-194.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) On your keyboard, press the**Windows logo key** and**R** at the same time, then type**%WINDIR%\\system32\\spool\\printers** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-195.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Select**all the files** within the folder and_delete_ them. This is to clear the print queues.
 
@@ -135,7 +135,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-208.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the**Troubleshoot** window, scroll down to the**Get up and running** section, click on**Printer** \>**Run the troubleshooter** .
@@ -165,16 +165,19 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-from-camera-to-channel-a-thoroughly-researched-video-instruction-manual/"><u>[Updated] From Camera to Channel A Thoroughly Researched Video Instruction Manual</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/freeze-frame-like-a-pro-easy-steps-to-amazing-slow-mo-videos-on-android-for-2024/"><u>Freeze Frame Like a Pro Easy Steps to Amazing Slow Mo Videos on Android for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/no-more-ghost-printouts-hp-printer-armored-against-errors/"><u>No More Ghost Printouts: HP Printer Armored Against Errors</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-charging-and-temperature-control-discover-the-ultimate-3-in-1-magsafe-dock-for-all-your-apple-gadgets-featuring-exclusive-insights-from-zdnet.146/"><u>Revolutionize Charging and Temperature Control: Discover the Ultimate 3-in-1 MagSafe Dock for All Your Apple Gadgets - Featuring Exclusive Insights From ZDNet!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamlined-device-management-officejet-pro-8600-drivers-pc-friendly/"><u>Streamlined Device Management: Officejet Pro 8600 Drivers, PC-Friendly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/systematic-mf4770n-software-enhancement-windows-wise/"><u>Systematic MF4770n Software Enhancement Windows-Wise</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unable-to-access-printer-driver-in-windows/"><u>Unable to Access Printer Driver in Windows</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/understanding-windowsold-folder-in-windows-should-you-delete-it/"><u>Understanding 'Windows.old' Folder in Windows - Should You Delete It?</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updating-your-skills-regularly/"><u>Updating Your Skills Regularly</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-poco-c55-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-one-click-video-creation-simplified-editing-of-multi-snaps-for-2024/"><u>[Updated] One-Click Video Creation Simplified Editing of Multi-Snaps for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/building-an-iphone-photo-collage-tutorial/"><u>Building an iPhone Photo Collage Tutorial</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-techniques-for-moving-media-from-iphones/"><u>Comprehensive Techniques for Moving Media From iPhones</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-and-share-on-major-online-hubs-fb-chat-tweetsphere-ig-scene-and-yt-stream/"><u>Connect and Share on Major Online Hubs: FB Chat, Tweetsphere, IG Scene & YT Stream</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dual-method-strategies-boosting-tiktok-visibility/"><u>Dual-Method Strategies Boosting TikTok Visibility</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-scannerprinter-blank-page-mystery-solved/"><u>Epson Scanner/Printer Blank Page Mystery Solved</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-tecno-spark-10c-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Tecno Spark 10C Phone Network-Ready</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-post-update-printer-crash/"><u>Resolved: Post-Update Printer Crash</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/stepwise-integration-merging-hp-officejet-8720-with-pcs/"><u>Stepwise Integration: Merging HP Officejet 8720 with PCs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/triumph-over-printer-woes-with-windows-10-update-fix/"><u>Triumph Over Printer Woes with Windows 10 Update Fix</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-unblocked-scan-functionality/"><u>Windows 11: Unblocked Scan Functionality</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/winme-printer-no-response-how-to-remedy-it/"><u>WinME Printer No Response - How to Remedy It</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Successfully Added New Printer
-date: 2025-01-24T17:03:34.035Z
-updated: 2025-01-29T17:56:54.252Z
+date: 2025-02-06T22:12:28.119Z
+updated: 2025-02-09T22:01:51.414Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6
 
  “**Unable to install Printer.Operation could not be completed** ” could occur during installing printer or using the printer, especially after a Windows upgrade or reinstall. The problem can be caused by several issues. If you run into this problem, just try the **three**  solutions below and the problem should resolve.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution**1: Start the Print Spooler service**
 
  The problem can occur if the print spooler service is stopped. So make sure the service is started. If it’s stopped, start it. To check and start the service, follow these steps:
@@ -34,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57870f53c80aa.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Double-click on**Sprint Spooler** to open the Properties dialog box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57870fec6b0f3.png)
@@ -47,11 +39,19 @@ thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5797242d45d94.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) Reboot your PC for the change to take effect.
 
 This should fix the problem. If not, proceed to solution 2.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution 2: Update the printer driver**
 
@@ -75,10 +75,6 @@ This should fix the problem. If not, proceed to solution 2.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627664eb496.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) After updating the driver, check to see if the problem is resolved.
 
 ---
@@ -100,23 +96,19 @@ To delete the printer keys, here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5797354018fd8.png)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **C:\\Windows\\System32\\Spool\\Drivers\\w32x86**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57973526811ea.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2) Press **Win+R** (Windows logo key and R key) at the same time to invoke the Run box.
 
 3) Type**regedit**  in the run box and click **OK** to open  the Registry Editor dialog box.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/img_56fb391581cd9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Locate the following registry key according to the system version installed on your PC . If you’re not sure what specific version of Windows you have, refer to [Quickly Get Operating System Version](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -126,7 +118,15 @@ To delete the printer keys, here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57972e8c6def5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57972ed64a5f9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 For   **64-bit** operating system:
 
@@ -135,7 +135,7 @@ For   **64-bit** operating system:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57972e8c6def5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57972f5298c63.png)
@@ -167,24 +167,19 @@ For   **64-bit** operating system:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/missing-component-pixma-mp620-driver-on-windows-10/"><u>[Missing Component] Pixma MP620 Driver on Windows 10</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-expert-tips-for-mac-users-audacitys-audio-recording-features/"><u>[New] 2024 Approved Expert Tips for Mac Users Audacity's Audio Recording Features</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/system-crippled-printer-driver-unavailable-in-win/"><u>[SYSTEM CRIPPLED] Printer Driver Unavailable in Win</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-maximizing-user-experience-for-live-streams-on-discord-platform/"><u>[Updated] 2024 Approved Maximizing User Experience for Live Streams on Discord Platform</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-diy-audio-excellence-no-mic-necessary-for-2024/"><u>[Updated] DIY Audio Excellence No Mic Necessary for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-easy-to-follow-tips-for-hassle-free-high-dynamic-range-imaging/"><u>[Updated] Easy-to-Follow Tips for Hassle-Free High Dynamic Range Imaging</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-image-enhancement-made-simple-how-to-inject-text-into-pictures-on-windowsmacos/"><u>[Updated] Image Enhancement Made Simple How to Inject Text Into Pictures on Windows/MacOS</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-poco-x6-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Poco X6 Pro Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/building-your-way-to-greatness-a-complete-guide-to-valorant-video-thumbnails-for-2024/"><u>Building Your Way to Greatness A Complete Guide to Valorant Video Thumbnails for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guide-to-fix-scanner-disconnection-in-windows-10/"><u>Guide to Fix Scanner Disconnection in Windows 10</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/phantom-gag-craftsman/"><u>Phantom Gag Craftsman</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-usage-fluctuation-raises-eyebrows/"><u>Printer Usage Fluctuation Raises Eyebrows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/simple-guide-to-mfc-9330cdw-setup/"><u>Simple Guide to MFC-9330CDW Setup</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamlining-document-output-on-windowshp/"><u>Streamlining Document Output on Windows/HP</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tactics-for-uninstalling-windows-printers/"><u>Tactics for Uninstalling Windows Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/techniques-for-reviving-inactive-hp-copiers/"><u>Techniques for Reviving Inactive HP Copiers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/the-complete-roadmap-to-activating-and-installing-your-win-hp-printer/"><u>The Complete Roadmap to Activating & Installing Your Win HP Printer</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/oadmap-to-establishing-your-unique-flair-for-2024/"><u>The Roadmap to Establishing Your Unique Flair for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-motorola-defy-2-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Motorola Defy 2</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-elevate-views-prime-seo-equipment-for-videos/"><u>[Updated] Elevate Views Prime SEO Equipment for Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-art-of-monitors-reimagined-an-insight-into-the-z32x/"><u>[Updated] The Art of Monitors Reimagined An Insight Into the Z32X</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/bypass-print-job-delay-quickly/"><u>Bypass Print Job Delay Quickly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/effortlessly-link-your-laptop-and-hp-printer-with-these-fixes/"><u>Effortlessly Link Your Laptop and HP Printer with These Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminate-the-mystery-resolving-discord-screen-sharing-display-errors/"><u>Eliminate the Mystery: Resolving Discord Screen Sharing Display Errors</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eradicating-epsons-enigma-code-0x97/"><u>Eradicating Epson's Enigma: Code 0X97</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-motorola-moto-g23-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Motorola Moto G23 Phone Pattern Lock</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/installing-hp-d1360-drivers-success-on-windows-versions/"><u>Installing HP D1360 Drivers: Success on Windows Versions?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/strategies-for-finding-your-missing-printers-ip-address/"><u>Strategies for Finding Your Missing Printer's IP Address</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/transform-your-live-feed-select-from-the-ultimate-9-filter-list/"><u>Transform Your Live Feed Select From the Ultimate 9 Filter List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-creativity-in-iphone-videography-8-best-practices-for-2024/"><u>Unleashing Creativity in iPhone Videography 8 Best Practices for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-advancements-in-apple-watch-series-4-greatness-redefined-and-refined/"><u>Unveiling the Advancements in Apple Watch Series 4: Greatness Redefined and Refined</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/w7-hp-printer-connectivity-armistice/"><u>W7 HP Printer Connectivity Armistice</u></a></li>
 </ul></div>
 

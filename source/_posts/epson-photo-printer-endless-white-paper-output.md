@@ -1,7 +1,7 @@
 ---
 title: "Epson Photo Printer: Endless White Paper Output"
-date: 2025-01-25T17:35:44.458Z
-updated: 2025-01-29T17:29:51.837Z
+date: 2025-02-08T16:30:41.685Z
+updated: 2025-02-10T01:13:17.891Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad
  You’ll feel so weird when your Epson printer suddenly prints blanks. You might say: It had been working great since you got it. Don’t worry, it can be easy to fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Check your Device
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad
 **Note** : Transparencies and vellum paper are not supported.
 4. Make sure your document doesn’t have blank pages.
 5. Make sure the paper size, orientation, and layout settings in your software are correct.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for Epson Printer Printing Blank Pages
 
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad
 
  The third condition is that you’ve replaced a new ink cartridge but**you forget to remove the protective tape** . New cartridges have protective tape. Not only that it keep the ink from leaking, but it actually protects the print nozzles of sensitive ink cartridges. But you should be careful with the additional transparent plastic or a pointed mechanism, do not remove it or your cartridge will leak or malfunction.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Clean your clogged Nozzles
 
  If you haven’t been using your printer for a long time or you ignore the low ink warning but keep using the printer, your nozzle may clog and cause the printing blank problem. Epson printer has a built-in feature to clean nozzles in one or two cycles, you can use it to solve the problem.  
@@ -64,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad
  If your printer is under warranty and you didn’t see any improvements after cleaning, you can contact Epson for further instructions. But if you are no longer under warranty, you can clean the nozzle manually.
 
 **Note** : This Printhead Cleaning Cycles cannot be used too often. Allow your printer to rest for at least 6 hours after one cycle (recommended by Epson), then go through a cleaning cycle again. Doing this program repeatedly will make your clog worse and use a lot of ink.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your printer driver
 
@@ -103,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad
  If you encounter problems while using Driver Easy, please send an email to [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Install Fortect
@@ -117,18 +121,14 @@ Here’s how to use it:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -152,17 +152,22 @@ Here’s how to use it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-begin-the-stream-an-introduction-to-instagram-lives/"><u>[New] Begin the Stream An Introduction to Instagram Lives</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/systemissue-printer-spooler-not-functioning-in-windows/"><u>[SYSTEM_ISSUE] Printer Spooler Not Functioning in Windows</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-elevate-your-media-content-via-youtube-studio-editing-skills-for-2024/"><u>[Updated] Elevate Your Media Content via YouTube Studio Editing Skills for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/addressing-persistent-printer-spooler-issues-in-win-oss/"><u>Addressing Persistent Printer Spooler Issues in Win OSs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/alleviating-hp-printer-error-code-oxc4eb827f/"><u>Alleviating HP Printer Error: Code OXC4EB827F</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canons-mp620-printer-not-recognized-by-win11/"><u>Canon's MP620 Printer Not Recognized by Win11</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1723028046574-develop-a-research-timeline/"><u>Develop a Research Timeline</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Nokia C110? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-blueprint-for-telegram-marketplace-success/"><u>In 2024, The Ultimate Blueprint for Telegram Marketplace Success</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tutorial-connecting-hp-printer-to-windows-pc/"><u>Tutorial: Connecting HP Printer to Windows PC</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-picture-perfection-at-a-click-endless-free-space-plus-charged-cloud-haven/"><u>[New] In 2024, Picture Perfection at a Click Endless Free Space + Charged Cloud Haven</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-perfect-full-screen-display-on-fb-videos-step-by-step/"><u>[Updated] In 2024, Perfect Full-Screen Display on FB Videos, Step by Step</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-quickening-vimeo-video-watch-time-for-2024/"><u>[Updated] Quickening Vimeo Video Watch Time for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canon-printer-unresponsive-need-a-lifeline/"><u>Canon Printer: Unresponsive, Need A Lifeline</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/combat-recurring-spooler-errors-on-wx-w10-w11/"><u>Combat Recurring Spooler Errors on WX, W10, W11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/dell-printer-online-error-fixed-on-win7/"><u>Dell Printer Online: Error Fixed on Win7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/disabling-and-activating-scanner-seamlessly-on-windows-11/"><u>Disabling & Activating Scanner Seamlessly on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/early-era-tech-marvel-found-by-cleaners-first-generation-desktop-computers-equipped-with-intel-ebased-cpus-and-limited-memory-capacity-unearthed-in-neglecte114/"><u>Early Era Tech Marvel Found by Cleaners: First-Generation Desktop Computers Equipped with Intel Ebased CPUs and Limited Memory Capacity Unearthed in Neglected Boxes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/easy-install-mfc-9330cdw-driver-download/"><u>Easy Install: MFC-9330CDW Driver Download</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhance-mf4770n-with-latest-windows-update/"><u>Enhance MF4770n with Latest Windows Update</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/how-to-color-match-different-video-clips-in-powerdirector-in-2024/"><u>How to Color Match Different Video Clips in PowerDirector, In 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/identified-non-printer-owners-computer-mischief/"><u>Identified Non-Printer Owner's Computer Mischief</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-motorola-moto-g34-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Motorola Moto G34 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-art-of-visual-anonymity-in-videos/"><u>In 2024, The Art of Visual Anonymity in Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-15-free-audio-resources-for-youtube-clips-makers-for-2024/"><u>Top 15 FREE Audio Resources for YouTube Clips Makers for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unravel-offline-mystery-with-easy-fixes-for-your-canon-printer/"><u>Unravel Offline Mystery with Easy Fixes for Your Canon Printer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unstick-your-game-solutions-for-continuous-loading-in-far-cry-5/"><u>Unstick Your Game: Solutions for Continuous Loading in 'Far Cry 5'</u></a></li>
 </ul></div>
 

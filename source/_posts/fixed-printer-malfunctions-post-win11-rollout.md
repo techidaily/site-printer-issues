@@ -1,7 +1,7 @@
 ---
 title: "Fixed: Printer Malfunctions Post Win11 Rollout"
-date: 2025-01-23T18:04:28.542Z
-updated: 2025-01-29T16:49:21.218Z
+date: 2025-02-04T16:20:24.138Z
+updated: 2025-02-09T20:36:29.731Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 4. **[Reset the print spooler](#F4)**
 5. **[Run Windows Troubleshooter](#F5)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Power cycle your printer
 
  Power cycling is often an effective way to fix mysterious glitches on different devices. So you can give it a try to see if this fixes the problem for you.
@@ -47,6 +43,10 @@ Here is how to power cycle your printer:
 4) Test to see if your printer works properly. If yes, then great! If the issue remains, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Make sure your printer is connected
 
@@ -83,7 +83,7 @@ Here is how to power cycle your printer:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Reset the print spooler
@@ -100,10 +100,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-194.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) On your keyboard, press the**Windows logo key** and**R** at the same time, then type**%WINDIR%\\system32\\spool\\printers** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-195.png)
@@ -118,13 +114,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-198.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Check to see if your printer works properly. If it still doesn’t work, please move on to**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Run Windows Troubleshooter
 
@@ -134,12 +130,16 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-208.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the**Troubleshoot** window, scroll down to the**Get up and running** section, click on**Printer** \>**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-209.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait for Windows to diagnose the problem and follow the on-screen instructions to resolve the printing not working situation.
@@ -165,17 +165,17 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-full-length-video-view-remove-youtube-preview/"><u>[New] 2024 Approved Full-Length Video View Remove YouTube Preview</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-can-photoshops-image-smoothing-revolutionize-editing-in-2024/"><u>[New] Can Photoshop’s Image Smoothing Revolutionize Editing, In 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-captivating-content-creation-the-best-10-igtv-strategies-for-brands/"><u>[New] Captivating Content Creation The Best 10 IGTV Strategies for Brands</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-capture-clarity-best-webcams-to-elevate-your-podcasts/"><u>[New] In 2024, Capture Clarity Best Webcams to Elevate Your Podcasts</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-best-frame-rate-30fps-vs-60fps-for-smooth-recordings/"><u>[Updated] In 2024, Best Frame Rate 30Fps vs 60Fps for Smooth Recordings</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/chinese-semiconductor-firm-cxmt-targets-ai-market-with-innovative-hbm-memory-solutions-paving-the-path-to-independence/"><u>Chinese Semiconductor Firm CXMT Targets AI Market with Innovative HBM Memory Solutions, Paving the Path to Independence</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instant-resolution-for-caught-in-printer-jobs/"><u>Instant Resolution for Caught-In Printer Jobs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mp4-wont-play-on-my-galaxy-f54-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Galaxy F54 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reopening-hidden-nvidia-control-panel-on-w11/"><u>Reopening Hidden Nvidia Control Panel on W11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restoring-perfect-document-output/"><u>Restoring Perfect Document Output</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reviving-non-responsive-printers/"><u>Reviving Non-Responsive Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unavailable-domain-services-prevents-printer-access/"><u>Unavailable Domain Services Prevents Printer Access</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unleash-creativity-essential-tips-for-lut-production-for-2024/"><u>[New] Unleash Creativity Essential Tips for LUT Production for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-virtual-reality-and-panoramic-videos-key-distinctions-for-2024/"><u>[New] Virtual Reality & Panoramic Videos Key Distinctions for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-apex-fb-platforms-topping-the-10-list/"><u>[Updated] 2024 Approved Apex FB Platforms Topping the 10 List</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-from-apple-iphone-12-mini-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock from Apple iPhone 12 mini</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/cutting-edge-extraction-the-top-10-sdk-powered-fb-video-downloads-on-android/"><u>Cutting-Edge Extraction The Top 10 SDK-Powered FB Video Downloads on Android</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-realme-11-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/make-windows-11-printer-work-again/"><u>Make Windows 11 Printer Work Again</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-issues-in-print-device-installation/"><u>No Issues in Print Device Installation</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-errors-resolving-them-in-windows-11/"><u>Printer Errors: Resolving Them in Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prolonging-durability-a-comprehhavable-guide-to-optimize-your-premium-e-bike-batterys-value/"><u>Prolonging Durability: A Comprehhavable Guide to Optimize Your Premium E-Bike Battery's Value</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/repair-printer-driver-glitches-on-win10-pc/"><u>Repair Printer Driver Glitches on WIN10 PC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win7-print-problem-devices-unresponsive-post-sleep/"><u>Win7 Print Problem: Devices Unresponsive Post-Sleep</u></a></li>
 </ul></div>
 

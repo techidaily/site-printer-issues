@@ -1,7 +1,7 @@
 ---
 title: Printer's Lack of Full Color Capacity
-date: 2025-01-28T16:52:48.045Z
-updated: 2025-01-29T18:00:01.137Z
+date: 2025-02-03T01:32:23.620Z
+updated: 2025-02-10T03:13:29.140Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 
  Printer not functioning normally is a common issue. It can happen anytime and give you a headache. For example, you’re in a hurry but your printer is acting up and won’t print your document in color. If you’re experiencing this problem, you’ve come to the right place. In this article, we’ll show you how to fix your printer when it’s not printing in color.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all, just work your way down the list until you find the one that does the trick!
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 
 [4: Repair system files](#fix4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Perform basic troubleshooting
 
  When your printer only prints in black-and-white all of a sudden, the first thing you can do is performing some basic troubleshooting. Sometimes you’ll just need to replace the ink cartridge or adjust a setting, and your printer will work just fine. To perform basic troubleshooting, you can follow these steps:
@@ -43,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 * Restart your printer and test the issue again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Try to print from a different device
@@ -53,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
  If it does, then you may need to [update your driver (see the next fix)](#fix3) . If your printer still won’t print in color, then it could be a hardware issue. Consider seeking help from a printer technician or replace your printer if it’s an old one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Update your printer driver
@@ -69,16 +77,8 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_12-11-29.jpg)
 3. Click the **Update**  button next to the flagged printer driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-24_12-11-25.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](mailto:support@drivereasy.com) .
 
@@ -95,11 +95,11 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -124,15 +124,21 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-swift-sharing-twitter-to-whatsapp-videos/"><u>[Updated] In 2024, Swift Sharing Twitter to WhatsApp Videos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/3-innovative-ways-to-record-on-your-ipad/"><u>3 Innovative Ways to Record on Your iPad</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/bonding-through-eyes-petcube-bites-returns/"><u>Bonding Through Eyes: Petcube Bites Returns</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/boosting-drive-efficiency-mf4770n-and-windows-systems/"><u>Boosting Drive Efficiency: MF4770n & Windows Systems</u></a></li>
-<li><a href="https://fox-links.techidaily.com/hdr-tvs-explored-is-aurora-at-the-forefront/"><u>HDR TVs Explored Is Aurora at the Forefront?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-journey-into-the-future-of-video-clarity-in-depth-vce-22-review/"><u>In 2024, Journey Into the Future of Video Clarity - In-Depth VCE 2.2 Review</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/new-fixed-version-printing-whole-documents/"><u>New Fixed Version: Printing Whole Documents</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/purging-unnecessary-printers-in-os/"><u>Purging Unnecessary Printers in OS</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-guide-your-canon-printer-wont-print/"><u>Troubleshooting Guide: Your Canon Printer Won't Print</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-search-problem-windows-10-cant-find-mp620-printer-driver/"><u>[Driver Search] Problem: Windows 10 Can't Find MP620 Printer Driver</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-enhance-your-mobile-calls-with-these-top-10-safe-and-free-chat-applications-for-iosandroid-for-2024/"><u>[New] Enhance Your Mobile Calls with These Top 10 Safe & Free Chat Applications for iOS/Android for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-image-clarity-techniques-for-online-cropping/"><u>[New] Unlocking Image Clarity Techniques for Online Cropping</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-essential-choice-10-budget-friendly-caption-tools/"><u>[Updated] In 2024, Essential Choice 10 Budget-Friendly Caption Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-showdown-twitchs-challenge-to-youtubes-market/"><u>[Updated] The Ultimate Showdown Twitch's Challenge to YouTube's Market</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-speed-capturing-screens-with-sound/"><u>2024 Approved Speed Capturing Screens With Sound</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oneplus-11r-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On OnePlus 11R without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-epson-no-more-blank-documents/"><u>Fixed [Epson]: No More Blank Documents</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mastering-quick-fixes-for-pcl-xl-errors/"><u>Mastering Quick Fixes for PCL XL Errors</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mf4770n-updates-for-streamlined-windows-functionality/"><u>MF4770n Updates for Streamlined Windows Functionality</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-iphone-and-ipad-video-compression-made-easy-5-free-apps-to-try-for-2024/"><u>New IPhone and iPad Video Compression Made Easy 5 Free Apps to Try for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resetting-failed-printer-defaults-error-code-0x00000709-overcome/"><u>Resetting Failed Printer Defaults: Error Code 0X00000709 Overcome</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-steps-for-fixing-failed-d3d-creation-issues/"><u>Resolved: Troubleshooting Steps for Fixing Failed D3D Creation Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-hp-printer-connectivity-issues/"><u>Resolving HP Printer Connectivity Issues</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/stay-on-the-edge-insights-into-panasonics-hx-a1-actionrecorder/"><u>Stay on the Edge Insights Into Panasonic's HX-A1 ActionRecorder</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win-removal-guide-for-external-devices/"><u>Win Removal Guide for External Devices</u></a></li>
 </ul></div>
 

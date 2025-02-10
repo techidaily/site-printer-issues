@@ -1,7 +1,7 @@
 ---
 title: "Unable To Print: AD Service Interrupted"
-date: 2025-01-26T16:12:54.239Z
-updated: 2025-01-29T16:32:53.723Z
+date: 2025-02-02T21:30:58.266Z
+updated: 2025-02-09T22:37:51.671Z
 tags:
   - win11
   - win10
@@ -33,23 +33,24 @@ thumbnail: https://thmb.techidaily.com/4ba28a3dd24936be14c010b9b472cc28e6164f2dd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a50a818f88a.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click on **Printer Spooler**  service and click **Start** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-31.jpg)
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) After Printer Spooler gets started, double-click on it. Set its startup type to **Automatic** . Then click **OK**  to save the setting.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-33.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Close the Services window and check if you could print files successfully.  
 
 ## Method 2: Using Registry Editor
@@ -57,13 +58,13 @@ thumbnail: https://thmb.techidaily.com/4ba28a3dd24936be14c010b9b472cc28e6164f2dd
 1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png) and **R**  at the same time to invoke the Run box.
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Type **regedit**  and press **Enter** to open Registry Editor.  
   
 **![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-23.jpg)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click **Yes** when prompted by User Account Control,.
  3) On Registry window, go to **HKEY\_CURRENT\_USER** \> **Software**  \> **Microsoft**  \> **Windows NT**  \> **CurrentVersion** .  
@@ -71,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/4ba28a3dd24936be14c010b9b472cc28e6164f2dd
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Right-click on **Devices**  under **CurrentVersion**  dialog.  
@@ -81,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/4ba28a3dd24936be14c010b9b472cc28e6164f2dd
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Click your account and tick on**Allow** of **Full Control** . Then click **Apply**  \> **OK** .  
@@ -113,24 +114,17 @@ thumbnail: https://thmb.techidaily.com/4ba28a3dd24936be14c010b9b472cc28e6164f2dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-narrative-blueprint-a-basic-overview/"><u>[New] Narrative Blueprint A Basic Overview</u></a></li>
-<li><a href="https://blog-min.techidaily.com/tsmp420244/"><u>【最新版】TSからMP4へスムーズ変換！2024年用フリーソフトベスト4選集</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/accelerate-stuck-printer-operations/"><u>Accelerate Stuck Printer Operations</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brisk-print-processes-revealed/"><u>Brisk Print Processes Revealed</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/checking-your-computers-ram-functionality-a-guide-by-yl-computing/"><u>Checking Your Computer's RAM Functionality - A Guide by YL Computing</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/clearing-up-printer-conflicts-in-windows/"><u>Clearing Up Printer Conflicts in Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-glitch-resolution-0x97/"><u>Epson Glitch Resolution: 0X97</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-honor-magic-6-lite-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Honor Magic 6 Lite ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/missing-hdmi-interface-for-gpus/"><u>Missing HDMI Interface for GPUs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-fixes-for-silent-hp-printers/"><u>Quick Fixes for Silent HP Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolve-printer-driver-crashes-on-windows-11/"><u>Resolve Printer Driver Crashes on Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/seeking-solutions-for-print-device-driver-failure-in-windows-os/"><u>Seeking Solutions for Print Device Driver Failure in Windows OS</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solutions-for-non-responsive-print-devices/"><u>Solutions for Non-Responsive Print Devices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-essential-guide-to-the-cyberpower-cp685avrg-how-this-simple-ups-can-secure-your-devices-and-data/"><u>The Essential Guide to the CyberPower CP685AVRG: How This Simple UPS Can Secure Your Devices and Data</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-role-of-sleep-mode-in-enhancing-the-user-experience-on-messenger-kids/"><u>The Role of Sleep Mode in Enhancing the User Experience on Messenger Kids</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210469047-9780998987095-the-spiritual-design/"><u>The Spiritual Design | Free Book</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/updating-drives-with-mf4770n-for-windows-1087/"><u>Updating Drives with MF4770n for Windows 10/8/7</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/whats-winning-in-the-world-of-2023-tweets/"><u>What's Winning in the World of 2023 Tweets</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-essential-tips-for-screen-recording-on-lenovo-devices/"><u>[New] 2024 Approved Essential Tips for Screen Recording on Lenovo Devices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-bridging-minds-online-the-ultimate-guide-to-facebook-video-screensharing/"><u>[New] In 2024, Bridging Minds Online The Ultimate Guide to Facebook Video Screensharing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-ultimate-guide-to-attractive-unboxing-videos-on-ig/"><u>[Updated] In 2024, The Ultimate Guide to Attractive Unboxing Videos on IG</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-resource-guide-for-refining-on-screen-text-in-videos/"><u>[Updated] The Ultimate Resource Guide for Refining On-Screen Text in Videos</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/all-pages-printer-output-ready/"><u>All Pages Printer Output Ready</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ceased-printer-standby-mode-in-hp-laserjet-mfp/"><u>Ceased Printer Standby Mode in HP Laserjet MFP</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-vivo-g2-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Vivo G2.</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/elevate-your-storytelling-how-to-create-professional-looking-films-on-a-budget-for-2024/"><u>Elevate Your Storytelling How to Create Professional-Looking Films on a Budget for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/mastering-video-conferencing-a-complete-guide-to-zoom-on-android-for-2024/"><u>Mastering Video Conferencing A Complete Guide to Zoom on Android for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-more-gaps-in-documents-with-new-fixes/"><u>No More Gaps in Documents with New Fixes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcome-print-errors-windows-10-solutions/"><u>Overcome Print Errors: Windows 10 Solutions</u></a></li>
 </ul></div>
 

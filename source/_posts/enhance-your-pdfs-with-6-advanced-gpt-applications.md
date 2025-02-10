@@ -1,7 +1,7 @@
 ---
 title: Enhance Your PDFs with 6 Advanced GPT Applications
-date: 2025-01-22T16:38:23.240Z
-updated: 2025-01-29T17:19:52.535Z
+date: 2025-02-03T18:34:26.757Z
+updated: 2025-02-09T16:44:48.681Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 
 ## ChatGPT Enhanced with New Capabilities - Key Attractions Revealed
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Image Input and Output Capabilities](https://www.makeuseof.com/chatgpt-new-features-spring-update/#image-input-and-output-capabilities)
@@ -22,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 * [Multi-Modal Voice and Video Interactions](https://www.makeuseof.com/chatgpt-new-features-spring-update/#multi-modal-voice-and-video-interactions)
 * [Upgraded Code Analysis](https://www.makeuseof.com/chatgpt-new-features-spring-update/#upgraded-code-analysis)
 * [Temporary Chat](https://www.makeuseof.com/chatgpt-new-features-spring-update/#temporary-chat)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -31,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Image Input and Output Capabilities
 
  ChatGPT is now capable of taking images as input and generating images as output! The new image input capability allows users to upload images directly into their chat interactions with ChatGPT. This feature expands the ways users can seek help and share information, making it possible to discuss visual content seamlessly.
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
  In this example, I asked ChatGPT for recipes for the items visible in the fridge.
 
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
 
@@ -52,16 +60,12 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use[third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Expanded Knowledge Base and Cross-Chat Memory
 
@@ -73,13 +77,13 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
 
@@ -90,10 +94,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  Pairing this feature with ChatGPT's browsing and memory functionality allows for a highly versatile AI companion. This enhanced version of ChatGPT can now better assist you with shopping, planning, and organizing. GPT-4o's conversation functionality makes it possible to use ChatGPT as a hands-free assistant using voice commands, making it easier to interact with the AI while you're on the go or multitasking.
 
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Upgraded Code Analysis
 
@@ -132,22 +132,20 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-identifying-the-best-no-cost-video-calling-apps-iosandroid-for-2024/"><u>[New] Identifying the Best No-Cost Video Calling Apps (iOS/Android) for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-understanding-limits-to-instagram-videography-for-2024/"><u>[New] Understanding Limits to Instagram Videography for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-failure-no-drive-found-on-win/"><u>[PRINTER FAILURE] No Drive Found on Win</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-dive-into-the-world-of-luts-and-free-digital-tools/"><u>[Updated] Dive Into the World of LUTs and Free Digital Tools</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/achieve-seamless-transition-update-mf4770n-on-w11win8w7/"><u>Achieve Seamless Transition: Update MF4770n on W11/Win8/W7</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/easy-guide-the-best-techniques-for-shifting-video-content-onto-ios-devices/"><u>Easy Guide: The Best Techniques for Shifting Video Content Onto iOS Devices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-7-hd-phone-without-pin-by-drfone-android/"><u>How to Unlock Infinix Smart 7 HD Phone without PIN</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-prints-blank-pages-solved/"><u>HP Printer Prints Blank Pages [SOLVED]</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-capture-the-world-through-the-lens-of-mi-11/"><u>In 2024, Capture the World Through the Lens of Mi 11</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-harmony-color-calibrator/"><u>In 2024, Harmony Color Calibrator</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigate-the-future-of-television-with-our-pros-guide-to-premium-32-inch-screens-zdnet-insights/"><u>Navigate the Future of Television with Our Pros' Guide to Premium 32-Inch Screens | ZDNET Insights</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/successful-repair-hp-networking-issue-ended/"><u>Successful Repair: HP Networking Issue Ended</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transforma-tus-videos-flv-en-wma-sin-coste-con-movavi-convertidor-en-linea-metodos-rapidos-y-faciles/"><u>Transforma Tus Vídeos FLV en WMA Sin Coste Con Movavi Convertidor En Línea: Métodos Rápidos Y Fáciles</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/triumph-over-print-issue-winerror-0x00000709-remedied/"><u>Triumph Over Print Issue: WinError 0X00000709 Remedied</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ultimate-guide-hp-and-laptop-interaction-3-key-fixes/"><u>Ultimate Guide: HP & Laptop Interaction - 3 Key Fixes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unexpectedly-no-printer-device-on-your-os/"><u>Unexpectedly No Printer Device on Your OS?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unlocking-jammed-printers/"><u>Unlocking Jammed Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/error-fixing-unable-to-add-hp-d1360-drivers-in-windows-oses/"><u>[Error Fixing] Unable to Add HP D1360 Drivers in Windows OSes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-spin-up-original-web-memes-instantly/"><u>[New] Spin Up Original Web Memes Instantly</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-crafting-an-engaging-film-teaser/"><u>[Updated] In 2024, Crafting an Engaging Film Teaser</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/addressing-printer-no-show-on-windows-me-edition/"><u>Addressing Printer No-Show on Windows ME Edition</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canon-mf4770n-driver-update-in-windows-1087/"><u>Canon MF4770n Driver Update in Windows 10/8/7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/decoding-ink-cartridge-errors-in-printers/"><u>Decoding Ink Cartridge Errors in Printers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-z-flip-5-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy Z Flip 5 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-iphone-13-pro-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On iPhone 13 Pro Making It Possible</u></a></li>
+<li><a href="https://some-tips.techidaily.com/julys-exclusive-apple-product-deals-iphones-watches-and-tablets-at-unbeatable-prices-discover-the-best-offers/"><u>July's Exclusive Apple Product Deals: IPhones, Watches, and Tablets at Unbeatable Prices | Discover the Best Offers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/jumpstart-your-stationary-machine-fix-canon-printer-offline/"><u>Jumpstart Your Stationary Machine: Fix Canon Printer Offline</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/navigating-through-networked-printer-issues/"><u>Navigating Through Networked Printer Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/optimize-mf4770n-functionality-in-windows-ecosystems/"><u>Optimize MF4770n Functionality in Windows Ecosystems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oppo-reno-10-proplus-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Oppo Reno 10 Pro+ 5G FRP</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-capabilities-of-jackerys-powerbar-with-built-in-ac-outlet-our-full-insightful-review/"><u>Unveiling the Capabilities of Jackery's PowerBar with Built-In AC Outlet – Our Full Insightful Review</u></a></li>
 </ul></div>
 

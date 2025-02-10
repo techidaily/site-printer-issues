@@ -1,7 +1,7 @@
 ---
 title: Resolve 'Windows Can't Access Printer' Problem Quickly & Effectively
-date: 2025-01-26T18:10:30.179Z
-updated: 2025-01-29T17:49:10.722Z
+date: 2025-02-07T00:30:20.060Z
+updated: 2025-02-09T23:13:11.593Z
 tags:
   - win11
   - win10
@@ -47,17 +47,21 @@ Follow steps below to stop Print Spooler service then start it again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592282c0cbfe5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. In the**Name** list, locate and double-click on service **Print Spooler** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592282f40baaf.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Under Service status, click**Stop** button. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59228346254fb.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. Click**Start** button to start the service again.
 
@@ -86,24 +90,16 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592285527f2ca.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5\. Select**Create a new port** , change the “Type of port” to**Local Port** then click**Next** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5922878323a31.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6.**Enter a port name** in the box. The port name is the printer’s address. The address format is **\\\\IP address or the Computer Name\\Printer’s Name** (refer to the following screen). Then click**OK** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59228a6291554.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7\. Select the**printer model** from the directory and click**Next** button. 
 
@@ -131,6 +127,10 @@ Follow steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592290cca70ff.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you see more than one printer driver names, repeat steps above to remove them one by one.
 
 5\. Add the printer again. 
@@ -142,7 +142,7 @@ Follow steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592292ec90631.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ##  Solution 4: Copy “mscms.dll” Manually
@@ -150,10 +150,6 @@ Follow steps below:
  1\. Open**C:\\Windows\\system32** and find the file “**mscms.dll** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592294768b3e2.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2\. Copy the file to the following path:
 
@@ -175,6 +171,10 @@ Follow steps below:
  3\. Type **regedit** in the run box and click**OK** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5922973c415cc.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. Expand   **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Print\\Providers\\Client Side Rendering Print Provider** . Right-click on **Client Side Rendering Print Provider** and select**Delete.** 
 
@@ -201,18 +201,24 @@ Follow steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-capturing-photos-from-moving-frames-on-windows-11/"><u>[New] Capturing Photos From Moving Frames on Windows 11</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-free-video-conferencing-excellence-plus-screen-sharing-guide-for-2024/"><u>[New] Free Video Conferencing Excellence + Screen Sharing Guide for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-maximizing-video-quality-in-steam-game-recording/"><u>[New] In 2024, Maximizing Video Quality in Steam Game Recording</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-splitcam-review/"><u>[Updated] 2024 Approved SplitCam Review</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-simplified-game-recording-setups-for-stardew-villagers-for-2024/"><u>[Updated] Simplified Game Recording Setups for Stardew Villagers for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brisk-intervention-in-stuck-printer-queue/"><u>Brisk Intervention in Stuck Printer Queue</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-print-disruptions-in-devices/"><u>Fixing Print Disruptions in Devices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-failure-alert-domain-service-down/"><u>Print Failure Alert: Domain Service Down</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/seamless-operation-revamping-mf4770n-on-w11-w8-w7-platforms/"><u>Seamless Operation: Revamping MF4770n on W11, W8, W7 Platforms</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/simplified-process-of-configuring-and-connecting-a-canon-printer/"><u>Simplified Process of Configuring & Connecting a Canon Printer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-wow-performance-drops-a-comprehensive-guide/"><u>Solving 'WoW' Performance Drops: A Comprehensive Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/swift-unjamming-for-print-queues/"><u>Swift Unjamming for Print Queues</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-xiaomi-13t-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Xiaomi 13T Pro to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-ultimate-tutorial-for-creating-delayed-videos-on-snapchat/"><u>[New] In 2024, The Ultimate Tutorial for Creating Delayed Videos on Snapchat</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-stepwise-guide-to-smoothing-out-audio-dynamics/"><u>[New] Stepwise Guide to Smoothing Out Audio Dynamics</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-engaging-audiences-together-youtube-and-brands-working-synergetically/"><u>2024 Approved Engaging Audiences Together YouTube & Brands Working Synergetically</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/brother-cdw-wireless-setup-step-by-step/"><u>Brother CDW Wireless Setup: Step by Step</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/effortless-removal-of-external-printers/"><u>Effortless Removal of External Printers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-free-asus-pce-ac68-wireless-network-adapter-drivers-here/"><u>Get Your Free ASUS PCE-AC68 Wireless Network Adapter Drivers Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-obtain-and-update-hp-laserjet-1320-drivers-on-a-windows-machine/"><u>How to Obtain & Update HP LaserJet 1320 Drivers on a Windows Machine</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-video-cropping-essential-tips-and-tricks/"><u>Mastering the Art of Video Cropping: Essential Tips and Tricks</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mending-all-in-one-printer-problems/"><u>Mending All-in-One Printer Problems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-non-operational-driver-missing/"><u>Printer Non-Operational: Driver Missing</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printerranker-setting-snafu-alert/"><u>Printer'ranker: Setting Snafu Alert</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printers-not-responding-post-wake-from-sleep-w7/"><u>Printers Not Responding Post Wake From Sleep, W7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/rapid-unjamming-of-print-workqueue/"><u>Rapid Unjamming of Print Workqueue</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/score-amazing-savings-top-picks-for-4k-and-gaming-displays/"><u>Score Amazing Savings: Top Picks for 4K & Gaming Displays</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-locating-and-using-windows-device-manager-for-hardware-inspection-tips-from-yl-computing/"><u>Step-by-Step Guide: Locating and Using Windows Device Manager for Hardware Inspection - Tips From YL Computing</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unlocking-hp-printer-connectivity-issues/"><u>Unlocking HP Printer Connectivity Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-printer-spooler-stopped-functioning/"><u>Windows Printer Spooler: Stopped Functioning</u></a></li>
 </ul></div>
 

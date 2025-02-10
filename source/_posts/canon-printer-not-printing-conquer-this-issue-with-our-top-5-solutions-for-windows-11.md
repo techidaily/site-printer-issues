@@ -1,7 +1,7 @@
 ---
 title: Canon Printer Not Printing? Conquer This Issue with Our Top 5 Solutions for Windows 11
-date: 2025-01-26T16:21:18.146Z
-updated: 2025-01-29T17:18:19.211Z
+date: 2025-02-05T02:45:32.843Z
+updated: 2025-02-09T22:02:49.419Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/7a1b81670361c75645ca8d7e9b30ac5842f69d19f
  Before getting started, we suggest you try using **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  to fix your issue. It is a world-leading repair tool that automatically helps you find and fix different error codes in Windows OS. Its users**managed to fix printing problems** with the use of Fortect.
 
  Besides, with regular use of Fortect, your PC will be protected against file loss, malware, hardware failures, and several other bugs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How does Fortect work
 
@@ -64,7 +60,7 @@ If your printer is still not working properly, proceed to the next fix.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Temporarily disable the firewall
@@ -76,10 +72,6 @@ If your printer is still not working properly, proceed to the next fix.
  1) In the Search bar, type**windows defender firewall** . Then click**Windows Defender Firewall** from the results.  
   
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/windows-defender-firewall.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) On the left side of the window, click**Turn Windows Defender Firewall on or off** .  
   
@@ -101,17 +93,29 @@ You can disable the firewall in software by clicking the link below.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Update your printer driver
 
  After connecting your Canon printer to Windows, to ensure it works properly, you need to install a proper driver. But if your printer driver is faulted or outdated, issues like printer not printing will arise. So if you can’t remember when was the last time you updated your printer driver, do it now as it may fix your issue right away.
 
  There are mainly two ways you can update your printer driver:[manually](#option1) and [automatically](#option2) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: Manually update your printer driver
 
  Canon’s website is available to download Canon product drivers. You can go to their website to find and download the driver you need. Below, you’ll find out how to download and install the driver from the official website.
 
  Since Canon has several official websites like [Canon UK](https://www.canon.co.uk/) ,[Canon USA](https://www.usa.canon.com/) ,[Canon Europe](https://www.canon-europe.com/) , etc., they may not share the same model. So you can use the browser to search for the specific driver directly. Or you can go to the Support Center, enter the model of your device in the search field, and follow the instructions to download and install the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your printer driver (recommended)
 
@@ -156,6 +160,10 @@ Here’s how you can update your drivers with Driver Easy:
   
 ![set Canon printer as the default printer](https://images.drivereasy.com/wp-content/uploads/2021/01/in-the-control-panel.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Right-click your Canon printer and select**Set as default printer** from the list.  
   
 ![set Canon printer as the default printer](https://images.drivereasy.com/wp-content/uploads/2021/01/set-as-default-printer.png)
@@ -187,7 +195,7 @@ Now perform printing tasks to check if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/services-msc.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In the Services window, scroll down to the**Print Spooler** . Right-click it and select**Stop** .
@@ -195,7 +203,7 @@ Now perform printing tasks to check if it works.
 ![stop the Print Spooler](https://images.drivereasy.com/wp-content/uploads/2021/01/stop-the-printing-service.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: Do not close the Services window, simply minimize it as you’ll go back to it later.
@@ -205,16 +213,12 @@ Now perform printing tasks to check if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/spool-in-the-run-box.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Open the**PRINTERS** folder.  
   
 ![open the printers folder](https://images.drivereasy.com/wp-content/uploads/2021/01/printers-folder.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Delete any files in this folder.
 
@@ -223,10 +227,6 @@ Now perform printing tasks to check if it works.
 8) Go back to the**Services** window. Right click on the**Print Spooler** service and select**Start** .  
   
 ![start the printing services](https://images.drivereasy.com/wp-content/uploads/2021/01/start-printing-services.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now attempt a test print to check if it brings your printer back to normal state.
 
@@ -251,24 +251,16 @@ Now perform printing tasks to check if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-educational-synergy-enhancing-learning-with-youtube-videos/"><u>[New] 2024 Approved Educational Synergy Enhancing Learning with YouTube Videos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-engaging-audiences-triad-of-effective-storytelling/"><u>[Updated] In 2024, Engaging Audiences Triad of Effective Storytelling</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-warzone-wonders-your-a-list-of-top-7-fps-adventures/"><u>[Updated] Warzone Wonders - Your A-List of Top 7 FPS Adventures</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/addressed-printer-no-start-error/"><u>Addressed Printer No Start Error</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574151519-canon-printer-is-offline-heres-how-to-fix-it/"><u>Canon Printer Is Offline? Here's How to Fix It</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/colors-not-filling-in-prints/"><u>Colors Not Filling In Prints</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/dell-inkjet-aio-updater-for-win7/"><u>Dell Inkjet AIO Updater for Win7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ended-canons-code-b200-misstep/"><u>Ended Canon's Code B200 Misstep</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-facebook-content-at-your-fingertips-best-downloader-apps-for-ios/"><u>In 2024, Facebook Content at Your Fingertips Best Downloader Apps for iOS</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-oppo-reno-11f-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Oppo Reno 11F 5G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-your-creative-potential-with-audio-edits-in-canva-videos/"><u>In 2024, Unlock Your Creative Potential with Audio Edits in Canva Videos</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instant-connectivity-between-laptops-and-hp-discover-the-best-fixes/"><u>Instant Connectivity Between Laptops & HP - Discover the Best Fixes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/movavi-video-converter-suite-comprehensive-features-of-tutti-i-programmi-movavi/"><u>Movavi Video Converter Suite: Comprehensive Features of Tutti I Programmi Movavi</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcame-hp-printers-spooler-error/"><u>Overcame HP Printer's Spooler Error</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/steps-to-stop-intermittent-print-job-failures-windows/"><u>Steps to Stop Intermittent Print Job Failures (Windows)</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-comprehensive-guide-for-dynamic-snaps-and-boomers/"><u>The Comprehensive Guide for Dynamic Snaps & Boomers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-handbrake-substitutes-convert-the-wolf-of-wall-street-dvd-optimized-in-2014/"><u>Top Handbrake Substitutes: Convert The Wolf of Wall Street (DVD) - Optimized in 2014</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/zeroing-in-on-printer-default-error-0x00000709-victory/"><u>Zeroing In on Printer Default Error 0X00000709 Victory</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-duel-of-durability-hero-5-black-versus-keymission/"><u>[New] In 2024, The Duel of Durability HERO 5 Black Versus Keymission</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-maximize-communication-video-conferencing-tips-for-android-for-2024/"><u>[New] Maximize Communication Video Conferencing Tips for Android for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-tune-in-for-free-fb-music-archive/"><u>[Updated] In 2024, Tune In for Free FB Music Archive</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pushing-boundaries-a-roundup-of-the-best-nft-generators-available/"><u>In 2024, Pushing Boundaries A Roundup of the Best NFT Generators Available</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-setup-completed-successfully/"><u>Printer Setup Completed Successfully</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/rapidly-reconnecting-to-your-printer/"><u>Rapidly Reconnecting to Your Printer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-sk-hynix-pcie-gen5-ssd-unveiled-the-new-platinum-p51-faster-performance-reduced-idle-energy-consumption/"><u>Revolutionary SK Hynix PCIe Gen5 SSD Unveiled: The New Platinum P51 - Faster Performance, Reduced Idle Energy Consumption</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/smoothed-out-printer-connection-hurdles/"><u>Smoothed Out Printer Connection Hurdles</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solving-hp-printer-oxc4eb827f-fatality-problem/"><u>Solving HP Printer OXC4EB827F Fatality Problem</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-snapping-photos-from-your-xbox-one-screen/"><u>Step-by-Step Tutorial: Snapping Photos From Your Xbox One Screen</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-five-simplified-steps-for-no-printing-canon-printers-on-windows-11/"><u>Troubleshooting: Five Simplified Steps for No-Printing Canon Printers on Windows 11</u></a></li>
 </ul></div>
 

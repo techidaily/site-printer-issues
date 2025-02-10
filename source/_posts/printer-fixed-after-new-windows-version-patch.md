@@ -1,7 +1,7 @@
 ---
 title: Printer Fixed After New Windows Version Patch
-date: 2025-01-27T17:48:09.755Z
-updated: 2025-01-29T16:29:38.142Z
+date: 2025-02-07T21:31:16.432Z
+updated: 2025-02-09T18:46:16.918Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/4eda12f29d27dc48951952fd718d2893baf3c477f
 
 **Your printer stopped working after Windows 10 Update** ? You’re certainly not alone – hundreds of users are reporting it. The good news is, it’s not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix**printer stopped working after Windows 10 Update**
 
  Here are 5 fixes that have helped other users resolve the**printer stopped working after Windows 10 Update** problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/4eda12f29d27dc48951952fd718d2893baf3c477f
 3. **[Update your printer driver](#F3)**
 4. **[Reset the print spooler](#F4)**
 5. **[Run Windows Troubleshooter](#F5)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Power cycle your printer
 
@@ -74,6 +74,10 @@ Here is how to power cycle your printer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-188.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -81,6 +85,10 @@ Here is how to power cycle your printer:
 5) Check to see if the printer stopped working issue has been resolved. If yes, then congrats! If the problem still persists, please move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reset the print spooler
 
@@ -97,7 +105,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-194.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) On your keyboard, press the**Windows logo key** and**R** at the same time, then type**%WINDIR%\\system32\\spool\\printers** and press**Enter** .
@@ -110,13 +118,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-197.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Click**Start** , then in**Startup** **Type** , select**Automatic** and click**OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-198.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Check to see if your printer works properly. If it still doesn’t work, please move on to**Fix 5** , below.
 
@@ -130,17 +138,9 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-208.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the**Troubleshoot** window, scroll down to the**Get up and running** section, click on**Printer** \>**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-209.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Wait for Windows to diagnose the problem and follow the on-screen instructions to resolve the printing not working situation.
 
@@ -165,18 +165,24 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-rise-to-greatness-with-these-10-elevating-films/"><u>[New] 2024 Approved Rise to Greatness with These 10 Elevating Films</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-editorial-powerhouses-free-for-web-enthusiasts-for-2024/"><u>[New] Editorial Powerhouses Free for Web Enthusiasts for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-perfect-thumbnail-size-for-click-through-rates-for-2024/"><u>[Updated] Perfect Thumbnail Size for Click-Through Rates for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/achieving-peak-performance-zoom-plus-fb-live-techniques/"><u>Achieving Peak Performance ZOOM + FB Live Techniques</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/eradicated-error-b200/"><u>Eradicated Error B200</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-craft-an-engaging-solo-auditory-adventure/"><u>In 2024, How to Craft an Engaging Solo Auditory Adventure</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-insiders-manual-reacting-on-twitter-videos/"><u>In 2024, Insider’s Manual Reacting on Twitter Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-tackling-blurred-images-in-online-meetings-with-zoom-techniques/"><u>In 2024, Tackling Blurred Images in Online Meetings with Zoom Techniques</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/strategies-to-address-sibling-printer-unresponsiveness/"><u>Strategies to Address Sibling Printer Unresponsiveness</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-essentials-of-rectifying-page-not-found-404-online-issues/"><u>The Essentials of Rectifying 'Page Not Found' (404) Online Issues</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unblock-and-propel-printers-fast/"><u>Unblock and Propel Printers Fast</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/white-pages-galore-affected-by-epson-printer/"><u>White Pages Galore: Affected by Epson Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hardware-hp-printer-unresponsive-in-winxo/"><u>[Hardware] HP Printer Unresponsive in WINXO</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-expert-tips-migrating-twitch-videos-to-youtube/"><u>[New] Expert Tips Migrating Twitch Videos to YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-infusing-instagram-reels-with-tunes-and-narration/"><u>[New] In 2024, Infusing Instagram Reels with Tunes & Narration</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/3-top-ranked-fixes-for-integrated-hp-and-laptop-operation/"><u>3 Top-Ranked Fixes for Integrated HP and Laptop Operation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-launch-problems-with-these-7-key-solutions-for-playing-overwatch-2/"><u>Beat Launch Problems with These 7 Key Solutions for Playing Overwatch 2</u></a></li>
+<li><a href="https://fox-that.techidaily.com/beating-iphone-n-th-3-annoyances-a-comprehensive-guide-to-troubleshooting/"><u>Beating iPhone N Th-3 Annoyances: A Comprehensive Guide to Troubleshooting</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-realme-narzo-60-5g-phone-by-drfone-android/"><u>How to Reset a Locked Realme Narzo 60 5G Phone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/mastering-media-migration-tiktok-directly-to-fb-for-2024/"><u>Mastering Media Migration TikTok Directly to FB for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/navigating-through-toner-trouble/"><u>Navigating Through Toner Trouble</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-issue-communications-unavailable/"><u>Print Issue: Communications Unavailable</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-hijacked-multiple-sessions-spotted/"><u>Printer Hijacked? Multiple Sessions Spotted</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-spooling-failure-in-windows-10/"><u>Printer Spooling Failure in Windows 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-moto-g04-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Moto G04</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/realign-printer-settings-in-win10-environment/"><u>Realign Printer Settings in Win10 Environment</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/scanner-reactivation-achieved-in-windows-11/"><u>Scanner Reactivation Achieved in Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210518972-9781733301510-the-essential-manifesting-guidebook-2020/"><u>The Essential Manifesting Guidebook 2020 | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-next-generation-of-timepieces-unveiling-potential-specs-for-googles-new-watch-release-info-included/"><u>The Next Generation of Timepieces: Unveiling Potential Specs for Google's New Watch – Release Info Included</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-non-operational-usb-printers-in-sleep-mode-w7/"><u>Troubleshooting Non-Operational USB Printers in Sleep Mode, W7</u></a></li>
 </ul></div>
 

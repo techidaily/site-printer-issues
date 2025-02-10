@@ -1,7 +1,7 @@
 ---
 title: "Printer Hiccup: Config Settings Amiss"
-date: 2025-01-28T16:07:55.345Z
-updated: 2025-01-29T18:03:27.318Z
+date: 2025-02-02T21:52:45.381Z
+updated: 2025-02-09T16:02:12.510Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/6612d7a6b7e8b44ce845a24c9c71af5e69ea9f37b
  Recently quite a few Windows users are reporting the **Your Printer has Experienced an Unexpected Configuration Problem** error. What happens is that their printer does not print anything, and the message pops up along with codes such as**0x80070002,** **0x80040154** . If you also encounter this situation, don’t worry – it’s often not hard to fix at all…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix Your Printer has Experienced an Unexpected Configuration Problem
@@ -46,6 +46,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-57.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Now that you have re-added your printer, check your printer to see if you can get it running without error. If yes, then congrats! If the error still pops up, please try**Fix 2** , below.
 
 ---
@@ -68,16 +72,12 @@ Here is how to make your printer shareable:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-50.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Try printing something and see if the error still pops up. If the error doesn’t occur again, then you’ve solved the problem! If the error still pops up, please try**Fix 3** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your printer driver
@@ -94,13 +94,13 @@ Here is how to make your printer shareable:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap19-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-70.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -126,6 +126,10 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-194.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Keep the Services window open and proceed with the following steps.
 
 #### **Clear Spooler Files**
@@ -138,10 +142,6 @@ Keep the Services window open and proceed with the following steps.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-59-1024x577.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Start Print Spooler
 
  1) Back to the **Service** window, double-click on**Print Spooler** .
@@ -149,16 +149,12 @@ Keep the Services window open and proceed with the following steps.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-63.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In**Startup type** , select**Automatic** and click**Start** . Then click**OK** to apply the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-64.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Restart your computer and test to see if the error is fixed.
 
@@ -175,12 +171,16 @@ Keep the Services window open and proceed with the following steps.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-208.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the **Troubleshoot**  window, scroll down to the **Get up and running**  section, click on **Printer** \> **Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-209.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Wait for Windows to diagnose the problem and follow the on-screen instructions to resolve the **Your Printer has Experienced an Unexpected Configuration Problem** error.
 
@@ -205,20 +205,24 @@ Keep the Services window open and proceed with the following steps.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-computational-photography-what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes/"><u>[Updated] Computational Photography What Are Auto HDR, Smart HDR 3 & 4 Shooting Modes?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-efficient-methods-for-android-screen-recordings-for-2024/"><u>[Updated] Efficient Methods for Android Screen Recordings for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-examining-if-reviewers-get-payed/"><u>[Updated] Examining if Reviewers Get Payed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/conquer-no-print-restoring-functionality-of-brother-printer-winoses/"><u>Conquer No-Print: Restoring Functionality of Brother Printer, WinOSes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/effortlessly-enhance-printer-speed/"><u>Effortlessly Enhance Printer Speed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-your-deal-stranded-pc-errors-solutions-for-a-seamless-gaming-experience/"><u>Fix Your Deal Stranded PC Errors – Solutions for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/future-proof-picking-best-consoles-to-play-unveiled/"><u>Future-Proof Picking: Best Consoles to Play Unveiled</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/leading-edge-in-mobile-chats-discover-the-top-1-cookie-haven-by-lilys-bakery/"><u>Leading Edge in Mobile Chats Discover the Top 1 Cookie Haven by Lily's Bakery</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/methods-to-reactivate-disconnected-printers/"><u>Methods to Reactivate Disconnected Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcome-nt-os-print-error-speed-up-responsiveness/"><u>Overcome NT OS Print Error: Speed Up Responsiveness</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reigniting-screen-brilliance-overcoming-windows-11-limits/"><u>Reigniting Screen Brilliance: Overcoming Windows 11 Limits</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/safekeeping-sensitive-visuals-from-public-eyes/"><u>Safekeeping Sensitive Visuals From Public Eyes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tackled-non-responding-printer-unit/"><u>Tackled Non-Responding Printer Unit</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unable-to-access-domain-service-not-available/"><u>Unable To Access: Domain Service Not Available</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-wizard-disconnecting-all-printers/"><u>Windows Wizard: Disconnecting All Printers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-adaptive-sharing-techniques-for-igtv-on-fb/"><u>[New] 2024 Approved Adaptive Sharing Techniques for IGTV on FB</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-3-effective-methods-to-archive-itunes-videos/"><u>[New] In 2024, 3 Effective Methods to Archive iTunes Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-simple-approach-to-getting-clownfish-voice-changer-on-windows/"><u>[New] Simple Approach to Getting Clownfish Voice Changer on Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-constructing-unique-instagram-story-panels/"><u>[Updated] In 2024, Constructing Unique Instagram Story Panels</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/breakthrough-techniques-joining-your-laptop-and-hp-in-156-characters-or-less/"><u>Breakthrough Techniques: Joining Your Laptop and HP in 156 Characters or Less</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/bridging-the-gap-how-to-merge-your-laptop-and-hp-printer-quickly/"><u>Bridging the Gap: How to Merge Your Laptop and HP Printer Quickly</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/beginner-to-expert-choose-studio-or-beta-for-2024/"><u>From Beginner to Expert Choose Studio or Beta for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hardware-setup-hp-printer-driver-not-in-windows-os/"><u>Hardware Setup: HP Printer Driver Not in Windows OS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-11-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 11 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-x6-pro-bootloader-easily-by-drfone-android/"><u>How to Unlock Poco X6 Pro Bootloader Easily</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-response-from-my-canon-printout-machine/"><u>No Response From My Canon Printout Machine</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-hiccup-configuration-issue-surfaced/"><u>Printer Hiccup: Configuration Issue Surfaced</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-network-reestablished-windows-7/"><u>Printer Network Reestablished, Windows 7</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Infinix GT 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/steps-to-troubleshoot-unresponsive-hp-printers/"><u>Steps to Troubleshoot Unresponsive HP Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574032401-trouble-printing-on-windows-11-lets-fix-it/"><u>Trouble Printing on Windows 11? Let's Fix It!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unite-your-workspace-3-cutting-edge-solutions-for-hp-and-laptop-connection/"><u>Unite Your Workspace: 3 Cutting-Edge Solutions for HP and Laptop Connection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-apples-secret-project-the-exciting-features-of-the-upcoming-gaming-revolution/"><u>Unveiling Apple's Secret Project? The Exciting Features of the Upcoming Gaming Revolution</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-redmi-note-13-proplus-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Redmi Note 13 Pro+ 5G?</u></a></li>
 </ul></div>
 

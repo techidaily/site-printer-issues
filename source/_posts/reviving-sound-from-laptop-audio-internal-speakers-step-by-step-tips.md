@@ -1,7 +1,7 @@
 ---
 title: Reviving Sound From Laptop Audio Internal Speakers – Step-by-Step Tips
-date: 2025-01-28T16:31:04.334Z
-updated: 2025-01-29T16:25:09.001Z
+date: 2025-02-08T23:42:05.561Z
+updated: 2025-02-09T21:10:14.853Z
 tags:
   - win11
   - win10
@@ -35,7 +35,11 @@ When you try to play music or video on your laptop, but just find**no sound on t
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-22.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Set your speakers as default device
@@ -56,17 +60,9 @@ Go with the easy steps to show it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) When your speakers shows up, right-click on it to choose**Enable** . Then you can set it as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3:**Reinstall your sound card driver**
 
@@ -77,7 +73,7 @@ Go with the easy steps to show it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Expand **Sound, video and game controllers** . Then right click on your sound card’s name and click **Uninstall** .
@@ -89,12 +85,16 @@ Go with the easy steps to show it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Restart your PC to make change take effect. Windows will automatically reinstall sound driver for you now.
 
  5) Check if speakers works on your laptop now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update**your sound card driver**
 
@@ -131,22 +131,17 @@ Any problems just feel free to leave your comment below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-frontiers-unleashed-a-review-of-the-best-7-grand-strategy-games/"><u>[Updated] In 2024, Frontiers Unleashed A Review of the Best 7 Grand Strategy Games</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pro-level-scripting-solutions-in-ae/"><u>[Updated] Pro-Level Scripting Solutions in AE</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/mp4-dvd-flick/"><u>読み込まれないMP4問題: DVD Flickで解決策を見つける方法</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/active-directory-disabled-printer-problem-detected/"><u>Active Directory Disabled - Printer Problem Detected</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/high-quality-sports-themed-wallpapers-and-graphics-explore-the-ultimate-collection-by-yl-computing/"><u>High-Quality Sports Themed Wallpapers & Graphics - Explore the Ultimate Collection by YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-y56-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo Y56 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-counteract-crashes-in-win-11s-photo-viewer/"><u>How to Counteract Crashes in Win 11'S Photo Viewer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-page-failure-resolved/"><u>HP Printer: Page Failure Resolved</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/make-windows-11-printer-work-again/"><u>Make Windows 11 Printer Work Again</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/no-issues-in-print-device-installation/"><u>No Issues in Print Device Installation</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-errors-resolving-them-in-windows-11/"><u>Printer Errors: Resolving Them in Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/repair-printer-driver-glitches-on-win10-pc/"><u>Repair Printer Driver Glitches on WIN10 PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-how-to-restore-audio-in-forza-horizon-4-enjoy-full-volume/"><u>Solved! How to Restore Audio in Forza Horizon 4 – Enjoy Full Volume</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/stop-wasted-time-fixing-windows-78s-non-operational-spooler/"><u>Stop Wasted Time: Fixing Windows 7/8'S Non-Operational Spooler</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamlining-your-canon-printers-online-access/"><u>Streamlining Your Canon Printer's Online Access</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-essential-guide-to-obs-and-zoom-live-stream-setup-for-2024/"><u>The Essential Guide to OBS and Zoom Live Stream Setup for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-elite-10-virtual-clashes/"><u>[New] 2024 Approved Elite 10 Virtual Clashes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-printer-printing-blank-pages/"><u>[Solved] Printer Printing Blank Pages</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-frontier-of-gesture-based-technology-advancements/"><u>2024 Approved The Frontier of Gesture-Based Technology Advancements</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-infinix-hot-40i-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Infinix Hot 40i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2000-run-time-error-1004-by-stellar-guide/"><u>How to Fix Excel 2000 Run Time Error 1004</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-samsung-galaxy-a05s-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Samsung Galaxy A05s to Roku | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-spooler-service-unresponsive-on-pc/"><u>Print Spooler Service Unresponsive on PC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolve-printer-problem-5-quick-steps-to-enable-print-on-canon-and-windows-11-combo/"><u>Resolve Printer Problem: 5 Quick Steps to Enable Print on Canon & Windows 11 Combo</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/streamlined-driver-update-win32-officejet-pro-8600-utility-bundle/"><u>Streamlined Driver Update: Win32 Officejet Pro 8600 Utility Bundle</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/systematic-update-for-enhanced-mf4770n-performance-windows/"><u>Systematic Update for Enhanced MF4770n Performance Windows</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-editors-ally-smooth-operation-in-m1-with-top-tools-for-2024/"><u>The Editor's Ally Smooth Operation in M1 with Top Tools for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-mb-error-cant-connect-to-services-in-windows-11/"><u>Troubleshooting MB Error: Can't Connect to Services in Windows 11</u></a></li>
 </ul></div>
 

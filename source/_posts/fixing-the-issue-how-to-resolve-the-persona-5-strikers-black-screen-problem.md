@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Resolve the Persona 5 Strikers' Black Screen Problem"
-date: 2025-01-25T17:18:02.496Z
-updated: 2025-01-29T16:21:33.379Z
+date: 2025-02-06T18:19:59.948Z
+updated: 2025-02-10T01:04:54.407Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 
  Running into an**Apex Legends Engine error** ? Don’t worry. It’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fixes for Apex Legends Engine Error
 
  Here are 4 fixes that have helped other users resolve the Apex Legends Engine error. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -31,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 2. **[Run Apex Legends as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Verify game files](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Edit registry](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update the graphics driver
 
@@ -46,9 +46,17 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0209829f51.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0204fe6005.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click Update to do it for free if you like, but it’s partly manual.
 
@@ -57,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 5) Check to see if the Engine Error on Apex Legends has been resolved. If yes, then great! If the issue remains, please move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run Apex Legends as an administrator
 
@@ -71,10 +75,6 @@ Here is how to grant administrative privileges to Apex Legends:
  1) On your keyboard, press the Windows logo key and type Apex Legends. Once the game shows up as a result, right-click on**Apex Legends** and select **Open file location** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-564.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) In File Explorer, right click on **Apex Legends .exe**  and click **Properties** .
 
@@ -96,6 +96,10 @@ Here is how to verify game files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-439-1024x522.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Right-click on**Apex Legends** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-561.png)
@@ -103,10 +107,6 @@ Here is how to verify game files:
 3) Wait until the repair process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Once done, run Apex Legends and check if the engine error is fixed. If yes, then great! If the issue persists, please move on to**Fix 4** , below.
 
@@ -124,6 +124,10 @@ Here are the steps to add the command line:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-474.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Add the following command to the text document.
 
 Windows Registry Editor Version 5.00
@@ -132,21 +136,17 @@ Windows Registry Editor Version 5.00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-475.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**File** \>**Save as…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-476.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Save the file name as**fix.reg** and select the type as**All files** . then click Save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-477.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Click**Yes** once you’re prompted about the message.
 
@@ -174,18 +174,15 @@ Windows Registry Editor Version 5.00
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-free-videographers-essential-openers/"><u>[New] Free Videographer's Essential Openers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-samsung-galaxy-a34-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Samsung Galaxy A34 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enabling-access-to-remote-brother-print-device/"><u>Enabling Access to Remote Brother Print Device</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/expedite-jammed-print-queue/"><u>Expedite Jammed Print Queue</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hardware-hiccup-printer-config-issue/"><u>Hardware Hiccup: Printer Config Issue</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-15-plus-to-roku-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 15 Plus to Roku? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printers-colored-output-not-rendered/"><u>Printer's Colored Output Not Rendered</u></a></li>
-<li><a href="https://article-posts.techidaily.com/prophoto-fusion-online-masterpiece-suite-for-2024/"><u>ProPhoto Fusion Online Masterpiece Suite for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/seven-year-tech-lifespan-assured-samsungs-intelligent-tvs-to-receive-free-updates-through-ai-advancements-as-reported-by-zdnet/"><u>Seven-Year Tech Lifespan Assured: Samsung's Intelligent TVs to Receive Free Updates Through AI Advancements, as Reported by ZDNet</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-hp-display-dimming-troubles/"><u>Solving HP Display Dimming Troubles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-way-to-visualize-and-tame-your-disk-space/"><u>The Ultimate Way to Visualize and Tame Your Disk Space</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-picks-essential-tools-to-play-ps1-games-on-your-computer-for-2024/"><u>Top Picks - Essential Tools to Play PS1 Games on Your Computer for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unexpected-print-hiccup-discovered/"><u>Unexpected Print Hiccup Discovered</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-problem-missing-driver-in-os/"><u>[PRINTER PROBLEM] Missing Driver in OS</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-maximize-engagement-with-facebook-posting-360-degree-photos-on-mobile/"><u>2024 Approved Maximize Engagement with Facebook Posting 360-Degree Photos on Mobile</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/foreign-system-flagged-for-misused-printer/"><u>Foreign System Flagged for Misused Printer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-xiaomi-redmi-note-12-pro-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Xiaomi Redmi Note 12 Pro 5G Phone Screen?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-profitable-content-creation-on-youtube-through-smart-adsense-use/"><u>In 2024, Profitable Content Creation on YouTube Through Smart AdSense Use</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-depth-analysis-of-the-nook-glowlight-plus-by-barnes-and-noble/"><u>In-Depth Analysis of the Nook GlowLight Plus by Barnes & Noble</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/intruder-in-network-print-spotlighted/"><u>Intruder in Network Print Spotlighted</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/retro-editing-magic-cutting-classical-cinematography-for-2024/"><u>Retro Editing Magic Cutting Classical Cinematography for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-overcoming-the-hurdle-of-booting-windows-with-a-cd/"><u>Step-by-Step Guide: Overcoming the Hurdle of Booting Windows with a CD</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win11-officejet-paper-jams-step-by-step-solution/"><u>Win11 OfficeJet Paper Jams: Step-by-Step Solution</u></a></li>
 </ul></div>
 

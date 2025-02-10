@@ -1,7 +1,7 @@
 ---
 title: "Post-Update Glitch: Printer No Longer Functions"
-date: 2025-01-25T16:19:21.495Z
-updated: 2025-01-29T17:28:47.683Z
+date: 2025-02-04T16:17:36.609Z
+updated: 2025-02-10T00:15:27.765Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/00e6694a6e8523368549c14f60a0299171aaa2659
 **Your printer stopped working after Windows 10 Update** ? You’re certainly not alone – hundreds of users are reporting it. The good news is, it’s not hard to fix at all…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix**printer stopped working after Windows 10 Update**
@@ -47,6 +47,10 @@ Here is how to power cycle your printer:
 4) Test to see if your printer works properly. If yes, then great! If the issue remains, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Make sure your printer is connected
 
@@ -92,17 +96,21 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-193.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the**Services** window, scroll down until you find**Print Spooler** , then right-click on it and click**Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-194.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) On your keyboard, press the**Windows logo key** and**R** at the same time, then type**%WINDIR%\\system32\\spool\\printers** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-195.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Select**all the files** within the folder and_delete_ them. This is to clear the print queues.
 
@@ -110,25 +118,17 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-197.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Click**Start** , then in**Startup** **Type** , select**Automatic** and click**OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-198.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) Check to see if your printer works properly. If it still doesn’t work, please move on to**Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Run Windows Troubleshooter
 
@@ -165,19 +165,19 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-audio-to-art-crafting-music-videos-on-apple-devices/"><u>[New] In 2024, Audio to Art Crafting Music Videos on Apple Devices</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-unleash-potential-the-finest-yoga-series-for-all-ages/"><u>[New] In 2024, Unleash Potential The Finest Yoga Series for All Ages</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-optimize-your-gopro-shoot/"><u>[New] Optimize Your GoPro Shoot</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-essential-tips-for-utilizing-instagram-story-sections/"><u>[Updated] 2024 Approved Essential Tips for Utilizing Instagram Story Sections</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/5-simple-steps-to-make-your-canon-printer-work-again/"><u>5 Simple Steps to Make Your Canon Printer Work Again</u></a></li>
-<li><a href="https://some-tips.techidaily.com/aqua-resistant-smartwatch-guide-in-depth-analysis-and-ratings-from-industry-professionals/"><u>Aqua-Resistant Smartwatch Guide : In-Depth Analysis and Ratings From Industry Professionals</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-computers-expert-reviews-by-toms-hardware/"><u>Navigating the World of Computers: Expert Reviews by Tom's Hardware</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/post-installation-inkjet-printer-error-fixed/"><u>Post Installation, Inkjet Printer Error Fixed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-guide-linking-your-canon-to-wi-fi/"><u>Quick Guide: Linking Your Canon to Wi-Fi</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revive-your-windows-11-printer-suddenly-stopped-working/"><u>Revive Your Windows 11 Printer Suddenly Stopped Working</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-oppo-reno-10-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Oppo Reno 10 5G Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/unveiling-the-secret-for-instantaneous-deletion-of-youtube-feedbacks/"><u>Unveiling the Secret for Instantaneous Deletion of Youtube Feedbacks</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-poco-c50-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win-11-update-leads-to-non-printer-functionality/"><u>Win 11 Update Leads to Non-Printer Functionality</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-canon-printer-not-responding/"><u>[FIXED] Canon Printer Not Responding</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-gold-glory-in-gameplay-5-prime-maps-for-riches/"><u>[Updated] In 2024, Gold Glory in Gameplay 5 Prime Maps for Riches</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-quick-tips-for-iphones-screen-recording/"><u>[Updated] In 2024, Quick Tips for iPhones Screen Recording</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-mastering-youtube-ultimate-guide-to-live-360-degree-streams-for-2024/"><u>[Updated] Mastering YouTube Ultimate Guide to Live 360-Degree Streams for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-secure-your-preference-with-these-9-leading-websites-offering-3d-typography/"><u>[Updated] Secure Your Preference With These 9 Leading Websites Offering 3D Typography</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-as-a-research-companer-enhancing-your-studies/"><u>ChatGPT as a Research Companer: Enhancing Your Studies</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-drivers-for-logitech-g430-gaming-headset-improve-sound-quality-now/"><u>Download Drivers for Logitech G430 Gaming Headset - Improve Sound Quality Now</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/echoes-of-the-past-the-top-10-youtube-sources-for-history-lovers/"><u>Echoes of the Past The Top 10 YouTube Sources for History Lovers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pixel-pizzazz-top-10-screenshot-sticker-enhancers-for-iphonesandroids/"><u>In 2024, Pixel Pizzazz Top 10 Screenshot Sticker Enhancers for iPhones/Androids</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/intruder-alert-unexpected-printer-activity/"><u>Intruder Alert: Unexpected Printer Activity</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/pixma-mp620-searching-for-driver-on-win11-repository/"><u>Pixma MP620: Searching for Driver on Win11 Repository</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resetting-network-settings-on-printers/"><u>Resetting Network Settings on Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restored-print-functionality-after-win-11-update/"><u>Restored Print Functionality After Win 11 Update</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
 </ul></div>
 

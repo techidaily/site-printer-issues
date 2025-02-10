@@ -1,7 +1,7 @@
 ---
 title: Overcoming Epson Error Code 0X97
-date: 2025-01-28T17:57:10.747Z
-updated: 2025-01-29T16:48:09.576Z
+date: 2025-02-03T00:34:01.053Z
+updated: 2025-02-09T18:59:55.020Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 **Why do I get the Error Code 0x97?**
  Error code 0x97 is probably caused by a hardware failure. When you get the error code, it’s very likely that certain interior parts of your printer can’t function correctly. But don’t worry! Before you take your printer to a repair store and replace any hardware, try the fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -31,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 2. **[Check your ink cartridges](#b)**
 3. **[Run the Windows printer troubleshooter](#c)**
 4. **[Update your printer driver](#d)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Reboot your printer
 
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 **5)** (Don’t release the power button.) Plug the power cable back in to the power outlet and hold the button for another 1 minute.
 
 **6)** Release power button, then check your printer to see if you still get the error message.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Check your ink cartridges
 
@@ -74,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 
  Make sure your cartridges all work properly, and then reopen your printer to test your issue. If your problem still exists, check the fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Run the Windows printer troubleshooter
 
  Another quick fix to error code 0x97 is running the Windows printer troubleshooter. Here is how to do it:
@@ -94,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-842.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Select **Troubleshooting** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-843.png)
@@ -106,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-845.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for your computer to automatically detect your printer issue, and then follow the on-screen instructions to fix it. If no printer issue is identified, try [**fix 4**](#d) , below.
 
 #### If you’re on Windows 10…
@@ -115,7 +115,7 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-846.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Select **Troubleshooting settings** .
@@ -125,10 +125,6 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 **3)** Click **Printer,**  and then click **Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-849.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait for the troubleshooting process to be complete, then reopen your printer to check if this fixed your issue. If not, read on and check the fix below.
 
@@ -163,6 +159,10 @@ OR
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the printer driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -199,17 +199,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-a-step-by-step-guide-to-outstanding-color-grading-top-11/"><u>[Updated] A Step-by-Step Guide to Outstanding Color Grading (Top 11)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-ultimate-camera-for-video-enthusiasts-nikons-j5-review/"><u>[Updated] In 2024, The Ultimate Camera for Video Enthusiasts - Nikon's J5 Review</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-designing-direct-access-to-your-channels-subscribe-page/"><u>2024 Approved Designing Direct Access to Your Channel's Subscribe Page</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/essential-guide-to-stopping-repeated-spooler-halt-in-windows/"><u>Essential Guide to Stopping Repeated Spooler Halt in Windows</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-v27e-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo V27e FRP Bypass</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-skips-colored-pages/"><u>Printer Skips Colored Pages</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/quick-fixes-for-granblue-fantasys-pc-link-crash-problems/"><u>Quick Fixes for Granblue Fantasy's PC Link-Crash Problems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reconnected-printer-in-win7-environment/"><u>Reconnected Printer in Win7 Environment</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/top-10-action-cam-audio-upgrades-for-2024/"><u>Top 10 Action Cam Audio Upgrades for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-restarting-brother-printer-for-windows/"><u>Troubleshooting: Restarting Brother Printer for Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/unblocking-adobe-photoshops-accessibility-on-w11-2023/"><u>Unblocking Adobe Photoshop's Accessibility on W11, 2023</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/update-required-pixma-mp620-drivers-missing-windows-10/"><u>[Update Required] Pixma MP620 Drivers Missing Windows 10</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-cinematiccapture-easy-screen-recorder-for-win11-pcs/"><u>[Updated] 2024 Approved CinematicCapture Easy Screen Recorder for Win11 PCs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-spice-up-stories-tailored-creative-qandas-for-users/"><u>[Updated] In 2024, Spice Up Stories Tailored Creative Q&As for Users</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-ultimate-route-to-record-your-favorite-streaming-content-hulu/"><u>[Updated] In 2024, The Ultimate Route to Record Your Favorite Streaming Content (Hulu)</u></a></li>
+<li><a href="https://fox-where.techidaily.com/high-definition-vintage-backgrounds-and-wallpaper-collection-premium-visual-content-by-yl-computing/"><u>High-Definition Vintage Backgrounds & Wallpaper Collection - Premium Visual Content by YL Computing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-futuristic-vr-tech-for-remote-pilots/"><u>In 2024, Futuristic VR Tech for Remote Pilots</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-guide-hook-up-your-hp-officejet-pro-duo/"><u>Quick Guide: Hook Up Your HP Officejet Pro Duo</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-efficient-data-flow-for-printers/"><u>Restoring Efficient Data Flow for Printers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/stack-videos-in-your-youtube-queue-for-2024/"><u>Stack Videos in Your YouTube Queue for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/turbocharge-printer-operations/"><u>Turbocharge Printer Operations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-expert-picks-the-top-gas-grills-for-outdoor-cooking-in-202/"><u>ZDNet's Expert Picks: The Top Gas Grills for Outdoor Cooking in 202</u></a></li>
 </ul></div>
 

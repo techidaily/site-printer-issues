@@ -1,7 +1,7 @@
 ---
 title: "Guilty Gear Strive Troubleshooting: Tips for Keeping the Fight Going Without System Crashes"
-date: 2025-01-26T18:07:25.808Z
-updated: 2025-01-29T16:34:21.247Z
+date: 2025-02-03T20:50:55.093Z
+updated: 2025-02-10T01:08:12.413Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Check your Internet connection
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Install all the game updates
 
  This one may seem obvious, but it did help some players to solve the error code leaf when they try to join a match on Apex Legends, so you may want to make sure your game is updated all the time.
@@ -59,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
  The good new is, the Origin client and the Steam client will automatically download available updates and install them for you, so you don’t actually have to worry. However, if you’ve turned off the automatic updating option at some point before, make sure you turn it on or manually install the updates for your Apex Legends.
 
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Configure your DNS settings
 
@@ -68,27 +68,27 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
@@ -113,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
@@ -152,18 +152,18 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-avoid-boredom-learn-to-shuffle-youtube-lists/"><u>[New] In 2024, Avoid Boredom Learn to Shuffle YouTube Lists</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-unveil-the-power-of-vrecorder-installs-demystified/"><u>[Updated] 2024 Approved Unveil the Power of VRecorder Installs Demystified</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-windows-10-audio-tips-essential-recording-methods/"><u>[Updated] In 2024, Windows 10 Audio Tips Essential Recording Methods</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/complete-restore-guide-to-retrieving-original-files-after-windows-7-reset/"><u>Complete Restore Guide to Retrieving Original Files After Windows 7 Reset</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/enhancing-films-with-imovie-music-secrets/"><u>Enhancing Films with iMovie Music Secrets</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guide-to-setup-brothers-mfc-9330cdw-fan/"><u>Guide to Setup Brother's MFC-9330CDW Fan</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-efficient-techniques-for-adobe-presenter-capture/"><u>In 2024, Efficient Techniques for Adobe Presenter Capture</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-simplifying-your-fb-live-broadcasts-on-zoom/"><u>In 2024, Simplifying Your FB Live Broadcasts on Zoom</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/preventing-chatgpt-from-recording-your-dialogue-a-step-by-step-guide/"><u>Preventing ChatGPT From Recording Your Dialogue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/preventing-constant-spooler-crashes-a-guide-for-windows-users/"><u>Preventing Constant Spooler Crashes: A Guide for Windows Users</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/rapid-solution-for-printer-not-plugged-in/"><u>Rapid Solution for Printer Not Plugged In</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/l-blogging-essentials-step-by-step-path-to-success/"><u>Travel Blogging Essentials Step-by-Step Path to Success</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unrecognized-print-activity-sheds-light/"><u>Unrecognized Print Activity Sheds Light</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-bright-horizons-pioneering-light-in-video-production/"><u>[New] 2024 Approved Bright Horizons Pioneering Light in Video Production</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-comprehensive-review-of-slomo-video-capture-tool/"><u>[New] Comprehensive Review of SloMo Video Capture Tool</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-tapping-into-igtvs-potential-a-hashtag-guide-to-growth/"><u>[New] In 2024, Tapping Into IGTV's Potential A Hashtag Guide to Growth</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-mastering-mp3-extraction-from-pinterest-vids-for-2024/"><u>[Updated] Mastering MP3 Extraction From Pinterest Vids for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/brother-9330cdw-fan-and-software-guide/"><u>Brother 9330CDW Fan & Software Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-officejet-status-online-on-windows-11/"><u>HP OfficeJet Status: Online on Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/jonsbo-upgrades-its-range-with-a-new-c6-itx-case-built-for-enhanced-airflow-and-easy-transport-with-a-stylish-handle/"><u>Jonsbo Upgrades Its Range with a New C6-ITX Case - Built for Enhanced Airflow and Easy Transport with a Stylish Handle</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mf4770n-usb-drive-software-upgrade-for-windows/"><u>MF4770n USB Drive Software Upgrade for Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/paperless-print-win11-issue-solved/"><u>Paperless Print: Win11 Issue Solved</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pro-level-insights-into-the-world-of-windows-11/"><u>Pro-Level Insights Into the World of Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-scanner-on-windows-11-os/"><u>Reviving Scanner on Windows 11 OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ultimate-compatibility-pack-officejet-pro-8600-windows-edition/"><u>Ultimate Compatibility Pack: Officejet Pro 8600, Windows Edition</u></a></li>
 </ul></div>
 

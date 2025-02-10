@@ -1,7 +1,7 @@
 ---
 title: Rapid Response to Queued Prints
-date: 2025-01-27T18:10:21.166Z
-updated: 2025-01-29T17:33:40.771Z
+date: 2025-02-06T19:57:31.207Z
+updated: 2025-02-10T02:00:09.459Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 
  Don’t panic. Many users have reported the same issue, and it’s quite easy to fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 * **Fix 1 –[Clear the print queue](#m1)**  
@@ -31,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
    2. [Use Command Prompt to Clear Stuck Files](#f2)  
    3. [Create a Bat file for permanent use](#f3)
 * **Fix 2 –[Reinstall your printer driver](#m2)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Clear the print queue
 
@@ -43,16 +43,16 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/services-run-box.jpg)
 3. Scroll down to**Print Spooler** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Right-click**Print Spooler** and select**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/stop-the-service.jpg)
 5. Navigate to**C:\\Windows\\System32\\spool\\PRINTERS** and delete all files in the folder. (Do NOT delete the folder itself.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/delete.jpg)
 6. In the Services window, right-click**Print Spooler** and select**Start** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/start-service.jpg)
 7. Go back to the**Print Job** queue. All print jobs should have been removed now and you can start printing again normally.
@@ -92,7 +92,7 @@ This will clear all of your print jobs stuck in a queue.
 3. Then click**File** \>**Save as…**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
    * Change the file type to**All files**  
@@ -103,7 +103,11 @@ This will clear all of your print jobs stuck in a queue.
 4. Double-click the batch file to clear the print queue anytime you want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Reinstall the printer driver
@@ -123,10 +127,6 @@ This will clear all of your print jobs stuck in a queue.
 * Epson:[Epson Products & Drivers](https://global.epson.com/products%5Fand%5Fdrivers/)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/kisspng-pixel-illustration-printer-5a983b8a6f6aa4.5830009615199261544564.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Option 2: Automatic printer driver update (Recommended)
 
@@ -172,20 +172,24 @@ Feel free to drop us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/driver-issue-canon-pixma-mp620-unsupported-by-win10/"><u>[Driver Issue] Canon Pixma MP620 Unsupported by WIN10</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-convenient-techniques-for-saving-youtube-videos/"><u>[New] In 2024, Convenient Techniques for Saving YouTube Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-gaining-momentum-how-igtv-hashtags-drive-fan-base-expansion/"><u>[Updated] Gaining Momentum How IGTV Hashtags Drive Fan Base Expansion</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-elevate-your-videography-insights-on-youtube-studio-editor/"><u>[Updated] In 2024, Elevate Your Videography Insights on YouTube Studio Editor</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/addressing-clogged-toner-cartridges/"><u>Addressing Clogged Toner Cartridges</u></a></li>
-<li><a href="https://extra-information.techidaily.com/bridging-distances-with-easy-to-use-xbox-zooming/"><u>Bridging Distances with Easy-to-Use Xbox Zooming</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/disconnecting-all-print-devices-at-once-on-pc/"><u>Disconnecting All Print Devices at Once on PC</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/eradicate-brother-printers-no-print-dilemma-on-windows/"><u>Eradicate Brother Printer's No-Print Dilemma on Windows</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-15-indispentic-tools-to-launch-your-youtube-career/"><u>In 2024, 15 Indispentic Tools to Launch Your YouTube Career</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Poco F5 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-online-on-windows-7-after-troubleshooting/"><u>Printer Online on Windows 7 After Troubleshooting</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-woes-after-suspend-on-windows-7-systems/"><u>Printer Woes After Suspend on Windows 7 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-issue-stop-your-cursor-from-blinding-you/"><u>Resolving the Issue: Stop Your Cursor From Blinding You</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/winerror-zeroed-out-restoring-printer-setup-0x00000709/"><u>WinError Zeroed Out - Restoring Printer Setup (0X00000709)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-decoding-silent-snapchat-user-possible-block/"><u>[New] In 2024, Decoding Silent Snapchat User Possible Block</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-wintvrecorder-effortless-free-live-tv-saving-software/"><u>[New] In 2024, WinTVRecorder Effortless, FREE Live TV Saving Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-swiftly-blur-your-iphone-shots-with-these-4-tricks/"><u>[New] Swiftly Blur Your iPhone Shots with These 4 Tricks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-guide-to-effective-real-youtube-promotion/"><u>[Updated] The Ultimate Guide to Effective, Real Youtube Promotion</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/apexs-speedier-setup-game-saved-and-solved/"><u>Apex's Speedier Setup: Game Saved & Solved</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/help-needed-printers-unplanned-shift/"><u>Help Needed: Printer's Unplanned Shift</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-11-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/online-shop-now-for-the-ultimate-winx-hd-video-converter-mac-edition-with-guaranteed-safety-and-quality/"><u>Online Shop Now for the Ultimate WinX HD Video Converter Mac Edition with Guaranteed Safety & Quality</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/paper-path-perfection-error-0x0-cooked-in-windows-fix/"><u>Paper Path Perfection - Error 0X0 Cooked in Windows Fix</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Honor X50i+? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/proactive-measures-immediate-resolution-of-pcl-xl-problems/"><u>Proactive Measures: Immediate Resolution of PCL XL Problems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-streamline-of-hindered-printer-jobs/"><u>Quick Streamline of Hindered Printer Jobs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reestablish-printer-with-ease-and-speed/"><u>Reestablish Printer with Ease & Speed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/rekindling-printers-connection-magic/"><u>Rekindling Printer's Connection Magic</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/successfully-repairing-epson-printer-issues/"><u>Successfully Repairing Epson Printer Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/techniques-to-disable-networked-printers-in-windows/"><u>Techniques to Disable Networked Printers in Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-inkjet-print-latency/"><u>Troubleshooting Inkjet Print Latency</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-expert-picks-for-leading-mp3-devices-2024-rankings/"><u>ZDNet's Expert Picks for Leading MP3 Devices - 2024 Rankings</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Brother CDW Duo Air Glide Instructions
-date: 2025-01-23T16:47:36.389Z
-updated: 2025-01-29T17:45:45.316Z
+date: 2025-02-02T22:25:26.053Z
+updated: 2025-02-09T17:23:21.199Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/23623c6c9024303daa060bc641efd6507d7732a1f
 
  To keep your Brother printer to its perfect performance, it’s always important to update your drivers, which is the “translator” for your Brother printer and computer. Otherwise, you might bump into various printer issues, such as not printing, or printer jobs stuck in a queue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to update Brother MFC-9330CDW drivers
 
 There are two ways you can update your Brother MFC-9330CDW drivers:
@@ -31,7 +35,7 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
 **Option 2 – Automatically (Recommended)** – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Download and install the driver manually
@@ -44,10 +48,6 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-116.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Double click**Print queues** or**Printers** to expand its drop-down list and find your Brother printer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-118.png)
@@ -55,10 +55,6 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
  3) Right-click**Brother MFC-9330CDW** **printer** and select**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-119.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  By now you’ve finished the uninstall, let’s move on to the next step.
 
@@ -70,13 +66,13 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-120.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the first result, click**Full Driver & Software Package (Recommended)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-122.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Agree to the EULA and Download** .
 
@@ -91,7 +87,7 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Automatically update Brother MFC-9330CDW drivers
@@ -107,6 +103,10 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-09-24_10-03-23-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -140,22 +140,22 @@ There are two ways you can update your Brother MFC-9330CDW drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-depth-look-at-ipad-display-logging/"><u>[New] In-Depth Look at iPad Display Logging</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solution-needed-mp620-printer-not-detected-in-windows-os/"><u>[Solution Needed] MP620 Printer Not Detected in Windows OS</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-crafting-a-youtube-video-essential-writing-guide/"><u>[Updated] In 2024, Crafting a YouTube Video Essential Writing Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-captivate-your-circle-the-art-of-sending-gifs-on-snapchat/"><u>2024 Approved Captivate Your Circle The Art of Sending Gifs on Snapchat</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-masterful-presentations-in-google-meet-with-new-backdrops/"><u>2024 Approved Masterful Presentations in Google Meet with New Backdrops</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/alternative-video-editing-tools-taking-over-from-windows-movie-maker/"><u>Alternative Video Editing Tools Taking Over From Windows Movie Maker</u></a></li>
-<li><a href="https://extra-information.techidaily.com/cheerful-footage-extractor-analysis-for-2024/"><u>Cheerful Footage Extractor Analysis for 2024</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/comment-effectuer-un-clonage-detaille-de-votre-disque-ssd-nvme-guide-complet-et-methode-par-molette/"><u>Comment Effectuer Un Clonage Détaillé De Votre Disque SSD NVME : Guide Complet Et Méthode Par Molette</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/demystifying-paper-jam-symptoms-in-printers/"><u>Demystifying Paper Jam Symptoms in Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-printer-not-printing-solved/"><u>Epson Printer Not Printing [SOLVED]</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/essential-tips-for-hp-printer-setup-on-windows-os/"><u>Essential Tips for HP Printer Setup on Windows OS</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Tecno Pova 5? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-scalability-strategies-adapting-to-large-scale-meetings-with-zoom-in-windows-11/"><u>In 2024, Scalability Strategies Adapting to Large-Scale Meetings with Zoom in Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/simple-steps-for-attaching-hp-wireless-door-mounted-printers/"><u>Simple Steps for Attaching HP Wireless Door Mounted Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-your-canon-printer-disconnects/"><u>Troubleshooting: Your Canon Printer Disconnects</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unplugged-reset-to-bring-canon-printer-back-online/"><u>Unplugged? Reset to Bring Canon Printer Back Online</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-11-pixma-mp620-driver-elusive/"><u>Windows 11: Pixma MP620 Driver Elusive</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-enhance-visual-narratives-with-story-remix-within-windows-10-photos/"><u>[New] 2024 Approved Enhance Visual Narratives with Story Remix Within Windows 10 Photos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-safeguard-creativity-validating-content-for-tiktok-posting/"><u>[Updated] In 2024, Safeguard Creativity Validating Content for TikTok Posting</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-ultimate-guide-to-your-first-adobe-presenter-video/"><u>[Updated] In 2024, The Ultimate Guide to Your First Adobe Presenter Video</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-storage-galore-selecting-top-ps5-hddsssds/"><u>[Updated] Storage Galore Selecting Top PS5 HDDs/SSDs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-airborne-mass-movers-selecting-the-best-drones/"><u>2024 Approved Airborne Mass Movers Selecting the Best Drones</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/disabling-hp-printers-error-0xoxc4eb827f/"><u>Disabling HP Printer's Error 0xOXC4EB827F</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/farewell-to-printer-frustration-win-10s-solution-found/"><u>Farewell to Printer Frustration: Win 10'S Solution Found</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-error-code-b200/"><u>Fixed: Error Code B200</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hidden-network-printer-how-to-find-it-on-your-os/"><u>Hidden Network Printer: How to Find It on Your OS</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-deskjet-d1360-driver-compatibility-with-multiple-windows-oses/"><u>HP Deskjet D1360 Driver Compatibility with Multiple Windows OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-remediation-for-a-frozen-epic-games-launcher/"><u>Immediate Remediation for a Frozen Epic Games Launcher</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-cinematic-edge-edging-your-vt-footage-on-final-cut-x/"><u>In 2024, The Cinematic Edge Edging Your VT Footage on Final Cut X</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mp620-printer-searching-for-missing-windows-driver/"><u>MP620 Printer: Searching for Missing Windows Driver</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-epsons-lack-of-print-feature/"><u>Overcoming Epson's Lack of Print Feature</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/preventing-continuous-spooler-failures-on-w10w11w7/"><u>Preventing Continuous Spooler Failures on W10/W11/W7</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/wiederherstellung-verlorener-oder-fehlerhafter-datentrager-auf-windows-11-datenrettung/"><u>Wiederherstellung Verlorener Oder Fehlerhafter Datenträger Auf Windows 11 | Datenrettung</u></a></li>
 </ul></div>
 

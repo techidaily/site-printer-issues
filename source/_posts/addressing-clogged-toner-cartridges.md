@@ -1,7 +1,7 @@
 ---
 title: Addressing Clogged Toner Cartridges
-date: 2025-01-25T16:02:28.593Z
-updated: 2025-01-29T17:48:31.775Z
+date: 2025-02-05T22:41:23.152Z
+updated: 2025-02-09T22:13:59.946Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/14595ce84d31d38abb3ed2fa0891687712e003ea9
 [**5) Check hardware status**](#e)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1) Basic troubleshooting
 
  Once you find that your printer won’t print, you should check the status of the connection between your printer and computer. Make sure your printer is**properly connected** , and the**wireless network or cable** you use to connect your printer is**normal** .
@@ -41,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/14595ce84d31d38abb3ed2fa0891687712e003ea9
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2) Set your printer as default
@@ -54,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/14595ce84d31d38abb3ed2fa0891687712e003ea9
 
 **![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593fb867beb0b.png)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **b)**  Select**Devices and Printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593fb89b62ded.png)
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/14595ce84d31d38abb3ed2fa0891687712e003ea9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593fb95ba1bf4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **d)**  You printer is now set to default!  
@@ -83,13 +83,13 @@ thumbnail: https://thmb.techidaily.com/14595ce84d31d38abb3ed2fa0891687712e003ea9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59409bcecf2e7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **c)** Open**Printer** menu and then select**Open As Administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940dc98227ab.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **d)** Open**Printer** menu again. Select**Cancel All Documents** .
 
@@ -101,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/14595ce84d31d38abb3ed2fa0891687712e003ea9
 
 **f)**  The print queue of your printer is clear. Now check and see if your printer can run normally.  
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4) Update printer driver
 
@@ -128,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/14595ce84d31d38abb3ed2fa0891687712e003ea9
 
  In fact,**Driver Easy Pro** can not only help you**speed up** the update process, but also update**all** the outdated drivers**at once** . In addition, its powerful features can help you deal with**various** driver issues with just**a few** clicks. **This is the tool that can really save you much time and energy!**
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5) Check hardware status
 
@@ -154,24 +154,15 @@ thumbnail: https://thmb.techidaily.com/14595ce84d31d38abb3ed2fa0891687712e003ea9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/driver-update-required-hp-d1360-on-various-windows-platforms/"><u>[Driver Update Required] HP D1360 on Various Windows Platforms</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-elite-cost-effective-asmr-recording-devices-unveiled-for-2024/"><u>[New] Elite Cost-Effective ASMR Recording Devices Unveiled for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-top-list-of-video-recording-apps-for-iphone/"><u>[Updated] 2024 Approved Top List of Video Recording Apps for iPhone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-expanding-your-reach-a-complete-guide-to-popularizing-youtube-shorts-for-2024/"><u>[Updated] Expanding Your Reach A Complete Guide to Popularizing YouTube Shorts for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-wirecast-versus-obs-which-broadcasting-tool-reigns-supreme/"><u>[Updated] Wirecast Versus OBS Which Broadcasting Tool Reigns Supreme?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/beware-of-updating-to-ios-16-potential-risks-and-tips-for-safe-installation-tech-insights/"><u>Beware of Updating to iOS 16: Potential Risks and Tips for Safe Installation | Tech Insights</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/clearing-crosscheck-print-failures/"><u>Clearing Crosscheck Print Failures</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/exploring-efficient-methods-printer-and-laptop-harmony-achieved/"><u>Exploring Efficient Methods: Printer & Laptop Harmony Achieved</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/learn-languages-from-tv-shows-and-movies/"><u>Learn Languages From TV Shows and Movies</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/leveraging-pitch-insights-for-successful-implementation-of-ai-driven-processes/"><u>Leveraging Pitch Insights for Successful Implementation of AI-Driven Processes</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1619817-9781780996912-meditation-in-the-wild/"><u>Meditation in the Wild | Free Book</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/no-access-to-hp-printer-driver-on-win1110/"><u>No Access to HP Printer Driver on Win11/10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reinstating-scan-functionality-in-windows-11/"><u>Reinstating Scan Functionality in Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/silent-shutdown-wake-up-with-these-troubleshooting-steps/"><u>Silent Shutdown? Wake Up With These Troubleshooting Steps</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/speedy-updates-for-sluggish-printers/"><u>Speedy Updates for Sluggish Printers</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-lava-yuva-3-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Lava Yuva 3? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/stop-windows-print-service-from-frequently-stopping/"><u>Stop Windows Print Service From Frequently Stopping</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamlining-repairs-for-pcl-xl-glitches/"><u>Streamlining Repairs for PCL XL Glitches</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/the-ultimate-guide-to-executing-a-successful-3-2-1-backup-plan-for-your-digital-assets/"><u>The Ultimate Guide to Executing a Successful 3-2-1 Backup Plan for Your Digital Assets</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-analyzing-the-boons-and-banes-of-vr-headsets/"><u>[Updated] Analyzing the Boons & Banes of VR Headsets</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-step-by-step-easy-snapchat-videos-with-multiple-snaps/"><u>[Updated] In 2024, Step-by-Step Easy Snapchat Videos with Multiple Snaps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-redmi-note-12r-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Redmi Note 12R</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/from-frustration-to-functionality-blank-page-cured/"><u>From Frustration to Functionality: Blank Page Cured</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-easily-download-and-set-up-usb-c-hardware-support-on-windows-10-systems/"><u>How to Easily Download and Set Up USB-C Hardware Support on Windows 10 Systems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-officejet-pro-8600-driver-suite-for-windows-enhancement/"><u>HP Officejet Pro 8600 Driver Suite for Windows Enhancement</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/navigating-through-windows-setup-for-your-new-hp-device/"><u>Navigating Through Windows Setup for Your New HP Device</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/re-establishing-link-between-printer-and-network/"><u>Re-Establishing Link Between Printer & Network</u></a></li>
+<li><a href="https://techtrends.techidaily.com/superior-platforms-for-remote-team-video-chats-and-screen-sharing/"><u>Superior Platforms for Remote Team Video Chats and Screen Sharing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tech-deals-for-learners-how-to-qualify-and-save-with-microsoft-store-offers/"><u>Tech Deals for Learners: How to Qualify and Save with Microsoft Store Offers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cracking the Code: Printer Error X97"
-date: 2025-01-24T17:18:44.634Z
-updated: 2025-01-29T17:00:46.036Z
+date: 2025-02-07T17:25:34.901Z
+updated: 2025-02-09T20:00:26.776Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 3. **[Run the Windows printer troubleshooter](#c)**
 4. **[Update your printer driver](#d)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reboot your printer
 
  A simple reboot can address many common printer issues. Try restarting your printer to see if that also works for you. Here is how:
@@ -53,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 **6)** Release power button, then check your printer to see if you still get the error message.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Check your ink cartridges
@@ -74,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 
  Make sure your cartridges all work properly, and then reopen your printer to test your issue. If your problem still exists, check the fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Run the Windows printer troubleshooter
 
  Another quick fix to error code 0x97 is running the Windows printer troubleshooter. Here is how to do it:
@@ -94,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-842.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Select **Troubleshooting** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-843.png)
@@ -102,13 +98,13 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-844.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-845.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for your computer to automatically detect your printer issue, and then follow the on-screen instructions to fix it. If no printer issue is identified, try [**fix 4**](#d) , below.
 
@@ -117,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 **1)**  On your keyboard, press the **Windows logo** key and type **troubleshooting** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-846.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  Select **Troubleshooting settings** .
 
@@ -127,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-849.png)
 
  Wait for the troubleshooting process to be complete, then reopen your printer to check if this fixed your issue. If not, read on and check the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your printer driver
 
@@ -163,6 +159,10 @@ OR
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the printer driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -199,17 +199,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-navigating-video-uploads-on-social-platforms/"><u>[New] 2024 Approved Navigating Video Uploads on Social Platforms</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-speech-to-text-magic-for-ms-word-users/"><u>[New] 2024 Approved Speech-to-Text Magic for MS Word Users</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-unveiling-the-process-for-achieving-facebooks-trusted-marker/"><u>[Updated] Unveiling the Process for Achieving Facebook's Trusted Marker</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/complete-pages-printed-by-printers-now/"><u>Complete Pages Printed by Printers Now</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/correcting-scan-failures-with-xerox/"><u>Correcting Scan Failures with Xerox</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ce-9-festive-feasts-watch-holiday-epics-at-zero-cost-online-in-2024/"><u>Embrace 9 Festive Feasts Watch Holiday Epics at Zero Cost Online, In 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/harnessing-the-power-of-animated-graphics-for-2024/"><u>Harnessing the Power of Animated Graphics for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-6-superior-android-screen-capture-apps/"><u>In 2024, 6 Superior Android Screen Capture Apps</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/rapid-fixation-of-stuck-print-workqueue/"><u>Rapid Fixation of Stuck Print Workqueue</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/step-by-step-installing-hp-printer-in-windows/"><u>Step-by-Step: Installing HP Printer in Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-cannot-retrieve-printer-drivers/"><u>Windows Cannot Retrieve Printer Drivers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-essential-skills-for-proficient-use-of-gdoc-transcription-service/"><u>[New] Essential Skills for Proficient Use of GDoc Transcription Service</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-illuminating-your-space-naturally-interior-wise-for-2024/"><u>[Updated] Illuminating Your Space Naturally, Interior-Wise for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-inaugural-vision-preservation-review-and-alternate-suggestions/"><u>[Updated] Inaugural Vision Preservation Review & Alternate Suggestions</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-step-by-step-breakdown-of-building-and-coding-a-robot-using-the-makeblock-mbot-learning-pack/"><u>A Step-by-Step Breakdown of Building & Coding a Robot Using the Makeblock mBot Learning Pack</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/default-printer-dilemma-windows-error-0x00000709-squashed/"><u>Default Printer Dilemma: Windows Error (0X00000709) Squashed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/efficiently-end-print-job-wait/"><u>Efficiently End Print Job Wait</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-mix-fold-3-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Mix Fold 3.</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oppo-reno-8t-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Oppo Reno 8T 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-innovative-guide-to-efficient-and-effective-screen-recording/"><u>In 2024, Innovative Guide to Efficient and Effective Screen Recording</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/integrated-printer-utilities-hp-officejet-pro-8600-win32-version/"><u>Integrated Printer Utilities: HP OfficeJet Pro 8600, Win32 Version</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/method-to-forget-your-printer-in-windows/"><u>Method to Forget Your Printer in Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-spooler-crashing-strategies-for-win-users/"><u>Overcoming Spooler Crashing: Strategies for Win Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-location-not-found-issues-in-windows-1110/"><u>Resolving 'Location Not Found' Issues in Windows 11/10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revitalize-your-prints-install-latest-v305-driver-in-win7/"><u>Revitalize Your Prints: Install Latest V305 Driver in Win7</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/secrets-to-amplifying-gopro-power-life-span-for-2024/"><u>Secrets to Amplifying GoPro Power Life Span for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/steps-to-troubleshoot-unresponsive-hp-print-subsystems/"><u>Steps to Troubleshoot Unresponsive HP Print Subsystems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tackling-noisy-or-disruptive-printers/"><u>Tackling Noisy or Disruptive Printers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win7810-networking-guide-for-inkjet-hp-issues/"><u>Win7/8/10 Networking Guide for Inkjet HP Issues</u></a></li>
 </ul></div>
 

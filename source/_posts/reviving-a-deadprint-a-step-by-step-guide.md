@@ -1,7 +1,7 @@
 ---
 title: "Reviving a Deadprint: A Step-by-Step Guide"
-date: 2025-01-23T16:56:59.333Z
-updated: 2025-01-29T16:30:08.272Z
+date: 2025-02-02T23:45:37.349Z
+updated: 2025-02-09T19:51:54.177Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1) Basic troubleshooting
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 
  You can also**shut down** your computer and printer**completely** , wait for**a couple of minutes** , and then**power them on** again. After that you can try printing something and see if the problem resolves.  
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2) Set your printer as default
 
@@ -57,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
  **a)**  Press **Win + R**  keys. Type “_**control**_ ” and hit**Enter** .
 
 **![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593fb867beb0b.png)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **b)**  Select**Devices and Printers** .
 
@@ -91,13 +83,13 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a25f033a4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **e)** **Confirm** your action.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a2b245ae5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **f)**  The print queue of your printer is clear. Now check and see if your printer can run normally.  
   
@@ -117,17 +109,25 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59536d887738b.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the result, click on the**Update** button next to your printer. Then you can download the**latest and credible** driver for your device. After that you can use the files just downloaded and install the driver on your own.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59537ca159019.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  But if you want the program to**complete the whole update process** for you, you can upgrade it to [**Pro version**](https://tools.techidaily.com/drivereasy/download/) .
 
  In fact,**Driver Easy Pro** can not only help you**speed up** the update process, but also update**all** the outdated drivers**at once** . In addition, its powerful features can help you deal with**various** driver issues with just**a few** clicks. **This is the tool that can really save you much time and energy!**
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5) Check hardware status
 
@@ -154,16 +154,15 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-melody-matters-device-reviews/"><u>[New] In 2024, Melody Matters Device Reviews</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-key-tactics-procuring-premium-media-backdrops-with-ease-for-2024/"><u>[New] Key Tactics Procuring Premium Media Backdrops with Ease for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-innovative-photography-vertical-vistas-via-mobile/"><u>2024 Approved Innovative Photography Vertical Vistas via Mobile</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/2024s-elite-selection-the-premier-wireless-mice-reviewed/"><u>2024'S Elite Selection: The Premier Wireless Mice Reviewed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/active-directory-disabled-printer-problem-detected/"><u>Active Directory Disabled - Printer Problem Detected</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-page-failure-resolved/"><u>HP Printer: Page Failure Resolved</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-optimize-clarity-mastering-close-up-techniques-in-videoleap/"><u>In 2024, Optimize Clarity Mastering Close-Up Techniques in Videoleap</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-errors-resolving-them-in-windows-11/"><u>Printer Errors: Resolving Them in Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/stop-wasted-time-fixing-windows-78s-non-operational-spooler/"><u>Stop Wasted Time: Fixing Windows 7/8'S Non-Operational Spooler</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamlining-your-canon-printers-online-access/"><u>Streamlining Your Canon Printer's Online Access</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-xbox-virtual-reality-headset-anticipated-launch-dates-and-pricing-insights/"><u>Upcoming Xbox Virtual Reality Headset: Anticipated Launch Dates & Pricing Insights</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-economical-cloud-lofting-efficient-storage-at-minimal-price/"><u>[New] Economical Cloud Lofting Efficient Storage at Minimal Price</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-crafting-an-ideal-speech-translation-experience-in-google/"><u>[Updated] 2024 Approved Crafting an Ideal Speech Translation Experience in Google</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/complete-pages-printed-by-printers-now/"><u>Complete Pages Printed by Printers Now</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/correcting-scan-failures-with-xerox/"><u>Correcting Scan Failures with Xerox</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminating-audio-problems-in-windows-11-effective-solutions-and-advice/"><u>Eliminating Audio Problems in Windows 11: Effective Solutions and Advice</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-xiaomi-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Xiaomi Phones with/without a PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-mini-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 12 mini Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/iphoneandroids-leading-vr-experiences-ranked/"><u>IPhone/Android's Leading VR Experiences Ranked</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/rapid-fixation-of-stuck-print-workqueue/"><u>Rapid Fixation of Stuck Print Workqueue</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-cannot-retrieve-printer-drivers/"><u>Windows Cannot Retrieve Printer Drivers</u></a></li>
 </ul></div>
 

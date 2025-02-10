@@ -1,7 +1,7 @@
 ---
 title: "Windows-Wide Applications: MF4770n Firmware Update"
-date: 2025-01-28T17:41:46.089Z
-updated: 2025-01-29T18:19:46.796Z
+date: 2025-02-08T16:24:16.710Z
+updated: 2025-02-09T19:31:04.581Z
 tags:
   - win11
   - win10
@@ -28,7 +28,7 @@ It’s essential to **update your the**   **driver for your Canon MF4770n printe
 2. [**Update your Canon MF4770n driver manually**](#O2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1 : Update your Canon MF4770n driver automatically(Recommended)
@@ -41,7 +41,7 @@ If you’re not confident playing around with drivers manually, you can do it au
 3. You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c7e148fdf8.jpg) You can also click**Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
@@ -49,7 +49,7 @@ If you’re not confident playing around with drivers manually, you can do it au
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 2: Update your Canon MF4770n driver manually**
@@ -62,13 +62,13 @@ If you’re not confident playing around with drivers manually, you can do it au
 2. Under **imageCLASS MF4770n** , click**Drivers & Downloads** .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03db4a0d862.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Scroll down the new page to the bottom and a list of printer drivers compatible with your operating system will be listed (**Windows 10** ,**x64** in my case). Click**the first result** to make sure you download the latest driver release. Then click**DOWNLOAD** .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03db3044199.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Double-click on the downloaded file and follow the on-screen instructions to finish the installation.
@@ -98,20 +98,22 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-techniques-for-text-overlays-in-igtv-content/"><u>[New] 2024 Approved Techniques for Text Overlays in IGTV Content</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-elite-firefox-screencap-add-ons-for-2024/"><u>[New] Elite Firefox Screencap Add-Ons for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-navigating-sierra-mastering-icloud-drives-accessibility-for-2024/"><u>[New] Navigating Sierra Mastering iCloud Drives' Accessibility for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-apex-workplace-data-sphere/"><u>[Updated] Apex Workplace Data Sphere</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-digital-vhs-image-modification-techniques/"><u>2024 Approved Mastering Digital VHS Image Modification Techniques</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/banish-buffering-repair-facebook-videos-on-phonestablets/"><u>Banish Buffering – Repair Facebook Videos on Phones/Tablets</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/halted-outputs-ceased-on-epson-model/"><u>Halted Outputs Ceased on Epson Model</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-driver-windows-1011-error/"><u>HP Printer Driver - Windows 10/11 Error</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/making-offline-brother-printer-a-priority-again/"><u>Making Offline Brother Printer a Priority Again</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-apple-watch-screen-issues-why-is-it-unresponsive-and-how-to-resolve-it/"><u>Overcoming Apple Watch Screen Issues: Why Is It Unresponsive and How to Resolve It?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-misstep-unanticipated-setup-fiasco/"><u>Printer Misstep: Unanticipated Setup Fiasco</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-printer-spits-out-unprinted-sheets/"><u>Resolved: Printer Spits Out Unprinted Sheets</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-printer-stopped-working-after-windows-11-update/"><u>SOLVED: Printer Stopped Working After Windows 11 Update</u></a></li>
-<li><a href="https://win11.techidaily.com/the-8-best-ways-to-fix-the-windows-operating-system-not-found-error/"><u>The 8 Best Ways to Fix the Windows Operating System Not Found Error</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unexpected-printer-config-issue-alert/"><u>Unexpected Printer Config Issue Alert</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-amplify-your-shorts-impact-with-bespoke-thumbnails/"><u>[New] 2024 Approved Amplify Your Shorts' Impact with Bespoke Thumbnails</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-comedy-canvas-painting-laughter-with-top-10-video-concepts/"><u>[New] In 2024, Comedy Canvas Painting Laughter with Top 10 Video Concepts</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-canon-error-code-b200/"><u>[Solved] Canon Error Code B200</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pioneering-typography-online-a-curated-list-of-the-best-9-websites-for-innovative-texts/"><u>2024 Approved Pioneering Typography Online A Curated List of The Best 9 Websites for Innovative Texts</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574058416-5-easy-ways-to-fix-canon-printer-wont-print-in-windows-10/"><u>5 Easy Ways to Fix Canon Printer Won’t Print in Windows 10</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/abbyy-expands-collaboration-with-lifeboat-distributors-across-the-netherlands-belgium-and-luxembourg/"><u>ABBYY Expands Collaboration with Lifeboat Distributors Across The Netherlands, Belgium & Luxembourg</u></a></li>
+<li><a href="https://fox-links.techidaily.com/crafting-cinematic-memories-with-music-for-2024/"><u>Crafting Cinematic Memories with Music for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/easy-troubleshooting-get-your-canon-printer-printing-on-windows/"><u>Easy Troubleshooting: Get Your Canon Printer Printing on Windows</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-apple-iphone-11-pro-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-funniest-photography-editors-ranked-free-mobile-apps/"><u>In 2024, Funniest Photography Editors Ranked Free Mobile Apps</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-defy-2-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Defy 2 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-default-disruption-solved-windows-error-0x00000709/"><u>Print Default Disruption Solved: Windows Error (0X00000709)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-xerox-document-generation/"><u>Restoring Xerox Document Generation</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/seamless-transition-new-driver-for-your-hp-4630/"><u>Seamless Transition: New Driver for Your HP 4630</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-tag-and-description-mastery-for-youtube-success-for-2024/"><u>Title, Tag & Description Mastery for YouTube Success for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/triumph-over-the-printer-after-updating-woes/"><u>Triumph over the Printer After Updating Woes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-troubleshoot-printer-hiccups/"><u>Windows 11 Troubleshoot Printer Hiccups</u></a></li>
 </ul></div>
 

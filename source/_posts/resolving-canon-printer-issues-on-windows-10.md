@@ -1,7 +1,7 @@
 ---
 title: Resolving Canon Printer Issues on Windows 10
-date: 2025-01-25T17:06:30.072Z
-updated: 2025-01-29T17:15:52.729Z
+date: 2025-02-09T02:07:07.848Z
+updated: 2025-02-09T16:59:06.337Z
 tags:
   - win11
   - win10
@@ -40,10 +40,6 @@ If your problem persists, try the fixes below.
 4. **[Set Canon as the default printer](#fix4)**
 5. **[Delete print jobs from the print queue](#fix5)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Check the connection status
 
  Difficulty printing from your PC can occur for various reasons. The most common reason is because the connection between the computer and the machine is lost. So before heading into the more complicated fixes, you need to take some basic troubleshooting steps to resolve the issue.
@@ -64,7 +60,7 @@ If your printer is still not working properly, proceed to the next fix.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Temporarily disable the firewall
@@ -86,7 +82,7 @@ If your printer is still not working properly, proceed to the next fix.
 ![turn off windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/turn-off-windows-defender-firewall-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **To configure firewall settings in other security software:**
@@ -100,10 +96,6 @@ You can disable the firewall in software by clicking the link below.
 [Norton](https://support.norton.com/sp/en/uk/home/current/solutions/v3672136)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Update your printer driver
 
@@ -138,7 +130,7 @@ Here’s how you can update your drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Canon-G7020-1200x900.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -149,7 +141,7 @@ Here’s how you can update your drivers with Driver Easy:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Set Canon as the default printer
@@ -164,10 +156,6 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Select **Small icons** from the drop-down menu next to **View by** . Then, click **Devices and Printers** .  
   
 ![set Canon printer as the default printer](https://images.drivereasy.com/wp-content/uploads/2021/01/in-the-control-panel.png)
@@ -179,6 +167,10 @@ Here’s how you can update your drivers with Driver Easy:
 Now perform printing tasks to check if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Delete print jobs from the print queue
 
@@ -202,9 +194,17 @@ Now perform printing tasks to check if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/services-msc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In the Services window, scroll down to the**Print Spooler** . Right-click it and select**Stop** .
 
 ![stop the Print Spooler](https://images.drivereasy.com/wp-content/uploads/2021/01/stop-the-printing-service.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note: Do not close the Services window, simply minimize it as you’ll go back to it later.
 
@@ -217,7 +217,7 @@ Now perform printing tasks to check if it works.
 ![open the printers folder](https://images.drivereasy.com/wp-content/uploads/2021/01/printers-folder.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6) Delete any files in this folder.
@@ -251,14 +251,21 @@ Now perform printing tasks to check if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-nintendo-switch-pugilists-the-ultimate-10-game-guidebook/"><u>[New] Nintendo Switch Pugilists The Ultimate 10-Game Guidebook</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/bridging-gaps-connecting-canon-to-wireless-networks/"><u>Bridging Gaps: Connecting Canon to Wireless Networks</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/cant-remove-printer-on-windows-solved/"><u>Can't Remove Printer on Windows [Solved]</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-innovations-on-toms-tech-hub-your-guide-to-cutting-edge-hardware/"><u>Discover Innovations on Tom's Tech Hub - Your Guide to Cutting-Edge Hardware</u></a></li>
-<li><a href="https://program-issues.techidaily.com/efficient-strategies-for-repairing-issues-with-nwstoreexe-application-errors/"><u>Efficient Strategies for Repairing Issues with NW_store.exe Application Errors</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-printing-speed-and-accuracy-on-windows-11/"><u>Fix Printing Speed and Accuracy on Windows 11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-vivo-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Vivo</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reinforce-win10s-networked-printer-setup/"><u>Reinforce WIN10's Networked Printer Setup</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/unleash-your-creativity-best-free-video-editors-for-32-bit-windows/"><u>Unleash Your Creativity Best Free Video Editors for 32-Bit Windows</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-socialsound-maker-twitter-audio/"><u>[New] In 2024, SocialSound Maker Twitter Audio</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-iphones-best-5-podcast-audio-platforms/"><u>[New] IPhone's Best 5 Podcast Audio Platforms</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-annual-roundup-top-no-money-video-editing-software-reviewed/"><u>[Updated] In 2024, Annual Roundup Top No-Money Video Editing Software Reviewed</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximize-your-earnings-with-youtube-short-tips/"><u>2024 Approved Maximize Your Earnings with Youtube Short Tips</u></a></li>
+<li><a href="https://win-best.techidaily.com/aomei-backupper-pro-windows-710811/"><u>AOMEI Backupper Pro: Windows 7/10/8/11ユーザーに最適な個人用バックアップソフトウェア選び方</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/cutting-edge-tips-quickly-rectify-pcl-xl-mistakes/"><u>Cutting-Edge Tips: Quickly Rectify PCL XL Mistakes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-quickly-link-canon-devices-on-wi-fi/"><u>How to Quickly Link Canon Devices on Wi-Fi</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-tackle-jerky-videos-and-achieve-perfect-synchrony/"><u>How to Tackle Jerky Videos and Achieve Perfect Synchrony</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/identified-interloper-on-network-printer/"><u>Identified Interloper on Network Printer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/instant-remedy-steps-to-fix-detected-no-power-source-error/"><u>Instant Remedy Steps to Fix 'Detected No Power Source' Error</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-epsons-ink-failure/"><u>Overcoming Epson's Ink Failure</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/step-by-step-installing-hp-photosmart-printer/"><u>Step-by-Step: Installing HP PhotoSmart Printer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/streamline-win10-printer-functionality/"><u>Streamline WIN10 Printer Functionality</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/top-gratis-toshiba-sicherungstools-finden/"><u>Top Gratis Toshiba Sicherungstools Finden</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win7-printout-problem-fixed/"><u>Win7 Printout Problem Fixed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Watch Dogs: Legion Experience – Solutions for Higher FPS and Less Latency"
-date: 2025-01-26T17:11:47.598Z
-updated: 2025-01-29T17:00:57.466Z
+date: 2025-02-08T22:30:14.899Z
+updated: 2025-02-09T16:49:48.281Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 
  The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down the list until you find the one that does the trick!
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 [4: Update your network driver](https://tools.techidaily.com/drivereasy/download/)
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Check your Internet connection
 
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Configure your DNS settings
@@ -67,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
@@ -83,14 +87,10 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -112,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Switch to another server
 
  We know the error code leaf is a server connectivity issue, and the problem is more likely with the server-side. One last thing that players can do is to switch to a low ping server. The option of choosing a server is hidden, and here’s how to bring it to the front:
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -152,22 +152,20 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-avoiding-storage-woes-removing-youtube-media/"><u>[New] 2024 Approved Avoiding Storage Woes Removing YouTube Media</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-expert-walkthrough-transferring-visuals-on-apple-devices/"><u>[Updated] Expert Walkthrough Transferring Visuals on Apple Devices</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-legal-steps-for-overcoming-a-youtube-copyright-strike/"><u>2024 Approved Legal Steps for Overcoming a YouTube Copyright Strike</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/accelerate-clearing-print-job-queue/"><u>Accelerate Clearing Print Job Queue</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ace-your-choice-the-ultimate-guide-to-picking-a-professional-tested-touchscreen-laptop-zdnet-insights/"><u>Ace Your Choice: The Ultimate Guide to Picking a Professional Tested Touchscreen Laptop - ZDNet Insights</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-phantom-errors-in-epson-printer/"><u>Fixed Phantom Errors in Epson Printer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-get-an-offline-printer-running-on-vistaxp/"><u>How to Get an Offline Printer Running on Vista/XP</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/immediate-action-on-queued-print-processes/"><u>Immediate Action on Queued Print Processes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/immediate-plug-in-for-print-devices/"><u>Immediate Plug-In for Print Devices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/premium-gpus-engineered-for-4k-gaming/"><u>Premium GPUs Engineered for 4K Gaming</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-non-authentic-printer-use-case/"><u>Resolved: Non-Authentic Printer Use Case</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/resolving-the-issue-how-to-repair-an-xbox-one-with-error-code-0x91d70000/"><u>Resolving the Issue: How to Repair an Xbox One with Error Code 0X91D70000</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-win-11s-menu-with-fewer-choices-displayed/"><u>Streamline Win 11'S Menu with Fewer Choices Displayed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tackling-epsons-puzzling-error-x97/"><u>Tackling Epson's Puzzling Error X97</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/techniques-to-fix-silent-hp-multi-fax-printers/"><u>Techniques to Fix Silent HP Multi-Fax Printers</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-infinix-smart-7-by-fonelab-android-recover-music/"><u>Undelete lost music from Infinix Smart 7</u></a></li>
-<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-8-must-play-virtual-reality-titles-for-now/"><u>[New] Top 8 Must-Play Virtual Reality Titles for Now</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-listenleaders-pursuing-better-podcasts/"><u>[Updated] In 2024, ListenLeaders Pursuing Better Podcasts</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/b200-corrective-action-complete/"><u>B200 Corrective Action Complete</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-hidden-intelligent-communication-device-inside-your-mac-and-ipad-is-it-present/"><u>Discover the Hidden Intelligent Communication Device Inside Your Mac & iPad: Is It Present?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-printer-repair-success/"><u>Epson Printer Repair Success</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-software-for-pc-and-mac-users-a-selection-of-the-top-11-recommended/"><u>Essential Software for PC and Mac Users: A Selection of the Top 11 Recommended</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-xiaomi-redmi-note-13-proplus-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Xiaomi Redmi Note 13 Pro+ 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/journeys-end-successfully-setting-up-hp-printer-in-win-os/"><u>Journey's End: Successfully Setting Up HP Printer in Win OS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/setting-up-success-crafting-your-first-youtube-channel-for-2024/"><u>Setting Up Success Crafting Your First YouTube Channel for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/spooler-error-preventing-successful-prints/"><u>Spooler Error Preventing Successful Prints</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tech-trouble-incorrect-printer-configuration/"><u>Tech Trouble: Incorrect Printer Configuration</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-is-now-6-cases-for-retro-project-and-raspberry-pi/"><u>The Future Is Now - 6 Cases for Retro Project and Raspberry Pi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-reactivating-a-stuck-keyboard-at-login-window/"><u>Troubleshooting Tips: Reactivating a Stuck Keyboard at Login Window</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/what-to-do-when-your-printer-is-offline/"><u>What To Do When Your Printer Is Offline</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-3x-print-hiccup-quick-fixes-needed/"><u>Windows 3.x Print Hiccup - Quick Fixes Needed</u></a></li>
 </ul></div>
 

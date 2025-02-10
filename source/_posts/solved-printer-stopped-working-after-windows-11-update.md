@@ -1,7 +1,7 @@
 ---
 title: "SOLVED: Printer Stopped Working After Windows 11 Update"
-date: 2025-01-27T16:30:17.402Z
-updated: 2025-01-29T16:57:57.524Z
+date: 2025-02-02T23:51:36.512Z
+updated: 2025-02-09T22:34:47.159Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/cdf09465082716a317b2f16f4ef99338eb56d0b86
 
 **Your printer stopped working after Windows 10 Update** ? You’re certainly not alone – hundreds of users are reporting it. The good news is, it’s not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix**printer stopped working after Windows 10 Update**
 
  Here are 5 fixes that have helped other users resolve the**printer stopped working after Windows 10 Update** problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/cdf09465082716a317b2f16f4ef99338eb56d0b86
 3. **[Update your printer driver](#F3)**
 4. **[Reset the print spooler](#F4)**
 5. **[Run Windows Troubleshooter](#F5)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Power cycle your printer
 
@@ -44,10 +52,6 @@ Here is how to power cycle your printer:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Make sure your printer is connected
 
  If your printer is not properly connected, your printer probably won’t work. So you should make sure it is well connected.
@@ -55,10 +59,6 @@ Here is how to power cycle your printer:
  Once you have confirmed the connection, check to see if the printer not printing problem is fixed. If yes, then you’ve solved the problem. If it still doesn’t work, please try**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your printer driver
 
@@ -74,17 +74,9 @@ Here is how to power cycle your printer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap19-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-188.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -104,17 +96,21 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-193.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the**Services** window, scroll down until you find**Print Spooler** , then right-click on it and click**Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-194.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) On your keyboard, press the**Windows logo key** and**R** at the same time, then type**%WINDIR%\\system32\\spool\\printers** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-195.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Select**all the files** within the folder and_delete_ them. This is to clear the print queues.
 
@@ -125,6 +121,10 @@ Here is how to do it:
  6) Click**Start** , then in**Startup** **Type** , select**Automatic** and click**OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-198.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Check to see if your printer works properly. If it still doesn’t work, please move on to**Fix 5** , below.
 
@@ -165,15 +165,22 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-zippy-zeal-in-zoom-outs-adding-text-movement-on-stories/"><u>[Updated] In 2024, Zippy Zeal in Zoom-Outs Adding Text Movement on Stories</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-adjust-twitter-video-excerpt/"><u>2024 Approved Adjust Twitter Video Excerpt</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-fault-code-0x97-uncovered-and-resolved/"><u>Epson Fault Code 0X97 Uncovered & Resolved</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/imessage-communication-from-your-desktop-tips-for-using-it-with-windows-zdnet/"><u>IMessage Communication From Your Desktop: Tips for Using It with Windows - ZDNet</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/keep-your-hp-4630-at-the-forefront-with-timely-driver-upgrades/"><u>Keep Your HP 4630 at the Forefront with Timely Driver Upgrades</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mf4770n-enhanced-support-for-windows-versions-108/"><u>MF4770n Enhanced Support for WIndows Versions 10/8</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/smart-study-hacks-steering-clear-of-misuses-of-chatgpt-for-academic-success/"><u>Smart Study Hacks: Steering Clear of Misuses of ChatGPT for Academic Success</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-secrets-to-compelling-instagram-video-descriptions/"><u>The Secrets to Compelling Instagram Video Descriptions</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshoot-epson-printer-error-codes-on-w11/"><u>Troubleshoot Epson Printer Error Codes on W11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-xcreative-hub-potential-a-full-guide-review/"><u>Unlocking XCreative Hub Potential - A Full Guide Review</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-how-to-deafen-silent-tweets-impact/"><u>[New] How to Deafen Silent Tweets' Impact</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-realme-c67-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Realme C67 5G? | Dr.fone</u></a></li>
+<li><a href="https://solve-news.techidaily.com/automated-lead-generation-with-cookiebot-elevate-your-digital-marketing/"><u>Automated Lead Generation with Cookiebot: Elevate Your Digital Marketing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95783114-9781620551295-el-poder-curativo-de-la-mente/"><u>El poder curativo de la mente | Free Book</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/error-b200-no-longer-exists/"><u>Error B200 No Longer Exists</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-roblox-fatal-app-failures-in-windows/"><u>Fixing Roblox Fatal App Failures in Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-add-hp-officejet-pro-8720-to-your-pc-step-by-step/"><u>How to Add HP OfficeJet Pro 8720 to Your PC [Step by Step]</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-stop-unwanted-blank-page-issues-on-epson/"><u>How to Stop Unwanted Blank Page Issues on Epson</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-zte-nubia-flip-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mfc-9330-wireless-setup-guide-for-brother-fans/"><u>MFC-9330 Wireless Setup Guide for Brother Fans</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-best-video-editing-software-to-remove-audio-from-video-for-windows/"><u>New In 2024, Best Video Editing Software to Remove Audio From Video For Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-driver-updates-on-lenovo-ideapad-u310/"><u>Quick Driver Updates on Lenovo Ideapad U310</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-order-a-printers-tale-after-windows-update/"><u>Restoring Order: A Printer's Tale After Windows Update</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reveal-missing-printer-on-your-windows-system/"><u>Reveal Missing Printer on Your Windows System</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshoot-non-printing-brother-printer-in-windows-oses/"><u>Troubleshoot Non-Printing Brother Printer in Windows OSes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unblocking-hp-inkjet-on-windows-11-offline/"><u>Unblocking HP Inkjet on Windows 11 Offline</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-audiophile-experience-integrate-conexant-hd-drivers/"><u>Windows 11 Audiophile Experience: Integrate Conexant HD Drivers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "PPrintError: Active Directory Service Unavailable"
-date: 2025-01-27T17:17:43.099Z
-updated: 2025-01-29T17:20:54.571Z
+date: 2025-02-05T16:23:40.613Z
+updated: 2025-02-09T21:41:24.124Z
 tags:
   - win11
   - win10
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 1. **[Change the Printer Spooler settings](#method1)**
 2. **[Using Registry Editor](#method2)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Change Printer Spooler settings
 
 1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png) and **R**  at the same time to invoke the Run box.
@@ -37,14 +33,14 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a50a818f88a.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click on **Printer Spooler**  service and click **Start** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-31.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After Printer Spooler gets started, double-click on it. Set its startup type to **Automatic** . Then click **OK**  to save the setting.  
   
@@ -52,10 +48,14 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Close the Services window and check if you could print files successfully.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Using Registry Editor
 
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 **![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-23.jpg)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click **Yes** when prompted by User Account Control,.
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Right-click on **Devices**  under **CurrentVersion**  dialog.  
@@ -114,19 +114,22 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-steps-to-adobe-audition-fade-in/"><u>[New] In 2024, Steps to Adobe Audition Fade In</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshoot-print-service-non-functioning-windows/"><u>[TROUBLESHOOT] Print Service Non-Functioning Windows</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-socialsoundify-twitter-videos-to-audio/"><u>[Updated] In 2024, SocialSoundify Twitter Videos to Audio</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-mastering-spotifys-ad-landscape-a-comprehensive-guide-for-2024/"><u>[Updated] Mastering Spotify's Ad Landscape A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-step-by-step-process-for-local-llama-2-setup/"><u>A Step-By-Step Process for Local Llama 2 Setup</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-for-post-update-printer-failure/"><u>Fix for Post-Update Printer Failure</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guide-to-setup-brothers-mfc-9330cdw-fan/"><u>Guide to Setup Brother's MFC-9330CDW Fan</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-spark-20-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Spark 20?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-motorola-moto-e13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-hurdles-with-windows-1011s-missing-search-output/"><u>Overcoming Hurdles with Windows 10/11'S Missing Search Output</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/smooth-operations-new-printing-toolkit-for-windows-7-dell/"><u>Smooth Operations: New Printing Toolkit for Windows 7 Dell</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-robloxs-memory-alert-issues-on-an-iphone/"><u>Solving Roblox's Memory Alert Issues on an iPhone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/step-by-step-guide-to-installing-hp-envy-504-printers/"><u>Step-by-Step Guide to Installing HP Envy 504 Printers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-11-restored-scan-operation/"><u>Windows 11: Restored Scan Operation</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-missing-canon-pixma-mp620-printer-not-finding-win10/"><u>[Driver Missing] Canon Pixma MP620 Printer Not Finding WIN10</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-understanding-legality-in-screenshots-from-youtube/"><u>[New] In 2024, Understanding Legality in Screenshots From YouTube</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ensuring-smooth-performance-mf4770n-in-win11win8w7/"><u>Ensuring Smooth Performance: MF4770n in Win11/Win8/W7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-printer-repair-success/"><u>Epson Printer Repair Success</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hero5-black-vs-hero5-the-duel-for-durability-for-2024/"><u>Hero5 Black vs Hero5, The Duel for Durability for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-itel-p55-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Itel P55 5G Phone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a24-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A24 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-oppo-a58-4g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Oppo A58 4G online without jailbreak</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-through-microsofts-scholarly-discount-program-easily/"><u>Navigating Through Microsoft's Scholarly Discount Program Easily</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-5-proven-methods-to-record-quality-sound-on-apple-devices-for-2024/"><u>New 5 Proven Methods to Record Quality Sound on Apple Devices for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-paper-queue-freeze-on-windows-oses-10-11-and-7/"><u>Overcoming Paper Queue Freeze on Windows OSes (10, 11 & 7)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revolutionize-your-printing-3-futuristic-solutions-to-connect-hp-and-laptop/"><u>Revolutionize Your Printing: 3 Futuristic Solutions to Connect HP & Laptop</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tech-trouble-incorrect-printer-configuration/"><u>Tech Trouble: Incorrect Printer Configuration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-solo-art-of-personalized-instagram-ringtone-making/"><u>The Solo Art of Personalized Instagram Ringtone Making</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unveiling-hidden-printer-error-messages/"><u>Unveiling Hidden Printer Error Messages</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/what-to-do-when-your-printer-is-offline/"><u>What To Do When Your Printer Is Offline</u></a></li>
 </ul></div>
 

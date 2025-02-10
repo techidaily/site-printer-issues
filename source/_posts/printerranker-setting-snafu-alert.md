@@ -1,7 +1,7 @@
 ---
 title: "Printer'ranker: Setting Snafu Alert"
-date: 2025-01-28T17:11:36.738Z
-updated: 2025-01-29T16:28:09.042Z
+date: 2025-02-03T00:27:20.069Z
+updated: 2025-02-09T22:19:43.058Z
 tags:
   - win11
   - win10
@@ -36,14 +36,10 @@ Here is how to do it:
 
  1) On your keyboard, press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and**R** at the same time, then type**ms-settings:printers** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-56.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**the + icon** beside**Add a printer or scanner** . Then wait for your printer to show up again and click on it.
@@ -51,16 +47,12 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-57.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Now that you have re-added your printer, check your printer to see if you can get it running without error. If yes, then congrats! If the error still pops up, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Make the printer shareable
 
@@ -76,6 +68,10 @@ Here is how to make your printer shareable:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-43-1024x518.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Sharing** tab and make sure the box for**Share this printer** is ticked. Then click**OK** to apply the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-50.png)
@@ -85,7 +81,7 @@ Here is how to make your printer shareable:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your printer driver
@@ -126,9 +122,17 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-193.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the **Services** window, scroll down until you find **Print Spooler** , then right-click on it and click **Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-194.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Keep the Services window open and proceed with the following steps.
 
@@ -143,7 +147,7 @@ Keep the Services window open and proceed with the following steps.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-59-1024x577.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Start Print Spooler
@@ -156,15 +160,15 @@ Keep the Services window open and proceed with the following steps.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-64.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Restart your computer and test to see if the error is fixed.
 
  Still no joy? Please try**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Run Windows Troubleshooter
 
@@ -173,10 +177,6 @@ Keep the Services window open and proceed with the following steps.
  1) On your keyboard, press **the Windows logo key** and type **troubleshoo** t, then click on **Troubleshoot settings**  once it pops up as a search result.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-208.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) In the **Troubleshoot**  window, scroll down to the **Get up and running**  section, click on **Printer** \> **Run the troubleshooter** .
 
@@ -205,22 +205,18 @@ Keep the Services window open and proceed with the following steps.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-crafting-wisdom-for-the-virtual-realm-30plus-metaverse-quotes-for-2024/"><u>[New] Crafting Wisdom for the Virtual Realm 30+ Metaverse Quotes for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-hp-printer-driver-is-unavailable-on-windows-1110/"><u>[Solved] HP Printer Driver Is Unavailable on Windows 11/10</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-mastering-volume-reduction-in-audio-designs-using-logic-pro/"><u>[Updated] Mastering Volume Reduction in Audio Designs Using Logic Pro</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/advanced-techniques-developing-elapsed-time-features-in-obs-software-for-2024/"><u>Advanced Techniques Developing Elapsed Time Features in OBS Software for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-pixma-mp620-searching-for-driver-on-win11/"><u>Canon Pixma MP620: Searching for Driver on Win11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/combat-brother-printer-not-printing-quagmire-reinstating-functionality-on-windows/"><u>Combat Brother Printer Not Printing Quagmire, Reinstating Functionality on Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-guide-to-installing-updated-epson-xp-420-printer-drivers/"><u>Easy Guide to Installing Updated Epson XP-420 Printer Drivers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-photo-printer-over-printing-white-paper/"><u>Epson Photo Printer: Over-Printing White Paper</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-ideas-to-epics-leveraging-chatgpt-for-creating-immersive-worlds/"><u>From Ideas to Epics: Leveraging ChatGPT for Creating Immersive Worlds</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-mastering-video-conferencing-zooming-towards-youtube-streaming-excellence/"><u>In 2024, Mastering Video Conferencing Zooming Towards YouTube Streaming Excellence</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-realme-narzo-60x-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Realme Narzo 60x 5G Phone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-setup-halted-win10-doesnt-recognize-mp620-driver/"><u>Printer Setup Halted: WIN10 Doesn't Recognize MP620 Driver</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-printer-connection-remedy/"><u>Quick Printer Connection Remedy</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/speedy-clearance-of-stalled-print-queue/"><u>Speedy Clearance of Stalled Print Queue</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/syncing-up-hp-printer-with-pc-settings/"><u>Syncing Up HP Printer with PC Settings</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-oneplus-ace-2v-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 OnePlus Ace 2V Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-wow-correcting-unmatched-device-drivers/"><u>Troubleshooting WoW: Correcting Unmatched Device Drivers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-master-the-art-of-subtitlecc-integration-in-youtube-with-this-guide/"><u>[Updated] In 2024, Master the Art of Subtitle/CC Integration in YouTube with This Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-peering-into-youtube-interactive-threads/"><u>[Updated] Peering Into YouTube Interactive Threads</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-revamping-screen-recording-a-critical-look-at-camstudios-new-features/"><u>2024 Approved Revamping Screen Recording - A Critical Look at CamStudio's New Features</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-starting-off-with-vlogging-necessary-equipmentsoftware/"><u>2024 Approved Starting Off with Vlogging Necessary Equipment/Software</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-art-of-patience-slowing-down-videos-on-youtube-51-chars/"><u>2024 Approved The Art of Patience Slowing Down Videos on YouTube (51 Chars)</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-woes-discover-how-to-ensure-flawless-pairing-with-your-windows-11-device-by-2024/"><u>Bluetooth Woes? Discover How to Ensure Flawless Pairing with Your Windows 11 Device by 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/end-missing-pages-issue-with-new-printer-update/"><u>End Missing Pages Issue with New Printer Update</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategic-vr-marketing-manifesto/"><u>In 2024, Strategic VR Marketing Manifesto</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-list-of-budget-friendly-editor-apps/"><u>In 2024, The Ultimate List of Budget-Friendly Editor Apps</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tackling-brother-printer-not-printing-issue-step-by-step-winoses/"><u>Tackling Brother Printer Not Printing Issue, Step by Step, WinOSes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/the-revolutionary-fix-for-frustrating-printers/"><u>The Revolutionary Fix for Frustrating Printers</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-3-consoles-framerate-advantage-for-gamers/"><u>Top 3: Console's Framerate Advantage for Gamers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unexpected-printer-error-alert/"><u>Unexpected Printer Error Alert</u></a></li>
 </ul></div>
 
